@@ -21,7 +21,7 @@
 
 ## 编码规范
 
-- 命名：**snake_case**（文件名、JSON 字段、环境变量、数据库列名）；TypeScript 类型与类名使用 **PascalCase**，导出函数与模块内部变量在不影响 JSON 契约时可使用 **camelCase**
+- 命名：**kebab-case**（小写字母+短横线，如 `github-api.ts`）；JSON 字段、环境变量、数据库列名使用 **snake_case**；TypeScript 类型与类名使用 **PascalCase**；变量、导出函数与模块内部函数使用 **camelCase**（驼峰式）
 - 文档字符串：**Google 风格** JSDoc / TSDoc
 - 日志：使用统一 logger（如 `pino`），禁止在业务逻辑中直接 `console.log`
 - 类型：公共 API 与知识条目结构必须定义 TypeScript interface / type
@@ -34,7 +34,7 @@
  * @param language - 编程语言筛选，默认 python。
  * @returns 仓库元数据列表。
  */
-export async function fetch_trending_repos(
+export async function fetchTrendingRepos(
   language: string = "python",
 ): Promise<TrendingRepo[]> {
   logger.info({ language }, "fetching trending repos");
