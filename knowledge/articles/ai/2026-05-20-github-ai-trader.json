@@ -1,0 +1,28 @@
+{
+  "id": "2026-05-20-github-ai-trader",
+  "title": "HKUDS/AI-Trader",
+  "source": "github_trending",
+  "topic": "ai",
+  "source_url": "https://github.com/HKUDS/AI-Trader",
+  "summary": "基于 Agent-Native 架构的全自动量化交易系统。通过多 Agent 协作实现市场分析、策略制定、风险控制到自动执行的闭环交易流程。",
+  "highlights": [
+    "Agent-Native 架构重构交易流程",
+    "100% 自动化执行降低人工干预",
+    "香港大学数据科学团队研发"
+  ],
+  "score": 7,
+  "score_reason": "金融领域 AI 应用有明确商业价值；Agent-Native 架构是技术亮点；但量化交易受监管限制，适用范围有限。",
+  "tags": ["Agent", "Trading", "Finance", "自动化"],
+  "status": "draft",
+  "author": "HKUDS",
+  "collected_at": "2026-05-20",
+  "analyzed_at": "2026-05-20",
+  "archived_at": "2026-05-20",
+  "raw_ref": "knowledge/raw/github-trending-2026-05-20.json",
+  "popularity": 18263,
+  "metadata": {
+    "language": "Python",
+    "added_stars": 1837,
+    "full_name": "HKUDS/AI-Trader"
+  }
+}
