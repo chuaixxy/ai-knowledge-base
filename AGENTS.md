@@ -21,26 +21,151 @@
 
 ## 编码规范
 
-- 命名：**kebab-case**（小写字母+短横线，如 `github-api.ts`）；JSON 字段、环境变量、数据库列名使用 **snake_case**；TypeScript 类型与类名使用 **PascalCase**；变量、导出函数与模块内部函数使用 **camelCase**（驼峰式）
-- 文档字符串：**Google 风格** JSDoc / TSDoc
-- 日志：使用统一 logger（如 `pino`），禁止在业务逻辑中直接 `console.log`
-- 类型：公共 API 与知识条目结构必须定义 TypeScript interface / type
-- 依赖：新增依赖写入 `package.json`，并注明用途
+### 1. 命名规范
 
+| 场景 | 规范 | 示例 |
+|------|------|------|
+| 文件名 | kebab-case | `github-api.ts`, `article-service.ts` |
+| TypeScript 类型/类 | PascalCase | `interface KnowledgeArticle`, `class AppError` |
+| 变量、导出函数 | camelCase | `const sourceUrl`, `export function fetchTrending()` |
+| 模块内部函数 | camelCase | `function parseHtml()` |
+| JSON 字段 | snake_case | `{ "source_url": "...", "collected_at": "..." }` |
+| 数据库列名 | snake_case | `created_at`, `updated_at` |
+| 环境变量 | SNAKE_CASE | `GITHUB_TOKEN`, `LOG_LEVEL` |
+
+**跨层命名转换**：数据库列名（snake_case）↔ TypeScript 类型（camelCase）↔ API JSON（snake_case）由序列化层自动转换，禁止在业务代码中手写 mapper。
+
+### 2. 文档规范
+
+采用 **Google 风格** JSDoc / TSDoc，`@param` 以名词短语开头，不加 "The"。
+
+**正确示例：**
 ```typescript
 /**
  * 从 GitHub Trending 拉取指定语言的仓库列表。
  *
- * @param language - 编程语言筛选，默认 python。
+ * @param language - 编程语言筛选，默认 "python"。
  * @returns 仓库元数据列表。
+ * @throws 当 API 限流时抛出 AppError。
  */
 export async function fetchTrendingRepos(
   language: string = "python",
 ): Promise<TrendingRepo[]> {
-  logger.info({ language }, "fetching trending repos");
   // ...
 }
 ```
+
+**错误示例：**
+```typescript
+/**
+ * @param language This is the parameter for filtering language.
+ */
+```
+
+### 3. 日志规范
+
+使用统一 logger（如 `pino`），禁止 `console.log`。
+
+```typescript
+// 正确
+logger.info({ language }, 'fetching trending repos');
+logger.error({ err }, 'failed to fetch repos');
+
+// 禁止
+console.log('fetching trending repos');
+```
+
+**ESLint 配置**：`'no-console': ['error', { 'allow': ['warn', 'error'] }]`
+
+- 保留 `console.warn/error` 给紧急场景
+- 开发调试用 `logger.debug()`，配合 `LOG_LEVEL=debug`
+- 提交前自动修复：`npm run lint:fix`
+
+### 4. 类型规范
+
+公共 API 必须定义 TypeScript interface / type，明确区分**必填**和**可选**字段。
+
+```typescript
+interface KnowledgeArticle {
+  id: string;           // 必填
+  author?: string;      // 可选
+}
+```
+
+JSON 数据使用 **Zod** 做运行时校验，并自动转换字段名：
+
+```typescript
+const KnowledgeArticleSchema = z.object({
+  source_url: z.string(),  // JSON 中是 snake_case
+}).transform((data) => ({
+  ...data,
+  sourceUrl: data.source_url,  // 转换为 camelCase
+}));
+```
+
+**兼容性**：新增字段必须是可选的（`?`），禁止修改已存在的必填字段类型。
+
+### 5. 依赖管理
+
+新增依赖需在 **PR 描述** 中说明：
+- 依赖名称和版本
+- 用途说明
+- 是否评估过替代方案
+
+**核心/高风险依赖**（爬虫、加密、数据库）额外写入 `DEPENDENCIES.md`。
+
+### 6. 测试规范
+
+| 类型 | 位置 | 命名 |
+|------|------|------|
+| 单元测试 | 与源码平行 | `*.test.ts` |
+| 集成测试 | `tests/integration/` | `*.e2e.test.ts` |
+| 测试数据 | `tests/fixtures/` | - |
+
+外部 HTTP 请求统一使用 **MSW** 拦截，禁止测试直接调用真实服务。
+
+### 7. 错误处理
+
+统一使用 `AppError` 类：
+
+```typescript
+export class AppError extends Error {
+  constructor(
+    public readonly code: string,
+    message: string,
+    public readonly cause?: Error,
+  ) {
+    super(message);
+  }
+}
+```
+
+API 错误响应格式：
+```json
+{ "success": false, "error": { "code": "GITHUB_API_ERROR", "message": "无法获取数据" } }
+```
+
+### 8. 调试代码红线
+
+以下代码**绝对禁止**遗留主分支：
+
+| 禁止项 | 示例 |
+|--------|------|
+| `console.log` | `console.log('debug:', data)` |
+| 注释掉的测试 | `// it('should work', () => {` |
+| 临时的 TODO | `// TODO: fix this` |
+| 性能测试 | `console.time('fetch'); ... console.timeEnd('fetch')` |
+| 临时断点 | `debugger;` |
+
+**允许的例外**：带 Issue 编号的 TODO：`// TODO(#123): 说明内容`（PR 描述需说明关联 Issue）
+
+### 9. 代码格式
+
+代码格式遵循项目根目录 `.prettierrc` 配置，提交前自动格式化。
+
+- **ESLint + lint-staged**：pre-commit 时自动修复
+- **npm 脚本**：`npm run lint:fix` 供开发时自查
+- **CI 检查**：所有 PR 必须通过 `pnpm lint`
 
 ---
 
