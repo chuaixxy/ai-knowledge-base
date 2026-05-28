@@ -109,7 +109,7 @@ description: AI 知识库助手的分析 Agent，读取 knowledge/raw/ 中的采
     "source": "github_trending | hacker_news | juejin | wechat",
     "source_url": "https://...",
     "title": "条目标题",
-    "popularity": 1234,
+    "stars": 1234,
     "topic": "ai | frontend",
     "summary": "精炼后的中文摘要。",
     "highlights": [

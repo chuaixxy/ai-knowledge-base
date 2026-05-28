@@ -21,7 +21,7 @@
 ### 数据契约
 
 - [ ] 输出符合 [../schemas/collector-output.json](../schemas/collector-output.json) JSON Schema
-- [ ] 字段至少包含：`source` / `source_url` / `title` / `popularity` / `topic` / `summary` / `collected_at`
+- [ ] 字段至少包含：`source` / `source_url` / `title` / `stars` / `topic` / `summary` / `collected_at`
 - [ ] `topic` 仅含 `ai` 或 `frontend`
 - [ ] 文件路径：`knowledge/raw/{source}_{YYYY-MM-DD}.json`（每个来源一个文件）
 - [ ] 每个文件条目数 >= 15

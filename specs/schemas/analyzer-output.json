@@ -5,7 +5,7 @@
   "description": "knowledge/articles/{id}.json 的格式契约，由 analyzer agent 写入，在 collector RawItem 基础上补充分析字段",
   "type": "object",
   "required": [
-    "id", "title", "source", "source_url", "topic", "popularity",
+    "id", "title", "source", "source_url", "topic", "stars",
     "summary", "tags", "collected_at", "highlights", "score", "analyzed_at", "status"
   ],
   "additionalProperties": false,
@@ -35,7 +35,7 @@
       "enum": ["ai", "frontend"],
       "description": "继承自 collector，不修改"
     },
-    "popularity": {
+    "stars": {
       "type": "integer",
       "minimum": 0,
       "description": "继承自 collector，不修改"

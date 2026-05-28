@@ -60,7 +60,7 @@ description: AI 知识库助手的采集 Agent，从 GitHub Trending、Hacker Ne
 5. **文件输出**
    - 每个来源一个文件：`knowledge/raw/{source}_{YYYY-MM-DD}.json`
    - 每个文件条目数 >= 15
-   - 字段包含：`source` / `source_url` / `title` / `popularity` / `topic` / `summary` / `collected_at`
+    - 字段包含：`source` / `source_url` / `title` / `stars` / `topic` / `summary` / `collected_at`
    - `topic` 仅含 `ai` 或 `frontend`
 
 6. **完成标记**
@@ -105,17 +105,21 @@ description: AI 知识库助手的采集 Agent，从 GitHub Trending、Hacker Ne
 ## 输出格式
 
 ```json
-[
-  {
-    "source": "github_trending | hacker_news | juejin | wechat",
-    "source_url": "https://...",
-    "title": "条目标题",
-    "popularity": 1234,
-    "topic": "ai | frontend",
-    "summary": "中文摘要，简明描述核心内容，50-100 字。",
-    "collected_at": "2026-05-20T00:00:00Z"
-  }
-]
+{
+  "source": "github_trending | hacker_news | juejin | wechat",
+  "collected_at": "2026-05-20T00:00:00Z",
+  "items": [
+    {
+      "source": "github_trending | hacker_news | juejin | wechat",
+      "source_url": "https://...",
+      "title": "条目标题",
+      "stars": 1234,
+      "topic": "ai | frontend",
+      "summary": "中文摘要，简明描述核心内容，50-100 字。",
+      "collected_at": "2026-05-20T00:00:00Z"
+    }
+  ]
+}
 ```
 
 ---
@@ -123,10 +127,10 @@ description: AI 知识库助手的采集 Agent，从 GitHub Trending、Hacker Ne
 ## 质量自查清单
 
 - [ ] 条目总数 >= 15 条
-- [ ] 每条记录的 `source` / `source_url` / `title` / `popularity` / `topic` / `summary` / `collected_at` 均已填写
+- [ ] 每条记录的 `source` / `source_url` / `title` / `stars` / `topic` / `summary` / `collected_at` 均已填写
 - [ ] `topic` 仅含 `ai` 或 `frontend`
 - [ ] `summary` 均为中文，不编造
-- [ ] 按 `popularity` 从高到低排序
+- [ ] 按 `stars` 从高到低排序
 - [ ] 无重复 URL
 - [ ] 文件路径符合 `knowledge/raw/{source}_{YYYY-MM-DD}.json` 规范
 - [ ] `.done` 文件已创建

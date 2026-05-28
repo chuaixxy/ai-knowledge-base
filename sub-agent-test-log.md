@@ -24,9 +24,9 @@
 | 检查项 | 结果 |
 |--------|------|
 | 采集条目数 | 9 条 AI 相关项目 |
-| 字段完整性 | ✅ title、url、source、topic、popularity、summary 均填写 |
+| 字段完整性 | ✅ title、url、source、topic、stars、summary 均填写 |
 | 主题准确性 | ✅ 全部与 AI/Agent/LLM 相关 |
-| 排序正确 | ✅ 按 popularity 从高到低排序 |
+| 排序正确 | ✅ 按 stars 从高到低排序 |
 | 摘要语言 | ✅ 中文摘要，无编造 |
 
 ### 评分: ⭐⭐⭐⭐⭐ (5/5)

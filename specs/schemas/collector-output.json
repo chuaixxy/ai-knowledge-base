@@ -20,14 +20,14 @@
     "items": {
       "type": "array",
       "minItems": 15,
-      "description": "采集条目列表，按 popularity 从高到低排序",
+      "description": "采集条目列表，按 stars 从高到低排序",
       "items": { "$ref": "#/$defs/RawItem" }
     }
   },
   "$defs": {
     "RawItem": {
       "type": "object",
-      "required": ["id", "title", "source_url", "source", "topic", "popularity", "summary", "collected_at"],
+      "required": ["id", "title", "source_url", "source", "topic", "stars", "summary", "collected_at"],
       "additionalProperties": true,
       "properties": {
         "id": {
@@ -55,15 +55,19 @@
           "enum": ["ai", "frontend"],
           "description": "内容主题，仅允许 ai 或 frontend"
         },
-        "popularity": {
+        "stars": {
           "type": "integer",
           "minimum": 0,
-          "description": "热度数值：GitHub 用 stars，HN 用 points，掘金用点赞数，微信用阅读量"
+          "description": "热度数值：GitHub Trending 用当日新增 stars，HN 用 points，掘金用点赞数，微信用阅读量"
         },
         "summary": {
           "type": "string",
           "minLength": 1,
           "description": "中文摘要，50-100 字，基于实际抓取内容提炼，不编造"
+        },
+        "description": {
+          "type": "string",
+          "description": "英文原文描述（仅 github_trending 来源含此字段）"
         },
         "collected_at": {
           "type": "string",
