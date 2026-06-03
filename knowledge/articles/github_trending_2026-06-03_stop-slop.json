@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_2026-06-03_stop-slop",
+  "title": "hardikpandya/stop-slop",
+  "source": "github_trending",
+  "source_url": "https://github.com/hardikpandya/stop-slop",
+  "summary": "去除文本中 AI 痕迹的技能文件，让 AI 输出更自然。",
+  "highlights": [
+    "单日 3.4k Star，反映市场对 AI 内容自然化的需求",
+    "以 skill file 交付，秒级集成到 Claude Code 等工具"
+  ],
+  "score": 5,
+  "tags": ["writing", "content-creation", "prompt-engineering", "skill-file"],
+  "status": "draft",
+  "published_at": "2026-06-03T00:00:00Z",
+  "collected_at": "2026-06-03T00:00:00Z",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "metadata": {
+    "language": null,
+    "stars_total": 8315,
+    "stars_today": 3470,
+    "forks_count": 579
+  }
+}

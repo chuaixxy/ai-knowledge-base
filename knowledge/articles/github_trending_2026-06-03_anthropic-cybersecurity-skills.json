@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_2026-06-03_anthropic-cybersecurity-skills",
+  "title": "mukul975/Anthropic-Cybersecurity-Skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+  "summary": "754个结构化网络安全技能，映射5大框架，支持20+平台。",
+  "highlights": [
+    "754 个技能覆盖 26 个安全领域，映射 5 个行业框架",
+    "支持 Claude Code、Copilot 等 20+ 平台"
+  ],
+  "score": 8,
+  "tags": ["cybersecurity", "agent", "ai-safety", "skill-file"],
+  "status": "draft",
+  "published_at": "2026-06-03T00:00:00Z",
+  "collected_at": "2026-06-03T00:00:00Z",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "metadata": {
+    "language": "Python",
+    "stars_total": 13652,
+    "stars_today": 3755,
+    "forks_count": 1600
+  }
+}

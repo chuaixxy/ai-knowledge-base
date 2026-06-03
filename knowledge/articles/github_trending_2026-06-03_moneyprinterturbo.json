@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_2026-06-03_moneyprinterturbo",
+  "title": "harry0703/MoneyPrinterTurbo",
+  "source": "github_trending",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "summary": "利用AI一键生成短视频，降低视频制作门槛。",
+  "highlights": [
+    "单日获 18,982 Star，居 GitHub 趋势榜首",
+    "总 Star 78k+，社区活跃度极高"
+  ],
+  "score": 6,
+  "tags": ["ai", "video-generation", "content-creation"],
+  "status": "draft",
+  "published_at": "2026-06-03T00:00:00Z",
+  "collected_at": "2026-06-03T00:00:00Z",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "metadata": {
+    "language": "Python",
+    "stars_total": 78149,
+    "stars_today": 18982,
+    "forks_count": 11093
+  }
+}

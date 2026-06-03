@@ -1,0 +1,268 @@
+{
+  "source": "tech_summary",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "raw_file": "knowledge/raw/github-trending-2026-06-03.json",
+  "items_analyzed": 18,
+  "results": [
+    {
+      "id": "gh_harry0703_moneyprinterturbo",
+      "title": "harry0703/MoneyPrinterTurbo",
+      "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用AI一键生成短视频，降低视频制作门槛。",
+      "highlights": [
+        "单日获 18,982 Star，居 GitHub 趋势榜首",
+        "总 Star 78k+，社区活跃度极高"
+      ],
+      "score": 6,
+      "score_reason": "成熟工具社区活跃，但技术路线成熟非新范式，对 AI 知识库核心关注点关联一般",
+      "tags": ["ai", "video-generation", "content-creation"]
+    },
+    {
+      "id": "gh_lum1104_understand_anything",
+      "title": "Lum1104/Understand-Anything",
+      "source_url": "https://github.com/Lum1104/Understand-Anything",
+      "summary": "代码转交互式知识图谱，支持搜索和提问，兼容主流AI工具。",
+      "highlights": [
+        "兼容 Claude Code、Copilot、Gemini 等 6+ AI 工具",
+        "总 Star 50k+，单日 15.7k Star 增长"
+      ],
+      "score": 8,
+      "score_reason": "创新地将代码理解与知识图谱结合，即插即用兼容主流工具，直接解决 AI 代码理解深度不足的问题",
+      "tags": ["code-analysis", "knowledge-graph", "developer-tools", "ai-coding"]
+    },
+    {
+      "id": "gh_leonxlnx_taste_skill",
+      "title": "Leonxlnx/taste-skill",
+      "source_url": "https://github.com/Leonxlnx/taste-skill",
+      "summary": "为 AI 注入「品味」，防止生成千篇一律的低质量内容。",
+      "highlights": [
+        "单日 10.9k Star，总 Star 31.8k，社区需求旺盛",
+        "以 agent skill file 形式交付，即装即用"
+      ],
+      "score": 6,
+      "score_reason": "概念有趣但效果主观难以量化，作为技能文件格式的先行探索值得关注",
+      "tags": ["ai-quality", "prompt-engineering", "skill-file", "open-source"]
+    },
+    {
+      "id": "gh_colbymchenry_codegraph",
+      "title": "colbymchenry/codegraph",
+      "source_url": "https://github.com/colbymchenry/codegraph",
+      "summary": "预索引代码知识图谱，减少 AI 编程助手 Token 消耗和工具调用。",
+      "highlights": [
+        "100% 本地运行，支持 7+ AI 编程平台",
+        "总 Star 38k+，单日 10.7k"
+      ],
+      "score": 8,
+      "score_reason": "直击 AI 编程助手 Token 成本痛点，预索引架构创新，适配主流平台，可量化节省效果",
+      "tags": ["code-analysis", "knowledge-graph", "token-optimization", "ai-coding"]
+    },
+    {
+      "id": "gh_affaan_m_ecc",
+      "title": "affaan-m/ECC",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "summary": "Agent 性能优化框架，集成技能、本能、记忆与安全能力。",
+      "highlights": [
+        "总 Star 204k，GitHub 最热门 Agent 框架之一",
+        "覆盖 Claude Code、Codex、Cursor 等多平台"
+      ],
+      "score": 7,
+      "score_reason": "全能型 Agent 框架社区影响力巨大，但功能过泛缺乏单一聚焦点",
+      "tags": ["agent", "ai-framework", "performance", "open-source"]
+    },
+    {
+      "id": "gh_rohitg00_ai_engineering_from_scratch",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "从零学习 AI 工程实践的全流程教程与项目集合。",
+      "highlights": [
+        "总 Star 27k+，单日 7.1k"
+      ],
+      "score": 5,
+      "score_reason": "优质教育资源但对技术前沿追踪的直接价值有限",
+      "tags": ["tutorial", "ai-engineering", "education"]
+    },
+    {
+      "id": "gh_mukul975_anthropic_cybersecurity_skills",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "754个结构化网络安全技能，映射5大框架，支持20+平台。",
+      "highlights": [
+        "754 个技能覆盖 26 个安全领域，映射 5 个行业框架",
+        "支持 Claude Code、Copilot 等 20+ 平台"
+      ],
+      "score": 8,
+      "score_reason": "大规模结构化安全知识库，框架映射完整，Agent 可直接复用，填补 AI 安全技能空白",
+      "tags": ["cybersecurity", "agent", "ai-safety", "skill-file"]
+    },
+    {
+      "id": "gh_hardikpandya_stop_slop",
+      "title": "hardikpandya/stop-slop",
+      "source_url": "https://github.com/hardikpandya/stop-slop",
+      "summary": "去除文本中 AI 痕迹的技能文件，让 AI 输出更自然。",
+      "highlights": [
+        "单日 3.4k Star，反映市场对 AI 内容自然化的需求",
+        "以 skill file 交付，秒级集成到 Claude Code 等工具"
+      ],
+      "score": 5,
+      "score_reason": "需求真实但主观性强，效果难以客观衡量，适用场景有限",
+      "tags": ["writing", "content-creation", "prompt-engineering", "skill-file"]
+    },
+    {
+      "id": "gh_chopratejas_headroom",
+      "title": "chopratejas/headroom",
+      "source_url": "https://github.com/chopratejas/headroom",
+      "summary": "LLM 前压缩工具输出和 RAG 块，减少 60-95% Token 消耗。",
+      "highlights": [
+        "减少 60-95% Token 消耗且回答质量不变",
+        "支持 Library、Proxy、MCP Server 三种部署模式"
+      ],
+      "score": 8,
+      "score_reason": "实测数据清晰，Token 节省效果惊人，三种部署模式适配不同场景，直接降低 AI 应用成本",
+      "tags": ["token-optimization", "llm", "rag", "infra", "open-source"]
+    },
+    {
+      "id": "gh_anthropics_knowledge_work_plugins",
+      "title": "anthropics/knowledge-work-plugins",
+      "source_url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Anthropic 官方开源知识工作者插件，用于 Claude Cowork 环境。",
+      "highlights": [
+        "Anthropic 官方出品，总 Star 18.8k",
+        "聚焦知识工作者日常场景"
+      ],
+      "score": 7,
+      "score_reason": "Anthropic 官方背书，插件生态闭环关键一环，但场景限定在 Claude Cowork",
+      "tags": ["anthropic", "knowledge-work", "plugins", "open-source"]
+    },
+    {
+      "id": "gh_everyinc_compound_engineering_plugin",
+      "title": "EveryInc/compound-engineering-plugin",
+      "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "summary": "复合工程官方插件，增强 AI 编程助手的工程能力。",
+      "highlights": [
+        "总 Star 19.4k，单日 2.1k",
+        "兼容 Claude Code、Codex、Cursor 等主流编程助手"
+      ],
+      "score": 6,
+      "score_reason": "复合工程理念有创新，但作为插件功能边界较模糊",
+      "tags": ["ai-coding", "developer-tools", "plugin"]
+    },
+    {
+      "id": "gh_revfactory_harness",
+      "title": "revfactory/harness",
+      "source_url": "https://github.com/revfactory/harness",
+      "summary": "元技能系统，可设计领域专用 Agent 团队并生成技能文件。",
+      "highlights": [
+        "元技能（meta-skill）抽象层级领先",
+        "可动态生成 Agent 技能文件，支持领域定制化"
+      ],
+      "score": 7,
+      "score_reason": "meta-skill 概念创新，实现 Agent 团队从设计到技能生成闭环，补齐 Agent 编排关键环节",
+      "tags": ["agent", "orchestration", "meta-skill", "open-source"]
+    },
+    {
+      "id": "gh_supermemoryai_supermemory",
+      "title": "supermemoryai/supermemory",
+      "source_url": "https://github.com/supermemoryai/supermemory",
+      "summary": "高性能可扩展记忆引擎，为 AI 时代提供记忆 API。",
+      "highlights": [
+        "总 Star 24.7k，社区认可度高"
+      ],
+      "score": 7,
+      "score_reason": "Agent 记忆是当前基础设施卡点，该项目定位精准且已有社区验证",
+      "tags": ["memory", "ai-infra", "vector-database", "agent"]
+    },
+    {
+      "id": "gh_p_e_w_heretic",
+      "title": "p-e-w/heretic",
+      "source_url": "https://github.com/p-e-w/heretic",
+      "summary": "针对 LLM 的自动化审查去除工具。",
+      "highlights": [
+        "总 Star 23.3k，争议性高引发广泛关注"
+      ],
+      "score": 4,
+      "score_reason": "与主流 AI 安全实践相悖，应用场景受限，对 AI 知识库建设参考价值低",
+      "tags": ["llm", "open-source"]
+    },
+    {
+      "id": "gh_microsoft_agent_governance_toolkit",
+      "title": "microsoft/agent-governance-toolkit",
+      "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+      "summary": "微软 Agent 治理工具包，覆盖 OWASP Agentic Top 10 全部威胁。",
+      "highlights": [
+        "覆盖 10/10 OWASP Agentic Top 10 威胁",
+        "集成策略执行、零信任身份、执行沙箱三大核心能力",
+        "微软官方出品，企业级可靠性保障"
+      ],
+      "score": 9,
+      "score_reason": "微软正式入局 Agent 治理，填补企业级 Agent 安全空白，覆盖完整威胁模型，标志 Agent 从实验走向生产的关键基础设施",
+      "tags": ["agent", "security", "governance", "microsoft", "enterprise"]
+    },
+    {
+      "id": "gh_ogulcancelik_herdr",
+      "title": "ogulcancelik/herdr",
+      "source_url": "https://github.com/ogulcancelik/herdr",
+      "summary": "终端中的 Agent 多路复用器，同时管理多个 AI Agent。",
+      "highlights": [
+        "基于 Rust 实现，性能优异",
+        "终端原生体验，适合开发者工作流"
+      ],
+      "score": 6,
+      "score_reason": "开发者体验优化工具，解决多 Agent 管理痛点但功能相对单一",
+      "tags": ["agent", "terminal", "multiplexer", "rust"]
+    },
+    {
+      "id": "gh_chachamaru127_claude_code_harness",
+      "title": "Chachamaru127/claude-code-harness",
+      "source_url": "https://github.com/Chachamaru127/claude-code-harness",
+      "summary": "Claude Code 开发框架，实现自治的规划-执行-审查循环。",
+      "highlights": [
+        "专注 Claude Code 深度集成",
+        "规划→执行→审查自治闭环设计"
+      ],
+      "score": 6,
+      "score_reason": "特定平台专用框架，思路清晰但生态位窄",
+      "tags": ["claude", "ai-coding", "development-framework"]
+    },
+    {
+      "id": "gh_modelscope_funasr",
+      "title": "modelscope/FunASR",
+      "source_url": "https://github.com/modelscope/FunASR",
+      "summary": "工业级语音识别工具包，170 倍实时率，支持 50+ 语言。",
+      "highlights": [
+        "170 倍实时率，工业级性能标杆",
+        "支持 50+ 语言、说话人分离、情感检测",
+        "兼容 OpenAI API 格式，零成本迁移"
+      ],
+      "score": 7,
+      "score_reason": "语音识别领域成熟工业方案，性能数据扎实，OpenAI 兼容 API 降低集成门槛",
+      "tags": ["speech-recognition", "asr", "ai-infra", "open-source"]
+    }
+  ],
+  "trends": {
+    "common_themes": [
+      {
+        "theme": "AI 编程助手 Agent 插件与工具链生态",
+        "count": 7,
+        "why_now": "Claude Code、Codex、Cursor 等 AI 编程助手成为 Agent 主要载体，本周 7 个项目以插件/技能/知识图谱形式扩展其能力，生态正从单一工具向平台化演进"
+      },
+      {
+        "theme": "Agent 安全与治理",
+        "count": 3,
+        "why_now": "企业 Agent 部署面临安全合规刚需，微软正式推出治理工具包覆盖 OWASP Top 10，安全技能库与框架内置安全能力同步成熟，标志 Agent 从实验走向生产"
+      },
+      {
+        "theme": "Agent Skill File 标准化趋势",
+        "count": 4,
+        "why_now": "taste-skill、stop-slop、Anthropic-Cybersecurity-Skills、harness 均以 skill file 格式交付，Agent 技能可复用可组合的格式正在形成事实标准"
+      }
+    ],
+    "rising_concepts": [
+      "Pre-indexed Code Knowledge Graph（预索引代码知识图谱）",
+      "Agent Token 压缩代理（LLM 前置压缩层）",
+      "Meta-Skill（元技能：生成技能的技能）",
+      "Agent 治理与零信任框架",
+      "Agent 记忆即服务（Memory-as-a-Service）"
+    ],
+    "summary": "本周 GitHub Trending 聚焦 Agent 基础设施层——从编程助手插件生态、知识图谱代码理解到 Token 压缩和治理安全，Agent 正从概念验证快速进入工程化落地阶段，微软入局 Agent 治理是本周最大信号。"
+  }
+}

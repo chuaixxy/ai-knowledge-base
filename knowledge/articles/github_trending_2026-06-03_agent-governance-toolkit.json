@@ -1,0 +1,24 @@
+{
+  "id": "github_trending_2026-06-03_agent-governance-toolkit",
+  "title": "microsoft/agent-governance-toolkit",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+  "summary": "微软 Agent 治理工具包，覆盖 OWASP Agentic Top 10 全部威胁。",
+  "highlights": [
+    "覆盖 10/10 OWASP Agentic Top 10 威胁",
+    "集成策略执行、零信任身份、执行沙箱三大核心能力",
+    "微软官方出品，企业级可靠性保障"
+  ],
+  "score": 9,
+  "tags": ["agent", "security", "governance", "microsoft", "enterprise"],
+  "status": "draft",
+  "published_at": "2026-06-03T00:00:00Z",
+  "collected_at": "2026-06-03T00:00:00Z",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "metadata": {
+    "language": "Python",
+    "stars_total": 3830,
+    "stars_today": 1391,
+    "forks_count": 534
+  }
+}

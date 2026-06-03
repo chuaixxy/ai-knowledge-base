@@ -48,18 +48,47 @@ WebFetch: https://github.com/trending?since=daily
 | `stars_total` | `a[href$="/stargazers"] strong` 文本 |
 | `stars_today` | `float-sm-right` 内数字 |
 | `forks` | `a[href$="/forks"] strong` 文本 |
+| `is_fork` | 检查卡片内是否有 fork 标记（如 `"forked from"` 文本），有则标记为 fork |
 
 ### 3. 过滤
 
-检查 `description` / `name` 是否包含以下关键词（大小写不敏感，trending 页面不显示 topics）：
+对每一条解析后的 repo，执行两层过滤：
 
-AI 关键词：`ai, llm, agent, ml, machine-learning, deep-learning, neural, gpt, claude, openai, anthropic, mistral, transformer, model, inference, embedding, vector, rag, fine-tune, fine-tuning, chatbot, autonomous, diffusion, stable-diffusion, llama, gemini, copilot, langchain, llamaindex, open-source-ai`
+**第一层：质量过滤（硬性排除）**
 
-前端关键词：`frontend, react, vue, angular, svelte, nextjs, tailwind, css, html, javascript, typescript, ui, ux, component, design-system`
+满足以下任一条件的仓库直接丢弃，不再进入 topic 分类：
+
+| 排除条件 | 判定依据 |
+|----------|---------|
+| Fork 仓库 | 卡片内包含 `"forked from"` 文本 |
+| 链接集合 | description/name 包含 `list`, `awesome`, `collection`, `resource`, `guide`, `tutorial`, `links`, `bookmark` 等关键词 |
+| 课程作业 | description/name 包含 `homework`, `assignment`, `lab`, `course`, `lecture`, `exercise` 等关键词 |
+| 个人笔记 | description/name 包含 `note`, `notes`, `cheat-sheet`, `learning`, `study` 等关键词（除非是教程型项目本身） |
+
+**第二层：LLM 分类（取代关键词匹配）**
+
+对通过质量过滤的仓库，由 LLM 根据 `title` + `description` 判断分类：
+
+```
+判断依据：
+- title 中的 owner/repo 名称
+- description 全文
+- 编程语言（如 Python 常见于 AI，TypeScript 常见于前端等）
+
+输出以下三者之一：
+- "ai"     → 与 AI/LLM/Agent/ML/DL 相关的工具、框架、模型、应用
+- "frontend" → 与前端/UI/UX/React/Vue 等前端技术相关的工具、库、组件
+- null     → 与以上两者都无关，丢弃
+```
+
+规则：
+- `topic` 为 `ai` 和 `frontend` 互斥，优先命中 `ai`（既是 AI 工具又有前端界面的，标为 `ai`）
+- 严格区分：通用编程工具（如 linter、formatter、CI/CD）如果没有明确的 AI 或前端属性，应归为 null
 
 ### 4. 排序 & 截断
 
 按 `stars_today` 从高到低，取 top 50。
+LLM 分类后不足 15 条时，以实际条数输出，不补。
 
 ### 5. 输出
 
@@ -102,6 +131,12 @@ id = "gh_" + owner + "_" + repo
 
 示例：`OpenBMB/PilotDeck` → `gh_openbmb_pilotdeck`
 
+## 质量标准
+
+- 采集条目数：15-30 条为正常范围
+- 少于 10 条：关键词可能需要扩展，报告给用户
+- 多于 50 条：过滤条件可能太宽松，提高 Star 阈值
+
 ## 错误处理
 
 | 场景 | 处理方式 |
@@ -119,7 +154,8 @@ id = "gh_" + owner + "_" + repo
 ```
 WebFetch: https://github.com/trending?since=daily
 → status 200, HTML 含 ≥ 25 个 <article class="Box-row">
-→ 过滤后 ≥ 15 条, stars 为当日新增
+→ 质量过滤（排除 fork/集合/课程/笔记）
+→ LLM 分类后 ≥ 10 条, topic 仅含 ai/frontend
 → 输出合法 JSON, 每字段填写完整
 ```
 
@@ -130,13 +166,14 @@ WebFetch: https://github.com/trending?since=daily
 | 超时（模拟网络断开） | 返回 `{ items: [] }`，无异常 |
 | 空响应（模拟 204） | 返回 `{ items: [] }` |
 | 结构变化（模拟未知 HTML） | 日志 warn，返回 `{ items: [] }` |
+| LLM 分类全部为 null | 返回 `{ items: [] }`（不超过错） |
 | 输出验证 | 最终输出始终是合法 JSON |
 
 ## 验收标准
 
 - [ ] WebFetch 请求成功，解析无报错
 - [ ] 每条记录必填字段完整
-- [ ] `topic` 仅含 `ai` / `frontend`
+- [ ] `topic` 仅含 `ai` / `frontend`，无遗漏无关仓库
+- [ ] 无 fork 仓库、无链接集合、无课程作业、无个人笔记
 - [ ] 按 `stars` 降序
 - [ ] 无重复 URL
-- [ ] 过滤后 ≥ 15 条

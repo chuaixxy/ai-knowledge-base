@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_2026-06-03_compound-engineering-plugin",
+  "title": "EveryInc/compound-engineering-plugin",
+  "source": "github_trending",
+  "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+  "summary": "复合工程官方插件，增强 AI 编程助手的工程能力。",
+  "highlights": [
+    "总 Star 19.4k，单日 2.1k",
+    "兼容 Claude Code、Codex、Cursor 等主流编程助手"
+  ],
+  "score": 6,
+  "tags": ["ai-coding", "developer-tools", "plugin"],
+  "status": "draft",
+  "published_at": "2026-06-03T00:00:00Z",
+  "collected_at": "2026-06-03T00:00:00Z",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "metadata": {
+    "language": "TypeScript",
+    "stars_total": 19430,
+    "stars_today": 2143,
+    "forks_count": 1444
+  }
+}

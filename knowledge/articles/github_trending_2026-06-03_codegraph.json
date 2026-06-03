@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_2026-06-03_codegraph",
+  "title": "colbymchenry/codegraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/colbymchenry/codegraph",
+  "summary": "预索引代码知识图谱，减少 AI 编程助手 Token 消耗和工具调用。",
+  "highlights": [
+    "100% 本地运行，支持 7+ AI 编程平台",
+    "总 Star 38k+，单日 10.7k"
+  ],
+  "score": 8,
+  "tags": ["code-analysis", "knowledge-graph", "token-optimization", "ai-coding"],
+  "status": "draft",
+  "published_at": "2026-06-03T00:00:00Z",
+  "collected_at": "2026-06-03T00:00:00Z",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "metadata": {
+    "language": "TypeScript",
+    "stars_total": 38246,
+    "stars_today": 10793,
+    "forks_count": 2370
+  }
+}

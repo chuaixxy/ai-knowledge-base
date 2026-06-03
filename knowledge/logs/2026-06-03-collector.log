@@ -1,0 +1,14 @@
+{
+  "start_ts": "2026-06-03T11:40:00Z",
+  "end_ts": "2026-06-03T11:47:00Z",
+  "trigger": "manual",
+  "sources": [
+    {
+      "source": "github_trending",
+      "url": "https://github.com/trending?since=weekly",
+      "status": "success",
+      "item_count": 18,
+      "filtered_count": 21
+    }
+  ]
+}

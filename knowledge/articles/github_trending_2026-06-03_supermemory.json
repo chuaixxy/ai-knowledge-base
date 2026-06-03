@@ -1,0 +1,22 @@
+{
+  "id": "github_trending_2026-06-03_supermemory",
+  "title": "supermemoryai/supermemory",
+  "source": "github_trending",
+  "source_url": "https://github.com/supermemoryai/supermemory",
+  "summary": "高性能可扩展记忆引擎，为 AI 时代提供记忆 API。",
+  "highlights": [
+    "总 Star 24.7k，社区认可度高"
+  ],
+  "score": 7,
+  "tags": ["memory", "ai-infra", "vector-database", "agent"],
+  "status": "draft",
+  "published_at": "2026-06-03T00:00:00Z",
+  "collected_at": "2026-06-03T00:00:00Z",
+  "analyzed_at": "2026-06-03T12:00:00Z",
+  "metadata": {
+    "language": "TypeScript",
+    "stars_total": 24740,
+    "stars_today": 1733,
+    "forks_count": 2181
+  }
+}
