@@ -1,284 +1,253 @@
-# AI 知识库助手 — Agent 协作指南
+# AGENTS.md — AI 知识库项目
 
-## 项目概述
+> 本文件是项目的项目记忆与 Agent 协作规范，OpenCode 启动时自动加载，指导所有 Agent 的行为。
 
-本项目是一个自动化 AI 技术情报助手：定时从 GitHub Trending 和 Hacker News 采集 AI/LLM/Agent 领域动态，经大模型分析后结构化为 JSON 知识条目，并支持通过 Telegram、飞书等渠道分发摘要与链接，帮助团队持续跟踪前沿技术动向。
+## 项目定义
 
----
+**AI Knowledge Base（AI 知识库）** 是一个自动化技术情报收集与分析系统。
+它持续追踪 GitHub Trending、Hacker News、arXiv 等来源，将分散的技术资讯转化为结构化、可检索的知识条目。
+
+### 核心价值
+
+- 每日自动采集 AI/LLM/Agent 领域的高质量技术文章与开源项目
+- 通过 Agent 协作完成 **采集 → 分析 → 整理** 三阶段流水线
+- 输出格式统一的 JSON 知识条目，便于下游应用消费
+- 保留来源与采集时间，保证内容可追溯
 
 ## 技术栈
 
-| 层级 | 技术 |
-|------|------|
-| 运行时 / API | Hono.js（TypeScript） |
-| Agent 编排 | OpenCode + 国产大模型（如通义、DeepSeek、智谱等） |
-| 工作流 | LangGraph |
-| 自动化 / 调度 | OpenClaw |
-| 存储 | JSON 文件（`knowledge/` 目录） |
-| 分发 | Telegram Bot API、飞书 Webhook |
-
----
-
-## 编码规范
-
-### 1. 命名规范
-
-| 场景 | 规范 | 示例 |
-|------|------|------|
-| 文件名 | kebab-case | `github-api.ts`, `article-service.ts` |
-| TypeScript 类型/类 | PascalCase | `interface KnowledgeArticle`, `class AppError` |
-| 变量、导出函数 | camelCase | `const sourceUrl`, `export function fetchTrending()` |
-| 模块内部函数 | camelCase | `function parseHtml()` |
-| JSON 字段 | snake_case | `{ "source_url": "...", "collected_at": "..." }` |
-| 数据库列名 | snake_case | `created_at`, `updated_at` |
-| 环境变量 | SNAKE_CASE | `GITHUB_TOKEN`, `LOG_LEVEL` |
-
-**跨层命名转换**：数据库列名（snake_case）↔ TypeScript 类型（camelCase）↔ API JSON（snake_case）由序列化层自动转换，禁止在业务代码中手写 mapper。
-
-### 2. 文档规范
-
-采用 **Google 风格** JSDoc / TSDoc，`@param` 以名词短语开头，不加 "The"。
-
-**正确示例：**
-```typescript
-/**
- * 从 GitHub Trending 拉取指定语言的仓库列表。
- *
- * @param language - 编程语言筛选，默认 "python"。
- * @returns 仓库元数据列表。
- * @throws 当 API 限流时抛出 AppError。
- */
-export async function fetchTrendingRepos(
-  language: string = "python",
-): Promise<TrendingRepo[]> {
-  // ...
-}
-```
-
-**错误示例：**
-```typescript
-/**
- * @param language This is the parameter for filtering language.
- */
-```
-
-### 3. 日志规范
-
-使用统一 logger（如 `pino`），禁止 `console.log`。
-
-```typescript
-// 正确
-logger.info({ language }, 'fetching trending repos');
-logger.error({ err }, 'failed to fetch repos');
-
-// 禁止
-console.log('fetching trending repos');
-```
-
-**ESLint 配置**：`'no-console': ['error', { 'allow': ['warn', 'error'] }]`
-
-- 保留 `console.warn/error` 给紧急场景
-- 开发调试用 `logger.debug()`，配合 `LOG_LEVEL=debug`
-- 提交前自动修复：`npm run lint:fix`
-
-### 4. 类型规范
-
-公共 API 必须定义 TypeScript interface / type，明确区分**必填**和**可选**字段。
-
-```typescript
-interface KnowledgeArticle {
-  id: string;           // 必填
-  author?: string;      // 可选
-}
-```
-
-JSON 数据使用 **Zod** 做运行时校验，并自动转换字段名：
-
-```typescript
-const KnowledgeArticleSchema = z.object({
-  source_url: z.string(),  // JSON 中是 snake_case
-}).transform((data) => ({
-  ...data,
-  sourceUrl: data.source_url,  // 转换为 camelCase
-}));
-```
-
-**兼容性**：新增字段必须是可选的（`?`），禁止修改已存在的必填字段类型。
-
-### 5. 依赖管理
-
-新增依赖需在 **PR 描述** 中说明：
-- 依赖名称和版本
-- 用途说明
-- 是否评估过替代方案
-
-**核心/高风险依赖**（爬虫、加密、数据库）额外写入 `DEPENDENCIES.md`。
-
-### 6. 测试规范
-
-| 类型 | 位置 | 命名 |
-|------|------|------|
-| 单元测试 | 与源码平行 | `*.test.ts` |
-| 集成测试 | `tests/integration/` | `*.e2e.test.ts` |
-| 测试数据 | `tests/fixtures/` | - |
-
-外部 HTTP 请求统一使用 **MSW** 拦截，禁止测试直接调用真实服务。
-
-### 7. 错误处理
-
-统一使用 `AppError` 类：
-
-```typescript
-export class AppError extends Error {
-  constructor(
-    public readonly code: string,
-    message: string,
-    public readonly cause?: Error,
-  ) {
-    super(message);
-  }
-}
-```
-
-API 错误响应格式：
-```json
-{ "success": false, "error": { "code": "GITHUB_API_ERROR", "message": "无法获取数据" } }
-```
-
-### 8. 调试代码红线
-
-以下代码**绝对禁止**遗留主分支：
-
-| 禁止项 | 示例 |
-|--------|------|
-| `console.log` | `console.log('debug:', data)` |
-| 注释掉的测试 | `// it('should work', () => {` |
-| 临时的 TODO | `// TODO: fix this` |
-| 性能测试 | `console.time('fetch'); ... console.timeEnd('fetch')` |
-| 临时断点 | `debugger;` |
-
-**允许的例外**：带 Issue 编号的 TODO：`// TODO(#123): 说明内容`（PR 描述需说明关联 Issue）
-
-### 9. 代码格式
-
-代码格式遵循项目根目录 `.prettierrc` 配置，提交前自动格式化。
-
-- **ESLint + lint-staged**：pre-commit 时自动修复
-- **npm 脚本**：`npm run lint:fix` 供开发时自查
-- **CI 检查**：所有 PR 必须通过 `pnpm lint`
-
----
+- **运行时**：OpenCode + LLM（DeepSeek / Qwen 等）
+- **数据源**：GitHub Trending、Hacker News、arXiv
+- **输出格式**：JSON
+- **版本管理**：Git
 
 ## 项目结构
 
-```
+```text
 .
-├── AGENTS.md                 # 本文件：Agent 协作与项目约定
+├── AGENTS.md                          # 项目记忆文件（本文件）
+├── .env.example                       # 环境变量模板
+├── README.md                          # 使用说明
 ├── .opencode/
-│   ├── agents/               # OpenCode Agent 定义（采集 / 分析 / 整理）
-│   └── skills/               # 可复用技能（爬虫、摘要、分发等）
-├── knowledge/
-│   ├── raw/                  # 原始采集数据（HTML/JSON 快照，按日期归档）
-│   └── articles/             # 结构化知识条目（一条一 JSON 文件）
-├── src/                      # Hono 应用与采集/分析/分发逻辑
-├── config/                   # 配置文件（API Key、渠道 Webhook 等，勿提交密钥）
-└── tests/                    # 单元测试与 fixtures
+│   ├── agents/
+│   │   ├── collector.md               # 采集 Agent 角色定义
+│   │   ├── analyzer.md                # 分析 Agent 角色定义
+│   │   └── organizer.md               # 整理 Agent 角色定义
+│   └── skills/
+│       ├── github-trending/SKILL.md   # GitHub Trending 采集技能
+│       └── tech-summary/SKILL.md      # 技术摘要生成技能
+└── knowledge/
+    ├── raw/                           # 原始采集数据（JSON）
+    ├── articles/                      # 整理后的知识条目（JSON）
+    └── incidents/                     # 异常或失败记录
 ```
 
-**约定**
+## 编码规范
 
-- `knowledge/raw/`：只追加、不覆盖；文件名建议 `{source}_{YYYY-MM-DD}.json`
-- `knowledge/articles/`：每条知识一个文件，文件名 `{id}.json`
-- Agent 逻辑放在 `.opencode/agents/`，通用能力封装为 `.opencode/skills/`
+### 文件命名
 
----
+- 原始数据：`knowledge/raw/{source}-{YYYY-MM-DD}.json`
+  - 例：`knowledge/raw/github-trending-2026-03-17.json`
+  - 例：`knowledge/raw/hacker-news-2026-03-17.json`
+  - 例：`knowledge/raw/arxiv-2026-03-17.json`
+- 知识条目：`knowledge/articles/{YYYY-MM-DD}-{seq}.json`
+  - 例：`knowledge/articles/2026-03-17-001.json`
+  - 例：`knowledge/articles/2026-03-17-002.json`
+- 索引文件：`knowledge/articles/index.json`
+
+### JSON 格式
+
+- 使用 2 空格缩进
+- 日期格式：ISO 8601（`YYYY-MM-DDTHH:mm:ssZ`）
+- 字符编码：UTF-8
+
+### 语言约定
+
+- 代码、JSON 键名、文件名：英文
+- 摘要、分析、注释：中文
+- 标签（`tags`）：英文小写，用连字符分隔，如 `large-language-model`
 
 ## 知识条目 JSON 格式
 
-每条知识条目对应 `knowledge/articles/{id}.json`，字段如下：
+每条知识条目对应 `knowledge/articles/{YYYY-MM-DD}-{seq}.json`。
 
-| 字段 | 类型 | 必填 | 说明 |
-|------|------|------|------|
-| `id` | string | ✅ | 全局唯一 ID，建议 `{source}_{hash8}` 或 UUID |
-| `title` | string | ✅ | 标题 |
-| `source` | string | ✅ | 来源：`github_trending` \| `hacker_news` |
-| `source_url` | string | ✅ | 原文链接 |
-| `summary` | string | ✅ | AI 生成的中文摘要（100–300 字） |
-| `tags` | string[] | ✅ | 标签，如 `["llm", "agent", "open-source"]` |
-| `status` | string | ✅ | 生命周期：`draft` \| `reviewed` \| `published` \| `archived` |
-| `author` | string | | 作者或仓库 maintainer |
-| `published_at` | string | | 原文发布时间（ISO 8601） |
-| `collected_at` | string | ✅ | 采集时间（ISO 8601） |
-| `analyzed_at` | string | | AI 分析完成时间 |
-| `raw_ref` | string | | 指向 `knowledge/raw/` 中原始文件的相对路径 |
-| `score` | number | | 相关性评分 0–1 |
-| `metadata` | object | | 扩展字段（stars、hn_points、repo_language 等） |
+### 必填字段
 
-**示例**
+- `id`: 全局唯一 ID，建议 `{source}_{hash8}` 或 UUID
+- `title`: 标题
+- `source`: 来源，限定为 `github_trending` / `hacker_news` / `arxiv`
+- `source_url`: 原文链接
+- `collected_at`: 采集时间，ISO 8601
+- `summary`: 中文摘要
+- `tags`: 标签数组
+- `score`: 质量评分，1-10 整数
+
+### 推荐字段
+
+- `highlights`: 技术亮点，2-3 项，每项不超过 30 字
+- `score_reason`: 评分理由
+- `description`: 英文原文描述
+- `author`: 作者、提交者或仓库 maintainer
+- `published_at`: 原文发布时间，ISO 8601
+- `analyzed_at`: AI 分析完成时间，ISO 8601
+- `raw_ref`: 指向 `knowledge/raw/` 中原始文件的相对路径
+- `metadata`: 来源扩展字段
+
+### 可选热度字段
+
+- `stars`: 热度数值
+  - GitHub Trending：可表示当日新增 stars 或排序热度
+  - Hacker News：可表示 points
+  - arXiv：通常可为空，由 `metadata` 承载补充信息
+
+### 示例
 
 ```json
 {
-  "id": "hn_a3f2b1c8",
-  "title": "LangGraph 1.0 发布：多 Agent 编排正式 GA",
-  "source": "hacker_news",
-  "source_url": "https://news.ycombinator.com/item?id=12345678",
-  "summary": "LangGraph 1.0 正式发布，提供持久化状态、人机协作中断与可视化调试能力，适合构建生产级多 Agent 工作流。",
-  "tags": ["langgraph", "agent", "workflow"],
-  "status": "reviewed",
-  "author": "dylan",
-  "published_at": "2026-05-18T10:00:00Z",
-  "collected_at": "2026-05-19T02:00:00Z",
-  "analyzed_at": "2026-05-19T02:05:00Z",
-  "raw_ref": "knowledge/raw/hn_2026-05-19.json",
-  "score": 0.92,
+  "id": "github_trending_a3f2b1c8",
+  "title": "OpenAI Agents SDK",
+  "source": "github_trending",
+  "source_url": "https://github.com/example/repo",
+  "summary": "一个用于构建多 Agent 工作流的开源 SDK，强调工具调用、状态传递与可观测性。",
+  "highlights": [
+    "支持多 Agent 编排",
+    "内置工具调用机制",
+    "强调可观测性"
+  ],
+  "score": 8,
+  "score_reason": "项目工程化程度高，适合生产环境探索。",
+  "tags": ["agent", "llm", "open-source"],
+  "stars": 1234,
+  "description": "A production-ready SDK for building agent workflows.",
+  "author": "openai",
+  "published_at": "2026-03-17T08:00:00Z",
+  "collected_at": "2026-03-17T10:00:00Z",
+  "analyzed_at": "2026-03-17T10:05:00Z",
+  "raw_ref": "knowledge/raw/github-trending-2026-03-17.json",
   "metadata": {
-    "hn_points": 342,
-    "hn_comments": 89
+    "language": "Python",
+    "stars_total": 42000
   }
 }
 ```
 
----
+## 工作流规则
+
+### 三阶段流水线
+
+```text
+[Collector] ──采集──→ knowledge/raw/
+                          │
+[Analyzer]  ──分析──→ enriched JSON
+                          │
+[Organizer] ──整理──→ knowledge/articles/
+```
+
+### Agent 协作规则
+
+1. **单向数据流**：Collector → Analyzer → Organizer，不可反向操作。
+2. **职责隔离**：每个 Agent 仅处理自己阶段的数据，不越权修改其他阶段产物。
+3. **幂等性**：重复运行同一天任务不应产生重复条目。
+4. **质量门控**：Analyzer 评分低于 6 分的条目，Organizer 应丢弃。
+5. **可追溯**：每个条目必须保留 `source_url` 和 `collected_at`，建议保留 `raw_ref`。
+6. **仅输出 JSON**：当前版本不生成 Markdown 日报，不向外部分发。
 
 ## Agent 角色概览
 
-| 角色 | 目录 / 标识 | 职责 | 输入 | 输出 |
-|------|-------------|------|------|------|
-| **采集 Agent** | `.opencode/agents/collector` | 从 GitHub Trending、Hacker News 拉取原始条目，去重后写入 `knowledge/raw/` | 调度触发 / 配置中的关键词与语言过滤 | `knowledge/raw/{source}_{date}.json` |
-| **分析 Agent** | `.opencode/agents/analyzer` | 读取原始数据，调用大模型生成摘要、标签、评分，判定是否与 AI/LLM/Agent 相关 | `knowledge/raw/` 中未处理条目 | `knowledge/articles/{id}.json`（`status: draft`） |
-| **整理 Agent** | `.opencode/agents/curator` | 审核、合并重复、更新 `status`，触发 Telegram / 飞书分发 | `status: draft` 或 `reviewed` 的条目 | `status: published` 的条目 + 渠道推送记录 |
+### Collector
 
-**协作流程**
+职责：
+- 从 GitHub Trending、Hacker News、arXiv 拉取原始条目
+- 过滤明显无关内容
+- 输出原始 JSON 到 `knowledge/raw/`
 
+输入：
+- 调度触发 / 手动触发
+
+输出：
+- `knowledge/raw/{source}-{YYYY-MM-DD}.json`
+
+要求：
+- 单来源尽量采集足够条目
+- `github_trending` 不设硬性上限，`hacker_news` 最多保留 10 条，`arxiv` 最多保留 15 条
+- 网络错误时可跳过单条，不中断整体流程
+- 不负责评分、标签、去重、落最终文章
+
+### Analyzer
+
+职责：
+- 读取 `knowledge/raw/` 中的原始数据
+- 生成摘要、亮点、评分、评分理由和标签建议
+
+输入：
+- `knowledge/raw/*.json`
+
+输出：
+- 结构化分析结果，供 Organizer 消费
+
+要求：
+- `summary` 使用中文
+- `highlights` 为 2-3 条
+- `score` 使用 1-10 整数
+- 不直接发布最终 articles
+
+### Organizer
+
+职责：
+- 汇总分析结果
+- 去重、标准化、写入 `knowledge/articles/`
+- 维护 `knowledge/articles/index.json`
+
+输入：
+- Analyzer 输出结果
+
+输出：
+- `knowledge/articles/{YYYY-MM-DD}-{seq}.json`
+- `knowledge/articles/index.json`
+
+要求：
+- 以 `source_url` 为主要去重键
+- 仅保留通过质量门控的条目
+- 同一天内按三位顺序号命名，如 `001`、`002`、`003`
+- 当前阶段不生成 Markdown，不做推送
+
+## Agent 调用方式
+
+在 OpenCode 中使用 `@` 语法调用特定 Agent：
+
+```text
+@collector 采集今天的 GitHub Trending、Hacker News 和 arXiv 数据
+@analyzer 分析 knowledge/raw/github-trending-2026-03-17.json
+@organizer 整理今天所有已分析的数据
 ```
-采集 Agent → knowledge/raw/ → 分析 Agent → knowledge/articles/ → 整理 Agent → 多渠道分发
-```
 
----
+也可以要求主 Agent 依次委派子 Agent，按流水线顺序执行。
 
-## 红线（绝对禁止）
+## 错误处理
 
-以下操作在任何情况下 **不得** 执行：
+- 网络请求失败时，记录错误并跳过该条目，不中断整体流程
+- API 限流时，等待后重试，最多 3 次
+- 数据格式异常时，写入 `knowledge/incidents/errors-{date}.json` 供人工排查
+- 任一阶段失败时，不得输出非 JSON 的半成品文件
 
-1. **提交或硬编码密钥**：API Key、Bot Token、Webhook Secret、`.env` 内容不得写入代码库或日志
-2. **覆盖 `knowledge/raw/` 历史文件**：原始采集数据只追加，禁止删除或覆盖已有归档
-3. **未经审核直接 `published`**：分析 Agent 不得将条目设为 `published`；仅整理 Agent 在人工或规则审核后可发布
-4. **向外部渠道发送未审核内容**：Telegram / 飞书推送前条目必须为 `reviewed` 或 `published`
-5. **调试代码遗留主分支**：`console.log`、临时断点、注释掉的死代码不得合并
-6. **绕过去重逻辑**：禁止为同一 `source_url` 创建多个 `id` 不同的条目
-7. **修改他人 Agent 定义而不说明**：变更 `.opencode/agents/` 下其他角色的 prompt 或工具链时，必须在 PR / 提交说明中注明原因
-8. **执行任意 shell / 未授权网络请求**：Agent 技能中禁止 `eval`、`Function` 构造器、未白名单的 `child_process` 或任意 URL 请求（仅允许配置的 GitHub、HN、模型 API、分发端点）
-9. **删除 `knowledge/articles/` 中已 `published` 的条目**：归档请改 `status` 为 `archived`，不得物理删除
-10. **在非 AI 领域内容上使用 `published`**：与 AI/LLM/Agent 无关的条目应标记为 `archived` 或丢弃，不得进入分发队列
+## 红线
 
----
+1. 不得提交或硬编码密钥、Token、`.env` 内容。
+2. 不得覆盖或删除历史 `knowledge/raw/` 文件。
+3. 不得为同一 `source_url` 生成多个重复知识条目。
+4. 不得输出 Markdown 日报或外部推送内容，除非后续规范明确开启。
+5. 不得写入与 AI/LLM/Agent 无关的内容。
+6. 不得执行未授权的 shell 或任意网络请求。
+7. 不得绕过 Analyzer 直接写入最终 articles。
+8. 不得修改其他 Agent 定义而不说明原因。
 
 ## 开发与验证
 
-- 本地开发：`pnpm dev`（Hono 开发服务器）
-- 运行采集：`pnpm run collect -- --dry-run`
-- 运行分析管道：`pnpm run analyze -- --input knowledge/raw/`
-- 单元测试：`pnpm test`
-- 提交前：`pnpm lint` 且 `pnpm test` 通过
-
-如有与本文件冲突的临时需求，以项目负责人确认的书面说明为准，并应及时回写更新本文件。
+- 运行采集：由 `@collector` 或工作流触发
+- 运行分析：由 `@analyzer` 或工作流触发
+- 运行整理：由 `@organizer` 或工作流触发
+- 提交前应确认：
+  - JSON 结构合法
+  - 无重复条目
+  - 字段完整
+  - 时间格式正确

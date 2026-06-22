@@ -1,0 +1,25 @@
+{
+  "id": "github_trending_e5f6a7b8",
+  "title": "jamiepine/voicebox",
+  "source": "github_trending",
+  "source_url": "https://github.com/jamiepine/voicebox",
+  "description": "The open-source AI voice studio. Clone, dictate, create.",
+  "author": "jamiepine",
+  "stars": 614,
+  "summary": "开源 AI 语音工作室，提供声音克隆、语音听写和语音创作功能，31k+ 总星，TypeScript 实现。",
+  "highlights": [
+    "集成声音克隆与语音创作能力",
+    "31k+ 星的开源 AI 语音工具"
+  ],
+  "score": 6,
+  "score_reason": "AI 语音应用，实用性高但与 LLM/Agent 核心领域关联度一般，技术深度中等。",
+  "tags": ["voice-cloning", "text-to-speech", "ai-tool", "open-source", "typescript"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "TypeScript",
+    "stars_total": 31785,
+    "forks_count": 3903
+  }
+}

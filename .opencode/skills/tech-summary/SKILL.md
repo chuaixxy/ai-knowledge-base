@@ -47,7 +47,27 @@ Read: knowledge/raw/{latest_file}
 | **摘要摘要** | 中文，不超过 50 字，概括核心价值 |
 | **技术亮点** | 2-3 个，用事实和数据说话（如性能指标、架构创新、对比提升），不使用"具有重大意义"等空话 |
 | **质量评分** | 1-10 整数，见评分标准 |
-| **标签建议** | 2-5 个标签，优先从已有标签体系中选取（如 `llm`、`agent`、`rag`、`open-source`、`infra`、`frontend` 等）|
+| **标签建议** | 2-5 个标签，优先从已有标签体系中选取（如 `llm`、`agent`、`rag`、`open-source`、`infra` 等）|
+
+**好的摘要示例：**
+
+- `轻量 MCP-over-HTTP 代理，支持多客户端会话隔离，适合把本地 Agent 工具稳定接入 Web 环境。`
+- `多 Agent 工作流框架，强调状态管理与任务编排，适合作为生产级 Agent 系统参考。`
+
+**坏的摘要示例：**
+
+- `这是一个很厉害的 AI 项目。`
+- `本文介绍了一个工具。`
+- `比较有帮助，值得关注。`
+
+**标签词库**（优先使用，保持一致性）：
+
+- 领域：`large-language-model`, `agent-framework`, `rag`, `mcp`, `fine-tuning`, `prompt-engineering`, `multi-agent`, `code-generation`
+- 技术：`transformer`, `attention`, `embedding`, `vector-database`, `knowledge-graph`
+- 工具：`langchain`, `llamaindex`, `openai`, `anthropic`, `deepseek`, `huggingface`
+- 场景：`chatbot`, `code-assistant`, `data-analysis`, `document-qa`, `workflow-automation`
+
+如果条目涉及词库中没有的概念，可以新增标签，但必须遵循英文小写连字符格式。
 
 **评分标准：**
 
@@ -60,25 +80,17 @@ Read: knowledge/raw/{latest_file}
 
 **约束：** 一次分析的条目中，打 9-10 分的数量不得超过总条目数的 15%（向上取整）。例如 15 项中最多 2 个 9-10 分。
 
-### 3. 趋势发现
-
-分析全部条目后，归纳：
-
-1. **共同主题**：出现在 3 条及以上条目中的重复主题（如"多 Agent 协作"、"RAG 优化"）
-2. **新概念/工具**：首次出现或近期快速上升的概念、工具名、框架
-3. **值得关注的原因**：每个主题 1-2 句说明为什么此刻值得关注
-
-### 4. 输出
+### 3. 输出
 
 ```json
 {
   "source": "tech_summary",
   "analyzed_at": "2026-05-28T12:00:00Z",
-  "raw_file": "knowledge/raw/hn_2026-05-28.json",
+  "raw_file": "knowledge/raw/hacker-news-2026-05-28.json",
   "items_analyzed": 15,
   "results": [
     {
-      "id": "gh_openbmb_pilotdeck",
+      "id": "github_trending_a3f2b1c8",
       "title": "OpenBMB/PilotDeck",
       "source_url": "https://github.com/OpenBMB/PilotDeck",
       "summary": "轻量 MCP-over-HTTP 代理，支持多客户端会话隔离。",
@@ -91,14 +103,7 @@ Read: knowledge/raw/{latest_file}
       "score_reason": "提供了立即可用的 MCP 基础设施优化方案，实测数据充分",
       "tags": ["mcp", "infra", "open-source"]
     }
-  ],
-  "trends": {
-    "common_themes": [
-      { "theme": "多 Agent 协作框架", "count": 4, "why_now": "生产环境对 Agent 间通信编排需求爆发，三周内出现 4 个相关项目" }
-    ],
-    "rising_concepts": ["MCP-over-HTTP", "Agent-as-a-Service"],
-    "summary": "本周热点集中在 Agent 基础设施层，MCP 生态工具和记忆系统呈上升趋势。"
-  }
+  ]
 }
 ```
 
@@ -106,10 +111,10 @@ Read: knowledge/raw/{latest_file}
 
 | 场景 | 处理方式 |
 |------|----------|
-| `knowledge/raw/` 为空或无 JSON 文件 | 返回 `{ results: [], trends: null }`，不抛异常 |
+| `knowledge/raw/` 为空或无 JSON 文件 | 返回 `{ results: [] }`，不抛异常 |
 | 单条数据解析失败（缺字段） | 跳过该条，继续处理其余条目 |
 | 文件内容不是合法 JSON | 返回空结果，日志 warn |
-| 全部失败 | 返回 `{ results: [], trends: null }`，不输出 error stack |
+| 全部失败 | 返回 `{ results: [] }`，不输出 error stack |
 | 所有输出必须为合法 JSON | 任何失败路径都必须返回合法 JSON 结构 |
 
 ## 自测
@@ -120,7 +125,6 @@ Read: knowledge/raw/{latest_file}
 Read: knowledge/raw/{latest} 含 ≥ 10 条
 → 每条输出 summary / highlights / score / tags
 → 9-10 分数量 ≤ 15% 限制
-→ trends.common_themes 至少 1 个
 → 输出合法 JSON
 ```
 
@@ -128,8 +132,8 @@ Read: knowledge/raw/{latest} 含 ≥ 10 条
 
 | 测试 | 预期 |
 |------|------|
-| raw 目录为空 | 返回 `{ results: [], trends: null }` |
-| 文件内容损坏 | 返回 `{ results: [], trends: null }` |
+| raw 目录为空 | 返回 `{ results: [] }` |
+| 文件内容损坏 | 返回 `{ results: [] }` |
 | 单条缺字段 | 跳过该条，其余正常输出 |
 | 输出验证 | 最终输出始终是合法 JSON |
 
@@ -140,5 +144,4 @@ Read: knowledge/raw/{latest} 含 ≥ 10 条
 - [ ] summary ≤ 50 字
 - [ ] highlights 2-3 条，均有事实或数据支撑
 - [ ] score 遵循评分标准，9-10 不超过 15%
-- [ ] trends 包含 common_themes 和 rising_concepts
 - [ ] 输出为合法 JSON

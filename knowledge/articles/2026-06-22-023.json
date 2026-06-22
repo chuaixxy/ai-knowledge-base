@@ -1,0 +1,26 @@
+{
+  "id": "arxiv_2606.20227",
+  "title": "QMFOL: Benchmarking Large Language Model Reasoning via Quantifiable Monadic First-Order Logic Test Case Generation",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20227",
+  "description": "Introduces QMFOL, a benchmark for evaluating LLM reasoning using quantifiable monadic first-order logic test cases.",
+  "author": "Xinyi Zheng, Ling Shi, Tianlong Yu, et al.",
+  "stars": null,
+  "summary": "提出 QMFOL 基准，通过可量化的一阶逻辑测试用例自动生成来评估 LLM 推理能力，提供比现有基准更严谨、可量化的推理评估方法论。",
+  "highlights": [
+    "一阶逻辑测试用例自动生成评估",
+    "比现有基准更严谨的量化推理评估",
+    "覆盖 cs.AI 和 cs.SE 交叉领域"
+  ],
+  "score": 7,
+  "score_reason": "LLM 推理评估的新方法论，逻辑测试更严谨，但偏向基准构建而非解决实际推理问题。",
+  "tags": ["llm", "benchmark", "reasoning", "first-order-logic", "evaluation"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20227",
+    "subjects": ["cs.AI", "cs.SE"]
+  }
+}

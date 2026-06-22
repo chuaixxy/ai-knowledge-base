@@ -1,0 +1,299 @@
+{
+  "source": "arxiv",
+  "collected_at": "2026-06-22T00:00:00Z",
+  "items": [
+    {
+      "id": "arxiv_2606.20381",
+      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20381",
+      "description": "Analyzes the geometric origin of shrinkage bias in LLM FP4 pretraining and proposes UFP4 as a solution. 18 pages, 12 figures.",
+      "author": "Qian Zhao, Kunlong Chen, Changxin Tian, et al.",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "从几何角度揭示 LLM FP4 预训练中收缩偏置的根源及系统性影响，提出 UFP4 配方解决方案，18 页、12 张图。对低精度 LLM 训练有直接指导意义。",
+      "highlights": ["揭示 FP4 预训练收缩偏置的几何起源", "提出 UFP4 配方系统性解决偏置", "18 页深度分析与实验验证"],
+      "score": 9,
+      "score_reason": "核心 LLM 训练技术的前沿研究，直接解决低精度训练的关键难题，方法论和实验深度均突出。",
+      "tags": ["llm", "fp4", "pretraining", "quantization", "training-optimization"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20381",
+        "subjects": ["cs.AI"],
+        "comments": "18 pages, 12 figures"
+      }
+    },
+    {
+      "id": "arxiv_2606.20544",
+      "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20544",
+      "description": "Research on calibrating mixture-of-experts models under distribution shift. Published at ICML 2026.",
+      "author": "Gina Wong, Drew Prinster, Suchi Saria, Rama Chellappa, Anqi Liu",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "研究在分布偏移下校准混合专家（MoE）模型的方法，发表于 ICML 2026。MoE 是 GPT-4 等大模型的核心架构，其校准问题直接影响模型可靠性。",
+      "highlights": ["ICML 2026 发表的 MoE 校准研究", "解决分布偏移下 MoE 的置信度问题", "对提升大模型鲁棒性有重要意义"],
+      "score": 8,
+      "score_reason": "MoE 是主流大模型架构，分布偏移下的校准问题是产业落地的关键痛点，ICML 发表保证质量。",
+      "tags": ["mixture-of-experts", "calibration", "distribution-shift", "llm", "icml"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20544",
+        "subjects": ["cs.AI", "cs.LG"],
+        "journal": "ICML 2026"
+      }
+    },
+    {
+      "id": "arxiv_2606.20529",
+      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20529",
+      "description": "Proposes LedgerAgent, a structured state approach for policy-adherent tool-calling agents. Work in Progress.",
+      "author": "Md Nayem Uddin, Amir Saeidi, Eduardo Blanco, Chitta Baral",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "提出 LedgerAgent，通过结构化状态管理（Ledger）确保工具调用 Agent 严格遵循预设策略，直接解决 Agent 行为可控性与安全性的核心挑战。",
+      "highlights": ["结构化状态实现 Agent 策略遵循", "工具调用 Agent 的安全可控性增强", "分类账式状态追踪 Agent 行为边界"],
+      "score": 9,
+      "score_reason": "直击 Agent 安全可控这一核心难题，结构化状态管理方案务实且有创新性，对 Agent 落地关键。",
+      "tags": ["agent", "tool-calling", "policy", "safety", "state-management"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20529",
+        "subjects": ["cs.AI", "cs.CL"],
+        "comments": "Work in Progress"
+      }
+    },
+    {
+      "id": "arxiv_2606.20363",
+      "title": "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20363",
+      "description": "Automates the generation of SKILL.md files for computer-using agents by mining interaction trajectories.",
+      "author": "Yuexing Hao, Xiaomin Li",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "通过挖掘人机交互轨迹自动生成 Agent 的 SKILL.md 技能文件，降低 Agent 技能编写门槛，实现技能获取的自动化。",
+      "highlights": ["交互轨迹挖掘自动生成 SKILL.md", "降低 Agent 技能编写的人工成本", "Agent 技能获取的自动化方法"],
+      "score": 8,
+      "score_reason": "直接面向 Agent 技能工程化的痛点，自动化方案务实，对 Agent 技能生态建设有推动作用。",
+      "tags": ["agent", "skill-generation", "automation", "trajectory-mining", "claude-code"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20363",
+        "subjects": ["cs.AI"]
+      }
+    },
+    {
+      "id": "arxiv_2606.20333",
+      "title": "SoftSkill: Behavioral Compression for Contextual Adaptation",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20333",
+      "description": "Introduces SoftSkill for behavioral compression enabling contextual adaptation of AI agents.",
+      "author": "Xijia Tao, Yihua Teng, Xinyu Fu, et al.",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "提出 SoftSkill 行为压缩方法，将 Agent 的复杂行为模式压缩为可迁移、可适配的软技能，使 Agent 能够根据上下文自适应调整行为策略。",
+      "highlights": ["行为压缩实现 Agent 上下文自适应", "软技能的可迁移与可复用设计", "压缩复杂行为模式为轻量技能表示"],
+      "score": 8,
+      "score_reason": "Agent 技能学习与泛化的创新方案，行为压缩思路新颖，对提升 Agent 的跨场景适应性有理论价值。",
+      "tags": ["agent", "skill-learning", "behavior-compression", "contextual-adaptation", "transfer-learning"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20333",
+        "subjects": ["cs.AI"]
+      }
+    },
+    {
+      "id": "arxiv_2606.20245",
+      "title": "Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20245",
+      "description": "Proposes explicit knowledge conflict resolution mechanism for LLM inference when parametric and contextual knowledge conflict. 12 pages.",
+      "author": "Huang Peng, Jiuyang Tang, Weixin Zeng, Hao Xu, Xiang Zhao",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "针对 LLM 推理中模型参数知识与外部上下文知识发生冲突的问题，提出显式冲突解决机制，12 页。对 RAG 系统的可靠性提升有直接价值。",
+      "highlights": ["显式解决参数知识与上下文知识的冲突", "提升 RAG 系统推理可靠性", "12 页系统性分析与验证"],
+      "score": 8,
+      "score_reason": "直击 RAG 和 LLM 应用的核心痛点——知识冲突，方案直接且实用，对工程落地有指导意义。",
+      "tags": ["llm", "knowledge-conflict", "rag", "inference", "reliability"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20245",
+        "subjects": ["cs.AI"],
+        "comments": "12 pages, 3 figures"
+      }
+    },
+    {
+      "id": "arxiv_2606.20227",
+      "title": "QMFOL: Benchmarking Large Language Model Reasoning via Quantifiable Monadic First-Order Logic Test Case Generation",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20227",
+      "description": "Introduces QMFOL, a benchmark for evaluating LLM reasoning using quantifiable monadic first-order logic test cases.",
+      "author": "Xinyi Zheng, Ling Shi, Tianlong Yu, et al.",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "提出 QMFOL 基准，通过可量化的一阶逻辑测试用例自动生成来评估 LLM 推理能力，提供比现有基准更严谨、可量化的推理评估方法论。",
+      "highlights": ["一阶逻辑测试用例自动生成评估", "比现有基准更严谨的量化推理评估", "覆盖 cs.AI 和 cs.SE 交叉领域"],
+      "score": 7,
+      "score_reason": "LLM 推理评估的新方法论，逻辑测试更严谨，但偏向基准构建而非解决实际推理问题。",
+      "tags": ["llm", "benchmark", "reasoning", "first-order-logic", "evaluation"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20227",
+        "subjects": ["cs.AI", "cs.SE"]
+      }
+    },
+    {
+      "id": "arxiv_2606.20205",
+      "title": "Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20205",
+      "description": "Argues that apparent psychological profiles of LLMs are largely measurement artifacts rather than genuine traits.",
+      "author": "Jelena Meyer, David Garcia, Dirk U. Wulff",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "挑战 LLM 具有稳定心理特征的观点，论证其表面'人格'主要是测评方法的测量伪影，对当前流行的 LLM 心理学测评领域提出了重要方法论反思。",
+      "highlights": ["LLM 心理特征是测量伪影的证据论证", "对 LLM 心理学测评方法论的重要挑战", "跨学科（cs.AI + cs.CL + cs.HC）研究"],
+      "score": 6,
+      "score_reason": "对 LLM 评估方法论的批判性研究有学术价值，但属于元评估领域的反思，对工程实践直接影响有限。",
+      "tags": ["llm", "evaluation", "psychology", "methodology", "measurement"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20205",
+        "subjects": ["cs.AI", "cs.CL", "cs.HC"]
+      }
+    },
+    {
+      "id": "arxiv_2606.20508",
+      "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20508",
+      "description": "Investigates what safety-aligned LLMs actually learn from mixed compliance and refusal demonstrations.",
+      "author": "Sihui Dai, Mann Patel",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "研究安全对齐 LLM 从混合合规/拒绝演示数据中实际学到了什么，深入分析安全训练的内在机制，对理解 AI 对齐过程有重要价值。",
+      "highlights": ["揭示安全训练中混合演示的学习机制", "安全对齐 LLM 的内在行为分析", "对 AI 对齐策略优化有指导意义"],
+      "score": 8,
+      "score_reason": "AI 安全的底层机制研究，直接关联 RLHF 和安全对齐实践，对安全训练策略设计有重要参考价值。",
+      "tags": ["llm", "safety-alignment", "ai-safety", "training", "rlhf"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20508",
+        "subjects": ["cs.AI", "cs.LG"]
+      }
+    },
+    {
+      "id": "arxiv_2606.20146",
+      "title": "BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20146",
+      "description": "Benchmarks LLMs for building information modeling (BIM) using IFC format, evaluating their understanding of structural engineering data.",
+      "author": "Bharathi Kannan Nithyanantham, Clemens Kujat, et al.",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "构建 BIM-Edit 基准评估 LLM 在建筑信息建模中的能力，探索 LLM 理解和处理 IFC 格式工程数据的能力边界。",
+      "highlights": ["LLM 在建筑信息建模领域的基准评估", "IFC 格式工程数据的理解评测"],
+      "score": 5,
+      "score_reason": "LLM 在垂直专业领域的应用探索，但 BIM 领域过于细分，对 AI 核心从业者的参考价值有限。",
+      "tags": ["llm", "benchmark", "bim", "construction", "domain-application"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20146",
+        "subjects": ["cs.AI"]
+      }
+    },
+    {
+      "id": "arxiv_2606.20138",
+      "title": "Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20138",
+      "description": "Uses adaptive LLM-based tutoring to improve student engagement in high-school education.",
+      "author": "Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "研究基于 LLM 的自适应辅导系统如何提升高中生学习参与度，探索 AI 教育应用中的自适应提示学习策略。",
+      "highlights": ["LLM 自适应辅导提升学习参与度", "AI 教育应用的提示学习策略探索"],
+      "score": 5,
+      "score_reason": "LLM 在教育领域的应用研究，场景过于垂直且偏向教育学评估，对 AI 技术从业者参考价值有限。",
+      "tags": ["llm", "education", "tutoring", "prompt-engineering", "adaptive-learning"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20138",
+        "subjects": ["cs.AI"]
+      }
+    },
+    {
+      "id": "arxiv_2606.20517",
+      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.20517",
+      "description": "Extends the LiveCodeBench benchmark for code generation to multiple programming languages. Accepted at ICLR 2026.",
+      "author": "Maria Ivanova, Pavel Zadorozhny, Rodion Levichev, et al.",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "将 LiveCodeBench 代码生成基准扩展到多编程语言，发表于 ICLR 2026，为 LLM 跨语言代码能力提供更全面的评估标尺。",
+      "highlights": ["LiveCodeBench 扩展至多编程语言", "ICLR 2026 发表的代码评估基准", "为 LLM 跨语言代码能力提供标尺"],
+      "score": 7,
+      "score_reason": "LLM 代码评估的重要基准扩展，ICLR 发表保证质量，对代码 Agent 和模型评测有直接使用价值。",
+      "tags": ["llm", "code-generation", "benchmark", "multi-language", "iclr"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.20517",
+        "subjects": ["cs.AI", "cs.PL"],
+        "journal": "ICLR 2026"
+      }
+    },
+    {
+      "id": "arxiv_2606.19946",
+      "title": "GEMS: Geometric Constraints Enable Multi-Semantic Superposition in LLMs",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.19946",
+      "description": "Shows how geometric constraints enable multi-semantic superposition in LLMs. 30 pages, extensively evaluated.",
+      "author": "Yu Deng",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "揭示几何约束如何使 LLM 实现多语义叠加（Superposition），从表示学习几何角度解释大模型如何在有限维度内编码丰富语义，30 页深度研究。",
+      "highlights": ["几何约束实现 LLM 多语义叠加的机制", "从几何角度解释表示学习的根本原理", "30 页广泛实验验证的理论研究"],
+      "score": 8,
+      "score_reason": "LLM 表示学习的深层理论研究，Superposition 是理解大模型能力的关键概念，理论价值高。",
+      "tags": ["llm", "superposition", "geometry", "representation-learning", "theory"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.19946",
+        "subjects": ["cs.CL", "cs.LG"],
+        "comments": "30 pages, 5 figures, 20 tables"
+      }
+    },
+    {
+      "id": "arxiv_2606.19847",
+      "title": "AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.19847",
+      "description": "Proposes AtomMem, a memory system for LLM agents built using atomic facts. 19 pages.",
+      "author": "Yanyu Yao, Shangze Li, Zhi Zheng, et al.",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "提出 AtomMem 记忆系统，以原子事实为基本单元为 LLM Agent 构建简洁高效的长期记忆机制，19 页、10 张图。解决 Agent 信息检索与上下文管理的关键问题。",
+      "highlights": ["原子事实驱动的 Agent 长期记忆系统", "简洁高效的信息检索与上下文管理", "19 页深度实验验证"],
+      "score": 9,
+      "score_reason": "Agent 记忆是核心能力瓶颈，原子事实方案简洁且可工程化，对 Agent 系统设计有直接指导价值。",
+      "tags": ["agent", "memory", "knowledge-management", "llm", "retrieval"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.19847",
+        "subjects": ["cs.CL"],
+        "comments": "19 pages, 10 figures, 5 tables"
+      }
+    },
+    {
+      "id": "arxiv_2606.19852",
+      "title": "Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives",
+      "source": "arxiv",
+      "source_url": "https://arxiv.org/abs/2606.19852",
+      "description": "Zero-shot agentic LLM workflow for extracting lung pathology information from clinical narratives.",
+      "author": "Aman Pathak, Cheng Peng, Mengxian Lyu, et al.",
+      "published_at": "2026-06-19T00:00:00Z",
+      "summary": "提出 Prompt-Plan-Extract（PPE）零样本 Agentic LLM 工作流，从临床文本中自动提取肺部病理信息，7 页。展示 Agent 工作流在医疗信息抽取中的实用设计。",
+      "highlights": ["PPE 三步零样本 Agent 工作流设计", "临床文本的肺部病理自动抽取", "Agent 范式在医疗 NLP 的实践落地"],
+      "score": 7,
+      "score_reason": "Agent 工作流在垂直领域（医疗）的工程化实践，PPE 设计模式可迁移，但应用场景较窄。",
+      "tags": ["agent", "medical-ai", "zero-shot", "clinical-nlp", "workflow"],
+      "collected_at": "2026-06-22T00:00:00Z",
+      "metadata": {
+        "arxiv_id": "2606.19852",
+        "subjects": ["cs.CL", "cs.LG"],
+        "comments": "7 pages, 2 figures, 3 tables"
+      }
+    }
+  ]
+}

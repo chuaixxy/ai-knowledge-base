@@ -1,0 +1,26 @@
+{
+  "id": "hacker_news_48618455",
+  "title": "Identity verification on Claude",
+  "source": "hacker_news",
+  "source_url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+  "description": "Anthropic to require identity verification on Claude — sparked 649 comments on HN with 779 points.",
+  "author": "bathory",
+  "stars": 779,
+  "summary": "Anthropic 宣布 Claude 将要求用户进行身份验证，引发 HN 上 779 分、649 条评论的激烈讨论，触及 AI 产品治理、隐私和访问控制等核心议题。",
+  "highlights": [
+    "Claude 引入用户身份验证机制",
+    "779 分 649 条评论的社区热议",
+    "AI 产品治理与隐私平衡的典型案例"
+  ],
+  "score": 6,
+  "score_reason": "重要的 AI 行业动态，涉及产品治理与用户信任，但非技术内容，对工程实践直接影响有限。",
+  "tags": ["anthropic", "claude", "identity-verification", "ai-policy", "product-governance"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/hacker_news-2026-06-22.json",
+  "metadata": {
+    "hn_points": 779,
+    "hn_descendants": 649,
+    "hn_id": 48618455
+  }
+}

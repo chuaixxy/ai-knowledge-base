@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_9e8d7c6b",
+  "title": "mattpocock/skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .claude directory.",
+  "author": "mattpocock",
+  "stars": 1443,
+  "summary": "TypeScript 专家 Matt Pocock 公开的 Claude Code 技能配置集，包含可复用的 AI 编码工作流与最佳实践，140k+ 星。",
+  "highlights": [
+    "公开 Claude Code 生产级技能配置",
+    "覆盖 TypeScript 工程全流程",
+    "展示 AI 编码技能的工程化实践"
+  ],
+  "score": 7,
+  "score_reason": "对 AI 编码 Agent 的用户具有直接参考价值，展示工程化技能组织方式，但非原创 AI 技术。",
+  "tags": ["claude-code", "agent-skills", "ai-coding", "developer-tools"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "Shell",
+    "stars_total": 140853,
+    "forks_count": 12202
+  }
+}

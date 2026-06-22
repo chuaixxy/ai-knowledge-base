@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.20517",
+  "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20517",
+  "description": "Extends the LiveCodeBench benchmark for code generation to multiple programming languages. Accepted at ICLR 2026.",
+  "author": "Maria Ivanova, Pavel Zadorozhny, Rodion Levichev, et al.",
+  "stars": null,
+  "summary": "将 LiveCodeBench 代码生成基准扩展到多编程语言，发表于 ICLR 2026，为 LLM 跨语言代码能力提供更全面的评估标尺。",
+  "highlights": [
+    "LiveCodeBench 扩展至多编程语言",
+    "ICLR 2026 发表的代码评估基准",
+    "为 LLM 跨语言代码能力提供标尺"
+  ],
+  "score": 7,
+  "score_reason": "LLM 代码评估的重要基准扩展，ICLR 发表保证质量，对代码 Agent 和模型评测有直接使用价值。",
+  "tags": ["llm", "code-generation", "benchmark", "multi-language", "iclr"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20517",
+    "subjects": ["cs.AI", "cs.PL"],
+    "journal": "ICLR 2026"
+  }
+}

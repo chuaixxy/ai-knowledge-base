@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_8f9a0b1c",
+  "title": "garrytan/gstack",
+  "source": "github_trending",
+  "source_url": "https://github.com/garrytan/gstack",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "author": "garrytan",
+  "stars": 454,
+  "summary": "Y Combinator CEO Garry Tan 的 Claude Code 完整配置方案，包含 23 个专项角色工具覆盖 CEO、设计、工程管理、发布、文档和 QA，112k+ 星。",
+  "highlights": [
+    "23 个工具覆盖全角色开发流程",
+    "YC CEO 的生产级 AI 配置公开",
+    "112k+ 星展示社区对 AI 工作流的关注"
+  ],
+  "score": 7,
+  "score_reason": "展示了 AI 编码 Agent 在高管层面的实际应用范式，对 AI 辅助软件工程管理有参考价值。",
+  "tags": ["claude-code", "agent-configuration", "developer-tools", "ai-coding"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "TypeScript",
+    "stars_total": 112646,
+    "forks_count": 16730
+  }
+}

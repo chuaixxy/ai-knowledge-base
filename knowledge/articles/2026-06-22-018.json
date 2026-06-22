@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.20544",
+  "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20544",
+  "description": "Research on calibrating mixture-of-experts models under distribution shift. Published at ICML 2026.",
+  "author": "Gina Wong, Drew Prinster, Suchi Saria, Rama Chellappa, Anqi Liu",
+  "stars": null,
+  "summary": "研究在分布偏移下校准混合专家（MoE）模型的方法，发表于 ICML 2026。MoE 是 GPT-4 等大模型的核心架构，其校准问题直接影响模型可靠性。",
+  "highlights": [
+    "ICML 2026 发表的 MoE 校准研究",
+    "解决分布偏移下 MoE 的置信度问题",
+    "对提升大模型鲁棒性有重要意义"
+  ],
+  "score": 8,
+  "score_reason": "MoE 是主流大模型架构，分布偏移下的校准问题是产业落地的关键痛点，ICML 发表保证质量。",
+  "tags": ["mixture-of-experts", "calibration", "distribution-shift", "llm", "icml"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20544",
+    "subjects": ["cs.AI", "cs.LG"],
+    "journal": "ICML 2026"
+  }
+}

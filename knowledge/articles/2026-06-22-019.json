@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.20529",
+  "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20529",
+  "description": "Proposes LedgerAgent, a structured state approach for policy-adherent tool-calling agents. Work in Progress.",
+  "author": "Md Nayem Uddin, Amir Saeidi, Eduardo Blanco, Chitta Baral",
+  "stars": null,
+  "summary": "提出 LedgerAgent，通过结构化状态管理（Ledger）确保工具调用 Agent 严格遵循预设策略，直接解决 Agent 行为可控性与安全性的核心挑战。",
+  "highlights": [
+    "结构化状态实现 Agent 策略遵循",
+    "工具调用 Agent 的安全可控性增强",
+    "分类账式状态追踪 Agent 行为边界"
+  ],
+  "score": 9,
+  "score_reason": "直击 Agent 安全可控这一核心难题，结构化状态管理方案务实且有创新性，对 Agent 落地关键。",
+  "tags": ["agent", "tool-calling", "policy", "safety", "state-management"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20529",
+    "subjects": ["cs.AI", "cs.CL"],
+    "comments": "Work in Progress"
+  }
+}

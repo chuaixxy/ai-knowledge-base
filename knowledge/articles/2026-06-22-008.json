@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_5a4b3c2d",
+  "title": "lyogavin/airllm",
+  "source": "github_trending",
+  "source_url": "https://github.com/lyogavin/airllm",
+  "description": "AirLLM 70B inference with single 4GB GPU",
+  "author": "lyogavin",
+  "stars": 453,
+  "summary": "AirLLM 实现用单张 4GB GPU 运行 70B 参数大模型推理，通过分层推理等内存优化技术极大降低 LLM 部署硬件门槛。",
+  "highlights": [
+    "单张 4GB GPU 运行 70B 大模型",
+    "分层推理降低 LLM 部署门槛",
+    "20k+ 星的低资源推理方案"
+  ],
+  "score": 8,
+  "score_reason": "直接解决 LLM 部署的核心瓶颈——硬件成本，技术创新性强，对边缘部署和小团队意义重大。",
+  "tags": ["llm", "inference", "gpu-optimization", "model-compression", "python"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "Jupyter Notebook",
+    "stars_total": 20863,
+    "forks_count": 2410
+  }
+}

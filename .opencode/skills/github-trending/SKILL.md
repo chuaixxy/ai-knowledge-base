@@ -1,6 +1,6 @@
 ---
 name: github-trending
-description: 从 GitHub Trending 采集 AI/Frontend 热门仓库。Use when user asks about GitHub trending, 热门仓库, trending repos, 抓取/爬 GitHub 排行, "今天 GitHub 流行什么".
+description: 从 GitHub Trending 采集 AI/LLM/Agent 热门仓库。Use when user asks about GitHub trending, 热门仓库, trending repos, 抓取/爬 GitHub 排行, "今天 GitHub 流行什么".
 permission:
   read: allow
   webfetch: allow
@@ -56,7 +56,7 @@ WebFetch: https://github.com/trending?since=daily
 
 **第一层：质量过滤（硬性排除）**
 
-满足以下任一条件的仓库直接丢弃，不再进入 topic 分类：
+满足以下任一条件的仓库直接丢弃，不再进入后续分类：
 
 | 排除条件 | 判定依据 |
 |----------|---------|
@@ -65,7 +65,7 @@ WebFetch: https://github.com/trending?since=daily
 | 课程作业 | description/name 包含 `homework`, `assignment`, `lab`, `course`, `lecture`, `exercise` 等关键词 |
 | 个人笔记 | description/name 包含 `note`, `notes`, `cheat-sheet`, `learning`, `study` 等关键词（除非是教程型项目本身） |
 
-**第二层：LLM 分类（取代关键词匹配）**
+**第二层：AI 分类（取代关键词匹配）**
 
 对通过质量过滤的仓库，由 LLM 根据 `title` + `description` 判断分类：
 
@@ -73,22 +73,20 @@ WebFetch: https://github.com/trending?since=daily
 判断依据：
 - title 中的 owner/repo 名称
 - description 全文
-- 编程语言（如 Python 常见于 AI，TypeScript 常见于前端等）
+- 编程语言（如 Python 常见于 AI 工具链）
 
 输出以下三者之一：
-- "ai"     → 与 AI/LLM/Agent/ML/DL 相关的工具、框架、模型、应用
-- "frontend" → 与前端/UI/UX/React/Vue 等前端技术相关的工具、库、组件
-- null     → 与以上两者都无关，丢弃
+- "ai"   → 与 AI/LLM/Agent/ML/DL 相关的工具、框架、模型、应用
+- null   → 与以上主题无关，丢弃
 ```
 
 规则：
-- `topic` 为 `ai` 和 `frontend` 互斥，优先命中 `ai`（既是 AI 工具又有前端界面的，标为 `ai`）
-- 严格区分：通用编程工具（如 linter、formatter、CI/CD）如果没有明确的 AI 或前端属性，应归为 null
+- 严格区分：通用编程工具（如 linter、formatter、CI/CD）如果没有明确的 AI 属性，应归为 null
 
 ### 4. 排序 & 截断
 
 按 `stars_today` 从高到低，取 top 50。
-LLM 分类后不足 15 条时，以实际条数输出，不补。
+分类后不足 15 条时，以实际条数输出，不补。
 
 ### 5. 输出
 
@@ -98,11 +96,10 @@ LLM 分类后不足 15 条时，以实际条数输出，不补。
   "collected_at": "2026-05-28T12:00:00Z",
   "items": [
     {
-      "id": "gh_owner_repo",
+      "id": "github_trending_a3f2b1c8",
       "title": "owner/repo",
       "source_url": "https://github.com/owner/repo",
       "source": "github_trending",
-      "topic": "ai",
       "stars": 1234,
       "summary": "Agent 翻译的中文摘要",
       "description": "英文原文描述",
@@ -124,12 +121,14 @@ LLM 分类后不足 15 条时，以实际条数输出，不补。
 ### 6. ID 生成规则
 
 ```
-id = "gh_" + owner + "_" + repo
-将 / 和 - 替换为 _
-全部转小写
+id = "{source}_{hash8}"
+source = "github_trending"
+hash8 = 对 source_url 取 MD5 的前 8 位小写十六进制
 ```
 
-示例：`OpenBMB/PilotDeck` → `gh_openbmb_pilotdeck`
+示例：`source_url = "https://github.com/OpenBMB/PilotDeck"`
+  → `hash8 = md5(source_url)[:8]`
+  → `id = "github_trending_a3f2b1c8"`
 
 ## 质量标准
 
@@ -155,7 +154,7 @@ id = "gh_" + owner + "_" + repo
 WebFetch: https://github.com/trending?since=daily
 → status 200, HTML 含 ≥ 25 个 <article class="Box-row">
 → 质量过滤（排除 fork/集合/课程/笔记）
-→ LLM 分类后 ≥ 10 条, topic 仅含 ai/frontend
+→ 分类后 ≥ 10 条
 → 输出合法 JSON, 每字段填写完整
 ```
 
@@ -166,14 +165,14 @@ WebFetch: https://github.com/trending?since=daily
 | 超时（模拟网络断开） | 返回 `{ items: [] }`，无异常 |
 | 空响应（模拟 204） | 返回 `{ items: [] }` |
 | 结构变化（模拟未知 HTML） | 日志 warn，返回 `{ items: [] }` |
-| LLM 分类全部为 null | 返回 `{ items: [] }`（不超过错） |
+| 分类全部为 null | 返回 `{ items: [] }`（不报错） |
 | 输出验证 | 最终输出始终是合法 JSON |
 
 ## 验收标准
 
 - [ ] WebFetch 请求成功，解析无报错
 - [ ] 每条记录必填字段完整
-- [ ] `topic` 仅含 `ai` / `frontend`，无遗漏无关仓库
+- [ ] 已过滤无关仓库，仅保留 AI/LLM/Agent 相关内容
 - [ ] 无 fork 仓库、无链接集合、无课程作业、无个人笔记
 - [ ] 按 `stars` 降序
 - [ ] 无重复 URL

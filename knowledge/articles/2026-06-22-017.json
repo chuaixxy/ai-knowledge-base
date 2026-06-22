@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.20381",
+  "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20381",
+  "description": "Analyzes the geometric origin of shrinkage bias in LLM FP4 pretraining and proposes UFP4 as a solution. 18 pages, 12 figures.",
+  "author": "Qian Zhao, Kunlong Chen, Changxin Tian, et al.",
+  "stars": null,
+  "summary": "从几何角度揭示 LLM FP4 预训练中收缩偏置的根源及系统性影响，提出 UFP4 配方解决方案，18 页、12 张图。对低精度 LLM 训练有直接指导意义。",
+  "highlights": [
+    "揭示 FP4 预训练收缩偏置的几何起源",
+    "提出 UFP4 配方系统性解决偏置",
+    "18 页深度分析与实验验证"
+  ],
+  "score": 9,
+  "score_reason": "核心 LLM 训练技术的前沿研究，直接解决低精度训练的关键难题，方法论和实验深度均突出。",
+  "tags": ["llm", "fp4", "pretraining", "quantization", "training-optimization"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20381",
+    "subjects": ["cs.AI"],
+    "comments": "18 pages, 12 figures"
+  }
+}

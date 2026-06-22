@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.19847",
+  "title": "AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.19847",
+  "description": "Proposes AtomMem, a memory system for LLM agents built using atomic facts. 19 pages.",
+  "author": "Yanyu Yao, Shangze Li, Zhi Zheng, et al.",
+  "stars": null,
+  "summary": "提出 AtomMem 记忆系统，以原子事实为基本单元为 LLM Agent 构建简洁高效的长期记忆机制，19 页、10 张图。解决 Agent 信息检索与上下文管理的关键问题。",
+  "highlights": [
+    "原子事实驱动的 Agent 长期记忆系统",
+    "简洁高效的信息检索与上下文管理",
+    "19 页深度实验验证"
+  ],
+  "score": 9,
+  "score_reason": "Agent 记忆是核心能力瓶颈，原子事实方案简洁且可工程化，对 Agent 系统设计有直接指导价值。",
+  "tags": ["agent", "memory", "knowledge-management", "llm", "retrieval"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.19847",
+    "subjects": ["cs.CL"],
+    "comments": "19 pages, 10 figures, 5 tables"
+  }
+}

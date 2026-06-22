@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_6b7c8d9e",
+  "title": "heygen-com/hyperframes",
+  "source": "github_trending",
+  "source_url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "author": "heygen-com",
+  "stars": 369,
+  "summary": "HeyGen 推出的 Agent 优先视频渲染框架，用 HTML 编写内容即可生成视频，将 Web 技术与视频生成结合，专为 AI Agent 调用设计。",
+  "highlights": [
+    "HTML 写内容即可渲染视频",
+    "专为 AI Agent 调用设计",
+    "Web 技术与视频生成的创新融合"
+  ],
+  "score": 7,
+  "score_reason": "Agent 工具链的创新扩展，HTML 到视频的设计降低了 Agent 生成视频的门槛，创意性强。",
+  "tags": ["agent", "video-generation", "html", "agent-tool", "typescript"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "TypeScript",
+    "stars_total": 29617,
+    "forks_count": 2799
+  }
+}
