@@ -1,47 +1,106 @@
-import type { Plugin } from "@opencode-ai/plugin";
-import { join } from "node:path";
-import { statSync } from "node:fs";
+import type { Plugin, PluginModule } from "@opencode-ai/plugin";
+import { resolve } from "node:path";
 
-const GLOB = "knowledge/articles/";
+export const id = "validate";
 
-const plugin: Plugin = async (input) => {
-  const { $, directory } = input;
+function getFilePath(args: Record<string, unknown>): string | undefined {
+  const directCandidates = [
+    args.file_path,
+    args.filePath,
+    args.filepath,
+    args.path,
+    args.target,
+    args.filename,
+  ];
 
-  return {
-    async "tool.execute.after"(hookInput, output) {
-      const { tool, args } = hookInput;
+  for (const value of directCandidates) {
+    if (typeof value === "string" && value.length > 0) return value;
+  }
 
-      if (tool !== "write" && tool !== "edit") return;
+  for (const value of Object.values(args)) {
+    if (
+      typeof value === "string" &&
+      value.includes("knowledge/articles/") &&
+      value.endsWith(".json")
+    ) {
+      return value;
+    }
+  }
 
-      const filePath = args?.file_path ?? args?.filePath;
-      if (!filePath || typeof filePath !== "string") return;
-      if (!filePath.includes(GLOB)) return;
+  return undefined;
+}
 
-      const absPath = join(directory, filePath);
+function isWriteLikeTool(tool: string): boolean {
+  const normalized = tool.toLowerCase();
+  return normalized === "write" || normalized === "edit";
+}
 
-      try {
-        statSync(absPath);
-      } catch {
+const ValidatePlugin: Plugin = async (input) => ({
+  "tool.execute.after": async (event, output) => {
+    if (!isWriteLikeTool(event.tool)) return;
+
+    const filePath = getFilePath(event.args ?? {});
+    if (!filePath) return;
+
+    const target = resolve(input.directory, filePath);
+    if (!target.includes("knowledge/articles/") || !target.endsWith(".json")) return;
+
+    const tsx = resolve(input.directory, "node_modules/.bin/tsx");
+    const validator = resolve(input.directory, "hooks/validate-json.ts");
+    const quality = resolve(input.directory, "hooks/check-quality.ts");
+
+    try {
+      const validateResult = await input.$`${tsx} ${validator} ${target}`.nothrow();
+      const validateStdout = validateResult.stdout.toString().trim();
+      const validateStderr = validateResult.stderr.toString().trim();
+
+      if (validateResult.exitCode !== 0) {
+        const details = [validateStdout, validateStderr].filter(Boolean).join("\n");
+        output.title = `JSON validation failed: ${filePath}`;
+        output.output = details || `Validation failed for ${filePath}`;
+        output.metadata = {
+          ...(output.metadata ?? {}),
+          validation: {
+            status: "failed",
+            file: filePath,
+            exitCode: validateResult.exitCode,
+          },
+        };
         return;
       }
 
-      try {
-        const result = await $`npx tsx hooks/validate-json.ts ${absPath}`.nothrow();
-        const text = result.stdout?.toString("utf-8").trim() ?? "";
+      const qualityResult = await input.$`${tsx} ${quality} ${target}`.nothrow();
+      const qualityStdout = qualityResult.stdout.toString().trim();
+      const qualityStderr = qualityResult.stderr.toString().trim();
 
-        if (result.exitCode !== 0) {
-          output.title = `校验失败`;
-          output.output = text || `exit code: ${result.exitCode}`;
-        } else {
-          output.title = `校验通过`;
-          output.output = text;
-        }
-      } catch (err) {
-        output.title = `校验异常`;
-        output.output = err instanceof Error ? err.message : String(err);
-      }
-    },
-  };
-};
+      output.metadata = {
+        ...(output.metadata ?? {}),
+        validation: {
+          status: "passed",
+          file: filePath,
+          output: validateStdout,
+        },
+        quality: {
+          status: qualityResult.exitCode === 0 ? "passed" : "needs_review",
+          file: filePath,
+          output: [qualityStdout, qualityStderr].filter(Boolean).join("\n"),
+        },
+      };
+    } catch (err) {
+      output.title = `Validation crashed: ${filePath}`;
+      output.output = String(err);
+      output.metadata = {
+        ...(output.metadata ?? {}),
+        validation: {
+          status: "error",
+          file: filePath,
+        },
+      };
+    }
+  },
+});
 
-export default plugin;
+export default {
+  id,
+  server: ValidatePlugin,
+} satisfies PluginModule;

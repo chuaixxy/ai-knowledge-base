@@ -1,27 +1,28 @@
 {
-  "id": "github_trending_a7c3f9e1",
-  "title": "Harness — 面向开发者的持续交付与特性管理平台",
+  "id": "github_trending_b7e4d2fa",
+  "title": "Harness — 开源 CI/CD 与云成本管理平台",
   "source": "github_trending",
   "source_url": "https://github.com/harness/harness",
   "collected_at": "2026-06-23T10:00:00Z",
-  "summary": "Harness 是一个开源的持续交付与特性管理平台，通过 GitOps 模型简化 CI/CD 流水线的构建与管理，支持金丝雀发布、蓝绿部署和特性开关，帮助工程团队降低发布风险。",
+  "summary": "Harness 是一个企业级持续交付与云成本管理平台，提供 CI/CD、功能开关、云成本优化和混沌工程等能力，旨在简化软件交付流程并降低云基础设施开销。",
   "highlights": [
-    "内置金丝雀与蓝绿部署策略",
-    "基于 GitOps 的声明式流水线",
-    "集成特性开关与实验管理"
+    "内置智能自动回滚与金丝雀发布",
+    "支持多集群 Kubernetes 部署编排",
+    "具备云成本可见性与自动优化能力"
   ],
   "score": 7,
-  "score_reason": "平台工程化程度高，适合中大型团队落地持续交付实践，但学习曲线较陡。",
-  "tags": ["ci-cd", "gitops", "devops", "continuous-delivery", "feature-flags"],
+  "score_reason": "工程化程度高、功能完备，适合中大型团队落地持续交付实践。",
+  "tags": ["ci-cd", "cloud-cost", "devops", "continuous-delivery", "kubernetes"],
   "status": "draft",
-  "stars": 26000,
-  "description": "Harness Open Source — a modern continuous delivery platform with built-in feature flags, GitOps workflows, and automated canary/blue-green deployments.",
+  "stars": 27000,
+  "description": "An enterprise-grade continuous delivery and cloud cost management platform that simplifies software delivery with intelligent automation.",
   "author": "harness",
-  "published_at": "2026-06-22T08:00:00Z",
+  "published_at": "2025-06-15T08:00:00Z",
   "analyzed_at": "2026-06-23T10:05:00Z",
   "raw_ref": "knowledge/raw/github-trending-2026-06-23.json",
   "metadata": {
     "language": "Go",
-    "stars_total": 26000
+    "stars_total": 27000,
+    "license": "Polyform Shield"
   }
 }

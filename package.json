@@ -14,8 +14,7 @@
   "main": "index.js",
   "dependencies": {
     "@opencode-ai/plugin": "^1.17.9",
-    "esbuild": "^0.28.1",
-    "zod": "^3.25.76"
+    "esbuild": "^0.28.1"
   },
   "repository": {
     "type": "git",
