@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "validate": "tsx hooks/validate-json.ts",
-    "quality": "tsx hooks/check-quality.ts"
+    "quality": "tsx hooks/check-quality.ts",
+    "test-llm": "tsx pipeline/model-client.ts"
   },
   "devDependencies": {
     "tsx": "^4.19.0"
