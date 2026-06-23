@@ -8,7 +8,6 @@
  * 校验通过 exit 0，失败 exit 1 + 错误列表 + 汇总统计。
  */
 
-import { z } from "zod";
 import { readFileSync, statSync, readdirSync } from "node:fs";
 import { resolve, dirname, basename, extname } from "node:path";
 
@@ -48,7 +47,7 @@ const SOURCE_VALUES = [
 
 const TOPIC_VALUES = ["ai", "frontend"] as const;
 
-const STATUS_VALUES = ["draft", "reviewed", "published", "archived"] as const;
+const STATUS_VALUES = ["draft", "review", "published", "archived"] as const;
 
 // ID 格式：{source}_{hash8}（例：github_trending_a3f2b1c8）或 UUID
 const ID_UUID_RE =
@@ -56,57 +55,284 @@ const ID_UUID_RE =
 const ID_SOURCE_HASH8_RE = /^(github_trending|hacker_news|juejin|wechat)_[a-f0-9]{8}$/;
 
 // ---------------------------------------------------------------------------
-// Zod Schema
+// 类型定义
 // ---------------------------------------------------------------------------
 
-const KnowledgeArticleSchema = z.object({
-  id: z.string().min(1, "id 不能为空"),
-  title: z.string().min(1, "title 不能为空"),
-  source: z.enum(SOURCE_VALUES, {
-    errorMap: () => ({
-      message: `source 必须是 ${SOURCE_VALUES.join(" | ")} 之一`,
-    }),
-  }),
-  source_url: z.string().min(1, "source_url 不能为空"),
-  summary: z.string().min(1, "summary 不能为空"),
-  highlights: z
-    .array(z.string())
-    .min(2, "highlights 至少需要 2 项")
-    .max(3, "highlights 最多 3 项"),
-  score: z
-    .number({ invalid_type_error: "score 必须是数字" })
-    .int("score 必须是整数")
-    .min(1, "score 最小值为 1")
-    .max(10, "score 最大值为 10"),
-  tags: z
-    .array(z.string())
-    .min(2, "tags 至少需要 2 个")
-    .max(5, "tags 最多 5 个"),
-  collected_at: z.string().min(1, "collected_at 不能为空"),
-  // 可选字段
-  topic: z
-    .enum(TOPIC_VALUES, {
-      errorMap: () => ({
-        message: `topic 必须是 ${TOPIC_VALUES.join(" | ")} 之一`,
-      }),
-    })
-    .optional(),
-  status: z
-    .enum(STATUS_VALUES, {
-      errorMap: () => ({
-        message: `status 必须是 ${STATUS_VALUES.join(" | ")} 之一`,
-      }),
-    })
-    .optional(),
-  score_reason: z.string().optional(),
-  author: z.string().optional(),
-  published_at: z.string().optional(),
-  analyzed_at: z.string().optional(),
-  raw_ref: z.string().optional(),
-  description: z.string().optional(),
-  stars: z.number().optional(),
-  metadata: z.record(z.unknown()).optional(),
-});
+interface KnowledgeArticle {
+  id: string;
+  title: string;
+  source: string;
+  source_url: string;
+  summary: string;
+  highlights: string[];
+  score: number;
+  tags: string[];
+  collected_at: string;
+  topic?: string;
+  status?: string;
+  score_reason?: string;
+  author?: string;
+  published_at?: string;
+  analyzed_at?: string;
+  raw_ref?: string;
+  description?: string;
+  stars?: number;
+  metadata?: Record<string, unknown>;
+}
+
+// ---------------------------------------------------------------------------
+// 字段校验辅助函数
+// ---------------------------------------------------------------------------
+
+function requireString(
+  obj: Record<string, unknown>,
+  field: string,
+  errors: FileError[],
+): string | undefined {
+  const val = obj[field];
+  if (val === undefined) {
+    errors.push({ field, message: `${field} 不能为空` });
+    return undefined;
+  }
+  if (typeof val !== "string") {
+    errors.push({ field, message: `${field} 必须是字符串` });
+    return undefined;
+  }
+  if (val.trim().length === 0) {
+    errors.push({ field, message: `${field} 不能为空` });
+    return undefined;
+  }
+  return val;
+}
+
+function requireEnum(
+  obj: Record<string, unknown>,
+  field: string,
+  values: readonly string[],
+  errors: FileError[],
+): string | undefined {
+  const val = obj[field];
+  if (val === undefined) {
+    errors.push({ field, message: `${field} 不能为空` });
+    return undefined;
+  }
+  if (typeof val !== "string") {
+    errors.push({
+      field,
+      message: `${field} 必须是 ${values.join(" | ")} 之一`,
+    });
+    return undefined;
+  }
+  if (!values.includes(val)) {
+    errors.push({
+      field,
+      message: `${field} 必须是 ${values.join(" | ")} 之一`,
+    });
+    return undefined;
+  }
+  return val;
+}
+
+function requireArray(
+  obj: Record<string, unknown>,
+  field: string,
+  minLen: number,
+  maxLen: number,
+  errors: FileError[],
+): string[] | undefined {
+  const val = obj[field];
+  if (val === undefined) {
+    errors.push({ field, message: `${field} 不能为空` });
+    return undefined;
+  }
+  if (!Array.isArray(val)) {
+    errors.push({ field, message: `${field} 必须是数组` });
+    return undefined;
+  }
+  if (val.length < minLen) {
+    errors.push({ field, message: `${field} 至少需要 ${minLen} 项` });
+    return undefined;
+  }
+  if (val.length > maxLen) {
+    errors.push({ field, message: `${field} 最多 ${maxLen} 项` });
+    return undefined;
+  }
+  for (let i = 0; i < val.length; i++) {
+    if (typeof val[i] !== "string") {
+      errors.push({
+        field: `${field}[${i}]`,
+        message: "数组元素必须是字符串",
+      });
+    }
+  }
+  if (errors.some((e) => e.field.startsWith(`${field}[`))) return undefined;
+  return val as string[];
+}
+
+function requireInt(
+  obj: Record<string, unknown>,
+  field: string,
+  min: number,
+  max: number,
+  errors: FileError[],
+): number | undefined {
+  const val = obj[field];
+  if (val === undefined) {
+    errors.push({ field, message: `${field} 不能为空` });
+    return undefined;
+  }
+  if (typeof val !== "number" || Number.isNaN(val)) {
+    errors.push({ field, message: `${field} 必须是数字` });
+    return undefined;
+  }
+  if (!Number.isInteger(val)) {
+    errors.push({ field, message: `${field} 必须是整数` });
+    return undefined;
+  }
+  if (val < min) {
+    errors.push({ field, message: `${field} 最小值为 ${min}` });
+    return undefined;
+  }
+  if (val > max) {
+    errors.push({ field, message: `${field} 最大值为 ${max}` });
+    return undefined;
+  }
+  return val;
+}
+
+function optionalString(
+  obj: Record<string, unknown>,
+  field: string,
+  errors: FileError[],
+): string | undefined {
+  const val = obj[field];
+  if (val === undefined) return undefined;
+  if (typeof val !== "string") {
+    errors.push({ field, message: `${field} 必须是字符串` });
+    return undefined;
+  }
+  return val;
+}
+
+function optionalEnum(
+  obj: Record<string, unknown>,
+  field: string,
+  values: readonly string[],
+  errors: FileError[],
+): string | undefined {
+  const val = obj[field];
+  if (val === undefined) return undefined;
+  if (typeof val !== "string") {
+    errors.push({
+      field,
+      message: `${field} 必须是 ${values.join(" | ")} 之一`,
+    });
+    return undefined;
+  }
+  if (!values.includes(val)) {
+    errors.push({
+      field,
+      message: `${field} 必须是 ${values.join(" | ")} 之一`,
+    });
+    return undefined;
+  }
+  return val;
+}
+
+function optionalNumber(
+  obj: Record<string, unknown>,
+  field: string,
+  errors: FileError[],
+): number | undefined {
+  const val = obj[field];
+  if (val === undefined) return undefined;
+  if (typeof val !== "number" || Number.isNaN(val)) {
+    errors.push({ field, message: `${field} 必须是数字` });
+    return undefined;
+  }
+  return val;
+}
+
+function optionalRecord(
+  obj: Record<string, unknown>,
+  field: string,
+  errors: FileError[],
+): Record<string, unknown> | undefined {
+  const val = obj[field];
+  if (val === undefined) return undefined;
+  if (typeof val !== "object" || val === null || Array.isArray(val)) {
+    errors.push({ field, message: `${field} 必须是对象` });
+    return undefined;
+  }
+  return val as Record<string, unknown>;
+}
+
+// ---------------------------------------------------------------------------
+// Schema 校验
+// ---------------------------------------------------------------------------
+
+function validateKnowledgeArticle(
+  data: unknown,
+): { ok: true; data: KnowledgeArticle } | { ok: false; errors: FileError[] } {
+  const errors: FileError[] = [];
+
+  if (typeof data !== "object" || data === null || Array.isArray(data)) {
+    errors.push({ field: "(顶级)", message: "必须是对象" });
+    return { ok: false, errors };
+  }
+
+  const obj = data as Record<string, unknown>;
+
+  const id = requireString(obj, "id", errors);
+  const title = requireString(obj, "title", errors);
+  const source = requireEnum(obj, "source", SOURCE_VALUES, errors);
+  const source_url = requireString(obj, "source_url", errors);
+  const summary = requireString(obj, "summary", errors);
+  const highlights = requireArray(obj, "highlights", 2, 3, errors);
+  const score = requireInt(obj, "score", 1, 10, errors);
+  const tags = requireArray(obj, "tags", 2, 5, errors);
+  const collected_at = requireString(obj, "collected_at", errors);
+
+  const topic = optionalEnum(obj, "topic", TOPIC_VALUES, errors);
+  const status = requireEnum(obj, "status", STATUS_VALUES, errors);
+  const score_reason = optionalString(obj, "score_reason", errors);
+  const author = optionalString(obj, "author", errors);
+  const published_at = optionalString(obj, "published_at", errors);
+  const analyzed_at = optionalString(obj, "analyzed_at", errors);
+  const raw_ref = optionalString(obj, "raw_ref", errors);
+  const description = optionalString(obj, "description", errors);
+  const stars = optionalNumber(obj, "stars", errors);
+  const metadata = optionalRecord(obj, "metadata", errors);
+
+  if (errors.length > 0) {
+    return { ok: false, errors };
+  }
+
+  return {
+    ok: true,
+    data: {
+      id: id!,
+      title: title!,
+      source: source!,
+      source_url: source_url!,
+      summary: summary!,
+      highlights: highlights!,
+      score: score!,
+      tags: tags!,
+      collected_at: collected_at!,
+      topic,
+      status,
+      score_reason,
+      author,
+      published_at,
+      analyzed_at,
+      raw_ref,
+      description,
+      stars,
+      metadata,
+    },
+  };
+}
 
 // ---------------------------------------------------------------------------
 // 自定义校验
@@ -290,16 +516,10 @@ function validateFile(filePath: string): FileResult {
     };
   }
 
-  // Zod schema 校验
-  const parsed = KnowledgeArticleSchema.safeParse(result.data);
-  if (!parsed.success) {
-    for (const issue of parsed.error.issues) {
-      const field = issue.path.join(".");
-      errors.push({
-        field: field || "(顶级)",
-        message: issue.message,
-      });
-    }
+  // Schema 校验
+  const parsed = validateKnowledgeArticle(result.data);
+  if (!parsed.ok) {
+    errors.push(...parsed.errors);
     return { file: filePath, passed: false, errors };
   }
 

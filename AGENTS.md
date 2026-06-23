@@ -81,6 +81,7 @@
 - `summary`: 中文摘要
 - `tags`: 标签数组
 - `score`: 质量评分，1-10 整数
+- `status`: 条目状态，限定为 `draft` / `review` / `published` / `archived`
 
 ### 推荐字段
 
@@ -117,6 +118,7 @@
   "score": 8,
   "score_reason": "项目工程化程度高，适合生产环境探索。",
   "tags": ["agent", "llm", "open-source"],
+  "status": "draft",
   "stars": 1234,
   "description": "A production-ready SDK for building agent workflows.",
   "author": "openai",

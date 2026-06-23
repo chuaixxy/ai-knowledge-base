@@ -1,0 +1,27 @@
+{
+  "id": "github_trending_a7c3f9e1",
+  "title": "Harness — 面向开发者的持续交付与特性管理平台",
+  "source": "github_trending",
+  "source_url": "https://github.com/harness/harness",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "Harness 是一个开源的持续交付与特性管理平台，通过 GitOps 模型简化 CI/CD 流水线的构建与管理，支持金丝雀发布、蓝绿部署和特性开关，帮助工程团队降低发布风险。",
+  "highlights": [
+    "内置金丝雀与蓝绿部署策略",
+    "基于 GitOps 的声明式流水线",
+    "集成特性开关与实验管理"
+  ],
+  "score": 7,
+  "score_reason": "平台工程化程度高，适合中大型团队落地持续交付实践，但学习曲线较陡。",
+  "tags": ["ci-cd", "gitops", "devops", "continuous-delivery", "feature-flags"],
+  "status": "draft",
+  "stars": 26000,
+  "description": "Harness Open Source — a modern continuous delivery platform with built-in feature flags, GitOps workflows, and automated canary/blue-green deployments.",
+  "author": "harness",
+  "published_at": "2026-06-22T08:00:00Z",
+  "analyzed_at": "2026-06-23T10:05:00Z",
+  "raw_ref": "knowledge/raw/github-trending-2026-06-23.json",
+  "metadata": {
+    "language": "Go",
+    "stars_total": 26000
+  }
+}
