@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "id": "github-trending-2026-06-24-001",
+    "title": "calesthio/OpenMontage",
+    "source": "github-trending",
+    "source_id": "calesthio/OpenMontage",
+    "category": "framework",
+    "relevance_score": 0.68,
+    "tags": ["agent-framework", "video-generation", "multi-agent", "workflow-automation", "python"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-003",
+    "title": "mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "github-trending",
+    "source_id": "mukul975/Anthropic-Cybersecurity-Skills",
+    "category": "tool",
+    "relevance_score": 0.71,
+    "tags": ["agent-framework", "security", "prompt-engineering", "anthropic", "claude"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-005",
+    "title": "bytedance/deer-flow",
+    "source": "github-trending",
+    "source_id": "bytedance/deer-flow",
+    "category": "framework",
+    "relevance_score": 0.84,
+    "tags": ["agent-framework", "code-generation", "multi-agent", "python", "bytedance"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-008",
+    "title": "anthropics/claude-plugins-official",
+    "source": "github-trending",
+    "source_id": "anthropics/claude-plugins-official",
+    "category": "tool",
+    "relevance_score": 0.78,
+    "tags": ["agent-framework", "mcp", "prompt-engineering", "claude", "anthropic"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-009",
+    "title": "shanraisshan/claude-code-best-practice",
+    "source": "github-trending",
+    "source_id": "shanraisshan/claude-code-best-practice",
+    "category": "tutorial",
+    "relevance_score": 0.64,
+    "tags": ["prompt-engineering", "agent-framework", "tutorial", "claude"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-010",
+    "title": "revfactory/harness",
+    "source": "github-trending",
+    "source_id": "revfactory/harness",
+    "category": "framework",
+    "relevance_score": 0.74,
+    "tags": ["agent-framework", "multi-agent", "workflow-automation", "prompt-engineering"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-013",
+    "title": "DeusData/codebase-memory-mcp",
+    "source": "github-trending",
+    "source_id": "DeusData/codebase-memory-mcp",
+    "category": "tool",
+    "relevance_score": 0.76,
+    "tags": ["mcp", "agent-framework", "code-generation", "rag", "python"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-014",
+    "title": "NousResearch/hermes-agent",
+    "source": "github-trending",
+    "source_id": "NousResearch/hermes-agent",
+    "category": "framework",
+    "relevance_score": 0.60,
+    "tags": ["agent-framework", "llm", "python"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-015",
+    "title": "affaan-m/ECC",
+    "source": "github-trending",
+    "source_id": "affaan-m/ECC",
+    "category": "framework",
+    "relevance_score": 0.68,
+    "tags": ["agent-framework", "multi-agent", "prompt-engineering", "python"],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  }
+]

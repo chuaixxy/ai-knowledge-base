@@ -1,0 +1,20 @@
+{
+  "id": "github-trending-2026-06-24-014",
+  "title": "NousResearch/hermes-agent",
+  "source": "github-trending",
+  "source_id": "NousResearch/hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "author": "NousResearch",
+  "published_at": null,
+  "raw_description": "The agent that grows with you",
+  "summary": "NousResearch推出的自适应Agent框架，强调与其Hermes模型系列的深度集成和持续学习能力。",
+  "tags": ["agent-framework", "llm", "python"],
+  "category": "framework",
+  "score": 0.60,
+  "audience": "研究者",
+  "analysis_note": "知名AI研究机构NousResearch出品，基于其Hermes模型生态，品牌背书增加了可信度。但当前项目描述极为简略，缺乏具体技术细节，难以深入评估架构设计，需关注后续更新。",
+  "collected_at": "2026-06-24T10:00:23Z",
+  "analyzed_at": "2026-06-24T11:00:00Z",
+  "organized_at": "2026-06-24T11:30:00Z",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-trending-2026-06-24-013",
+  "title": "DeusData/codebase-memory-mcp",
+  "source": "github-trending",
+  "source_id": "DeusData/codebase-memory-mcp",
+  "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+  "author": "DeusData",
+  "published_at": null,
+  "raw_description": "High-performance code intelligence MCP server. Indexes codebases into a persistent, queryable knowledge graph for AI agents.",
+  "summary": "高性能代码智能MCP服务器，将代码库索引为持久化可查询的知识图谱，使AI Agent能够理解代码结构、追踪依赖关系并高效导航大型代码库。",
+  "tags": ["mcp", "agent-framework", "code-generation", "rag", "python"],
+  "category": "tool",
+  "score": 0.76,
+  "audience": "工程师",
+  "analysis_note": "MCP生态中的高质量基础设施，知识图谱索引方案解决了AI Agent处理大型代码库的核心痛点。持久化索引和可查询设计使其具备生产级可用性，对AI编程工具体系有直接增强价值。",
+  "collected_at": "2026-06-24T10:00:23Z",
+  "analyzed_at": "2026-06-24T11:00:00Z",
+  "organized_at": "2026-06-24T11:30:00Z",
+  "status": "published"
+}

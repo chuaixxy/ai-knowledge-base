@@ -1,0 +1,20 @@
+{
+  "id": "github-trending-2026-06-24-009",
+  "title": "shanraisshan/claude-code-best-practice",
+  "source": "github-trending",
+  "source_id": "shanraisshan/claude-code-best-practice",
+  "source_url": "https://github.com/shanraisshan/claude-code-best-practice",
+  "author": "shanraisshan",
+  "published_at": null,
+  "raw_description": "from vibe coding to agentic engineering - practice makes claude perfect",
+  "summary": "Claude Code最佳实践指南，系统梳理从随意性「氛围编程」(vibe coding)到结构化「Agent工程化」(agentic engineering)的全路径方法论与实践技巧。",
+  "tags": ["prompt-engineering", "agent-framework", "tutorial", "claude"],
+  "category": "tutorial",
+  "score": 0.64,
+  "audience": "工程师",
+  "analysis_note": "实践导向的Claude Code进阶指南，'vibe coding到agentic engineering'的演进框架具有方法论价值。虽非原创技术贡献，但填补了Agent编程实践知识缺口，对开发者社区有参考意义。",
+  "collected_at": "2026-06-24T10:00:23Z",
+  "analyzed_at": "2026-06-24T11:00:00Z",
+  "organized_at": "2026-06-24T11:30:00Z",
+  "status": "published"
+}

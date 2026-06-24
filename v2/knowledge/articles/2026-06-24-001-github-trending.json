@@ -1,0 +1,20 @@
+{
+  "id": "github-trending-2026-06-24-001",
+  "title": "calesthio/OpenMontage",
+  "source": "github-trending",
+  "source_id": "calesthio/OpenMontage",
+  "source_url": "https://github.com/calesthio/OpenMontage",
+  "author": "calesthio",
+  "published_at": null,
+  "raw_description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, multi-LLM support, and the OpenMontage Flow language for defining custom pipelines.",
+  "summary": "全球首个开源的Agent化视频制作系统，内置12条处理流水线和52个工具函数，支持多LLM后端切换及自定义流水线DSL（OpenMontage Flow），实现从脚本撰写到成片输出的端到端自动化。",
+  "tags": ["agent-framework", "video-generation", "multi-agent", "workflow-automation", "python"],
+  "category": "framework",
+  "score": 0.68,
+  "audience": "工程师",
+  "analysis_note": "全球首个开源Agent视频制作框架，12条Pipeline和52个Tool展现了较高的工程化程度。自定义Flow DSL使非程序员也能构建视频流水线，但项目社区关注度有限，且视频制作非LLM/Agent核心赛道。",
+  "collected_at": "2026-06-24T10:00:23Z",
+  "analyzed_at": "2026-06-24T11:00:00Z",
+  "organized_at": "2026-06-24T11:30:00Z",
+  "status": "published"
+}
