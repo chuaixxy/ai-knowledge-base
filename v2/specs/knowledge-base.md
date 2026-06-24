@@ -5,7 +5,7 @@
 按需触发，用户一句话启动。流水线串行：
 
 ```
-[Collector] → [Analyzer] → [Organizer] → [Publisher]
+[Collector] → [Analyzer] → [Organizer]
 ```
 
 ## Agent职责
@@ -42,10 +42,6 @@
   - `review`: Analyzer 标注
   - `published`: Organizer 写入 articles 后
   - `archived`: `collected_at` 超过 7 天后自动变更
-
-### Publisher
-- 读 `index.json`，过滤当天条目（按 `collected_at` 日期）
-- 生成摘要报告回复用户
 
 ## JSON 格式规范
 
@@ -121,7 +117,7 @@ knowledge/
 
 - 用户通过 `@collector` 触发全流程
 - 用户可指定采集源：全量 / GitHub / HN / ArXiv
-- 编排 agent 依次调用: `collector` → `analyzer` → `organizer` → `publisher`
+- 编排 agent 依次调用: `collector` → `analyzer` → `organizer`
 
 ## 错误处理
 

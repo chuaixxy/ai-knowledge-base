@@ -5,7 +5,7 @@
 ## 项目定义
 
 **AI Knowledge Base（AI 知识库）** 是一个按需触发的技术情报采集与分析系统。
-通过 4 个 Agent 串行协作（Collector → Analyzer → Organizer → Publisher），
+通过 3 个 Agent 串行协作（Collector → Analyzer → Organizer），
 将分散的技术资讯转化为结构化、可检索的知识条目。
 
 ### 核心价值
@@ -34,8 +34,7 @@
 │   ├── agents/
 │   │   ├── collector.md                   # 采集 Agent
 │   │   ├── analyzer.md                    # 分析 Agent
-│   │   ├── organizer.md                   # 整理 Agent
-│   │   └── publisher.md                   # 发布 Agent
+│   │   └── organizer.md                   # 整理 Agent
 │   └── skills/
 │       ├── github-trending/SKILL.md       # GitHub Trending 采集技能
 │       ├── hackernews/SKILL.md            # Hacker News 采集技能
@@ -120,7 +119,7 @@
 按需触发，用户一句话启动。流水线串行：
 
 ```
-[Collector] → [Analyzer] → [Organizer] → [Publisher]
+[Collector] → [Analyzer] → [Organizer]
 ```
 
 ## Agent 职责
@@ -147,13 +146,9 @@
 - Status 生命周期：`draft` → `review` → `published` → `archived`
 - 自动归档：`collected_at` 超过 7 天后变更为 `archived`
 
-### Publisher
-- 读 `index.json`，过滤当天条目（按 `collected_at` 日期）
-- 生成摘要报告回复用户
-
 ## Agent 协作规则
 
-- **编排方式**：agent 串行调用（Collector → Analyzer → Organizer → Publisher）
+- **编排方式**：agent 串行调用（Collector → Analyzer → Organizer）
 - **数据传递**：文件系统，`knowledge/raw/` → `knowledge/articles/`
 - **上游失败**：任一 agent 失败，整条链路终止，用户重新手动触发
 - **进度追踪**：每个 agent 完成后汇报进度
@@ -168,7 +163,7 @@
 ```
 
 用户可指定采集源：全量 / GitHub / HN / ArXiv。
-编排 agent 依次调用：`collector` → `analyzer` → `organizer` → `publisher`。
+编排 agent 依次调用：`collector` → `analyzer` → `organizer`。
 
 ## 错误处理
 
@@ -195,4 +190,3 @@
 - 运行采集：由 `@collector` 触发
 - 运行分析：由 `@analyzer` 触发
 - 运行整理：由 `@organizer` 触发
-- 运行发布：由 `@publisher` 触发
