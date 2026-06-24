@@ -80,9 +80,9 @@ description: Scrape GitHub Trending repositories for AI/LLM/Agent/ML content via
 2. **JSON 合法**：输出可通过 `JSON.parse()` 解析，符合 `specs/schemas/collector-output.json` 的子集校验（不含 `id`、`source`、`collected_at`、`status`）
 3. **格式规范**：JSON 使用 2 空格缩进，UTF-8 编码
 4. **采集数量**：
-   - 15-30 条为正常范围
-   - 少于 10 条：关键词可能需要扩展，报告给用户
-   - 多于 50 条：过滤条件可能太宽松，提高 Star 阈值
+   - 5-15 条为正常范围（三源合计 15-30）
+   - 少于 5 条：过滤条件可能过严，报告给用户
+   - 多于 15 条：过滤条件可能太宽松
 5. **过滤准确**：与 AI/LLM/Agent/ML 明确无关的仓库不输出
 6. **失败兜底**：任何异常返回 `[]`，不阻塞后续流程
 7. **单次执行 < 10s**
