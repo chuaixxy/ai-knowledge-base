@@ -1,0 +1,24 @@
+{
+  "id": "rss-openai-blog-2026-06-25-061",
+  "title": "OpenAI to acquire Ona",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/openai-to-acquire-ona",
+  "source_url": "https://openai.com/index/openai-to-acquire-ona",
+  "author": "openai-blog",
+  "published_at": "2026-06-11T00:00:00.000Z",
+  "raw_description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "OpenAI计划收购Ona，以扩展Codex功能，提供安全、持久的云端环境，支持企业工作流中的长期运行AI代理。",
+  "tags": [
+    "openai",
+    "codex",
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "收购扩展Codex至企业级AI代理，技术方向明确，但细节有限，评分中等偏上。",
+  "analyzed_at": "2026-06-25T07:57:43.126Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

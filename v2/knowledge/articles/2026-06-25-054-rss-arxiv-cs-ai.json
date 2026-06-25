@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-025",
+  "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.24965",
+  "source_url": "https://arxiv.org/abs/2606.24965",
+  "author": "Anirban Das, Joanne Boisson, Irtaza Khalid, Sumita Garai, Steven Schockaert",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.24965v1 Announce Type: new Abstract: Reasoning about relational structures remains a significant challenge for neural models, particularly when they must systematically apply learned knowledge to problem instances that are harder than those seen in training. Progress is hampered by the difficulty of evaluating such generalization, since a priori, it is rarely clear what makes an instance hard. We study how this issue can be addressed by using large language models (LLMs) to automate benchmark generation, learning to produce increasingly challenging instances in an end-to-end manner. Concretely, given a world parametrized by Datalog rules, and an Edge Transformer as the reasoning evaluator, we use LLM-driven evolutionary search (based on FunSearch) and autonomous agentic search to discover sampling functions that yield hard problem instances. We also show that the Edge Transformer can be improved using this data such that it generalizes well to further data perturbations. Fin",
+  "collected_at": "2026-06-25T07:54:19.584Z",
+  "summary": "本文提出利用大语言模型自动生成基准测试，通过进化搜索和自主智能体搜索发现困难实例，以评估和提升神经关系推理器的泛化能力。",
+  "tags": [
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性地将LLM用于自动化基准生成，解决关系推理泛化评估难题，技术深度较高，但应用场景较窄。",
+  "analyzed_at": "2026-06-25T07:56:14.310Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

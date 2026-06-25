@@ -1,0 +1,22 @@
+{
+  "id": "rss-meituan-2026-06-25-122",
+  "title": "LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严”",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/04/07/LongCat-Flash-Prover.html",
+  "source_url": "https://tech.meituan.com/2026/04/07/LongCat-Flash-Prover.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "在常规的数学解题中，模型只需要“答对最终数值”即可，但数学定理证明不同，它要求极度严苛的逻辑链条，任何一句自然语言的模棱两可，都可能导致整个证明的崩塌。那么，如何让 AI 从“猜答案”走向“严谨证明”，成为复杂推理具有挑战的课题。为了解答这个问题，我们开源了专门用于数学形式化与定理证明的模型 —— LongCat-Flash-Prover。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团开源了LongCat-Flash-Prover模型，专门用于数学形式化与定理证明，旨在让AI从猜答案转向严谨的逻辑推理，解决复杂推理挑战。",
+  "tags": [
+    "ai"
+  ],
+  "category": "framework",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "关键技术突破，聚焦AI严谨推理，开源贡献大，但应用场景较窄。",
+  "analyzed_at": "2026-06-25T08:00:17.766Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

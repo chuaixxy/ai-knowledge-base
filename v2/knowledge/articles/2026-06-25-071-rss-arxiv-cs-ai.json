@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-042",
+  "title": "Cliff Tokens: Identifying Single-Token Failure Triggers in LLM Mathematical Reasoning",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25524",
+  "source_url": "https://arxiv.org/abs/2606.25524",
+  "author": "Jaeyong Ko, Pilsung Kang, Yukyung Lee",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25524v1 Announce Type: new Abstract: Large language models (LLMs) reach high accuracy in mathematical reasoning, but individual traces on the same problem diverge; some arrive at the correct answer while others fail. Prior work analyzes failure at the step, chunk, or sentence level, or at tokens where failure has already occurred. Neither identifies the precise token that triggers the shift toward failure. We introduce the cliff token, a token where the token-wise potential drops significantly under an adaptive threshold that scales with the local token-wise potential, based on a one-sided two-proportion z-test. Across seven models and three mathematical reasoning benchmarks (GSM1K, MATH500, AIME 2025), cliff tokens act as failure triggers; deleting the first cliff token and resampling recovers pass@64 to 1.0, while keeping it limits recovery to between 0.71 and 1.00. We further introduce a cliff taxonomy of deterministic, uncertain, and sampled-off cliffs, defined by greedy",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "本文提出“悬崖令牌”概念，通过令牌级潜在性下降识别LLM数学推理中触发失败的单个令牌，并验证其作为失败触发器的有效性。",
+  "tags": [
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性地定位到单个令牌级失败触发点，方法严谨，实验充分，但应用场景较窄。",
+  "analyzed_at": "2026-06-25T07:56:59.862Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

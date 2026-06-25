@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-25-053",
+  "title": "Improving health intelligence in ChatGPT",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+  "source_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+  "author": "openai-blog",
+  "published_at": "2026-06-18T11:00:00.000Z",
+  "raw_description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "OpenAI 通过 GPT-5.5 Instant 提升 ChatGPT 在健康领域的推理、上下文理解、沟通清晰度，并引入医生评估机制，增强健康智能响应。",
+  "tags": [
+    "chatgpt",
+    "gpt-55"
+  ],
+  "category": "other",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "聚焦健康领域应用改进，技术细节有限，但具有实际价值，评分中等偏上。",
+  "analyzed_at": "2026-06-25T07:57:25.261Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

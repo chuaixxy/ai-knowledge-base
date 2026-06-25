@@ -1,0 +1,23 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-088",
+  "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/cross-origin-storage",
+  "source_url": "https://huggingface.co/blog/cross-origin-storage",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-23T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "本文介绍了在Transformers.js中实验性地实现跨域存储API，旨在解决Web环境下模型和数据的跨域加载与缓存问题，提升浏览器端AI应用的性能和可用性。",
+  "tags": [
+    "transformersjs",
+    "web-ai"
+  ],
+  "category": "framework",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "针对Web端AI部署的实用优化，技术深度适中，但属于实验性功能，影响范围有限。",
+  "analyzed_at": "2026-06-25T07:58:53.766Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

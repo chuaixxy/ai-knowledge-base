@@ -1,0 +1,23 @@
+{
+  "id": "rss-meituan-2026-06-25-119",
+  "title": "用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/05/07/Agent-AI-Coding.html",
+  "source_url": "https://tech.meituan.com/2026/05/07/Agent-AI-Coding.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "当 90% 以上代码由 AI 生成，决定系统走向的不是谁写得更快，而是约束 AI 的能力。没有统一规范，AI 只会成倍放大混乱。本文基于 31 万行代码重构实践，分享我们如何用 Agent 评测思路管理 AI Coding——通过技术债梳理、建设Rule、重构 SOP 和 Pre-PR 机制，把重构从高成本专项变成随迭代持续推进的日常动作。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团基于31万行代码重构实践，提出用Agent评测思路管理AI Coding，通过技术债梳理、Rule建设、重构SOP和Pre-PR机制，将重构从高成本专项变为日常迭代动作。",
+  "tags": [
+    "ai-coding",
+    "agent"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "实践性强，聚焦AI生成代码的质量管控，但技术细节未深入，评分0.75。",
+  "analyzed_at": "2026-06-25T08:00:09.742Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

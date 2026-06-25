@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-039",
+  "title": "Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25396",
+  "source_url": "https://arxiv.org/abs/2606.25396",
+  "author": "Kaicheng Shen, Lingyu Li, Wen Wu, Yan Teng, Liang He, Yingchun Wang",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25396v1 Announce Type: new Abstract: AI companions powered by large language models increasingly interact with cognition-developing users, including children and adolescents, creating risks that may accumulate over time. Existing safety evaluations largely rely on single-turn or short-session tests, which cannot capture risks that emerge only through prolonged interaction. To address this gap, we propose TSJ (Theater-Stage-Judge), a longitudinal framework combining persona-driven user simulation, dynamic psychological-state updating and retrospective evaluation. We evaluate six mainstream models across four developmental stages, twenty-four risk dimensions and three psychological-vulnerability personas, covering 12,960 simulated person-day interactions. TSJ shows that short-horizon testing systematically underestimates developmental risks, for which TSJ yields a stable risk estimate only after 140 turns within prolonged simulated relationships. Applying TSJ further identifie",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出TSJ框架，通过长期模拟评估AI伴侣对认知发展用户（如儿童）的累积风险，发现短期测试严重低估风险。",
+  "tags": [
+    "ai"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对AI伴侣长期交互风险提出创新评估框架，实验设计严谨，但尚未涉及实际部署验证。",
+  "analyzed_at": "2026-06-25T07:56:52.854Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

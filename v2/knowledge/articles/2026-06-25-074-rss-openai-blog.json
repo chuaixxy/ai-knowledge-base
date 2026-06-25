@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-25-046",
+  "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/gpt-5-immunology-mystery",
+  "source_url": "https://openai.com/index/gpt-5-immunology-mystery",
+  "author": "openai-blog",
+  "published_at": "2026-06-23T17:00:00.000Z",
+  "raw_description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+  "collected_at": "2026-06-25T07:54:19.973Z",
+  "summary": "GPT-5 Pro帮助免疫学家Derya Unutmaz解决了一个持续3年的免疫学谜题，揭示了T细胞行为的新见解，有望推动癌症和自身免疫研究。",
+  "tags": [
+    "gpt-5",
+    "ai"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "展示了LLM在科学发现中的实际价值，但技术细节有限，偏向应用案例。",
+  "analyzed_at": "2026-06-25T07:57:10.523Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

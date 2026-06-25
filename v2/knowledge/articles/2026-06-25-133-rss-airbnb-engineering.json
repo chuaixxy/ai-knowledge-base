@@ -1,0 +1,22 @@
+{
+  "id": "rss-airbnb-engineering-2026-06-25-126",
+  "title": "When history fails you, borrow from geography",
+  "source": "rss-airbnb-engineering",
+  "source_id": "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4",
+  "source_url": "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4",
+  "author": "Harrison Katz",
+  "published_at": "2026-06-02T17:01:04.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:26.090Z",
+  "summary": "Airbnb工程团队分享当历史数据不足时，如何利用地理空间数据来改进机器学习模型，提升预测准确性。",
+  "tags": [
+    "airbnb"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "文章聚焦于地理数据在ML中的应用，技术深度适中，对工程实践有参考价值。",
+  "analyzed_at": "2026-06-25T08:00:27.746Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

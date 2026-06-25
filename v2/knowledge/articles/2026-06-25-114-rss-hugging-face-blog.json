@@ -1,0 +1,23 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-097",
+  "title": "Agentic Resource Discovery: Let agents search",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+  "source_url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-17T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "Hugging Face发布Agentic Resource Discovery，让AI代理能够自主搜索和发现资源，提升智能体自主性和效率。",
+  "tags": [
+    "ai-agent",
+    "hugging-face"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "有价值的工具发布，提升Agent自主搜索能力，但技术细节未明，创新性一般。",
+  "analyzed_at": "2026-06-25T07:59:14.139Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

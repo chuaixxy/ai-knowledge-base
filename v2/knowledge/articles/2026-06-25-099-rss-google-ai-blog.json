@@ -1,0 +1,23 @@
+{
+  "id": "rss-google-ai-blog-2026-06-25-081",
+  "title": "Gemini 3.5: frontier intelligence with action",
+  "source": "rss-google-ai-blog",
+  "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "author": "Koray Kavukcuoglu CTO, Google DeepMind and Chief AI Architect, Google",
+  "published_at": "2026-05-19T17:45:00.000Z",
+  "raw_description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp\">At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+  "collected_at": "2026-06-25T07:54:20.267Z",
+  "summary": "谷歌在I/O大会上发布Gemini 3.5系列模型，结合前沿智能与行动能力，是重要的模型更新。",
+  "tags": [
+    "gemini",
+    "google-io"
+  ],
+  "category": "research",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "顶级模型发布，技术突破显著，但描述简短，缺乏具体细节。",
+  "analyzed_at": "2026-06-25T07:58:31.039Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

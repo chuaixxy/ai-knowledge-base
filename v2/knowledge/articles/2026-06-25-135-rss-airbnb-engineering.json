@@ -1,0 +1,22 @@
+{
+  "id": "rss-airbnb-engineering-2026-06-25-128",
+  "title": "Viaduct 1.0 and the future of Airbnb’s data mesh",
+  "source": "rss-airbnb-engineering",
+  "source_id": "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4",
+  "source_url": "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4",
+  "author": "Adam Miskiewicz",
+  "published_at": "2026-05-13T17:01:01.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:26.090Z",
+  "summary": "Airbnb 发布了数据网格平台 Viaduct 1.0，旨在解决数据治理、可发现性和可访问性问题，并展望了未来数据网格的发展方向。",
+  "tags": [
+    "airbnb"
+  ],
+  "category": "framework",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "文章聚焦数据工程而非AI/LLM，相关性一般，但数据网格对AI数据管理有间接价值。",
+  "analyzed_at": "2026-06-25T08:00:32.523Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

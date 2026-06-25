@@ -1,0 +1,22 @@
+{
+  "id": "rss-openai-blog-2026-06-25-057",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/deployment-simulation",
+  "source_url": "https://openai.com/index/deployment-simulation",
+  "author": "openai-blog",
+  "published_at": "2026-06-16T00:00:00.000Z",
+  "raw_description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "OpenAI 提出部署模拟方法，利用真实对话数据在发布前预测 AI 模型行为，提升安全性和评估准确性。",
+  "tags": [
+    "ai"
+  ],
+  "category": "research",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "方法创新，聚焦安全评估，但未开源或提供具体技术细节，实用性待验证。",
+  "analyzed_at": "2026-06-25T07:57:34.727Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

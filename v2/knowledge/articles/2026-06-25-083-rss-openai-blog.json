@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-25-055",
+  "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/ai-chemist-improves-reaction",
+  "source_url": "https://openai.com/index/ai-chemist-improves-reaction",
+  "author": "openai-blog",
+  "published_at": "2026-06-17T10:00:00.000Z",
+  "raw_description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "OpenAI与Molecule.one合作，利用近自主AI化学家（基于GPT-5.4）优化药物合成中的关键反应，推动药物化学研究进步。",
+  "tags": [
+    "ai",
+    "gpt-54"
+  ],
+  "category": "research",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "展示了AI在药物化学中的实际应用，技术突破显著，但依赖未公开的GPT-5.4细节。",
+  "analyzed_at": "2026-06-25T07:57:30.624Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

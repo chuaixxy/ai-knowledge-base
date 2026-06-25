@@ -1,0 +1,22 @@
+{
+  "id": "rss-meituan-2026-06-25-116",
+  "title": "ACL 2026美团论文精选：从能力评测到推理优化，构建生成新范式",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/06/05/ACL-2026.html",
+  "source_url": "https://tech.meituan.com/2026/06/05/ACL-2026.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "ACL是计算语言学和自然语言处理（NLP）领域的国际顶级学术会议，本文解读了被 ACL 顶会收录的其中 6 篇论文，技术方向覆盖大模型评测、复杂流程推理、竞赛级数学思维优化、强化学习优化、生成式推荐等领域。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团解读ACL 2026收录的6篇论文，涵盖大模型评测、复杂推理、数学思维优化、强化学习及生成式推荐，展示NLP前沿技术。",
+  "tags": [
+    "acl-2026"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "顶级会议论文解读，覆盖多个前沿方向，技术深度高，对AI/LLM领域有重要参考价值。",
+  "analyzed_at": "2026-06-25T08:00:02.236Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

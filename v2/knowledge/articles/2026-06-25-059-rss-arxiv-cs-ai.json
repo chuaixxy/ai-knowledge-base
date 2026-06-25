@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-030",
+  "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25161",
+  "source_url": "https://arxiv.org/abs/2606.25161",
+  "author": "Tianyu Yang, Sudipta Paul, Vijay Srinivasan, Vivek Kulkarni, Srinivas Chappidi",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25161v1 Announce Type: new Abstract: Large language model (LLM) agents rely on long-term memory to support extended interactions and personalized assistance beyond finite context windows. Existing memory agents actively update external memory through generated write, revise, and delete operations, but these updates may omit important information, corrupt existing memory, or introduce unsupported hallucinated content. Once stored, such errors become persistent system-state failures that can affect future reasoning and generation. In this paper, we propose TrustMem, a framework designed to improve the trustworthiness of memory consolidation. TrustMem relies on a Memory Transition Verifier to evaluate the transition process of memory updates in terms of coverage, preservation, and faithfulness. It further constructs preference pairs among candidate updates under the same memory state, enabling preference-guided reinforcement learning to directly optimize memory updating behavio",
+  "collected_at": "2026-06-25T07:54:19.584Z",
+  "summary": "提出TrustMem框架，通过记忆转换验证器评估LLM智能体长期记忆更新的覆盖性、保留性和忠实性，并利用偏好强化学习优化记忆更新行为，提升记忆整合的可信度。",
+  "tags": [
+    "llm-agent"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对LLM Agent记忆更新中的错误累积问题提出创新解决方案，技术深度高，但尚未开源或展示实验效果。",
+  "analyzed_at": "2026-06-25T07:56:27.186Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

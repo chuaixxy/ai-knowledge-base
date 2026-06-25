@@ -1,0 +1,24 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-100",
+  "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/github-ci-hf-jobs",
+  "source_url": "https://huggingface.co/blog/github-ci-hf-jobs",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-09T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "本文介绍如何将GitHub CI工作流迁移到Hugging Face Jobs，利用其GPU资源进行模型训练和部署，简化MLOps流程。",
+  "tags": [
+    "github-ci",
+    "hugging-face",
+    "mlops"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "实用工具指南，聚焦CI迁移，技术深度适中，对ML工程团队有参考价值。",
+  "analyzed_at": "2026-06-25T07:59:20.927Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

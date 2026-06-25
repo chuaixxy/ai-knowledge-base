@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-25-052",
+  "title": "New usage analytics and updated spend controls for enterprises",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+  "source_url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+  "author": "openai-blog",
+  "published_at": "2026-06-18T17:00:00.000Z",
+  "raw_description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "OpenAI为ChatGPT Enterprise推出新的使用分析和支出控制功能，帮助企业管理成本并自信地扩展AI应用。",
+  "tags": [
+    "openai",
+    "chatgpt-enterprise"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "企业级功能更新，实用性强但技术深度一般，适合关注AI部署管理的读者。",
+  "analyzed_at": "2026-06-25T07:57:22.774Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

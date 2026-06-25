@@ -1,0 +1,23 @@
+{
+  "id": "rss-the-verge-ai-2026-06-25-106",
+  "title": "Figma now has AI motion graphics and shader tools",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+  "source_url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-06-24T16:15:00.000Z",
+  "raw_description": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in [&#8230;]",
+  "collected_at": "2026-06-25T07:54:20.960Z",
+  "summary": "Figma在Config大会上推出AI驱动的动态图形和着色器工具，优化画布以支持全栈开发，通过AI代理和工具自动化繁琐任务，提升创意效率。",
+  "tags": [
+    "figma",
+    "ai"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "AI在设计工具中的应用有价值，但非LLM核心突破，技术深度一般，适合设计工程师。",
+  "analyzed_at": "2026-06-25T07:59:34.651Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-040",
+  "title": "BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25400",
+  "source_url": "https://arxiv.org/abs/2606.25400",
+  "author": "Yangxuan Zhou, Sha Zhao, Jiquan Wang, Shijian Li, Gang Pan",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25400v1 Announce Type: new Abstract: Brain-Computer Interfaces (BCIs) and brain signal understanding are pivotal for clinical health and next-generation interactions. Despite this significance, its widespread adoption in real-world scenarios remains restricted, primarily because current analytical paradigms lack sufficient agentic intelligence. First, existing methodologies impose prohibitive technical barriers, requiring extensive specialized expertise. Second, they remain inherently static and task-specific, failing to execute the complex, long-horizon workflows essential for real-world deployment. To accelerate the democratization of brain signal understanding, we draw inspiration from Large Language Models (LLMs) to introduce BrainAgent, an LLM-driven multi-agent framework designed to ground abstract natural language intent into rigorous, executable, and end-to-end processing pipelines. BrainAgent employs a hierarchical architecture where a central supervisor orchestrate",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出BrainAgent，一个由大语言模型驱动的多智能体框架，用于自主脑信号理解，通过分层架构将自然语言意图转化为可执行处理流程，降低脑机接口技术门槛。",
+  "tags": [
+    "llm"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性地将LLM与多智能体结合应用于脑信号分析，降低专业门槛，但尚处早期阶段，实际效果待验证。",
+  "analyzed_at": "2026-06-25T07:56:55.059Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

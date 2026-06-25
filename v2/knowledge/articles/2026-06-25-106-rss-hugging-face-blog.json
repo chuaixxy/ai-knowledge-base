@@ -1,0 +1,24 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-089",
+  "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+  "source_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-22T13:18:56.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "PP-OCRv6是百度飞桨推出的多语言OCR模型，支持50种语言，参数规模从1.5M到34.5M，已在Hugging Face发布。",
+  "tags": [
+    "ocr",
+    "paddlepaddle",
+    "hugging-face"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "实用的OCR工具，多语言支持好，但非LLM核心领域，技术突破一般。",
+  "analyzed_at": "2026-06-25T07:58:55.672Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

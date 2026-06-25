@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-25-063",
+  "title": "How an astrophysicist uses Codex to help simulate black holes",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/using-codex-to-simulate-black-holes",
+  "source_url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+  "author": "openai-blog",
+  "published_at": "2026-06-11T00:00:00.000Z",
+  "raw_description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "天体物理学家Chi-kwan Chan利用OpenAI Codex构建黑洞模拟，帮助科学家研究极端物理并检验爱因斯坦广义相对论。",
+  "tags": [
+    "codex",
+    "ai"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "展示了LLM在科学模拟中的实际应用，但技术深度有限，偏向案例分享。",
+  "analyzed_at": "2026-06-25T07:57:46.845Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

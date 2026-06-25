@@ -1,0 +1,20 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-007",
+  "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://arxiv.org/abs/2606.16140",
+  "source_url": "https://arxiv.org/abs/2606.16140",
+  "author": "arxiv.org via Yogthos",
+  "published_at": "2026-06-23T14:17:13.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/jrj4o3/vibethinker_3b_exploring_frontier\">Comments</a></p>",
+  "collected_at": "2026-06-25T07:54:19.433Z",
+  "summary": "VibeThinker-3B探索小型语言模型在可验证推理方面的前沿能力，提出一种3B参数模型，旨在提升推理准确性和可解释性。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.7,
+  "audience": "研究员",
+  "analysis_note": "聚焦小模型推理前沿，有研究价值，但规模较小，实际应用待验证。",
+  "analyzed_at": "2026-06-25T07:55:30.273Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

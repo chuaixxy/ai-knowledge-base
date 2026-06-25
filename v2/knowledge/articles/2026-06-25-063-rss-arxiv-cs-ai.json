@@ -1,0 +1,23 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-034",
+  "title": "Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25198",
+  "source_url": "https://arxiv.org/abs/2606.25198",
+  "author": "Antonis Antoniades, Deepak Nathani, Ritam Saha, Alfonso Amayuelas, Ivan Bercovich, Zhaotian Weng, Vignesh Baskaran, Kunal Bhatia, William Yang Wang",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25198v1 Announce Type: new Abstract: Autonomous AI Research promises to accelerate the scientific progress of machine learning. To realise this goal, current Large Language Model (LLM)-based agents need to go beyond just writing code, to mastering the exploration of simultaneously performant, diverse and novel ideas. To this end, we introduce Heuresis, a framework that abstracts the research pipeline into a set of general and composable primitives, enabling open-ended scientific exploration in machine learning research. We implement six search strategies: a greedy baseline, two archive-based (MAP-Elites, Go-Explore), one evolutionary (Islands), and two divergent (Curiosity, Omni), and evaluate them across three axes (Quality, Diversity, and Novelty) on three domains (LLM Pretraining, On-Policy RL, and Model Unlearning), totalling 3,222 scored runs. We find that completely novel ideas are rare. No idea across our scored runs is rated as \"Original\", and only a few achieve only",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出Heuresis框架，将AI研究流程抽象为可组合原语，实现六种搜索策略，在三个领域评估质量、多样性和新颖性，发现完全新颖的想法罕见。",
+  "tags": [
+    "ai",
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "系统化探索AI研究自动化，实验设计严谨，但新颖性发现有限，实用性待验证。",
+  "analyzed_at": "2026-06-25T07:56:36.908Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

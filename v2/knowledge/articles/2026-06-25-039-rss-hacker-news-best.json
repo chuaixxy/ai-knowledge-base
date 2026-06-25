@@ -1,0 +1,23 @@
+{
+  "id": "rss-hacker-news-best-2026-06-25-002",
+  "title": "RubyLLM: A Ruby framework for all major AI providers",
+  "source": "rss-hacker-news-best",
+  "source_id": "https://rubyllm.com/",
+  "source_url": "https://rubyllm.com/",
+  "author": "doener",
+  "published_at": "2026-06-24T14:41:41.000Z",
+  "raw_description": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 380 # Comments: 63",
+  "collected_at": "2026-06-25T07:54:18.228Z",
+  "summary": "RubyLLM是一个Ruby框架，提供统一接口以接入所有主流AI提供商，简化多模型集成。",
+  "tags": [
+    "ruby",
+    "ai"
+  ],
+  "category": "framework",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "针对Ruby生态的实用框架，但非技术突破，评分中等偏上。",
+  "analyzed_at": "2026-06-25T07:55:18.782Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

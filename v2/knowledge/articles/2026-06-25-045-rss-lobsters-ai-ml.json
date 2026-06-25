@@ -1,0 +1,20 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-010",
+  "title": "A fully local voice assistant setup",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://blog.platypush.tech/article/Local-voice-assistant",
+  "source_url": "https://blog.platypush.tech/article/Local-voice-assistant",
+  "author": "blog.platypush.tech by blacklight",
+  "published_at": "2026-06-22T22:25:06.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/luosjw/fully_local_voice_assistant_setup\">Comments</a></p>",
+  "collected_at": "2026-06-25T07:54:19.434Z",
+  "summary": "介绍一个完全本地化的语音助手搭建方案，强调隐私保护和离线运行，无需依赖云端服务。",
+  "tags": [],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "本地语音助手方案有实用价值，但技术深度一般，适合对隐私敏感的开发者。",
+  "analyzed_at": "2026-06-25T07:55:38.737Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

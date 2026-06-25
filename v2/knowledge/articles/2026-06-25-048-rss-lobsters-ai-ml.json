@@ -1,0 +1,22 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-014",
+  "title": "Reverse Engineering the Qualcomm NPU Compiler",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://datavorous.github.io/writing/qairt/",
+  "source_url": "https://datavorous.github.io/writing/qairt/",
+  "author": "datavorous.github.io via mrunix",
+  "published_at": "2026-06-20T11:49:16.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/lhn5w5/reverse_engineering_qualcomm_npu\">Comments</a></p>",
+  "collected_at": "2026-06-25T07:54:19.434Z",
+  "summary": "逆向工程高通NPU编译器，揭示其内部工作原理和优化策略，为AI硬件开发提供参考。",
+  "tags": [
+    "npu"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "技术深度较高，涉及硬件编译器逆向，但领域相关性一般，非LLM核心。",
+  "analyzed_at": "2026-06-25T07:55:47.242Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}
