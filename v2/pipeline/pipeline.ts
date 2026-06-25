@@ -39,6 +39,7 @@ import {
 } from "node:fs";
 import { resolve, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { parse as parseYAML } from "yaml";
 import { chatWithTry, getProvider, type ChatMessage } from "./model-client.ts";
 
 // ---------------------------------------------------------------------------
@@ -56,11 +57,12 @@ const ARTICLES_DIR = join(ROOT_DIR, "knowledge", "articles");
 const INDEX_FILE = join(ARTICLES_DIR, "index.json");
 
 /** RSS 源配置文件路径。 */
-const SOURCES_CONFIG_FILE = join(__dirname, "sources.json");
+const SOURCES_CONFIG_FILE = join(__dirname, "rss_sources.yaml");
 
-/** 内置兜底 RSS 源，sources.json 缺失时使用。 */
+/** 内置兜底 RSS 源，rss_sources.yaml 缺失时使用。 */
 const BUILTIN_RSS_FEEDS: RSSFeedConfig[] = [
-  { name: "arxiv-ai",    url: "https://export.arxiv.org/rss/cs.AI",      label: "Arxiv CS.AI" },
+  { slug: "arxiv-cs-ai",    name: "arXiv cs.AI",        url: "https://rss.arxiv.org/rss/cs.AI",        category: "research"    },
+  { slug: "huggingface",    name: "Hugging Face Blog",  url: "https://huggingface.co/blog/feed.xml",   category: "open-source" },
 ];
 
 /** GitHub Search API 查询词（AI 相关话题）。 */
@@ -74,19 +76,30 @@ const GITHUB_QUERIES = [
 // Types
 // ---------------------------------------------------------------------------
 
-/** sources.json 中单条 RSS 源的配置。 */
+/** 流水线内部使用的 RSS 源配置（从 rss_sources.yaml 解析后标准化）。 */
 interface RSSFeedConfig {
-  /** Feed 唯一名称，用于 source 字段和文件命名。 */
+  /** slug，用于 source 字段和文件命名（由 name 经 toSlug() 推导）。 */
+  slug: string;
+  /** 可读名称，用于日志展示（对应 YAML 的 name 字段）。 */
   name: string;
   /** RSS/Atom 订阅 URL。 */
   url: string;
-  /** 可读标签，仅用于日志展示。 */
-  label?: string;
+  /** 分类标签。 */
+  category?: string;
 }
 
-/** sources.json 的顶层结构。 */
+/** rss_sources.yaml 原始条目结构。 */
+interface YAMLSource {
+  name: string;
+  url: string;
+  category?: string;
+  enabled?: boolean;
+  note?: string;
+}
+
+/** rss_sources.yaml 顶层结构。 */
 interface SourcesConfig {
-  rss?: RSSFeedConfig[];
+  sources?: YAMLSource[];
 }
 
 /** 采集阶段的原始条目。 */
@@ -324,6 +337,37 @@ function toSlug(s: string): string {
 }
 
 /**
+ * 当 toSlug(name) 为空时（如纯中文名），从 URL 中推导 slug。
+ *
+ * 策略：
+ *   1. 取最后一个有意义的路径段（排除 feed/rss/atom）
+ *   2. 回退到主域名第一段（去掉 www/blog/tech/eng 前缀）
+ *
+ * Args:
+ *   url: RSS 订阅地址。
+ *
+ * Returns:
+ *   非空 slug 字符串，无法推导时返回 "unknown"。
+ */
+function fallbackSlug(url: string): string {
+  const trivial = new Set(["feed", "rss", "atom", "feeds"]);
+  try {
+    const { hostname, pathname } = new URL(url);
+    // 优先取路径中最后一个非通用段（如 MP_WXS_3253632141）
+    const segments = pathname.split("/").filter(Boolean);
+    for (let i = segments.length - 1; i >= 0; i--) {
+      const s = toSlug(segments[i].replace(/\.[^.]+$/, "")); // 去扩展名
+      if (s && !trivial.has(s)) return s;
+    }
+    // 回退到主域名（去前缀后取第一段）
+    const domain = hostname.replace(/^(www|blog|tech|eng|engineering)\./i, "");
+    return toSlug(domain.split(".")[0]) || "unknown";
+  } catch {
+    return "unknown";
+  }
+}
+
+/**
  * 生成文章文件名，格式：{date}-{seq:03d}-{sourceSlug}.json。
  */
 function articleFileName(date: string, seq: number, source: string): string {
@@ -528,43 +572,52 @@ async function parseFeed(
 }
 
 /**
- * 从 sources.json 加载 RSS 源配置，文件缺失或解析失败时回退到内置列表。
+ * 从 rss_sources.yaml 加载并标准化 RSS 源配置。
  *
- * sources.json 格式：
- *   { "rss": [{ "name": "my-feed", "url": "https://...", "label": "可选标签" }] }
+ * - 仅返回 enabled: true 的条目
+ * - name 字段经 toSlug() 转换为 slug 用于文件命名
+ * - 文件缺失或解析失败时回退到内置列表
  *
  * Returns:
- *   RSSFeedConfig 数组。
+ *   RSSFeedConfig 数组（已过滤 disabled 源）。
  */
 function loadRSSFeeds(): RSSFeedConfig[] {
   if (!existsSync(SOURCES_CONFIG_FILE)) {
-    log.verbose(`sources.json 不存在 (${SOURCES_CONFIG_FILE})，使用内置 RSS 源`);
+    log.verbose(`rss_sources.yaml 不存在，使用内置 RSS 源`);
     return BUILTIN_RSS_FEEDS;
   }
 
   try {
     const raw = readFileSync(SOURCES_CONFIG_FILE, "utf-8");
-    const config = JSON.parse(raw) as SourcesConfig;
-    const feeds = config.rss;
+    const config = parseYAML(raw) as SourcesConfig;
+    const entries = config.sources;
 
-    if (!Array.isArray(feeds) || feeds.length === 0) {
-      log.warn("sources.json 中 rss 字段为空或格式错误，使用内置 RSS 源");
+    if (!Array.isArray(entries) || entries.length === 0) {
+      log.warn("rss_sources.yaml 中 sources 字段为空或格式错误，使用内置 RSS 源");
       return BUILTIN_RSS_FEEDS;
     }
 
-    // 过滤掉缺少必填字段的条目
-    const valid = feeds.filter((f) => {
-      if (!f.name || !f.url) {
-        log.warn(`RSS 源配置缺少 name 或 url，已跳过: ${JSON.stringify(f)}`);
-        return false;
+    const feeds: RSSFeedConfig[] = [];
+    for (const entry of entries) {
+      if (!entry.name || !entry.url) {
+        log.warn(`RSS 源配置缺少 name 或 url，已跳过: ${JSON.stringify(entry)}`);
+        continue;
       }
-      return true;
-    });
+      if (entry.enabled === false) continue;   // 明确 disabled 的跳过
 
-    log.verbose(`从 sources.json 加载了 ${valid.length} 个 RSS 源`);
-    return valid.length > 0 ? valid : BUILTIN_RSS_FEEDS;
+      const nameSlug = toSlug(entry.name);
+      feeds.push({
+        slug: nameSlug || fallbackSlug(entry.url),
+        name: entry.name,
+        url:  entry.url,
+        category: entry.category,
+      });
+    }
+
+    log.verbose(`从 rss_sources.yaml 加载了 ${feeds.length} 个已启用 RSS 源`);
+    return feeds.length > 0 ? feeds : BUILTIN_RSS_FEEDS;
   } catch (err) {
-    log.warn(`sources.json 解析失败: ${err instanceof Error ? err.message : String(err)}，使用内置 RSS 源`);
+    log.warn(`rss_sources.yaml 解析失败: ${err instanceof Error ? err.message : String(err)}，使用内置 RSS 源`);
     return BUILTIN_RSS_FEEDS;
   }
 }
@@ -572,7 +625,7 @@ function loadRSSFeeds(): RSSFeedConfig[] {
 /**
  * 从所有配置的 RSS 源采集内容。
  *
- * RSS 源列表优先读取 pipeline/sources.json，找不到时回退到内置列表。
+ * RSS 源列表优先读取 pipeline/rss_sources.yaml，找不到时回退到内置列表。
  *
  * Args:
  *   limit: 每源最大条数。
@@ -586,9 +639,8 @@ async function collectRSS(limit: number): Promise<RawItem[]> {
   const allItems: RawItem[] = [];
 
   for (const feed of feeds) {
-    const label = feed.label ?? feed.name;
-    log.verbose(`解析 RSS: ${label} (${feed.url})`);
-    const items = await parseFeed(feed.name, feed.url, limit, dateStr, allItems.length);
+    log.verbose(`解析 RSS: ${feed.name} (${feed.url})`);
+    const items = await parseFeed(feed.slug, feed.url, limit, dateStr, allItems.length);
     allItems.push(...items);
   }
 

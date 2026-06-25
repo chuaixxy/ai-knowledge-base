@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rss-arxiv-ai-2026-06-25-001",
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23927",
+    "source_url": "https://arxiv.org/abs/2606.23927",
+    "author": "Yarin Yerushalmi Levi, Roy Betser, Amit Giloni, Lidor Erez, Itay Gershon, Oren Rachmil, Sindhu Padakandla, Roman Vainshtein",
+    "published_at": "2026-06-24T04:00:00.000Z",
+    "raw_description": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming that enables unified evaluations across diverse agentic architectures. Building on a novel hierarchical representation, RIFT-Bench operates in two automated phases: Discovery, which extracts system structure, and Scanning, which deploys adaptive adversarial attacks and produces a comprehensive evaluation report. It evaluates the examined system itself, leveraging a broad set of dynamically adaptable adversarial probes across diverse attack vectors and objectives. We demonstrate the effectiveness of",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-002",
+    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23938",
+    "source_url": "https://arxiv.org/abs/2606.23938",
+    "author": "Xiangbo Gao, Xiukun Huang, Boyu Lu, Junge Zhang, Mengjie Mao, Jiachen Li, Wei Xiong, Zhengzhong Tu",
+    "published_at": "2026-06-24T04:00:00.000Z",
+    "raw_description": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded reasoning traces extracted directly from classical rule-based planners. Our key observation is that rule-based planners are symbolic AI systems that already function as executable reasoning engines: they reason about active safety constraints, search over candidate maneuvers, and select a final trajectory. We instrument these planners in simulation to capture both the executed trajectory and the internal decision trace at each rule-evaluation step. Each trace is serialized into structured rule-grou",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-003",
+    "title": "Critique of Agent Model",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23991",
+    "source_url": "https://arxiv.org/abs/2606.23991",
+    "author": "Eric Xing, Mingkai Deng, Jinyu Hou",
+    "published_at": "2026-06-24T04:00:00.000Z",
+    "raw_description": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both for building capable systems and for understanding whether and what to fear. Drawing on Descartes' grounding of agency in independent thought, and on portrayals of autonomous beings in science fiction, we survey the current landscape of AI agents, and analyze agent architectures along five dimensions: goal, identity, decision-making, self-regulation, and learning. Specifically, we argue that genuine agency requires these structures to be \\emph{internalized within the system itself} rather than a",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-004",
+    "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.24010",
+    "source_url": "https://arxiv.org/abs/2606.24010",
+    "author": "Zihao Guo, Jianing Zhao, Ling Li, Hao Liang, Giuseppe Loianno, Yali Du",
+    "published_at": "2026-06-24T04:00:00.000Z",
+    "raw_description": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but lack theoretical safety guarantees, while control-theoretic methods enforce safety but often lead to overly conservative and inefficient behaviors. We propose a hierarchical multi-agent reinforcement learning framework that enforces hard safety constraints under mild assumptions at low level via a constraint manifold, while enabling effective coordination through high-level policy learning. Our approach provides theoretical safety guarantees in the multi-agent setting and yields stationary learning dynamics, thereby enabling stable and efficient training. Empirically, our method achieves competitive performance while maintaining nearly perfect safety rates, and generalizes effectively to varyin",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-005",
+    "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.24014",
+    "source_url": "https://arxiv.org/abs/2606.24014",
+    "author": "Akshay V. Jagadeesh, Rahul K. Arora, Khaled Saab, Ali Malik, Mikhail Trofimov, Foivos Tsimpourlas, Johannes Heidecke, Karan Singhal",
+    "published_at": "2026-06-24T04:00:00.000Z",
+    "raw_description": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent alignment generalization beyond the training distribution. We construct a dataset of realistic situations designed to measure and train beneficial traits, such as truthfulness, fairness, risk awareness, and corrigibility, spanning varied domains, including health, science, and education. We then train models with RL on this dataset and evaluate them on more than 50 independent benchmarks of alignment and beneficial behavior. Compared to a compute-matched baseline, beneficial trait RL improves perfo",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-002",
+  "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.24937",
+  "source_url": "https://arxiv.org/abs/2606.24937",
+  "author": "Haggai Roitman",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.24937v1 Announce Type: new Abstract: The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, organized around a central thesis: building great agentic systems requires understanding every layer of the pipeline, not just one. The book opens with the LLM substrate -- transformer architecture, GPU systems, training and fine-tuning (SFT,LoRA, MoE), model compression, and inference optimization -- treated as essential foundations rather than the primary focus. It then develops the alignment and reasoning layer: reinforcement learning from human feedback (RLHF), PPO, DPO and its variants, GRPO, reward modeling, and RL for large reasoning models including chain-of-thought and test-time scaling. The second half is devoted to agentic AI proper. Topics include agentic training and trajectory-based RL, retrieval-augmented generation (RAG and Agenti",
+  "collected_at": "2026-06-25T06:40:09.035Z",
+  "summary": "这是一本面向实践者的自主AI系统构建指南，覆盖从Transformer基础到Agent系统部署的全栈技术，包括LLM训练、对齐、推理优化及Agent训练等核心内容。",
+  "tags": [
+    "agentic-ai",
+    "llm",
+    "rlhf",
+    "rag"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "工程师",
+  "analysis_note": "内容全面且实践导向，覆盖Agent AI全栈，技术深度高，是重要的参考资源。",
+  "analyzed_at": "2026-06-25T06:41:11.936Z",
+  "organized_at": "2026-06-25T06:41:23.536Z",
+  "status": "published"
+}

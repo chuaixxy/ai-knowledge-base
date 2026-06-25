@@ -1,5 +1,78 @@
 [
   {
+    "id": "rss--2026-06-25-006",
+    "title": "美团海报生成 AIGC 技术创新与实践",
+    "source": "rss-",
+    "source_id": "https://tech.meituan.com/2026/06/18/AIGC-poster.html",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "aigc"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:51.090Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-004",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "amie"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:24.405Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-003",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "category": "other",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "llm",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:22.054Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-002",
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.24937",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "agentic-ai",
+      "llm",
+      "rlhf",
+      "rag"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:09.035Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-001",
+    "title": "Flow’s OCaml to Rust Port",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "flow",
+      "ocaml",
+      "rust"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:07.465Z"
+  },
+  {
     "id": "github-search-2026-06-25-011",
     "title": "browser-use/browser-use",
     "source": "github-search",
