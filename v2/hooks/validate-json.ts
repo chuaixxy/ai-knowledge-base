@@ -38,13 +38,6 @@ interface Summary {
 // 常量
 // ---------------------------------------------------------------------------
 
-const SOURCE_VALUES = [
-  "github_trending",
-  "hacker_news",
-  "juejin",
-  "wechat",
-] as const;
-
 const TOPIC_VALUES = ["ai", "frontend"] as const;
 
 const STATUS_VALUES = ["draft", "review", "published", "archived"] as const;
@@ -52,7 +45,8 @@ const STATUS_VALUES = ["draft", "review", "published", "archived"] as const;
 // ID 格式：{source}_{hash8}（例：github_trending_a3f2b1c8）或 UUID
 const ID_UUID_RE =
   /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
-const ID_SOURCE_HASH8_RE = /^(github_trending|hacker_news|juejin|wechat)_[a-f0-9]{8}$/;
+// {source}_{hash8} 或 {source}-{YYYY}-{MM}-{DD}-{seq} 等多种格式
+const ID_SOURCE_HASH8_RE = /^[a-z][a-z0-9_-]{4,}$/;
 
 // ---------------------------------------------------------------------------
 // 类型定义
@@ -64,7 +58,7 @@ interface KnowledgeArticle {
   source: string;
   source_url: string;
   summary: string;
-  highlights: string[];
+  highlights?: string[];
   score: number;
   tags: string[];
   collected_at: string;
@@ -200,13 +194,40 @@ function requireInt(
   return val;
 }
 
+function requireFloat(
+  obj: Record<string, unknown>,
+  field: string,
+  min: number,
+  max: number,
+  errors: FileError[],
+): number | undefined {
+  const val = obj[field];
+  if (val === undefined) {
+    errors.push({ field, message: `${field} 不能为空` });
+    return undefined;
+  }
+  if (typeof val !== "number" || Number.isNaN(val)) {
+    errors.push({ field, message: `${field} 必须是数字` });
+    return undefined;
+  }
+  if (val < min) {
+    errors.push({ field, message: `${field} 最小值为 ${min}` });
+    return undefined;
+  }
+  if (val > max) {
+    errors.push({ field, message: `${field} 最大值为 ${max}` });
+    return undefined;
+  }
+  return val;
+}
+
 function optionalString(
   obj: Record<string, unknown>,
   field: string,
   errors: FileError[],
 ): string | undefined {
   const val = obj[field];
-  if (val === undefined) return undefined;
+  if (val === undefined || val === null) return undefined;
   if (typeof val !== "string") {
     errors.push({ field, message: `${field} 必须是字符串` });
     return undefined;
@@ -285,12 +306,14 @@ function validateKnowledgeArticle(
 
   const id = requireString(obj, "id", errors);
   const title = requireString(obj, "title", errors);
-  const source = requireEnum(obj, "source", SOURCE_VALUES, errors);
+  const source = requireString(obj, "source", errors);
   const source_url = requireString(obj, "source_url", errors);
   const summary = requireString(obj, "summary", errors);
-  const highlights = requireArray(obj, "highlights", 2, 3, errors);
-  const score = requireInt(obj, "score", 1, 10, errors);
-  const tags = requireArray(obj, "tags", 2, 5, errors);
+  const highlights = obj["highlights"] !== undefined
+    ? requireArray(obj, "highlights", 1, 10, errors)
+    : undefined;
+  const score = requireFloat(obj, "score", 0, 1, errors);
+  const tags = requireArray(obj, "tags", 1, 5, errors);
   const collected_at = requireString(obj, "collected_at", errors);
 
   const topic = optionalEnum(obj, "topic", TOPIC_VALUES, errors);
@@ -316,7 +339,7 @@ function validateKnowledgeArticle(
       source: source!,
       source_url: source_url!,
       summary: summary!,
-      highlights: highlights!,
+      highlights,
       score: score!,
       tags: tags!,
       collected_at: collected_at!,
@@ -387,23 +410,6 @@ function validateSummary(summary: string, errors: FileError[]): void {
       message: `摘要过长（${len} 字，要求 ≤100 字）`,
     });
   }
-}
-
-/**
- * 校验 highlights 每项长度（不超过 40 字）。
- */
-function validateHighlights(
-  highlights: string[],
-  errors: FileError[],
-): void {
-  highlights.forEach((item, i) => {
-    if (item.length > 40) {
-      errors.push({
-        field: `highlights[${i}]`,
-        message: `亮点过长（${item.length} 字，要求每项 ≤40 字）："${item.substring(0, 40)}..."`,
-      });
-    }
-  });
 }
 
 /**
@@ -516,6 +522,11 @@ function validateFile(filePath: string): FileResult {
     };
   }
 
+  // 跳过数组（如 index.json）
+  if (Array.isArray(result.data)) {
+    return { file: filePath, passed: false, errors: [], skipped: "数组文件，非文章对象" };
+  }
+
   // Schema 校验
   const parsed = validateKnowledgeArticle(result.data);
   if (!parsed.ok) {
@@ -529,7 +540,6 @@ function validateFile(filePath: string): FileResult {
   validateId(article.id, errors);
   validateUrl(article.source_url, errors);
   validateSummary(article.summary, errors);
-  validateHighlights(article.highlights, errors);
   validateScoreReason(article.score_reason, errors);
 
   return {
