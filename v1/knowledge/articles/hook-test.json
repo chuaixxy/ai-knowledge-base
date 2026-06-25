@@ -1,0 +1,28 @@
+{
+  "id": "github_trending_b7e4d2fa",
+  "title": "Harness — 开源 CI/CD 与云成本管理平台",
+  "source": "github_trending",
+  "source_url": "https://github.com/harness/harness",
+  "collected_at": "2026-06-23T10:00:00Z",
+  "summary": "Harness 是一个企业级持续交付与云成本管理平台，提供 CI/CD、功能开关、云成本优化和混沌工程等能力，旨在简化软件交付流程并降低云基础设施开销。",
+  "highlights": [
+    "内置智能自动回滚与金丝雀发布",
+    "支持多集群 Kubernetes 部署编排",
+    "具备云成本可见性与自动优化能力"
+  ],
+  "score": 7,
+  "score_reason": "工程化程度高、功能完备，适合中大型团队落地持续交付实践。",
+  "tags": ["ci-cd", "cloud-cost", "devops", "continuous-delivery", "kubernetes"],
+  "status": "draft",
+  "stars": 27000,
+  "description": "An enterprise-grade continuous delivery and cloud cost management platform that simplifies software delivery with intelligent automation.",
+  "author": "harness",
+  "published_at": "2025-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-23T10:05:00Z",
+  "raw_ref": "knowledge/raw/github-trending-2026-06-23.json",
+  "metadata": {
+    "language": "Go",
+    "stars_total": 27000,
+    "license": "Polyform Shield"
+  }
+}

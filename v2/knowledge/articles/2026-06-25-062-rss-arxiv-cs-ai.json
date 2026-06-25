@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-033",
+  "title": "To Isolate or to Score? Model-Adaptive Assessment for Cost-Efficient Multi-Agent RAG",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25191",
+  "source_url": "https://arxiv.org/abs/2606.25191",
+  "author": "Jungseob Lee, Chanjun Park, Heuiseok Lim",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25191v1 Announce Type: new Abstract: Multi-agent document assessment for retrieval-augmented generation is computationally expensive, driving practitioners toward smaller, deployable models whose assessment mechanisms remain poorly understood. We conduct a controlled study of training-free interventions on 7B-9B instruction-tuned models across diverse QA benchmarks, revealing a sharp dichotomy in how models benefit from assessment. For weaker baselines, the dominant mechanism is per-document isolation. Astoundingly, assessment-free isolation matches full multi-agent assessment, demonstrating that resolving multi-document context confusion, rather than scoring quality, drives outsized gains of up to 50 percentage points. Conversely, for strong baselines where scoring quality matters, we introduce Reasoning-Score Coupling, a label-free perturbation probe that classifies scoring behavior. Integrating these findings, we propose MADARA, a model-adaptive routing architecture. Cruc",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "本文研究多智能体RAG中模型自适应评估机制，发现弱模型依赖文档隔离而非评分，强模型需评分耦合，提出MADARA路由架构以降低成本。",
+  "tags": [
+    "rag"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "核心发现新颖，实验设计严谨，对RAG系统优化有指导意义，但应用场景有限。",
+  "analyzed_at": "2026-06-25T07:56:34.484Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

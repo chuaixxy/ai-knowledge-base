@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_a1b2c3d4",
+  "title": "calesthio/OpenMontage",
+  "source": "github_trending",
+  "source_url": "https://github.com/calesthio/OpenMontage",
+  "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+  "author": "calesthio",
+  "stars": 987,
+  "summary": "全球首个开源 Agentic 视频制作系统，包含 12 条流水线、52 个工具和 500+ Agent 技能，将 AI 编码助手转化为完整视频制作工作室。",
+  "highlights": [
+    "12 条流水线 + 52 工具的 Agent 编排",
+    "500+ Agent 技能覆盖视频制作全流程",
+    "将 AI 编码助手转型为视频工作室"
+  ],
+  "score": 8,
+  "score_reason": "Agent 在创意制作领域的创新落地，工程体系完整，展示了多 Agent 协作的新应用范式。",
+  "tags": ["agent", "video-production", "multi-agent", "open-source", "python"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "Python",
+    "stars_total": 10367,
+    "forks_count": 1411
+  }
+}

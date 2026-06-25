@@ -1,0 +1,1905 @@
+[
+  {
+    "id": "rss-stripe-engineering-2026-06-25-142",
+    "title": "Expanding Stripe Radar to protect more of your business",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business",
+    "category": "tool",
+    "relevance_score": 0.55,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.181Z"
+  },
+  {
+    "id": "rss-stripe-engineering-2026-06-25-143",
+    "title": "Five vertical SaaS insights from Sessions 2026",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/vertical-saas-insights-sessions-2026",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "saas",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.181Z"
+  },
+  {
+    "id": "rss-stripe-engineering-2026-06-25-135",
+    "title": "What Link data tells us about AI spending",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai",
+      "stripe"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.180Z"
+  },
+  {
+    "id": "rss-stripe-engineering-2026-06-25-136",
+    "title": "Stripe Projects adds new agent integrations, more providers, and custom developer controls",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "stripe",
+      "ai",
+      "api"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.180Z"
+  },
+  {
+    "id": "rss-airbnb-engineering-2026-06-25-125",
+    "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
+    "category": "tool",
+    "relevance_score": 0.55,
+    "tags": [
+      "sidecar"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.090Z"
+  },
+  {
+    "id": "rss-airbnb-engineering-2026-06-25-126",
+    "title": "When history fails you, borrow from geography",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "airbnb"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.090Z"
+  },
+  {
+    "id": "rss-airbnb-engineering-2026-06-25-127",
+    "title": "Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.090Z"
+  },
+  {
+    "id": "rss-airbnb-engineering-2026-06-25-128",
+    "title": "Viaduct 1.0 and the future of Airbnb’s data mesh",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4",
+    "category": "framework",
+    "relevance_score": 0.55,
+    "tags": [
+      "airbnb"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.090Z"
+  },
+  {
+    "id": "rss-airbnb-engineering-2026-06-25-130",
+    "title": "Skipper: Building Airbnb’s embedded workflow engine",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "airbnb"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:26.090Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-115",
+    "title": "从月球漫步到赛博都市，WBench 测出了世界模型的边界",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/06/12/LongCat-WBench.html",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-116",
+    "title": "ACL 2026美团论文精选：从能力评测到推理优化，构建生成新范式",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/06/05/ACL-2026.html",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "acl-2026"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-117",
+    "title": "从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/05/25/LongCat-Video-Avatar-1.5.html",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-118",
+    "title": "美团 LongCat 开源 General 365：树立推理评测新标尺",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/05/15/LongCat-General-365.html",
+    "category": "dataset",
+    "relevance_score": 0.75,
+    "tags": [
+      "longcat",
+      "general-365"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-119",
+    "title": "用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/05/07/Agent-AI-Coding.html",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai-coding",
+      "agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-120",
+    "title": "LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/04/27/LongCat-LARYBench.html",
+    "category": "other",
+    "relevance_score": 0.85,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-121",
+    "title": "突破零样本 TTS 音色克隆上限：LongCat-AudioDiT 的声音克隆艺术",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/04/20/LongCat-AudioDiT.html",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "tts"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-122",
+    "title": "LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严”",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/04/07/LongCat-Flash-Prover.html",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-25-123",
+    "title": "美团发布原生多模态 LongCat-Next：当视觉和语音成为AI的母语",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/04/02/LongCat-Next.html",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:25.185Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-06-25-106",
+    "title": "Figma now has AI motion graphics and shader tools",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "figma",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.960Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-06-25-107",
+    "title": "OpenAI reveals its first AI processor: Jalapeño",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+    "category": "other",
+    "relevance_score": 0.85,
+    "tags": [
+      "openai",
+      "ai",
+      "asic"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.960Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-085",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ffasr-leaderboard",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "asr"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-086",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "agent",
+      "cuga",
+      "ibm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-087",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "huggingfacehub",
+      "cicd",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-088",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/cross-origin-storage",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "transformersjs",
+      "web-ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-089",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "ocr",
+      "paddlepaddle",
+      "hugging-face"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-090",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/local-models-pr-triage",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "pr"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-091",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-092",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/peft-beyond-lora",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "lora",
+      "peft",
+      "hugging-face"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-093",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/is-it-agentic-enough",
+    "category": "research",
+    "relevance_score": 0.7,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-094",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/molmomotion",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "3d"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-095",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "hugging-face",
+      "lerobot",
+      "strands-agents"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-096",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "glm-52",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-097",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai-agent",
+      "hugging-face"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-098",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/torch-mlp-fusion",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "pytorch",
+      "mlp"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-099",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "hugging-face",
+      "agent",
+      "3d"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-100",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "github-ci",
+      "hugging-face",
+      "mlops"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-101",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/openenv-agentic-rl",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "agentic-rl"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-102",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-103",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/hf-cli-for-agents",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "hugging-face",
+      "cli",
+      "agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.394Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-25-084",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "nvidia",
+      "nemo",
+      "transformer"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.393Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-079",
+    "title": "New ways to create and get things done in Google Workspace",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+    "category": "tool",
+    "relevance_score": 0.55,
+    "tags": [
+      "google-workspace",
+      "ai-inbox"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.267Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-080",
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "google-io",
+      "gemini",
+      "agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.267Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-081",
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "gemini",
+      "google-io"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.267Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-082",
+    "title": "A new era for AI Search",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.267Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-067",
+    "title": "The latest AI news we announced in May 2026",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "google-ai",
+      "ai",
+      "20265"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.266Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-071",
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "gemini",
+      "google-io"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.266Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-073",
+    "title": "Catch up on 12 major I/O 2026 moments",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "google-io",
+      "gemini",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.266Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-076",
+    "title": "100 things we announced at I/O 2026",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "google-io",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.266Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-078",
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:20.266Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-047",
+    "title": "How Omio is building the future of conversational travel",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/omio",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "openai",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-048",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/daybreak-securing-the-world",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-049",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/patch-the-planet",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-050",
+    "title": "Codex-maxxing for long-running work",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/codex-maxxing-long-running-work",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "codex"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-051",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai",
+      "chatgpt",
+      "codex"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-052",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "openai",
+      "chatgpt-enterprise"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-053",
+    "title": "Improving health intelligence in ChatGPT",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "chatgpt",
+      "gpt-55"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-054",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-055",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/ai-chemist-improves-reaction",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "gpt-54"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-056",
+    "title": "Introducing LifeSciBench",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/introducing-life-sci-bench",
+    "category": "dataset",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-057",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/deployment-simulation",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-058",
+    "title": "Introducing the OpenAI Partner Network",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/introducing-openai-partner-network",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "openai",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-059",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "openai",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-060",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/preply",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-061",
+    "title": "OpenAI to acquire Ona",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/openai-to-acquire-ona",
+    "category": "other",
+    "relevance_score": 0.75,
+    "tags": [
+      "openai",
+      "codex",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-062",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/bbva",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai",
+      "chatgpt-enterprise"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-063",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "codex",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.974Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-045",
+    "title": "Helping build shared standards for advanced AI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.973Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-046",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/gpt-5-immunology-mystery",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "gpt-5",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.973Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-031",
+    "title": "Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25176",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-032",
+    "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25178",
+    "category": "paper",
+    "relevance_score": 0.82,
+    "tags": [
+      "rlvr"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-033",
+    "title": "To Isolate or to Score? Model-Adaptive Assessment for Cost-Efficient Multi-Agent RAG",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25191",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "rag"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-034",
+    "title": "Heuresis: Search Strategies for Autonomous AI Research Agents Across Quality, Diversity and Novelty",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25198",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-035",
+    "title": "Omni-Perception Policy Optimization for Multimodal Emotion Reasoning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25325",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-036",
+    "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25358",
+    "category": "paper",
+    "relevance_score": 0.72,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-037",
+    "title": "What Actually Works for Spacecraft Fault-Tolerant Control: An Honest Settled-Gate Benchmark of Learned and Classical Methods",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25374",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-038",
+    "title": "Offline Multi-agent Continual Cooperation via Skill Partition and Reuse",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25389",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-039",
+    "title": "Long-Term Simulation Exposes Cognitive-Developmental Risks in AI Companions",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25396",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-040",
+    "title": "BrainAgent: A Large Language Model-Driven Multi-Agent Framework for Autonomous Brain Signal Understanding",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25400",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-041",
+    "title": "Quantization Inflates Reasoning: Token Inflation as a Hidden Cost of Low-Bit Reasoning Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25519",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-042",
+    "title": "Cliff Tokens: Identifying Single-Token Failure Triggers in LLM Mathematical Reasoning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25524",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-043",
+    "title": "Agentic evolution of physically constrained foundation models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25532",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.585Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-025",
+    "title": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.24965",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.584Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-026",
+    "title": "Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.24976",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "rag",
+      "agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.584Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-027",
+    "title": "Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25066",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "token"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.584Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-028",
+    "title": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25103",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "shapley"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.584Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-029",
+    "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25108",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.584Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-030",
+    "title": "TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.25161",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm-agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.584Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-008",
+    "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/abs/2604.13327",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-009",
+    "title": "TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://tvm.apache.org/2026/06/22/tirx",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "tvm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-010",
+    "title": "A fully local voice assistant setup",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.platypush.tech/article/Local-voice-assistant",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-011",
+    "title": "Prompt Injection as Role Confusion",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://role-confusion.github.io",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-012",
+    "title": "Munich 1991: the Roots of the Current AI Boom",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-014",
+    "title": "Reverse Engineering the Qualcomm NPU Compiler",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://datavorous.github.io/writing/qairt/",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "npu"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-015",
+    "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "agent-memory",
+      "elasticsearch",
+      "hybrid-retrieval"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-017",
+    "title": "Can gzip be a language model?",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://nathan.rs/posts/gzip-lm/",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "gzip"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-018",
+    "title": "Language integrated LLMs as an OCaml function",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://anil.recoil.org/notes/language-integrated-llms",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "ocaml",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-019",
+    "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://youtu.be/Ce-cN5Llaz4?t=93",
+    "category": "research",
+    "relevance_score": 0.55,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-021",
+    "title": "Building llm-driven “ai” still requires domain knowledge",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "llm",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.434Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-006",
+    "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://github.com/baidu/Unlimited-OCR",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "ocr"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.433Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-007",
+    "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/abs/2606.16140",
+    "category": "paper",
+    "relevance_score": 0.7,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:19.433Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-25-002",
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://rubyllm.com/",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "ruby",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:18.228Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-25-003",
+    "title": "AI's Affordability Crisis",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T07:54:18.228Z"
+  },
+  {
+    "id": "rss--2026-06-25-006",
+    "title": "美团海报生成 AIGC 技术创新与实践",
+    "source": "rss-",
+    "source_id": "https://tech.meituan.com/2026/06/18/AIGC-poster.html",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "aigc"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:51.090Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-25-004",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "amie"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:24.405Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-25-003",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "category": "other",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "llm",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:22.054Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-25-002",
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.24937",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "agentic-ai",
+      "llm",
+      "rlhf",
+      "rag"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:09.035Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-25-001",
+    "title": "Flow’s OCaml to Rust Port",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "flow",
+      "ocaml",
+      "rust"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T06:40:07.465Z"
+  },
+  {
+    "id": "github-search-2026-06-25-011",
+    "title": "browser-use/browser-use",
+    "source": "github-search",
+    "source_id": "browser-use/browser-use",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-012",
+    "title": "rasbt/LLMs-from-scratch",
+    "source": "github-search",
+    "source_id": "rasbt/LLMs-from-scratch",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "llm",
+      "pytorch"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-013",
+    "title": "TauricResearch/TradingAgents",
+    "source": "github-search",
+    "source_id": "TauricResearch/TradingAgents",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "multi-agent",
+      "finance",
+      "trading",
+      "llm",
+      "framework"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-014",
+    "title": "vllm-project/vllm",
+    "source": "github-search",
+    "source_id": "vllm-project/vllm",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-015",
+    "title": "mlabonne/llm-course",
+    "source": "github-search",
+    "source_id": "mlabonne/llm-course",
+    "category": "other",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-016",
+    "title": "OpenHands/OpenHands",
+    "source": "github-search",
+    "source_id": "OpenHands/OpenHands",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-017",
+    "title": "JuliusBrussee/caveman",
+    "source": "github-search",
+    "source_id": "JuliusBrussee/caveman",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "prompt-engineering",
+      "token-optimization",
+      "claude-code",
+      "meme"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-019",
+    "title": "hiyouga/LlamaFactory",
+    "source": "github-search",
+    "source_id": "hiyouga/LlamaFactory",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "llm",
+      "lora",
+      "qlora"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-020",
+    "title": "FoundationAgents/MetaGPT",
+    "source": "github-search",
+    "source_id": "FoundationAgents/MetaGPT",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "multi-agent",
+      "framework",
+      "llm",
+      "gpt",
+      "software-development"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-001",
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23927",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-002",
+    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23938",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "vla"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-003",
+    "title": "Critique of Agent Model",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23991",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai-agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-004",
+    "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.24010",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-005",
+    "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.24014",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "github-search-2026-06-25-004",
+    "title": "ollama/ollama",
+    "source": "github-search",
+    "source_id": "ollama/ollama",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-005",
+    "title": "f/prompts.chat",
+    "source": "github-search",
+    "source_id": "f/prompts.chat",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "prompt-engineering",
+      "chatgpt",
+      "open-source"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-006",
+    "title": "huggingface/transformers",
+    "source": "github-search",
+    "source_id": "huggingface/transformers",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "transformers",
+      "nlp",
+      "deep-learning"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-007",
+    "title": "langgenius/dify",
+    "source": "github-search",
+    "source_id": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "agentic-workflow",
+      "low-code",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-008",
+    "title": "open-webui/open-webui",
+    "source": "github-search",
+    "source_id": "open-webui/open-webui",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "ollama",
+      "openai",
+      "rag",
+      "mcp"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-009",
+    "title": "langchain-ai/langchain",
+    "source": "github-search",
+    "source_id": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "langchain",
+      "llm",
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-010",
+    "title": "firecrawl/firecrawl",
+    "source": "github-search",
+    "source_id": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "web-scraping",
+      "ai-crawler",
+      "data-extraction"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-003",
+    "title": "Significant-Gravitas/AutoGPT",
+    "source": "github-search",
+    "source_id": "Significant-Gravitas/AutoGPT",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "autogpt",
+      "llm",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:50:40.854Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-001",
+    "title": "calesthio/OpenMontage",
+    "source": "github-trending",
+    "source_id": "calesthio/OpenMontage",
+    "category": "framework",
+    "relevance_score": 0.68,
+    "tags": [
+      "agent-framework",
+      "video-generation",
+      "multi-agent",
+      "workflow-automation",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-003",
+    "title": "mukul975/Anthropic-Cybersecurity-Skills",
+    "source": "github-trending",
+    "source_id": "mukul975/Anthropic-Cybersecurity-Skills",
+    "category": "tool",
+    "relevance_score": 0.71,
+    "tags": [
+      "agent-framework",
+      "security",
+      "prompt-engineering",
+      "anthropic",
+      "claude"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-005",
+    "title": "bytedance/deer-flow",
+    "source": "github-trending",
+    "source_id": "bytedance/deer-flow",
+    "category": "framework",
+    "relevance_score": 0.84,
+    "tags": [
+      "agent-framework",
+      "code-generation",
+      "multi-agent",
+      "python",
+      "bytedance"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-008",
+    "title": "anthropics/claude-plugins-official",
+    "source": "github-trending",
+    "source_id": "anthropics/claude-plugins-official",
+    "category": "tool",
+    "relevance_score": 0.78,
+    "tags": [
+      "agent-framework",
+      "mcp",
+      "prompt-engineering",
+      "claude",
+      "anthropic"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-009",
+    "title": "shanraisshan/claude-code-best-practice",
+    "source": "github-trending",
+    "source_id": "shanraisshan/claude-code-best-practice",
+    "category": "tutorial",
+    "relevance_score": 0.64,
+    "tags": [
+      "prompt-engineering",
+      "agent-framework",
+      "tutorial",
+      "claude"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-010",
+    "title": "revfactory/harness",
+    "source": "github-trending",
+    "source_id": "revfactory/harness",
+    "category": "framework",
+    "relevance_score": 0.74,
+    "tags": [
+      "agent-framework",
+      "multi-agent",
+      "workflow-automation",
+      "prompt-engineering"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-013",
+    "title": "DeusData/codebase-memory-mcp",
+    "source": "github-trending",
+    "source_id": "DeusData/codebase-memory-mcp",
+    "category": "tool",
+    "relevance_score": 0.76,
+    "tags": [
+      "mcp",
+      "agent-framework",
+      "code-generation",
+      "rag",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-014",
+    "title": "NousResearch/hermes-agent",
+    "source": "github-trending",
+    "source_id": "NousResearch/hermes-agent",
+    "category": "framework",
+    "relevance_score": 0.6,
+    "tags": [
+      "agent-framework",
+      "llm",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  },
+  {
+    "id": "github-trending-2026-06-24-015",
+    "title": "affaan-m/ECC",
+    "source": "github-trending",
+    "source_id": "affaan-m/ECC",
+    "category": "framework",
+    "relevance_score": 0.68,
+    "tags": [
+      "agent-framework",
+      "multi-agent",
+      "prompt-engineering",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-24T10:00:23Z"
+  }
+]

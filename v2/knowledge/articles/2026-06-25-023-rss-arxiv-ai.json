@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-ai-2026-06-25-004",
+  "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+  "source": "rss-arxiv-ai",
+  "source_id": "https://arxiv.org/abs/2606.24010",
+  "source_url": "https://arxiv.org/abs/2606.24010",
+  "author": "Zihao Guo, Jianing Zhao, Ling Li, Hao Liang, Giuseppe Loianno, Yali Du",
+  "published_at": "2026-06-24T04:00:00.000Z",
+  "raw_description": "arXiv:2606.24010v1 Announce Type: new Abstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constraints. Existing approaches face a fundamental trade-off: learning-based methods achieve strong empirical performance but lack theoretical safety guarantees, while control-theoretic methods enforce safety but often lead to overly conservative and inefficient behaviors. We propose a hierarchical multi-agent reinforcement learning framework that enforces hard safety constraints under mild assumptions at low level via a constraint manifold, while enabling effective coordination through high-level policy learning. Our approach provides theoretical safety guarantees in the multi-agent setting and yields stationary learning dynamics, thereby enabling stable and efficient training. Empirically, our method achieves competitive performance while maintaining nearly perfect safety rates, and generalizes effectively to varyin",
+  "collected_at": "2026-06-25T03:59:38.384Z",
+  "summary": "提出一种分层多智能体强化学习框架，通过约束流形在低层强制执行硬安全约束，高层学习协调策略，兼顾安全性与效率，提供理论保证并实现稳定训练。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "解决安全与效率权衡问题，理论贡献与实验验证兼备，但属于特定领域方法，通用性有限。",
+  "analyzed_at": "2026-06-25T03:59:48.977Z",
+  "organized_at": "2026-06-25T03:59:51.562Z",
+  "status": "published"
+}

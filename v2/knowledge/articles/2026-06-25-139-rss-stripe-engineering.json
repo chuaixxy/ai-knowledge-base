@@ -1,0 +1,20 @@
+{
+  "id": "rss-stripe-engineering-2026-06-25-142",
+  "title": "Expanding Stripe Radar to protect more of your business",
+  "source": "rss-stripe-engineering",
+  "source_id": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business",
+  "source_url": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business",
+  "author": "stripe-engineering",
+  "published_at": "2026-05-27T00:00:00.000Z",
+  "raw_description": "Radar now blocks high-risk transactions across all supported payment methods; defends against new fraud types like multi-account abuse and pay-as-you-go abuse, regardless of which payment processor you use; and gives platforms new tools to evaluate and mitigate merchant risk on and off Stripe.",
+  "collected_at": "2026-06-25T07:54:26.181Z",
+  "summary": "Stripe Radar扩展了欺诈防护能力，覆盖所有支付方式，防御多账户滥用和按需付费滥用，并为平台提供评估和缓解商户风险的新工具。",
+  "tags": [],
+  "category": "tool",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "与AI/LLM领域相关性较低，属于支付安全工具，技术深度一般，但实用性强。",
+  "analyzed_at": "2026-06-25T08:01:07.021Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

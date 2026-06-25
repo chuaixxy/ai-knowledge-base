@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.19946",
+  "title": "GEMS: Geometric Constraints Enable Multi-Semantic Superposition in LLMs",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.19946",
+  "description": "Shows how geometric constraints enable multi-semantic superposition in LLMs. 30 pages, extensively evaluated.",
+  "author": "Yu Deng",
+  "stars": null,
+  "summary": "揭示几何约束如何使 LLM 实现多语义叠加（Superposition），从表示学习几何角度解释大模型如何在有限维度内编码丰富语义，30 页深度研究。",
+  "highlights": [
+    "几何约束实现 LLM 多语义叠加的机制",
+    "从几何角度解释表示学习的根本原理",
+    "30 页广泛实验验证的理论研究"
+  ],
+  "score": 8,
+  "score_reason": "LLM 表示学习的深层理论研究，Superposition 是理解大模型能力的关键概念，理论价值高。",
+  "tags": ["llm", "superposition", "geometry", "representation-learning", "theory"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.19946",
+    "subjects": ["cs.CL", "cs.LG"],
+    "comments": "30 pages, 5 figures, 20 tables"
+  }
+}

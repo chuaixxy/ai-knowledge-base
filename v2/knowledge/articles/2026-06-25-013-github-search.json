@@ -1,0 +1,40 @@
+{
+  "id": "github-search-2026-06-25-004",
+  "title": "ollama/ollama",
+  "source": "github-search",
+  "source_id": "ollama/ollama",
+  "source_url": "https://github.com/ollama/ollama",
+  "author": "ollama",
+  "published_at": "2026-06-25T00:22:09Z",
+  "raw_description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+  "collected_at": "2026-06-25T03:56:56.352Z",
+  "stars": 174869,
+  "topics": [
+    "deepseek",
+    "gemma",
+    "gemma3",
+    "glm",
+    "go",
+    "golang",
+    "gpt-oss",
+    "llama",
+    "llama3",
+    "llm",
+    "llms",
+    "minimax",
+    "mistral",
+    "ollama",
+    "qwen"
+  ],
+  "summary": "Ollama 是一个开源工具，支持在本地快速运行和管理多种大型语言模型，如 DeepSeek、Qwen、Gemma 等，简化了 LLM 的部署和使用。",
+  "tags": [
+    "llm"
+  ],
+  "category": "tool",
+  "score": 0.85,
+  "audience": "工程师",
+  "analysis_note": "顶级 AI 基础设施，高星标，支持多种主流模型，极大降低 LLM 使用门槛。",
+  "analyzed_at": "2026-06-25T03:57:05.228Z",
+  "organized_at": "2026-06-25T03:57:18.776Z",
+  "status": "published"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_2d3e4f5a",
+  "title": "bytedance/deer-flow",
+  "source": "github_trending",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "author": "bytedance",
+  "stars": 442,
+  "summary": "字节跳动开源的长时域 SuperAgent 框架，具备研究、编码和创作能力，集成沙箱、记忆、工具、技能、子 Agent 和消息网关，可处理分钟到小时级复杂任务。72k+ 星。",
+  "highlights": [
+    "长时域 SuperAgent 运行框架",
+    "沙箱 + 记忆 + 子 Agent 完整架构",
+    "字节跳动 72k+ 星的重磅开源"
+  ],
+  "score": 9,
+  "score_reason": "来自字节跳动的核心 Agent 框架，架构完整覆盖 Agent 全能力栈，对 Agent 工程化有重要指导意义。",
+  "tags": ["agent", "multi-agent", "framework", "python", "bytedance"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "Python",
+    "stars_total": 72940,
+    "forks_count": 9870
+  }
+}

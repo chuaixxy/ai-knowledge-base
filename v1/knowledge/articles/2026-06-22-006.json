@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_4b5c6d7e",
+  "title": "firecrawl/firecrawl",
+  "source": "github_trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+  "author": "firecrawl",
+  "stars": 513,
+  "summary": "大规模网页搜索、抓取与交互 API，136k+ 总星，是 LLM Agent 生态中数据获取层的关键基础设施，广泛应用于 RAG 和 Agent 工作流。",
+  "highlights": [
+    "Agent 生态核心数据获取基础设施",
+    "136k+ 星的企业级规模验证",
+    "支持大规模网页搜索与结构化提取"
+  ],
+  "score": 8,
+  "score_reason": "LLM Agent 数据管道的核心组件，社区验证充分，对 RAG 和 Agent 开发者是必备工具。",
+  "tags": ["web-scraping", "api", "agent-infrastructure", "rag", "typescript"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "TypeScript",
+    "stars_total": 136592,
+    "forks_count": 7926
+  }
+}

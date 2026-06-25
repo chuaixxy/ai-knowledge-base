@@ -1,0 +1,23 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-026",
+  "title": "Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.24976",
+  "source_url": "https://arxiv.org/abs/2606.24976",
+  "author": "Pradyumna Narayana, Sana Ayromlou, Purvi Sehgal",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.24976v1 Announce Type: new Abstract: Foundation-model agents in multi-step, open-ended environments frequently suffer from compounding errors, where early mistakes contaminate long-horizon trajectories. While Multi-Agent Debate (MAD) succeeds in deterministic domains, agents in subjective tasks like persuasion experience severe problem drift and sycophantic conformity. We identify semantic leakage in standard Retrieval-Augmented Generation (RAG) as a reproducible trigger for these failures, as standard RAG prioritizes vocabulary overlap over logical necessity. To eliminate this leakage, we introduce Taxonomic Strategy RAG (TS-RAG), a systems intervention that routes strategies through a discrete categorical bottleneck to decouple argumentative structure from topical content. Zero-shot, cross-domain evaluations demonstrate that TS-RAG significantly improves the transfer of abstract logic where standard semantic retrieval collapses. Crucially, TS-RAG acts as a \"capability brid",
+  "collected_at": "2026-06-25T07:54:19.584Z",
+  "summary": "本文提出TS-RAG方法，通过分类策略瓶颈解决标准RAG在说服任务中的语义泄漏和复合错误问题，显著提升零样本跨域抽象逻辑迁移能力。",
+  "tags": [
+    "rag",
+    "agent"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对Agent复合错误提出创新性TS-RAG方法，实验验证有效，但领域较窄，技术深度中等。",
+  "analyzed_at": "2026-06-25T07:56:17.063Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

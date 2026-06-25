@@ -1,0 +1,22 @@
+{
+  "id": "rss-airbnb-engineering-2026-06-25-130",
+  "title": "Skipper: Building Airbnb’s embedded workflow engine",
+  "source": "rss-airbnb-engineering",
+  "source_id": "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4",
+  "source_url": "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4",
+  "author": "Ricardo Gamba",
+  "published_at": "2026-04-28T17:01:02.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:26.090Z",
+  "summary": "Airbnb 介绍了其自研的嵌入式工作流引擎 Skipper，用于编排微服务中的复杂业务流程，提升可靠性和可观测性。",
+  "tags": [
+    "airbnb"
+  ],
+  "category": "framework",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "工程实践有价值，但与AI/LLM领域直接相关性较低，属于通用后端框架。",
+  "analyzed_at": "2026-06-25T08:00:37.535Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

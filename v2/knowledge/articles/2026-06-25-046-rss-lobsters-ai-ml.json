@@ -1,0 +1,22 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-011",
+  "title": "Prompt Injection as Role Confusion",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://role-confusion.github.io",
+  "source_url": "https://role-confusion.github.io",
+  "author": "role-confusion.github.io via LolPython",
+  "published_at": "2026-06-22T17:22:07.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/vwin4l/prompt_injection_as_role_confusion\">Comments</a></p>",
+  "collected_at": "2026-06-25T07:54:19.434Z",
+  "summary": "该文章探讨了提示注入攻击作为角色混淆问题，分析了LLM中角色定义与用户输入冲突的安全风险。",
+  "tags": [
+    "llm"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "聚焦LLM安全关键问题，但内容深度和影响力一般，评分0.65。",
+  "analyzed_at": "2026-06-25T07:55:40.842Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

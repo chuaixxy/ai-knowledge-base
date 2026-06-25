@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-25-060",
+  "title": "How Preply combines AI and human tutors to personalize learning",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/preply",
+  "source_url": "https://openai.com/index/preply",
+  "author": "openai-blog",
+  "published_at": "2026-06-12T00:00:00.000Z",
+  "raw_description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "Preply利用OpenAI技术，结合AI与真人导师，生成课程摘要、个性化反馈和语言学习练习，提升学习效果。",
+  "tags": [
+    "ai",
+    "openai"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "有价值的LLM应用，结合AI与人工提升学习体验，但技术深度一般，偏向商业化。",
+  "analyzed_at": "2026-06-25T07:57:40.908Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

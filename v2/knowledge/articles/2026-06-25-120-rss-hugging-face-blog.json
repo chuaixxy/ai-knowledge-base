@@ -1,0 +1,24 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-103",
+  "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/hf-cli-for-agents",
+  "source_url": "https://huggingface.co/blog/hf-cli-for-agents",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-04T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "Hugging Face 将 hf CLI 设计为面向 Agent 的 Hub 交互工具，优化了自动化工作流和模型管理。",
+  "tags": [
+    "hugging-face",
+    "cli",
+    "agent"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "针对 Agent 场景优化 CLI，提升自动化效率，但技术深度一般，属于实用工具。",
+  "analyzed_at": "2026-06-25T07:59:27.705Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

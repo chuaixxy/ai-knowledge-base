@@ -1,0 +1,23 @@
+{
+  "id": "rss-stripe-engineering-2026-06-25-135",
+  "title": "What Link data tells us about AI spending",
+  "source": "rss-stripe-engineering",
+  "source_id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
+  "source_url": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
+  "author": "stripe-engineering",
+  "published_at": "2026-06-18T00:00:00.000Z",
+  "raw_description": "We analyzed spending patterns across the 250 million customers paying with Link. We found that Link customers are spending more on AI than they were three months prior, investing heavily in platforms that let them build with AI.",
+  "collected_at": "2026-06-25T07:54:26.180Z",
+  "summary": "Stripe通过分析Link支付数据发现，AI相关支出在三个月内显著增长，用户大量投资于AI构建平台。",
+  "tags": [
+    "ai",
+    "stripe"
+  ],
+  "category": "other",
+  "score": 0.55,
+  "audience": "通用",
+  "analysis_note": "数据洞察有价值，但非技术突破，偏向商业趋势分析，相关性中等。",
+  "analyzed_at": "2026-06-25T08:00:48.765Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

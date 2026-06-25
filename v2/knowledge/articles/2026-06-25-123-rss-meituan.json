@@ -1,0 +1,20 @@
+{
+  "id": "rss-meituan-2026-06-25-115",
+  "title": "从月球漫步到赛博都市，WBench 测出了世界模型的边界",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/06/12/LongCat-WBench.html",
+  "source_url": "https://tech.meituan.com/2026/06/12/LongCat-WBench.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "美团 LongCat 团队提出并开源 WBench，它是首个面向交互式视频世界模型的系统性多轮评测基准。它就像一台“CT 扫描仪”，能精准定位当前世界模型在从“被动观看”到“主动交互”的过程中，到底卡在了哪里。。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团LongCat团队提出并开源WBench，首个面向交互式视频世界模型的系统性多轮评测基准，能精准定位模型从被动观看到主动交互的瓶颈。",
+  "tags": [],
+  "category": "tool",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "首个交互式视频世界模型评测基准，创新性强，开源实用，但领域较新，影响力待验证。",
+  "analyzed_at": "2026-06-25T07:59:59.901Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

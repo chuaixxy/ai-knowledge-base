@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-043",
+  "title": "Agentic evolution of physically constrained foundation models",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25532",
+  "source_url": "https://arxiv.org/abs/2606.25532",
+  "author": "Jiangwei Zhang, Wen Sun, Chong Wang, Shiyao Li, Cheng Che, Chunjing Han, Dan Meng, Jian Yang, Yu Wang, Rui Hou",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25532v1 Announce Type: new Abstract: Artificial intelligence increasingly drives automated scientific discovery, yet contemporary generalist agents lack physical grounding, frequently hallucinating hardware-incompatible designs. Here, we present a physically grounded, multi-agent discovery engine that autonomously architects hardware-compliant computing systems. Anchored by an Evolutionary Knowledge Graph structuring past scientific innovations, the framework extracts an \"algorithmic Chain-of-Thought\" to transform blind stochastic search into directed structural evolution. Applied to the extreme testbed of foundation model deployment, the engine evolved two hardware-aware compression methodologies surpassing human-engineered heuristics: Q-Enhance mitigates long-context accuracy loss in dense models, and MoE-Salient-AQ outperforms state-of-the-art manual sparse Mixture-of-Experts designs by 3.7% at sub-3-bit regimes. Utilizing a bandwidth-efficient Sensitivity Profile, we suc",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出一种物理约束的多智能体发现引擎，通过进化知识图谱和算法思维链，自动设计硬件兼容的AI系统，在模型压缩任务上超越人工启发式方法。",
+  "tags": [],
+  "category": "research",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "创新性强，结合物理约束与进化搜索，在模型压缩上取得显著提升，属于关键技术突破。",
+  "analyzed_at": "2026-06-25T07:57:02.270Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

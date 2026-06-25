@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-031",
+  "title": "Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25176",
+  "source_url": "https://arxiv.org/abs/2606.25176",
+  "author": "Jason Carlson",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25176v1 Announce Type: new Abstract: We study representation learning for individual human chess style: a per-player embedding learned from a player's move history such that inner products measure stylistic similarity, while being approximately disentangled from playing strength (Elo). Our key design is a residual formulation: a rating-conditioned base move model (Maia-3 policy logits plus Stockfish-derived features, scored over Maia-2-proposed candidates) captures what a typical player of a given strength would play, and a frozen copy of it anchors a learned move encoder and a per-player vector z, so that z explains only deviations from rating-typical play. The base model improves move prediction over the strong Maia-3 policy by 27-37% relative NLL across the rating spectrum, with the largest gains at the top (2800+); Stockfish's marginal value grows monotonically with Elo (negligible at 900-1200, +0.085 nats at 2800+). On a shared Elo-stratified benchmark of 22,620 held-ou",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "该论文提出一种残差公式，通过评分条件基础移动模型和冻结副本，学习与棋力近似解耦的人类棋风嵌入表示，显著提升走棋预测性能。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "方法创新，性能提升显著，但领域较窄，与通用AI/LLM关联度一般。",
+  "analyzed_at": "2026-06-25T07:56:29.821Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

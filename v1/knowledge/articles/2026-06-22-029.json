@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.19852",
+  "title": "Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.19852",
+  "description": "Zero-shot agentic LLM workflow for extracting lung pathology information from clinical narratives.",
+  "author": "Aman Pathak, Cheng Peng, Mengxian Lyu, et al.",
+  "stars": null,
+  "summary": "提出 Prompt-Plan-Extract（PPE）零样本 Agentic LLM 工作流，从临床文本中自动提取肺部病理信息，7 页。展示 Agent 工作流在医疗信息抽取中的实用设计。",
+  "highlights": [
+    "PPE 三步零样本 Agent 工作流设计",
+    "临床文本的肺部病理自动抽取",
+    "Agent 范式在医疗 NLP 的实践落地"
+  ],
+  "score": 7,
+  "score_reason": "Agent 工作流在垂直领域（医疗）的工程化实践，PPE 设计模式可迁移，但应用场景较窄。",
+  "tags": ["agent", "medical-ai", "zero-shot", "clinical-nlp", "workflow"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.19852",
+    "subjects": ["cs.CL", "cs.LG"],
+    "comments": "7 pages, 2 figures, 3 tables"
+  }
+}

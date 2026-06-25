@@ -1,0 +1,26 @@
+{
+  "id": "arxiv_2606.20333",
+  "title": "SoftSkill: Behavioral Compression for Contextual Adaptation",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20333",
+  "description": "Introduces SoftSkill for behavioral compression enabling contextual adaptation of AI agents.",
+  "author": "Xijia Tao, Yihua Teng, Xinyu Fu, et al.",
+  "stars": null,
+  "summary": "提出 SoftSkill 行为压缩方法，将 Agent 的复杂行为模式压缩为可迁移、可适配的软技能，使 Agent 能够根据上下文自适应调整行为策略。",
+  "highlights": [
+    "行为压缩实现 Agent 上下文自适应",
+    "软技能的可迁移与可复用设计",
+    "压缩复杂行为模式为轻量技能表示"
+  ],
+  "score": 8,
+  "score_reason": "Agent 技能学习与泛化的创新方案，行为压缩思路新颖，对提升 Agent 的跨场景适应性有理论价值。",
+  "tags": ["agent", "skill-learning", "behavior-compression", "contextual-adaptation", "transfer-learning"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20333",
+    "subjects": ["cs.AI"]
+  }
+}

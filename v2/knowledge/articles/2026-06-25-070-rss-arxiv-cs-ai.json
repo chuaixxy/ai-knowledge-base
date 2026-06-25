@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-041",
+  "title": "Quantization Inflates Reasoning: Token Inflation as a Hidden Cost of Low-Bit Reasoning Models",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25519",
+  "source_url": "https://arxiv.org/abs/2606.25519",
+  "author": "Xinyu Lian, Walid Krichene, Beichen Huang, Masahiro Tanaka, Olatunji Ruwase, Li Zhang, Minjia Zhang",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25519v1 Announce Type: new Abstract: Quantization is widely used to reduce the inference cost of large language models, but its effect on reasoning models is not fully captured by final-answer accuracy or per-token latency. We show that low-bit post-training quantization can introduce a hidden test-time compute cost: quantized reasoning models often generate longer chains of thought even when they still answer correctly. Across mathematical reasoning, code generation, scientific question answering, and agentic tool-use benchmarks, we find that INT4/INT3 quantization can preserve accuracy but increase reasoning-token usage, offsetting the expected per-token speedup. To measure this effect, we introduce the CoT Token Inflation Ratio, which compares reasoning length between quantized and full-precision models averaged across all evaluation benchmarks. We further show that token inflation is accompanied by behavioral changes in the reasoning trace, including more intermediate st",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "该论文揭示了低比特量化在推理模型中引入隐藏成本：量化模型虽保持准确率，但会生成更长的思维链，导致令牌膨胀，抵消了预期的速度提升。",
+  "tags": [
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "发现量化推理模型的关键隐藏成本，具有重要实践意义，方法新颖，评分高。",
+  "analyzed_at": "2026-06-25T07:56:57.360Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,61 @@
+{
+  "filtered_at": "2026-06-22T00:00:00Z",
+  "filter_rule": "score < 6 (质量门控)",
+  "total_filtered": 9,
+  "discarded_entries": [
+    {
+      "id": "github_trending_7b8c1d2e",
+      "source_url": "https://github.com/palmier-io/palmier-pro",
+      "score": 5,
+      "reason": "视频编辑工具，AI 为辅助能力而非核心 LLM/Agent 领域，技术深度有限。"
+    },
+    {
+      "id": "github_trending_b4a5c6d7",
+      "source_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "score": 5,
+      "reason": "Agent 应用模板，展示自动化能力但技术深度有限，偏向工具使用示范而非技术创新。"
+    },
+    {
+      "id": "hacker_news_48624782",
+      "source_url": "https://sakana.ai/fugu/",
+      "score": 5,
+      "reason": "信息有限，无法判断技术深度和具体能力。Sakana AI 有创新基因但缺乏足够技术细节支撑高评分。"
+    },
+    {
+      "id": "hacker_news_48626930",
+      "source_url": "https://github.com/openai/codex/issues/28224",
+      "score": 5,
+      "reason": "工程 Bug 报告，反映 AI 工具质量问题，但非技术分析或创新内容，时效性强但信息深度有限。"
+    },
+    {
+      "id": "hacker_news_48599998",
+      "source_url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "score": 4,
+      "reason": "AI 历史回顾文章，有学术史价值但对当前工程实践和技术选型无直接帮助。"
+    },
+    {
+      "id": "hacker_news_48628450",
+      "source_url": "https://twitter.com/brianroemmele/status/1991714955339657384",
+      "score": 4,
+      "reason": "社交媒体观点片段，讨论度极低，缺乏系统性分析和技术深度，信息密度不足。"
+    },
+    {
+      "id": "hacker_news_48622626",
+      "source_url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "score": 5,
+      "reason": "数学基础文章，与 LLM 底层机制有间接关联，但非 AI 核心技术内容，对工程实践指导意义有限。"
+    },
+    {
+      "id": "arxiv_2606.20146",
+      "source_url": "https://arxiv.org/abs/2606.20146",
+      "score": 5,
+      "reason": "LLM 在垂直专业领域的应用探索，但 BIM 领域过于细分，对 AI 核心从业者的参考价值有限。"
+    },
+    {
+      "id": "arxiv_2606.20138",
+      "source_url": "https://arxiv.org/abs/2606.20138",
+      "score": 5,
+      "reason": "LLM 在教育领域的应用研究，场景过于垂直且偏向教育学评估，对 AI 技术从业者参考价值有限。"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-087",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "source_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-23T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "Hugging Face 博客介绍其每周发布 huggingface_hub 库的流程，结合 AI、开源工具和人工审核，确保快速迭代与质量。",
+  "tags": [
+    "huggingfacehub",
+    "cicd",
+    "ai"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "聚焦工程实践，对AI/LLM开发者有参考价值，但非核心技术突破。",
+  "analyzed_at": "2026-06-25T07:58:51.308Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_9c0d1e2f",
+  "title": "ZhuLinsen/daily_stock_analysis",
+  "source": "github_trending",
+  "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。LLM-powered multi-market stock analysis system.",
+  "author": "ZhuLinsen",
+  "stars": 568,
+  "summary": "基于 LLM 的多市场股票智能分析系统，集成多源行情、实时新闻、决策看板和自动推送，支持零成本定时运行，45k+ 总星。",
+  "highlights": [
+    "LLM 驱动的多市场智能分析决策",
+    "零成本定时运行架构",
+    "多源行情与实时新闻融合分析"
+  ],
+  "score": 7,
+  "score_reason": "LLM 在金融领域的工程化应用范例，展示了 Agent 式信息聚合与决策辅助的完整链路。",
+  "tags": ["llm", "stock-analysis", "finance", "agent", "python"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "Python",
+    "stars_total": 45393,
+    "forks_count": 41770
+  }
+}

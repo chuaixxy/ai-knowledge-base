@@ -1,0 +1,22 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-101",
+  "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/openenv-agentic-rl",
+  "source_url": "https://huggingface.co/blog/openenv-agentic-rl",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-08T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "OpenEnv是一个开源社区支持的强化学习环境，旨在推动Agentic RL的发展，提供标准化工具和基准测试。",
+  "tags": [
+    "agentic-rl"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "聚焦Agentic RL，开源社区支持，技术价值高，但具体实现细节未详述。",
+  "analyzed_at": "2026-06-25T07:59:23.159Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github_trending_91613bd7",
+  "title": "LangGraph",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "collected_at": "2026-06-23T00:00:00Z",
+  "summary": "基于有向图的 LLM Agent 编排框架，支持状态持久化、人机协作和循环控制流。",
+  "tags": ["agent", "llm", "workflow", "state-machine"],
+  "score": 9,
+  "status": "draft",
+  "highlights": [
+    "有向图式 Agent 流程编排",
+    "内置状态持久化与断点续传",
+    "支持人机协作循环"
+  ],
+  "score_reason": "LLM Agent 编排领域最成熟的图式框架，生产级应用广泛。",
+  "description": "Build stateful, multi-actor applications with LLMs, built on LangChain. Supports cycles, human-in-the-loop, streaming, and durable execution.",
+  "author": "langchain-ai",
+  "published_at": "2024-01-01T00:00:00Z",
+  "analyzed_at": "2026-06-23T00:00:00Z",
+  "metadata": {
+    "language": "Python",
+    "stars_total": 18000
+  }
+}

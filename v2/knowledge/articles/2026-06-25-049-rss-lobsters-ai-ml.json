@@ -1,0 +1,24 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-015",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "author": "elastic.co via Mordo",
+  "published_at": "2026-06-18T19:36:59.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/inzoi4/agent_memory_on_elasticsearch_hybrid\">Comments</a></p>",
+  "collected_at": "2026-06-25T07:54:19.434Z",
+  "summary": "Elasticsearch 上实现 Agent 记忆的混合检索与 DLS 方案，提升 AI Agent 的上下文检索能力。",
+  "tags": [
+    "agent-memory",
+    "elasticsearch",
+    "hybrid-retrieval"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "实用工具，结合混合检索与DLS，但技术深度一般，适合工程实践。",
+  "analyzed_at": "2026-06-25T07:55:49.345Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

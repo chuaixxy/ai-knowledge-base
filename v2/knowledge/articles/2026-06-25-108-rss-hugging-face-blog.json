@@ -1,0 +1,22 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-091",
+  "title": "MosaicLeaks: Can your research agent keep a secret?",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+  "source_url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-18T18:13:13.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "该博客文章探讨了研究型AI代理在保护机密信息方面的能力，通过MosaicLeaks测试评估其安全性。",
+  "tags": [
+    "ai"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "聚焦AI代理安全漏洞，有实际测试价值，但技术深度一般。",
+  "analyzed_at": "2026-06-25T07:59:00.246Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

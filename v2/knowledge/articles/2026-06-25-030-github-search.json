@@ -1,0 +1,35 @@
+{
+  "id": "github-search-2026-06-25-016",
+  "title": "OpenHands/OpenHands",
+  "source": "github-search",
+  "source_id": "OpenHands/OpenHands",
+  "source_url": "https://github.com/OpenHands/OpenHands",
+  "author": "OpenHands",
+  "published_at": "2026-06-25T04:02:18Z",
+  "raw_description": "🙌 OpenHands: AI-Driven Development",
+  "collected_at": "2026-06-25T04:03:25.378Z",
+  "stars": 78261,
+  "topics": [
+    "agent",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools",
+    "gpt",
+    "llm",
+    "openai"
+  ],
+  "summary": "OpenHands是一个AI驱动的开发平台，利用大语言模型（如GPT、Claude）辅助开发者进行代码生成、调试和自动化任务，提升开发效率。",
+  "tags": [
+    "ai",
+    "llm"
+  ],
+  "category": "tool",
+  "score": 0.85,
+  "audience": "工程师",
+  "analysis_note": "高星开源项目，直接结合LLM与开发流程，实用性强，技术价值高。",
+  "analyzed_at": "2026-06-25T04:04:10.108Z",
+  "organized_at": "2026-06-25T04:04:19.268Z",
+  "status": "published"
+}

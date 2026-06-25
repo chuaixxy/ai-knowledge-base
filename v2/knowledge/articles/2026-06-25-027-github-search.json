@@ -1,0 +1,34 @@
+{
+  "id": "github-search-2026-06-25-013",
+  "title": "TauricResearch/TradingAgents",
+  "source": "github-search",
+  "source_id": "TauricResearch/TradingAgents",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "author": "TauricResearch",
+  "published_at": "2026-06-22T02:05:09Z",
+  "raw_description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "collected_at": "2026-06-25T04:03:25.378Z",
+  "stars": 88382,
+  "topics": [
+    "agent",
+    "finance",
+    "llm",
+    "multiagent",
+    "trading"
+  ],
+  "summary": "TradingAgents是一个基于多智能体LLM的金融交易框架，利用大语言模型实现自动化交易策略。",
+  "tags": [
+    "multi-agent",
+    "finance",
+    "trading",
+    "llm",
+    "framework"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "高星项目，多智能体LLM在金融交易中的创新应用，技术深度和实用性兼备。",
+  "analyzed_at": "2026-06-25T04:04:04.057Z",
+  "organized_at": "2026-06-25T04:04:19.268Z",
+  "status": "published"
+}

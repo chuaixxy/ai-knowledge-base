@@ -1,0 +1,22 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-008",
+  "title": "Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://arxiv.org/abs/2604.13327",
+  "source_url": "https://arxiv.org/abs/2604.13327",
+  "author": "arxiv.org via sanxiyn",
+  "published_at": "2026-06-22T23:18:52.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/lpn1cr/event_tensor_unified_abstraction_for\">Comments</a></p>",
+  "collected_at": "2026-06-25T07:54:19.434Z",
+  "summary": "提出Event Tensor统一抽象，用于编译动态Megakernel，提升AI计算效率。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对AI编译优化，有理论创新，但尚处早期，实用性待验证。",
+  "analyzed_at": "2026-06-25T07:55:33.566Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

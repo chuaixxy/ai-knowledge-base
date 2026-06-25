@@ -1,0 +1,20 @@
+{
+  "id": "github-trending-2026-06-24-015",
+  "title": "affaan-m/ECC",
+  "source": "github-trending",
+  "source_id": "affaan-m/ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "author": "affaan-m",
+  "published_at": null,
+  "raw_description": "The agent harness performance optimization system. Skills, instincts, memory, self-assessment — all runtime-configurable.",
+  "summary": "Agent运行时性能优化系统，提供技能管理、直觉式响应、长期记忆和自我评估四大核心模块，全部支持运行时动态配置与热更新。",
+  "tags": ["agent-framework", "multi-agent", "prompt-engineering", "python"],
+  "category": "framework",
+  "score": 0.68,
+  "audience": "工程师",
+  "analysis_note": "聚焦Agent运行时优化这一被忽视的赛道，技能/直觉/记忆/自评估的四维架构设计合理。运行时动态配置能力为生产级Agent部署提供了灵活性，但项目较新且社区验证不足，需关注后续发展。",
+  "collected_at": "2026-06-24T10:00:23Z",
+  "analyzed_at": "2026-06-24T11:00:00Z",
+  "organized_at": "2026-06-24T11:30:00Z",
+  "status": "published"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-021",
+  "title": "Building llm-driven “ai” still requires domain knowledge",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+  "source_url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+  "author": "by Student",
+  "published_at": "2026-06-15T14:46:23.000Z",
+  "raw_description": "<p>I’m in the process of building an llm driven tool to take user questions and answer them using our customer api at $work.</p> <p>A big part of the work is capturing the domain knowledge and writing it down. It’s easier than previous generations of “ai” because the knowledge doesn’t strictly have to be rendered into a structured format, but this is what previous generations of “ai” foundered on.</p>",
+  "collected_at": "2026-06-25T07:54:19.434Z",
+  "summary": "文章强调构建LLM驱动的AI工具仍需领域知识，通过记录知识来回答用户问题，比传统AI更易实现。",
+  "tags": [
+    "llm",
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "观点有价值但缺乏技术深度，属于经验分享，相关性中等。",
+  "analyzed_at": "2026-06-25T07:56:02.643Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

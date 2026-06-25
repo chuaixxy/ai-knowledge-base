@@ -1,0 +1,20 @@
+{
+  "id": "rss-meituan-2026-06-25-117",
+  "title": "从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/05/25/LongCat-Video-Avatar-1.5.html",
+  "source_url": "https://tech.meituan.com/2026/05/25/LongCat-Video-Avatar-1.5.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "LongCat-Video-Avatar 1.5是一款从开源 SOTA 迈向商业级应用的数字人视频模型。在唇形同步、物理合理性、长视频稳定性、多人互动和高效推理上实现了全面跃升。LongCat-Video-Avatar 1.5 即便在复杂商业场景里，也能稳定、自然地输出高质量内容，让数字人视频生成从彩排室的完美演练，走向千人千面的真实舞台。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团开源LongCat-Video-Avatar 1.5数字人视频模型，实现唇形同步、物理合理性、长视频稳定性等全面升级，从SOTA迈向商业级应用。",
+  "tags": [],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "技术突破显著，开源推动应用，但非LLM核心领域，评分0.75。",
+  "analyzed_at": "2026-06-25T08:00:04.597Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

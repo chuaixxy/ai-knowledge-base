@@ -1,0 +1,20 @@
+{
+  "id": "rss-airbnb-engineering-2026-06-25-127",
+  "title": "Scaling Airbnb’s identity graph with a unified knowledge graph infrastructure",
+  "source": "rss-airbnb-engineering",
+  "source_id": "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4",
+  "source_url": "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4",
+  "author": "Lucen Zhao",
+  "published_at": "2026-05-19T17:01:01.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:26.090Z",
+  "summary": "Airbnb 通过统一知识图谱基础设施扩展身份图谱，整合用户、设备等实体关系，提升身份解析和个性化体验。",
+  "tags": [],
+  "category": "framework",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "工程实践有价值，但非LLM核心创新，技术深度中等。",
+  "analyzed_at": "2026-06-25T08:00:30.063Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

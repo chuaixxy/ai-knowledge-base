@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-ai-2026-06-25-002",
+  "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+  "source": "rss-arxiv-ai",
+  "source_id": "https://arxiv.org/abs/2606.23938",
+  "source_url": "https://arxiv.org/abs/2606.23938",
+  "author": "Xiangbo Gao, Xiukun Huang, Boyu Lu, Junge Zhang, Mengjie Mao, Jiachen Li, Wei Xiong, Zhengzhong Tu",
+  "published_at": "2026-06-24T04:00:00.000Z",
+  "raw_description": "arXiv:2606.23938v1 Announce Type: new Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision semantics needed to keep the rationale causally connected to the planned motion. We introduce Neuro-Symbolic Drive, a neuro-symbolic driving framework that supervises a driving VLA with rule-grounded reasoning traces extracted directly from classical rule-based planners. Our key observation is that rule-based planners are symbolic AI systems that already function as executable reasoning engines: they reason about active safety constraints, search over candidate maneuvers, and select a final trajectory. We instrument these planners in simulation to capture both the executed trajectory and the internal decision trace at each rule-evaluation step. Each trace is serialized into structured rule-grou",
+  "collected_at": "2026-06-25T03:59:38.384Z",
+  "summary": "提出神经符号驱动框架，通过规则基规划器提取规则基础推理轨迹，监督驾驶VLA模型，实现因果一致的逐步决策推理。",
+  "tags": [
+    "vla"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性地结合神经符号与驾驶VLA，提升推理可解释性，但应用场景较窄。",
+  "analyzed_at": "2026-06-25T03:59:44.074Z",
+  "organized_at": "2026-06-25T03:59:51.562Z",
+  "status": "published"
+}

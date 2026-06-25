@@ -1,0 +1,23 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-096",
+  "title": "GLM-5.2: Built for Long-Horizon Tasks",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "source_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-17T09:01:25.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.394Z",
+  "summary": "GLM-5.2是专为长时域任务设计的AI模型，旨在提升复杂、长期依赖场景下的性能表现。",
+  "tags": [
+    "glm-52",
+    "ai"
+  ],
+  "category": "research",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对长时域任务优化，有明确技术价值，但缺乏具体细节，评分中等偏上。",
+  "analyzed_at": "2026-06-25T07:59:12.078Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-meituan-2026-06-25-121",
+  "title": "突破零样本 TTS 音色克隆上限：LongCat-AudioDiT 的声音克隆艺术",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/04/20/LongCat-AudioDiT.html",
+  "source_url": "https://tech.meituan.com/2026/04/20/LongCat-AudioDiT.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "能不能让 AI 直接学会声音本身的规律，跳过中间环节？为破解这一技术瓶颈，美团 LongCat 团队正式发布 LongCat-AudioDiT。在该模型中，彻底抛弃梅尔谱等中间表示，直接在波形潜空间进行基于扩散模型的文本转语音（Text-to-Speech, TTS），从根源阻断数据转换的级联误差。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团LongCat团队发布LongCat-AudioDiT，一种在波形潜空间进行扩散模型TTS的方法，彻底抛弃梅尔谱等中间表示，从根源阻断级联误差，实现零样本音色克隆突破。",
+  "tags": [
+    "tts"
+  ],
+  "category": "research",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "技术突破显著，直接波形潜空间扩散模型创新性强，但缺乏开源和详细实验对比，评分略降。",
+  "analyzed_at": "2026-06-25T08:00:15.226Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-028",
+  "title": "Beyond Shapley: Efficient Computation of Asymmetric Shapley Values",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25103",
+  "source_url": "https://arxiv.org/abs/2606.25103",
+  "author": "Ezequiel Companeetz, Santiago Cifuentes, Sergio Abriola",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25103v1 Announce Type: new Abstract: We address the problem of explainability in machine learning models through feature attribution methods. In particular, we consider a variant of Shapley values known as Asymmetric Shapley Values (ASV), which enables the incorporation of causal knowledge into model-agnostic explanations through the use of a causal graph. We show that in certain contexts in which the computation of SHAP is $\\#P$-hard, the exact computation of ASV can be done in polynomial time. To extend this algorithmic result, we introduce a notion of equivalence classes over the topological orderings of the underlying causal graph, which is useful to reduce the time to compute ASV. In particular, we present a polynomial-time algorithm (in the number of equivalence classes) to compute it whenever the causal graph is a rooted directed tree. Finally, we develop an algorithm for approximating ASV in arbitrary causal DAGs which relies on a procedure to sample topological orde",
+  "collected_at": "2026-06-25T07:54:19.584Z",
+  "summary": "本文提出一种高效计算非对称Shapley值（ASV）的方法，利用因果图拓扑排序的等价类，在多项式时间内精确计算ASV，并开发了任意因果DAG的近似算法。",
+  "tags": [
+    "shapley"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "理论贡献扎实，算法效率提升显著，但应用场景较窄，需进一步验证实用性。",
+  "analyzed_at": "2026-06-25T07:56:21.928Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

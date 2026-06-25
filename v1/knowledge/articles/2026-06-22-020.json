@@ -1,0 +1,26 @@
+{
+  "id": "arxiv_2606.20363",
+  "title": "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20363",
+  "description": "Automates the generation of SKILL.md files for computer-using agents by mining interaction trajectories.",
+  "author": "Yuexing Hao, Xiaomin Li",
+  "stars": null,
+  "summary": "通过挖掘人机交互轨迹自动生成 Agent 的 SKILL.md 技能文件，降低 Agent 技能编写门槛，实现技能获取的自动化。",
+  "highlights": [
+    "交互轨迹挖掘自动生成 SKILL.md",
+    "降低 Agent 技能编写的人工成本",
+    "Agent 技能获取的自动化方法"
+  ],
+  "score": 8,
+  "score_reason": "直接面向 Agent 技能工程化的痛点，自动化方案务实，对 Agent 技能生态建设有推动作用。",
+  "tags": ["agent", "skill-generation", "automation", "trajectory-mining", "claude-code"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20363",
+    "subjects": ["cs.AI"]
+  }
+}

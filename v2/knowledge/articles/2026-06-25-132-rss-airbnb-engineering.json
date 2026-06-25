@@ -1,0 +1,22 @@
+{
+  "id": "rss-airbnb-engineering-2026-06-25-125",
+  "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
+  "source": "rss-airbnb-engineering",
+  "source_id": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
+  "source_url": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
+  "author": "Bo Teng",
+  "published_at": "2026-06-04T17:01:04.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:26.090Z",
+  "summary": "Airbnb 介绍了 Sitar-agent，一个用于大规模动态配置管理的可靠 sidecar 代理，旨在解决配置变更的可靠性和效率问题。",
+  "tags": [
+    "sidecar"
+  ],
+  "category": "tool",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "与AI/LLM领域相关性较低，但作为基础设施工具质量较高，适合工程实践参考。",
+  "analyzed_at": "2026-06-25T08:00:25.190Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

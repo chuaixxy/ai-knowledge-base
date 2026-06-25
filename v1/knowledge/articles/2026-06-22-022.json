@@ -1,0 +1,27 @@
+{
+  "id": "arxiv_2606.20245",
+  "title": "Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20245",
+  "description": "Proposes explicit knowledge conflict resolution mechanism for LLM inference when parametric and contextual knowledge conflict. 12 pages.",
+  "author": "Huang Peng, Jiuyang Tang, Weixin Zeng, Hao Xu, Xiang Zhao",
+  "stars": null,
+  "summary": "针对 LLM 推理中模型参数知识与外部上下文知识发生冲突的问题，提出显式冲突解决机制，12 页。对 RAG 系统的可靠性提升有直接价值。",
+  "highlights": [
+    "显式解决参数知识与上下文知识的冲突",
+    "提升 RAG 系统推理可靠性",
+    "12 页系统性分析与验证"
+  ],
+  "score": 8,
+  "score_reason": "直击 RAG 和 LLM 应用的核心痛点——知识冲突，方案直接且实用，对工程落地有指导意义。",
+  "tags": ["llm", "knowledge-conflict", "rag", "inference", "reliability"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20245",
+    "subjects": ["cs.AI"],
+    "comments": "12 pages, 3 figures"
+  }
+}

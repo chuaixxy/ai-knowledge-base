@@ -1,0 +1,24 @@
+{
+  "id": "rss-stripe-engineering-2026-06-25-136",
+  "title": "Stripe Projects adds new agent integrations, more providers, and custom developer controls",
+  "source": "rss-stripe-engineering",
+  "source_id": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",
+  "source_url": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",
+  "author": "stripe-engineering",
+  "published_at": "2026-06-11T00:00:00.000Z",
+  "raw_description": "Our data shows that agents are now fully capable of independently writing code and integrating with APIs like Stripe’s. And yet, many of the steps adjacent to writing code are still too hard for agents to do on their own. We’re expanding Stripe Projects to solve this.",
+  "collected_at": "2026-06-25T07:54:26.180Z",
+  "summary": "Stripe Projects 扩展了代理集成、更多提供商和自定义开发者控制，使AI代理能独立编写代码并集成Stripe API，解决代码编写之外的步骤难题。",
+  "tags": [
+    "stripe",
+    "ai",
+    "api"
+  ],
+  "category": "tool",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "核心亮点是解决AI代理在API集成中的实际痛点，技术深度适中，对开发者有实用价值。",
+  "analyzed_at": "2026-06-25T08:00:53.506Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

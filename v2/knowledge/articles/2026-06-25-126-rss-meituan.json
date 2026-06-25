@@ -1,0 +1,23 @@
+{
+  "id": "rss-meituan-2026-06-25-118",
+  "title": "美团 LongCat 开源 General 365：树立推理评测新标尺",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/05/15/LongCat-General-365.html",
+  "source_url": "https://tech.meituan.com/2026/05/15/LongCat-General-365.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "美团 LongCat 团队正式发布 General 365。我们发现，在对 26 款主流模型的实测中，目前地表最强的 Gemini 3 Pro 准确率仅为 62.8%，而绝大多数模型甚至没能摸到 60 分的及格线。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团发布LongCat General 365推理评测基准，测试26款主流模型，最高准确率仅62.8%，多数不及格，树立新标尺。",
+  "tags": [
+    "longcat",
+    "general-365"
+  ],
+  "category": "dataset",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "有价值的评测基准，揭示当前模型推理能力不足，但非技术突破，评分中等偏上。",
+  "analyzed_at": "2026-06-25T08:00:07.221Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-ai-2026-06-25-003",
+  "title": "Critique of Agent Model",
+  "source": "rss-arxiv-ai",
+  "source_id": "https://arxiv.org/abs/2606.23991",
+  "source_url": "https://arxiv.org/abs/2606.23991",
+  "author": "Eric Xing, Mingkai Deng, Jinyu Hou",
+  "published_at": "2026-06-24T04:00:00.000Z",
+  "raw_description": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" against humans, it has become essential to clarify where automation ends and agency begins, both for building capable systems and for understanding whether and what to fear. Drawing on Descartes' grounding of agency in independent thought, and on portrayals of autonomous beings in science fiction, we survey the current landscape of AI agents, and analyze agent architectures along five dimensions: goal, identity, decision-making, self-regulation, and learning. Specifically, we argue that genuine agency requires these structures to be \\emph{internalized within the system itself} rather than a",
+  "collected_at": "2026-06-25T03:59:38.384Z",
+  "summary": "该论文基于笛卡尔哲学和科幻作品，从目标、身份、决策、自我调节和学习五个维度分析AI Agent架构，论证真正的自主性需要这些结构内化于系统本身。",
+  "tags": [
+    "ai-agent"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "理论深度高，结合哲学与科幻，对Agent本质有清晰界定，但缺乏实证，偏概念探讨。",
+  "analyzed_at": "2026-06-25T03:59:46.409Z",
+  "organized_at": "2026-06-25T03:59:51.562Z",
+  "status": "published"
+}

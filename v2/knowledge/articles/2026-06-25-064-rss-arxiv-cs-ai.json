@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-035",
+  "title": "Omni-Perception Policy Optimization for Multimodal Emotion Reasoning",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25325",
+  "source_url": "https://arxiv.org/abs/2606.25325",
+  "author": "Zhiyuan Han, Beier Zhu, Wenwen Tong, Pengyang Shao, Peipei Song, Xinyi Wang, Jiangnan Chen, Lewei Lu, Xun Yang",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25325v1 Announce Type: new Abstract: We find that current emotion-oriented Omni-MLLMs still lack reliable omni-modal perception: they (i) underutilize multimodal cues in their reasoning trajectories and (ii) exhibit unfaithful behavior, often hallucinating modality-specific statements from other modalities. Building on these insights, we propose OPPO (Omni-Perception Policy Optimization), a reinforcement learning framework that explicitly optimizes multimodal perception. First, an Omni-Perception Reward decomposes ground-truth reasoning into fine-grained visual, acoustic, and emotion cues and rewards trajectories that semantically recover these cues. Second, an Omni-Perception Loss compares the policy under full and unimodally masked inputs, applying a KL penalty only to modality-specific evidence tokens to suppress cross-modal hallucination. We further introduce MEP-Bench, a diagnostic benchmark that quantifies utilization and faithfulness. Experiments show that OPPO achiev",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出OPPO框架，通过强化学习优化多模态情感推理中的感知能力，解决现有模型对多模态线索利用不足和跨模态幻觉问题，并引入MEP-Bench基准。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对多模态情感推理的感知优化问题，方法创新且实验验证有效，但领域较窄，实用性待评估。",
+  "analyzed_at": "2026-06-25T07:56:39.356Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hacker_news_48623434",
+  "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+  "source": "hacker_news",
+  "source_url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+  "description": "Experience report on fine-tuning Qwen 3 0.6B locally for question categorization, 152 points and 30 comments.",
+  "author": "dev-experiments",
+  "stars": 152,
+  "summary": "本地微调 Qwen 3 0.6B 小模型用于问题分类的实践经验分享，展示小模型在特定任务上可达到良好效果，获 152 分。",
+  "highlights": [
+    "0.6B 小模型本地微调的完整实践",
+    "特定分类任务中小模型可媲美大模型",
+    "降低 LLM 应用的计算成本示范"
+  ],
+  "score": 7,
+  "score_reason": "小模型微调的实用工程实践，对资源受限场景下的 LLM 应用有直接参考价值。",
+  "tags": ["fine-tuning", "qwen", "small-models", "local-llm", "question-categorization"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/hacker_news-2026-06-22.json",
+  "metadata": {
+    "hn_points": 152,
+    "hn_descendants": 30,
+    "hn_id": 48623434
+  }
+}

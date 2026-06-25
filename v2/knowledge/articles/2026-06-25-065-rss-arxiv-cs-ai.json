@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-036",
+  "title": "Agentic Knowledge Tracing: A Multi-Agent LLM Architecture for Stealth Assessment of Financial Literacy in Serious Games",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25358",
+  "source_url": "https://arxiv.org/abs/2606.25358",
+  "author": "Gabriel Santos, Rita Julia, Marcelo Nascimento",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25358v1 Announce Type: new Abstract: Assessing financial literacy during gameplay without disrupting the learning experience remains a key challenge in serious games for education. We present the Agentic BKT pipeline, a multi-agent large language model architecture for stealth assessment of financial competencies from open-ended gameplay events. The pipeline processes events from a 2D platformer serious game aligned with the OECD/INFE financial literacy framework through four phases: (1) the game captures every player decision as a structured event log; (2) an LLM event classifier labels each action on a four-point rubric validated against three domain experts (Fleiss kappa = 0.624, substantial agreement); (3) four domain-specific agents specializing in risk mitigation, investing, spending, and credit management perform session-level reasoning over behavioral trajectories, feeding per-competency Bayesian Knowledge Tracing that estimates mastery within each domain; and (4) an",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出Agentic BKT流水线，利用多智能体LLM架构在严肃游戏中实现金融素养的隐蔽评估，通过事件分类、领域推理和贝叶斯知识追踪实现无干扰评估。",
+  "tags": [
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.72,
+  "audience": "研究员",
+  "analysis_note": "创新性地将多智能体LLM与知识追踪结合，解决教育游戏评估难题，实验验证充分，但应用场景较窄。",
+  "analyzed_at": "2026-06-25T07:56:43.390Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

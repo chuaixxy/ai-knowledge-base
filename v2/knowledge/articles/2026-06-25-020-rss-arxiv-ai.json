@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-ai-2026-06-25-001",
+  "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+  "source": "rss-arxiv-ai",
+  "source_id": "https://arxiv.org/abs/2606.23927",
+  "source_url": "https://arxiv.org/abs/2606.23927",
+  "author": "Yarin Yerushalmi Levi, Roy Betser, Amit Giloni, Lidor Erez, Itay Gershon, Oren Rachmil, Sindhu Padakandla, Roman Vainshtein",
+  "published_at": "2026-06-24T04:00:00.000Z",
+  "raw_description": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this gap, we introduce RIFT-Bench, a graph representation-driven methodology for dynamic red-teaming that enables unified evaluations across diverse agentic architectures. Building on a novel hierarchical representation, RIFT-Bench operates in two automated phases: Discovery, which extracts system structure, and Scanning, which deploys adaptive adversarial attacks and produces a comprehensive evaluation report. It evaluates the examined system itself, leveraging a broad set of dynamically adaptable adversarial probes across diverse attack vectors and objectives. We demonstrate the effectiveness of",
+  "collected_at": "2026-06-25T03:59:38.384Z",
+  "summary": "RIFT-Bench提出了一种基于图表示的动态红队方法，用于统一评估不同架构的智能体AI系统，通过自动发现和自适应攻击生成安全报告。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "针对智能体AI安全评估的关键问题，提出创新性图表示方法，自动化程度高，具有重要研究价值。",
+  "analyzed_at": "2026-06-25T03:59:41.525Z",
+  "organized_at": "2026-06-25T03:59:51.562Z",
+  "status": "published"
+}

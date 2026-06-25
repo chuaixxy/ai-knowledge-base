@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-027",
+  "title": "Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25066",
+  "source_url": "https://arxiv.org/abs/2606.25066",
+  "author": "Farahnaz Wick",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25066v1 Announce Type: new Abstract: Visual search has been one of the most productive paradigms in the study of visual attention: the way reaction time scales with the number of items distinguishes parallel, \"pop-out\" search from serial, attention-demanding search. I ask whether vision-language models (VLMs) exhibit the same behavioral signatures. I adapt four classic paradigms: feature versus conjunction search, spatial-configuration (T-vs-L) search, enumeration, and the tilted/vertical search asymmetry; and present them to current frontier and mid-tier models. Because a single model call has no reaction time, I use the number of reasoning (\"thinking\") tokens a model spends per trial as a within-model analog of search effort, and I compare against a large public human benchmark (Wolfe et al., 2010). The models reproduce several human signatures: feature search costs flat effort while conjunction effort climbs with set size; frontier models hold accuracy where mid-tier mode",
+  "collected_at": "2026-06-25T07:54:19.584Z",
+  "summary": "该论文研究视觉语言模型（VLM）在经典视觉搜索范式中的行为，通过推理token数量模拟人类反应时间，发现模型复现了部分人类搜索特征。",
+  "tags": [
+    "token"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性地用推理token模拟反应时间，对比人类基准，方法新颖；但仅针对特定范式，泛化性待验证。",
+  "analyzed_at": "2026-06-25T07:56:19.608Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

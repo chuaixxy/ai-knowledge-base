@@ -1,0 +1,24 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-25-084",
+  "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "source_url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-24T16:00:13.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-25T07:54:20.393Z",
+  "summary": "本文介绍如何使用NVIDIA NeMo AutoModel加速Transformer微调，提供自动化工具和优化策略，提升训练效率。",
+  "tags": [
+    "nvidia",
+    "nemo",
+    "transformer"
+  ],
+  "category": "tool",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "针对LLM微调场景，提供实用加速方案，技术深度适中，对工程师有直接帮助。",
+  "analyzed_at": "2026-06-25T07:58:37.398Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

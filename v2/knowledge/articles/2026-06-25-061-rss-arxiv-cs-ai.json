@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-032",
+  "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25178",
+  "source_url": "https://arxiv.org/abs/2606.25178",
+  "author": "Yongjin Yang, Jiarui Liu, Yinghui He, Lezhen Zhang, Bernhard Sch\\\"olkopf, Zhijing Jin",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25178v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has been extended from single-domain training to multi-domain reasoning suites spanning mathematics, programming, and science. However, the training curriculum (how often each domain is sampled) is typically fixed or hand-tuned, even though reasoning skills transfer unevenly across domains. Existing learnability-based curricula adapt to where the policy is currently improving, but are blind to whether a gradient step on the selected domain benefits the remaining domains. In this paper, we propose Transfer-Aware Curriculum (TAC), a bandit-style online curriculum that prioritizes domains whose updates broadly benefit the rest of the training suite. TAC repurposes signals already produced by RL training: per-domain advantages capture local learnability, and projected gradients, taken from the GRPO step being computed, estimate cross-domain transferability via gradient-geometry alignment, ",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出Transfer-Aware Curriculum (TAC)，一种基于多领域RLVR的在线课程学习方法，通过梯度几何对齐自动选择能最大化跨领域迁移收益的训练领域。",
+  "tags": [
+    "rlvr"
+  ],
+  "category": "paper",
+  "score": 0.82,
+  "audience": "研究员",
+  "analysis_note": "针对RLVR中课程设计盲点提出创新方法，理论扎实且实用性强，属于关键技术突破。",
+  "analyzed_at": "2026-06-25T07:56:32.135Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

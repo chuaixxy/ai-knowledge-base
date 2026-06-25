@@ -1,0 +1,112 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ai-knowledge-base/schemas/analyzer-output.json",
+  "title": "Analyzer Output Schema",
+  "description": "Analyzer Agent 在 Collector 输出基础上追加分析字段后的完整条目格式。Analyzer 原地改写 raw 文件，已分析条目 status 变更为 review。",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "source",
+    "source_id",
+    "source_url",
+    "collected_at",
+    "status",
+    "summary",
+    "tags",
+    "category",
+    "score",
+    "audience",
+    "analysis_note",
+    "analyzed_at"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "全局唯一标识，格式 {source}-{YYYY-MM-DD}-{NNN}",
+      "pattern": "^(github-trending|hackernews-top|arxiv)-\\d{4}-\\d{2}-\\d{2}-\\d{3}$"
+    },
+    "title": {
+      "type": "string",
+      "description": "条目标题"
+    },
+    "source": {
+      "type": "string",
+      "description": "数据来源",
+      "enum": ["github-trending", "hackernews-top", "arxiv"]
+    },
+    "source_id": {
+      "type": "string",
+      "description": "源原生 ID"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "原始链接"
+    },
+    "author": {
+      "type": "string",
+      "description": "作者/组织名"
+    },
+    "published_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "原始发布时间（ISO 8601）"
+    },
+    "raw_description": {
+      "type": "string",
+      "description": "源原始描述文本，保留不修改"
+    },
+    "summary": {
+      "type": "string",
+      "description": "中文技术摘要，Analyzer 基于 raw_description 改写生成。包含：这是什么 / 为什么重要 / 关键技术点",
+      "minLength": 20
+    },
+    "tags": {
+      "type": "array",
+      "description": "标签列表，Analyzer 填充。三类：技术领域 / 应用场景 / 技术栈，英文小写连字符分隔。可自定义扩展。",
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+      "minItems": 1
+    },
+    "category": {
+      "type": "string",
+      "description": "分类。ArXiv: 原生 cs.XX 分类；GitHub/HN: tool / framework / paper / benchmark / tutorial 之一"
+    },
+    "score": {
+      "type": "number",
+      "description": "综合评分（0-1，保留两位小数）。5 维度加权：实用价值 30% + 技术深度 25% + 时效性 15% + 社区热度 15% + 领域匹配 15%",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "audience": {
+      "type": "string",
+      "description": "目标读者类型",
+      "enum": ["研究者", "工程师", "产品经理", "通用"]
+    },
+    "analysis_note": {
+      "type": "string",
+      "description": "分析备注。记录分数依据、项目亮点、潜在风险等，辅助后续人工复核。"
+    },
+    "collected_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "采集时间（ISO 8601，Collector 填入）"
+    },
+    "analyzed_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "分析时间（ISO 8601，Analyzer 填入）"
+    },
+    "organized_at": {
+      "type": ["null", "string"],
+      "format": "date-time",
+      "description": "整理时间，分析阶段为 null（Organizer 填入）"
+    },
+    "status": {
+      "type": "string",
+      "description": "条目状态",
+      "const": "review"
+    }
+  },
+  "additionalProperties": false
+}

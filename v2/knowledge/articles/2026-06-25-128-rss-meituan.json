@@ -1,0 +1,20 @@
+{
+  "id": "rss-meituan-2026-06-25-120",
+  "title": "LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/04/27/LongCat-LARYBench.html",
+  "source_url": "https://tech.meituan.com/2026/04/27/LongCat-LARYBench.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "LARYBench （Latent Action Representation Yielding Benchmark），一个指引从大规模的视觉数据学习到通用的隐式动作表征的系统化评测基准。实验结果表明：在动作泛化和控制精度上，通用视觉模型的表现均显著优于专门为具身智能设计的动作专家模型，具身动作表征可以从大规模人类视频数据中涌现。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "LARYBench是首个系统化评测从人类视频学习具身动作泛化表征的基准，发现通用视觉模型优于专用动作专家模型，表明动作表征可从大规模人类视频中涌现。",
+  "tags": [],
+  "category": "other",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "提出具身动作表征的ImageNet级基准，实验设计严谨，发现具有启发性，对具身智能领域有重要推动。",
+  "analyzed_at": "2026-06-25T08:00:12.593Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-openai-blog-2026-06-25-049",
+  "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/patch-the-planet",
+  "source_url": "https://openai.com/index/patch-the-planet",
+  "author": "openai-blog",
+  "published_at": "2026-06-22T10:00:00.000Z",
+  "raw_description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+  "collected_at": "2026-06-25T07:54:19.974Z",
+  "summary": "OpenAI推出Patch the Planet计划，通过AI和专家评审帮助开源维护者发现、验证和修复漏洞，提升开源软件安全性。",
+  "tags": [
+    "ai"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "聚焦开源安全，AI辅助漏洞修复有实用价值，但技术深度一般，非核心AI突破。",
+  "analyzed_at": "2026-06-25T07:57:16.618Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

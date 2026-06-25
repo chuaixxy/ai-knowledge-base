@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ai-knowledge-base/schemas/collector-output.json",
+  "title": "Collector Output Schema",
+  "description": "Collector Agent 写入 knowledge/raw/{source}-{YYYY-MM-DD}.json 的单条目格式",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "source",
+    "source_id",
+    "source_url",
+    "collected_at",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "全局唯一标识，格式 {source}-{YYYY-MM-DD}-{NNN}",
+      "pattern": "^(github-trending|hackernews-top|arxiv)-\\d{4}-\\d{2}-\\d{2}-\\d{3}$"
+    },
+    "title": {
+      "type": "string",
+      "description": "条目标题"
+    },
+    "source": {
+      "type": "string",
+      "description": "数据来源",
+      "enum": ["github-trending", "hackernews-top", "arxiv"]
+    },
+    "source_id": {
+      "type": "string",
+      "description": "源原生 ID。GitHub: full_name，HN: story ID，arXiv: 论文 ID"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "原始链接"
+    },
+    "author": {
+      "type": "string",
+      "description": "作者/组织名"
+    },
+    "published_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "原始发布时间（ISO 8601）"
+    },
+    "raw_description": {
+      "type": "string",
+      "description": "源原始描述文本，不翻译不加工"
+    },
+    "tags": {
+      "type": "array",
+      "description": "标签列表，采集阶段为空数组",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "category": {
+      "type": "null",
+      "description": "分类，采集阶段为 null",
+      "default": null
+    },
+    "relevance_score": {
+      "type": "null",
+      "description": "相关度评分，采集阶段为 null（Analyzer 填充为 score）",
+      "default": null
+    },
+    "collected_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "采集时间（ISO 8601）"
+    },
+    "analyzed_at": {
+      "type": "null",
+      "description": "分析时间，采集阶段为 null"
+    },
+    "organized_at": {
+      "type": "null",
+      "description": "整理时间，采集阶段为 null"
+    },
+    "status": {
+      "type": "string",
+      "description": "条目状态",
+      "const": "draft"
+    }
+  },
+  "additionalProperties": false
+}

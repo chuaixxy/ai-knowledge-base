@@ -1,0 +1,20 @@
+{
+  "id": "rss-meituan-2026-06-25-123",
+  "title": "美团发布原生多模态 LongCat-Next：当视觉和语音成为AI的母语",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/04/02/LongCat-Next.html",
+  "source_url": "https://tech.meituan.com/2026/04/02/LongCat-Next.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "LongCat-Next 是我们在通往物理世界 AI 道路上的一次探索。今天，我们把研究思路的核心——LongCat-Next 模型和它的离散分词器全部开源，希望更多开发者能基于它，构建真正能感知、理解并作用于真实世界的 AI。",
+  "collected_at": "2026-06-25T07:54:25.185Z",
+  "summary": "美团开源了原生多模态模型LongCat-Next及其离散分词器，旨在让AI以视觉和语音为母语，感知和理解真实世界。",
+  "tags": [],
+  "category": "research",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "原生多模态模型，开源核心组件，技术突破性强，对AI感知物理世界有重要价值。",
+  "analyzed_at": "2026-06-25T08:00:20.321Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

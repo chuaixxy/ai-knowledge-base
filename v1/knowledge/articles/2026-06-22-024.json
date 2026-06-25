@@ -1,0 +1,26 @@
+{
+  "id": "arxiv_2606.20205",
+  "title": "Apparent Psychological Profiles of Large Language Models are Largely a Measurement Artifact",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20205",
+  "description": "Argues that apparent psychological profiles of LLMs are largely measurement artifacts rather than genuine traits.",
+  "author": "Jelena Meyer, David Garcia, Dirk U. Wulff",
+  "stars": null,
+  "summary": "挑战 LLM 具有稳定心理特征的观点，论证其表面'人格'主要是测评方法的测量伪影，对当前流行的 LLM 心理学测评领域提出了重要方法论反思。",
+  "highlights": [
+    "LLM 心理特征是测量伪影的证据论证",
+    "对 LLM 心理学测评方法论的重要挑战",
+    "跨学科（cs.AI + cs.CL + cs.HC）研究"
+  ],
+  "score": 6,
+  "score_reason": "对 LLM 评估方法论的批判性研究有学术价值，但属于元评估领域的反思，对工程实践直接影响有限。",
+  "tags": ["llm", "evaluation", "psychology", "methodology", "measurement"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20205",
+    "subjects": ["cs.AI", "cs.CL", "cs.HC"]
+  }
+}

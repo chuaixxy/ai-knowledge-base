@@ -1,0 +1,26 @@
+{
+  "id": "github_trending_3f5a9d1c",
+  "title": "DeusData/codebase-memory-mcp",
+  "source": "github_trending",
+  "source_url": "https://github.com/DeusData/codebase-memory-mcp",
+  "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+  "author": "DeusData",
+  "stars": 1032,
+  "summary": "MCP 服务端的代码智能服务器，将代码库索引为持久化知识图谱，支持 158 种语言、亚毫秒查询，可减少 99% Token 消耗。为 LLM Agent 提供了高效的代码理解基础设施。",
+  "highlights": [
+    "亚毫秒级 158 语言代码索引",
+    "减少 99% Token 消耗的知识图谱查询",
+    "单静态二进制零依赖部署"
+  ],
+  "score": 9,
+  "score_reason": "直接 MCP 生态核心基础设施，性能指标突出，对 LLM Agent 代码理解能力提升价值显著。",
+  "tags": ["mcp", "code-intelligence", "knowledge-graph", "llm-tooling", "c"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/github_trending-2026-06-22.json",
+  "metadata": {
+    "language": "C",
+    "stars_total": 10964,
+    "forks_count": 820
+  }
+}

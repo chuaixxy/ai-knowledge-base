@@ -1,0 +1,24 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-001",
+  "title": "Flow’s OCaml to Rust Port",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+  "source_url": "https://medium.com/flow-type/flows-ocaml-to-rust-port-78b95bcf49e9",
+  "author": "medium.com via darichey",
+  "published_at": "2026-06-25T02:25:38.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/gv5yqm/flow_s_ocaml_rust_port\">Comments</a></p>",
+  "collected_at": "2026-06-25T06:40:07.465Z",
+  "summary": "Flow 团队将类型检查器从 OCaml 移植到 Rust，以提升性能和可维护性。",
+  "tags": [
+    "flow",
+    "ocaml",
+    "rust"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "技术深度较高，但非直接AI/LLM领域，属于编程语言工具优化。",
+  "analyzed_at": "2026-06-25T06:41:08.310Z",
+  "organized_at": "2026-06-25T06:41:23.536Z",
+  "status": "published"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-the-verge-ai-2026-06-25-107",
+  "title": "OpenAI reveals its first AI processor: Jalapeño",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+  "author": "Emma Roth",
+  "published_at": "2026-06-24T14:36:47.000Z",
+  "raw_description": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
+  "collected_at": "2026-06-25T07:54:20.960Z",
+  "summary": "OpenAI与Broadcom合作推出首款AI专用芯片Jalapeño，为ASIC设计，专用于AI推理，旨在提升大语言模型性能。",
+  "tags": [
+    "openai",
+    "ai",
+    "asic"
+  ],
+  "category": "other",
+  "score": 0.85,
+  "audience": "工程师",
+  "analysis_note": "重大硬件突破，直接提升LLM推理效率，技术深度高，但信息有限需后续验证。",
+  "analyzed_at": "2026-06-25T07:59:36.715Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

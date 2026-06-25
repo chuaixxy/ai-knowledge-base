@@ -1,0 +1,20 @@
+{
+  "id": "github-trending-2026-06-24-010",
+  "title": "revfactory/harness",
+  "source": "github-trending",
+  "source_id": "revfactory/harness",
+  "source_url": "https://github.com/revfactory/harness",
+  "author": "revfactory",
+  "published_at": null,
+  "raw_description": "A meta-skill that designs domain-specific agent teams, defines specialized agent capabilities, and models common workflows. Agents, but for agents.",
+  "summary": "元技能框架——「为Agent设计Agent」的元工具，支持定义领域专属Agent团队结构、设计专业Agent能力规格并建模可复用的Agent协作工作流。",
+  "tags": ["agent-framework", "multi-agent", "workflow-automation", "prompt-engineering"],
+  "category": "framework",
+  "score": 0.74,
+  "audience": "工程师",
+  "analysis_note": "'Agents, but for agents'的元层面设计理念独特，将Agent编排提升到元技能层面。领域专属团队定义和工作流建模能力对多Agent系统设计有实际参考价值，但项目较新，社区验证不足。",
+  "collected_at": "2026-06-24T10:00:23Z",
+  "analyzed_at": "2026-06-24T11:00:00Z",
+  "organized_at": "2026-06-24T11:30:00Z",
+  "status": "published"
+}

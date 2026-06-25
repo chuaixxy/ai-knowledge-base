@@ -1,0 +1,26 @@
+{
+  "id": "arxiv_2606.20508",
+  "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?",
+  "source": "arxiv",
+  "source_url": "https://arxiv.org/abs/2606.20508",
+  "description": "Investigates what safety-aligned LLMs actually learn from mixed compliance and refusal demonstrations.",
+  "author": "Sihui Dai, Mann Patel",
+  "stars": null,
+  "summary": "研究安全对齐 LLM 从混合合规/拒绝演示数据中实际学到了什么，深入分析安全训练的内在机制，对理解 AI 对齐过程有重要价值。",
+  "highlights": [
+    "揭示安全训练中混合演示的学习机制",
+    "安全对齐 LLM 的内在行为分析",
+    "对 AI 对齐策略优化有指导意义"
+  ],
+  "score": 8,
+  "score_reason": "AI 安全的底层机制研究，直接关联 RLHF 和安全对齐实践，对安全训练策略设计有重要参考价值。",
+  "tags": ["llm", "safety-alignment", "ai-safety", "training", "rlhf"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "published_at": "2026-06-19T00:00:00Z",
+  "raw_ref": "knowledge/raw/arxiv-2026-06-22.json",
+  "metadata": {
+    "arxiv_id": "2606.20508",
+    "subjects": ["cs.AI", "cs.LG"]
+  }
+}

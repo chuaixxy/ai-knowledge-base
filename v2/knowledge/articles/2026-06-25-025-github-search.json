@@ -1,0 +1,35 @@
+{
+  "id": "github-search-2026-06-25-011",
+  "title": "browser-use/browser-use",
+  "source": "github-search",
+  "source_id": "browser-use/browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "author": "browser-use",
+  "published_at": "2026-06-20T18:21:29Z",
+  "raw_description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "collected_at": "2026-06-25T04:03:25.378Z",
+  "stars": 100540,
+  "topics": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "summary": "一个开源Python库，利用AI代理实现浏览器自动化，使AI能轻松访问和操作网页，简化在线任务。",
+  "tags": [
+    "ai",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "category": "tool",
+  "score": 0.85,
+  "audience": "工程师",
+  "analysis_note": "高星项目，结合LLM与浏览器自动化，实用性强，技术实现清晰，是AI代理落地的关键工具。",
+  "analyzed_at": "2026-06-25T04:03:59.985Z",
+  "organized_at": "2026-06-25T04:04:19.268Z",
+  "status": "published"
+}

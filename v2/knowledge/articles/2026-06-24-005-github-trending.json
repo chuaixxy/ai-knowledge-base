@@ -1,0 +1,20 @@
+{
+  "id": "github-trending-2026-06-24-005",
+  "title": "bytedance/deer-flow",
+  "source": "github-trending",
+  "source_id": "bytedance/deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "author": "bytedance",
+  "published_at": null,
+  "raw_description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates artifacts end-to-end from simple text prompts.",
+  "summary": "字节跳动开源的长周期SuperAgent框架，从简单文本提示出发，端到端完成深度研究、代码编写和制品生成，专为需要长时间自主执行复杂任务的场景设计。",
+  "tags": ["agent-framework", "code-generation", "multi-agent", "python", "bytedance"],
+  "category": "framework",
+  "score": 0.84,
+  "audience": "工程师",
+  "analysis_note": "字节跳动出品的重磅开源Agent框架，长周期自主执行能力是其核心差异点。端到端的研究-编码-制品生成流水线具有较强的工程参考价值，大厂背景也保证了代码质量与社区活跃度。",
+  "collected_at": "2026-06-24T10:00:23Z",
+  "analyzed_at": "2026-06-24T11:00:00Z",
+  "organized_at": "2026-06-24T11:30:00Z",
+  "status": "published"
+}

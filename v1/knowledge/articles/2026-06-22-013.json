@@ -1,0 +1,26 @@
+{
+  "id": "hacker_news_48622778",
+  "title": "Apertus – Open Foundation Model for Sovereign AI",
+  "source": "hacker_news",
+  "source_url": "https://apertvs.ai/",
+  "description": "An open foundation model initiative for sovereign AI, with 140 comments and 416 points.",
+  "author": "T-A",
+  "stars": 416,
+  "summary": "Apertus 是一个面向主权 AI 的开放基础模型倡议，旨在降低对闭源大模型的依赖，获得 416 分和 140 条讨论，反映了社区对开放 AI 生态的强烈关注。",
+  "highlights": [
+    "面向国家/组织主权的开放基础模型",
+    "降低对闭源 LLM 的依赖",
+    "416 分反映社区对开放 AI 的重视"
+  ],
+  "score": 8,
+  "score_reason": "开放基础模型是 LLM 生态的关键方向，主权 AI 概念触及基础设施自主可控，战略意义重大。",
+  "tags": ["open-source", "foundation-model", "sovereign-ai", "llm"],
+  "collected_at": "2026-06-22T00:00:00Z",
+  "analyzed_at": "2026-06-22T00:00:00Z",
+  "raw_ref": "knowledge/raw/hacker_news-2026-06-22.json",
+  "metadata": {
+    "hn_points": 416,
+    "hn_descendants": 140,
+    "hn_id": 48622778
+  }
+}

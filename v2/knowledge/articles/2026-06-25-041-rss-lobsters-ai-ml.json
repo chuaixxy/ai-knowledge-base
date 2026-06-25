@@ -1,0 +1,22 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-25-006",
+  "title": "Unlimited-OCR: One-shot Long-horizon OCR",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://github.com/baidu/Unlimited-OCR",
+  "source_url": "https://github.com/baidu/Unlimited-OCR",
+  "author": "github.com via metahost",
+  "published_at": "2026-06-24T10:35:51.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/5ej4m6/unlimited_ocr_one_shot_long_horizon_ocr\">Comments</a></p>",
+  "collected_at": "2026-06-25T07:54:19.433Z",
+  "summary": "百度开源Unlimited-OCR，支持一次性长文本OCR识别，解决传统OCR在长文本场景下的局限性。",
+  "tags": [
+    "ocr"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "针对长文本OCR的实用工具，但非LLM核心领域，技术深度中等。",
+  "analyzed_at": "2026-06-25T07:55:28.233Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}

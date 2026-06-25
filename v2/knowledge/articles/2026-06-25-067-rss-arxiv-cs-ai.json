@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-25-038",
+  "title": "Offline Multi-agent Continual Cooperation via Skill Partition and Reuse",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.25389",
+  "source_url": "https://arxiv.org/abs/2606.25389",
+  "author": "Yuchen Xiao, Lei Yuan, Ruiqi Xue, Tieyue Yin, Yang Yu",
+  "published_at": "2026-06-25T04:00:00.000Z",
+  "raw_description": "arXiv:2606.25389v1 Announce Type: new Abstract: Extracting skills from multi-agent offline dataset improves learning efficiency via sharing task-invariant coordination skills among tasks. In settings where tasks occur sequentially and the space of skills grows exponentially, existing approaches that rely on heuristically designed and fixed-sized skill libraries struggle to resolve the problem of distributional shift and interference, facing catastrophic forgetting and plasticity loss. To address this problem and endow agents with the ability to continually discover and reuse coordination skills in open-environment, we propose COMAD, a principled framework for Continual Offline Multi-agent Skill Discovery via Skill Partition and Reuse. We first discover skills from mixed multi-agent behavior data with an auto-encoder to transform coordination knowledge into reusable coordination skills. Then we construct a skill-augmented policy learning objective with multi-head architectures, explicit",
+  "collected_at": "2026-06-25T07:54:19.585Z",
+  "summary": "提出COMAD框架，通过技能划分与重用解决多智能体离线持续合作中的灾难性遗忘和可塑性损失问题，实现开放环境中协调技能的持续发现与重用。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对多智能体持续学习中的关键问题提出创新框架，方法合理，但尚未验证实际效果，评分中等偏上。",
+  "analyzed_at": "2026-06-25T07:56:48.150Z",
+  "organized_at": "2026-06-25T08:01:09.356Z",
+  "status": "published"
+}
