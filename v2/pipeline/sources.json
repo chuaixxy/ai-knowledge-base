@@ -1,0 +1,9 @@
+{
+  "rss": [
+    {
+      "name": "arxiv-ai",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "label": "Arxiv CS.AI"
+    }
+  ]
+}

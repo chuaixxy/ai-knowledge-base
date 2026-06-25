@@ -1,12 +1,338 @@
 [
   {
+    "id": "github-search-2026-06-25-011",
+    "title": "browser-use/browser-use",
+    "source": "github-search",
+    "source_id": "browser-use/browser-use",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-012",
+    "title": "rasbt/LLMs-from-scratch",
+    "source": "github-search",
+    "source_id": "rasbt/LLMs-from-scratch",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "llm",
+      "pytorch"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-013",
+    "title": "TauricResearch/TradingAgents",
+    "source": "github-search",
+    "source_id": "TauricResearch/TradingAgents",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "multi-agent",
+      "finance",
+      "trading",
+      "llm",
+      "framework"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-014",
+    "title": "vllm-project/vllm",
+    "source": "github-search",
+    "source_id": "vllm-project/vllm",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-015",
+    "title": "mlabonne/llm-course",
+    "source": "github-search",
+    "source_id": "mlabonne/llm-course",
+    "category": "other",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-016",
+    "title": "OpenHands/OpenHands",
+    "source": "github-search",
+    "source_id": "OpenHands/OpenHands",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-017",
+    "title": "JuliusBrussee/caveman",
+    "source": "github-search",
+    "source_id": "JuliusBrussee/caveman",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "prompt-engineering",
+      "token-optimization",
+      "claude-code",
+      "meme"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-019",
+    "title": "hiyouga/LlamaFactory",
+    "source": "github-search",
+    "source_id": "hiyouga/LlamaFactory",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "llm",
+      "lora",
+      "qlora"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "github-search-2026-06-25-020",
+    "title": "FoundationAgents/MetaGPT",
+    "source": "github-search",
+    "source_id": "FoundationAgents/MetaGPT",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "multi-agent",
+      "framework",
+      "llm",
+      "gpt",
+      "software-development"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T04:03:25.378Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-001",
+    "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23927",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-002",
+    "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23938",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "vla"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-003",
+    "title": "Critique of Agent Model",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.23991",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai-agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-004",
+    "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.24010",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "rss-arxiv-ai-2026-06-25-005",
+    "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+    "source": "rss-arxiv-ai",
+    "source_id": "https://arxiv.org/abs/2606.24014",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:59:38.384Z"
+  },
+  {
+    "id": "github-search-2026-06-25-004",
+    "title": "ollama/ollama",
+    "source": "github-search",
+    "source_id": "ollama/ollama",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-005",
+    "title": "f/prompts.chat",
+    "source": "github-search",
+    "source_id": "f/prompts.chat",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "prompt-engineering",
+      "chatgpt",
+      "open-source"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-006",
+    "title": "huggingface/transformers",
+    "source": "github-search",
+    "source_id": "huggingface/transformers",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "transformers",
+      "nlp",
+      "deep-learning"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-007",
+    "title": "langgenius/dify",
+    "source": "github-search",
+    "source_id": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "agentic-workflow",
+      "low-code",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-008",
+    "title": "open-webui/open-webui",
+    "source": "github-search",
+    "source_id": "open-webui/open-webui",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai",
+      "ollama",
+      "openai",
+      "rag",
+      "mcp"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-009",
+    "title": "langchain-ai/langchain",
+    "source": "github-search",
+    "source_id": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "tags": [
+      "langchain",
+      "llm",
+      "agents",
+      "rag",
+      "framework"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-010",
+    "title": "firecrawl/firecrawl",
+    "source": "github-search",
+    "source_id": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "tags": [
+      "web-scraping",
+      "ai-crawler",
+      "data-extraction"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:56:56.352Z"
+  },
+  {
+    "id": "github-search-2026-06-25-003",
+    "title": "Significant-Gravitas/AutoGPT",
+    "source": "github-search",
+    "source_id": "Significant-Gravitas/AutoGPT",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "autogpt",
+      "llm",
+      "python"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-25T03:50:40.854Z"
+  },
+  {
     "id": "github-trending-2026-06-24-001",
     "title": "calesthio/OpenMontage",
     "source": "github-trending",
     "source_id": "calesthio/OpenMontage",
     "category": "framework",
     "relevance_score": 0.68,
-    "tags": ["agent-framework", "video-generation", "multi-agent", "workflow-automation", "python"],
+    "tags": [
+      "agent-framework",
+      "video-generation",
+      "multi-agent",
+      "workflow-automation",
+      "python"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -17,7 +343,13 @@
     "source_id": "mukul975/Anthropic-Cybersecurity-Skills",
     "category": "tool",
     "relevance_score": 0.71,
-    "tags": ["agent-framework", "security", "prompt-engineering", "anthropic", "claude"],
+    "tags": [
+      "agent-framework",
+      "security",
+      "prompt-engineering",
+      "anthropic",
+      "claude"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -28,7 +360,13 @@
     "source_id": "bytedance/deer-flow",
     "category": "framework",
     "relevance_score": 0.84,
-    "tags": ["agent-framework", "code-generation", "multi-agent", "python", "bytedance"],
+    "tags": [
+      "agent-framework",
+      "code-generation",
+      "multi-agent",
+      "python",
+      "bytedance"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -39,7 +377,13 @@
     "source_id": "anthropics/claude-plugins-official",
     "category": "tool",
     "relevance_score": 0.78,
-    "tags": ["agent-framework", "mcp", "prompt-engineering", "claude", "anthropic"],
+    "tags": [
+      "agent-framework",
+      "mcp",
+      "prompt-engineering",
+      "claude",
+      "anthropic"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -50,7 +394,12 @@
     "source_id": "shanraisshan/claude-code-best-practice",
     "category": "tutorial",
     "relevance_score": 0.64,
-    "tags": ["prompt-engineering", "agent-framework", "tutorial", "claude"],
+    "tags": [
+      "prompt-engineering",
+      "agent-framework",
+      "tutorial",
+      "claude"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -61,7 +410,12 @@
     "source_id": "revfactory/harness",
     "category": "framework",
     "relevance_score": 0.74,
-    "tags": ["agent-framework", "multi-agent", "workflow-automation", "prompt-engineering"],
+    "tags": [
+      "agent-framework",
+      "multi-agent",
+      "workflow-automation",
+      "prompt-engineering"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -72,7 +426,13 @@
     "source_id": "DeusData/codebase-memory-mcp",
     "category": "tool",
     "relevance_score": 0.76,
-    "tags": ["mcp", "agent-framework", "code-generation", "rag", "python"],
+    "tags": [
+      "mcp",
+      "agent-framework",
+      "code-generation",
+      "rag",
+      "python"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -82,8 +442,12 @@
     "source": "github-trending",
     "source_id": "NousResearch/hermes-agent",
     "category": "framework",
-    "relevance_score": 0.60,
-    "tags": ["agent-framework", "llm", "python"],
+    "relevance_score": 0.6,
+    "tags": [
+      "agent-framework",
+      "llm",
+      "python"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   },
@@ -94,7 +458,12 @@
     "source_id": "affaan-m/ECC",
     "category": "framework",
     "relevance_score": 0.68,
-    "tags": ["agent-framework", "multi-agent", "prompt-engineering", "python"],
+    "tags": [
+      "agent-framework",
+      "multi-agent",
+      "prompt-engineering",
+      "python"
+    ],
     "status": "published",
     "collected_at": "2026-06-24T10:00:23Z"
   }

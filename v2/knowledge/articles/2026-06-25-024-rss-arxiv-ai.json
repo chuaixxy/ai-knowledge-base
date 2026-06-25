@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-ai-2026-06-25-005",
+  "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+  "source": "rss-arxiv-ai",
+  "source_id": "https://arxiv.org/abs/2606.24014",
+  "source_url": "https://arxiv.org/abs/2606.24014",
+  "author": "Akshay V. Jagadeesh, Rahul K. Arora, Khaled Saab, Ali Malik, Mikhail Trofimov, Foivos Tsimpourlas, Johannes Heidecke, Karan Singhal",
+  "published_at": "2026-06-24T04:00:00.000Z",
+  "raw_description": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whether RL on beneficial behavior, instantiated in realistic domains, can produce broad and persistent alignment generalization beyond the training distribution. We construct a dataset of realistic situations designed to measure and train beneficial traits, such as truthfulness, fairness, risk awareness, and corrigibility, spanning varied domains, including health, science, and education. We then train models with RL on this dataset and evaluate them on more than 50 independent benchmarks of alignment and beneficial behavior. Compared to a compute-matched baseline, beneficial trait RL improves perfo",
+  "collected_at": "2026-06-25T03:59:38.384Z",
+  "summary": "该研究探讨了强化学习如何使AI模型在训练分布之外泛化出广泛且持久的对齐行为，通过构建包含真实性、公平性等有益特质的现实数据集进行训练，并在50多个基准上评估，发现有益特质强化学习能提升性能。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "顶级AI对齐研究，聚焦RL泛化与持久有益行为，实验设计严谨，基准丰富，具有重要理论价值。",
+  "analyzed_at": "2026-06-25T03:59:51.550Z",
+  "organized_at": "2026-06-25T03:59:51.562Z",
+  "status": "published"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "github-search-2026-06-25-017",
+  "title": "JuliusBrussee/caveman",
+  "source": "github-search",
+  "source_id": "JuliusBrussee/caveman",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "author": "JuliusBrussee",
+  "published_at": "2026-06-12T13:51:06Z",
+  "raw_description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "collected_at": "2026-06-25T04:03:25.378Z",
+  "stars": 76626,
+  "topics": [
+    "ai",
+    "anthropic",
+    "caveman",
+    "claude",
+    "claude-code",
+    "llm",
+    "meme",
+    "prompt-engineering",
+    "skill",
+    "tokens"
+  ],
+  "summary": "一个Claude Code技能，通过让AI像穴居人一样说话，减少65%的token消耗，是一种有趣的提示工程技巧。",
+  "tags": [
+    "prompt-engineering",
+    "token-optimization",
+    "claude-code",
+    "meme"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "创意有趣，实用性强，能显著降低token成本，但属于技巧性工具，技术深度有限。",
+  "analyzed_at": "2026-06-25T04:04:12.357Z",
+  "organized_at": "2026-06-25T04:04:19.268Z",
+  "status": "published"
+}
