@@ -35,13 +35,13 @@ jobs:
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LLM_DEBUG: ${{ vars.LLM_DEBUG || '0' }}
-        run: npx tsx pipeline/pipeline.ts --sources github-trending,hackernews-top,arxiv --limit 20 --verbose
+        run: npx tsx ./pipeline/pipeline.ts --sources github-trending,hackernews-top,arxiv --limit 20 --verbose
 
       - name: Validate collected articles
         run: |
           if ls knowledge/articles/*.json 1>/dev/null 2>&1; then
-            npx tsx hooks/validate-json.ts knowledge/articles/*.json
-            npx tsx hooks/check-quality.ts knowledge/articles/*.json
+            npx tsx ./hooks/validate-json.ts knowledge/articles/*.json
+            npx tsx ./hooks/check-quality.ts knowledge/articles/*.json
           else
             echo "No articles to validate"
           fi
