@@ -1,0 +1,23 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-059",
+  "title": "MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/",
+  "author": "/u/MT1699 https://www.reddit.com/user/MT1699",
+  "published_at": "2026-06-24T19:07:26.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>For the past couple of weeks I have been working on a simulator project considering the shortcomings of MuJoCo. There are things that people like and also don't like about MuJoCo, like the CPU dependency on MuJoCo which makes the simulation not parallelizable beyond a certain limit (depending on the hardware). I know there exists MJX which is GPU accelerated, however, it is not really made for vision based RL pipelines and training. There is also NVIDIA Isaac ecosystem, but that requires a powerful GPU, thus making it limited in terms of accessibility, let alone it requires license.</p> <p>This is why I worked out this new simulator (still working on it, so there will be significant bugs which require fixing). I call it <strong>MuJoFil</strong> - MuJoCo + Google's Filament Render Engine. Basically I used Nvidia's Newton Physics Engine (which itself is based on MuJoCo's physics engine but is GPU native), clubbed it with Google's Fila",
+  "collected_at": "2026-06-26T06:20:52.909Z",
+  "summary": "MuJoFil是一个基于MuJoCo和Google Filament渲染引擎的GPU原生模拟器，专为高保真视觉强化学习训练设计，解决了MuJoCo的CPU依赖和MJX对视觉RL支持不足的问题。",
+  "tags": [
+    "mujoco",
+    "gpu"
+  ],
+  "category": "framework",
+  "score": 0.72,
+  "audience": "工程师",
+  "analysis_note": "针对视觉RL的GPU原生模拟器，解决MuJoCo瓶颈，但项目早期，成熟度待验证。",
+  "analyzed_at": "2026-06-26T06:24:16.297Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

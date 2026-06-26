@@ -1,0 +1,24 @@
+{
+  "id": "rss-hugging-face-blog-2026-06-26-105",
+  "title": "Run a vLLM Server on HF Jobs in One Command",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/vllm-jobs",
+  "source_url": "https://huggingface.co/blog/vllm-jobs",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-26T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-26T06:20:53.783Z",
+  "summary": "本文介绍如何通过一条命令在Hugging Face Jobs上运行vLLM服务器，简化了LLM推理部署流程。",
+  "tags": [
+    "vllm",
+    "hugging-face",
+    "llm"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "实用工具，简化部署流程，但技术深度一般，适合快速上手。",
+  "analyzed_at": "2026-06-26T06:25:59.660Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

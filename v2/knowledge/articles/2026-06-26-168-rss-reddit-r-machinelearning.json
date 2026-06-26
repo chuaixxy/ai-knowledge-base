@@ -1,0 +1,23 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-054",
+  "title": "Kuma: compiling PyTorch models into self-contained WebGPU executables [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/",
+  "author": "/u/svictoroff https://www.reddit.com/user/svictoroff",
+  "published_at": "2026-06-25T20:17:17.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>I've been experimenting with a compiler/runtime project that I'm not entirely sure is a good idea, so I'd love some feedback from people who've worked on deployment systems.</p> <p>The idea is to compile an exported PyTorch model into a self-contained package that contains:</p> <ul> <li>graph</li> <li>binary weights</li> <li>backend kernels (currently WGSL)</li> <li>runtime metadata</li> </ul> <p>A lightweight runtime loads that package and executes it directly in the browser with WebGPU. No Python, no server inference, and no dependency on a heavyweight runtime.</p> <p>Right now the attached demos are just neural video representations because they were easy to test, but the motivation is actually operator networks and scientific ML, where I like the idea of distributing a single portable artifact.</p> <p>The repo is here:<br/> <a href=\"https://github.com/Slater-Victoroff/Kuma\">https://github.com/Slater-Victoroff/Kuma</a></p> <p>I'm mostly looking for ",
+  "collected_at": "2026-06-26T06:20:52.908Z",
+  "summary": "Kuma 是一个编译器/运行时项目，可将 PyTorch 模型编译为自包含的 WebGPU 可执行包，在浏览器中直接运行，无需 Python 或服务器推理。",
+  "tags": [
+    "pytorch",
+    "webgpu"
+  ],
+  "category": "tool",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "创新性强，解决浏览器端模型部署痛点，但尚处实验阶段，技术成熟度待验证。",
+  "analyzed_at": "2026-06-26T06:24:03.706Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

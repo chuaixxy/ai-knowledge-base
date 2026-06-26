@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-034",
+  "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26300",
+  "source_url": "https://arxiv.org/abs/2606.26300",
+  "author": "Binghai Wang, Chenlong Zhang, Dayiheng Liu, Jiajun Zhang, Jiawei Chen, Mouxiang Chen, Rongyao Fang, Siyuan Zhang, Xuwu Wang, Yuheng Jing, Zeyao Ma, Zeyu Cui",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26300v1 Announce Type: new Abstract: A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is being inverted: as foundation models develop stronger reasoning capabilities and engineering harnesses grow more sophisticated, generating complex candidate solutions is no longer difficult -- reliably verifying them has become the harder problem. Every verifier we can build is only a proxy for human intent, never the intent itself. This makes verification subject to a twofold difficulty: first, intent is underspecified by nature, making it inherently hard to faithfully check whether it has been fulfilled; second, during model training, optimization widens the gap between proxy and intent -- manifesting as reward hacking or signal saturation. To address this, we characterize the quality of verification signals along three dimensions -- scalability, faithfulness, and robustness -- and argue that achieving all thr",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "本文探讨了编码智能体验证的挑战，指出生成解决方案已不难，但可靠验证更难，因为验证器只是人类意图的代理，存在可扩展性、忠实性和鲁棒性三个维度的权衡。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "核心亮点：提出验证难题的框架性分析，对AI/LLM领域奖励设计有重要启示。",
+  "analyzed_at": "2026-06-26T06:23:12.095Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-058",
+  "title": "I made a superhuman Generals.io agent with self-play RL [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/",
+  "author": "/u/shrekofspeed https://www.reddit.com/user/shrekofspeed",
+  "published_at": "2026-06-24T16:18:38.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I trained a self-play RL agent for <a href=\"http://Generals.io\">Generals.io</a> that reached superhuman-level and ranked #1 on the human 1v1 leaderboard.</p> <p>It began as my master's thesis where the goal was to beat a prior algorithm based agent. We succeeded using behavior cloning, RL fine-tuning and reward shaping, but the agent was still consistently beaten by the top players.</p> <p>So I gave it a round two and fixed the largest bottlenecks:</p> <ul> <li>Reimplemented the whole pipeline in JAX (from NumPy/Torch)</li> <li>Used Vision Transformer instead of the CNN</li> </ul> <p>Both are a result of the same idea: to invest in scaling rather than human priors and ad-hoc patches.</p> <p>The blog is written as a guide for anyone building something similar — the dead ends, the decisions, and the intuitions and tricks I picked up along the way. </p> <p>It's all open source, including the fast JAX simulator — handy on its own if you",
+  "collected_at": "2026-06-26T06:20:52.909Z",
+  "summary": "该项目通过自对弈强化学习训练了一个在Generals.io游戏中达到超人类水平的智能体，使用JAX重写管线并采用Vision Transformer替代CNN，开源了快速模拟器。",
+  "tags": [
+    "ai",
+    "jax",
+    "vision-transformer"
+  ],
+  "category": "research",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "技术实现扎实，开源且包含实用模拟器，但领域为游戏AI，与LLM核心方向关联有限。",
+  "analyzed_at": "2026-06-26T06:24:13.776Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

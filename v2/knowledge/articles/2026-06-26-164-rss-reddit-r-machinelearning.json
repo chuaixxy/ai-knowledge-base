@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-048",
+  "title": "Dev Log on Steam Recommender[P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ufi0gj/dev_log_on_steam_recommenderp/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufi0gj/dev_log_on_steam_recommenderp/",
+  "author": "/u/Expensive-Ad8916 https://www.reddit.com/user/Expensive-Ad8916",
+  "published_at": "2026-06-25T18:17:46.000Z",
+  "raw_description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ufi0gj/dev_log_on_steam_recommenderp/\"> <img src=\"https://preview.redd.it/dh8re9080h9h1.png?width=140&amp;height=106&amp;auto=webp&amp;s=d1b7ecbabc33cf8b483bf9403f8e807c3a8cb1cf\" alt=\"Dev Log on Steam Recommender[P]\" title=\"Dev Log on Steam Recommender[P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Since the steam sale is live I wanted to post a Dev log on my personal project<br/> <a href=\"https://nextsteamgame.com/\">https://nextsteamgame.com/</a> sharing some outcomes from the web traffic and how I changed the project from the great feedback I got!</p> <p>I made a post about a month ago explaining how I made this opensource explainable search engine built around steam reviews to people find new video games, Not through Relevancy but through aspect based similarity.</p> <p>Check out the old post for a better explanation if you want!<br/> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1tb8k",
+  "collected_at": "2026-06-26T06:20:52.907Z",
+  "summary": "该项目是一个基于Steam评论的开放源码可解释搜索引擎，通过方面相似性而非相关性帮助用户发现新游戏，并分享了开发日志和流量成果。",
+  "tags": [
+    "steam"
+  ],
+  "category": "tool",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "项目有实际应用价值，但技术深度一般，属于LLM应用边缘相关，评分中等。",
+  "analyzed_at": "2026-06-26T06:23:48.578Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-060",
+  "title": "Would having a dedicated programming language specifically for LLMs be a viable solution? [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ufgw7z/would_having_a_dedicated_programming_language/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufgw7z/would_having_a_dedicated_programming_language/",
+  "author": "/u/Spongebubs https://www.reddit.com/user/Spongebubs",
+  "published_at": "2026-06-25T17:38:11.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>What if there was a new programming language where the meaning of each token was so dense (or perhaps so specific) that an LLM could write robust code with fewer tokens and faster inference?</p> <p>Assuming there’s enough training data, do you think something like this allow an LLM to write better code faster?</p> <p>Rationale:</p> <p>1) It would allow for faster inference. Fewer tokens required to do the same thing in Python = finish faster.</p> <p>2) It would allow for more information in a 1M context window. Whatever you could fit in 1M tokens of Python, you could do 100x that in this theoretical language.</p> <p>3) It would effectively remove the “noise” from human readable language (semi-colons, curly braces for example) which I would think would make the LLMs coding ability stronger. I could be wrong about this of course.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Spongebubs\"> /u/Spongebubs </a> <br/> <",
+  "collected_at": "2026-06-26T06:20:52.909Z",
+  "summary": "探讨为LLM设计专用编程语言的可行性，通过减少token数量提升推理速度和上下文容量，并降低人类语言噪声。",
+  "tags": [
+    "llm"
+  ],
+  "category": "research",
+  "score": 0.55,
+  "audience": "研究员",
+  "analysis_note": "概念有趣但缺乏实证，技术深度一般，属于早期探讨。",
+  "analyzed_at": "2026-06-26T06:24:18.415Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

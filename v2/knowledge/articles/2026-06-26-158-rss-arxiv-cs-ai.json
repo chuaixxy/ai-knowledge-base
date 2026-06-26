@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-039",
+  "title": "Accelerating Returns and the Qualitative Engine for Science",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26359",
+  "source_url": "https://arxiv.org/abs/2606.26359",
+  "author": "Guojun Liao (Department of Mathematics, The University of Texas at Arlington)",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26359v1 Announce Type: new Abstract: Ray Kurzweil described a thesis of accelerating returns, which is the most influential narratives in discussions of technological progress. Its central claim is that advances in multiple technological fields, especially compute, artificial intelligence, brain science, and biotechnology, interact in such a way that progress becomes self-amplifying and approximately exponential. This paper gives a simple mathematical interpretation of that claim and then argues that, even if such acceleration is real, it does not by itself resolve the central problem of scientific discovery. The reason is that accelerating returns apply most naturally to executional and infrastructural capability, whereas genuine discovery often depends on a different capacity: qualitative reasoning about when a current framework is structurally inadequate and what conceptual move is needed next. Recent ARC-AGI-3 results sharpen this distinction: humans solve the benchmark ",
+  "collected_at": "2026-06-26T06:20:52.220Z",
+  "summary": "本文对Ray Kurzweil的加速回报理论进行数学解释，指出该理论主要适用于执行和基础设施能力，而真正的科学发现依赖于定性推理能力，并用ARC-AGI-3基准测试结果加以区分。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "对AI与科学发现关系的理论探讨有深度，但缺乏实证，相关性中等。",
+  "analyzed_at": "2026-06-26T06:23:25.632Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

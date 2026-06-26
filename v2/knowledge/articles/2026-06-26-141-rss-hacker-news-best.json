@@ -1,0 +1,24 @@
+{
+  "id": "rss-hacker-news-best-2026-06-26-001",
+  "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+  "source": "rss-hacker-news-best",
+  "source_id": "https://github.com/inkeep/open-knowledge",
+  "source_url": "https://github.com/inkeep/open-knowledge",
+  "author": "engomez",
+  "published_at": "2026-06-25T16:04:46.000Z",
+  "raw_description": "Hi HN, Nick here. We’re launching OpenKnowledge ( https://openknowledge.ai/ ), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS. We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/Codex outside of community plugins. So we built OpenKnowledge. It takes shape as: 1. A MacOS app with a file navigator, the WYSIWYG editor, and link explorer. 2. Integrations with the Claude, Codex, and Cursor desktop apps. The agents can open an OpenKnowledge editor within their embedded web browsers for a side-by-side experience. 3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second Brain” scenarios + spec writing 4. An embedded terminal and CLI for TUI-first users OSS stack includes: T",
+  "collected_at": "2026-06-26T06:20:51.472Z",
+  "summary": "OpenKnowledge 是一个开源、免费、本地的所见即所得 Markdown 编辑器，深度集成 Claude、Codex 等 AI 代理，支持团队协作和 AI 第二大脑场景，是 Obsidian/Notion 的 AI 优先替代品。",
+  "tags": [
+    "markdown",
+    "ai",
+    "wysiwyg"
+  ],
+  "category": "tool",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "核心亮点是原生 AI 代理集成和 WYSIWYG 体验，弥补了 Obsidian 的不足；但功能尚在早期，生态和成熟度待观察。",
+  "analyzed_at": "2026-06-26T06:21:51.866Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-airbnb-engineering-2026-06-26-145",
+  "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
+  "source": "rss-airbnb-engineering",
+  "source_id": "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
+  "source_url": "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
+  "author": "Patrick Lam",
+  "published_at": "2026-06-09T17:01:02.000Z",
+  "raw_description": "",
+  "collected_at": "2026-06-26T06:20:59.559Z",
+  "summary": "Airbnb 为适应多产品世界，演进其数据架构，从单体架构转向可扩展、多租户的数据平台，支持不同业务线的数据需求。",
+  "tags": [
+    "airbnb"
+  ],
+  "category": "other",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "文章聚焦数据架构演进，与AI/LLM领域相关性较低，但技术实践有参考价值。",
+  "analyzed_at": "2026-06-26T06:27:32.316Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}
