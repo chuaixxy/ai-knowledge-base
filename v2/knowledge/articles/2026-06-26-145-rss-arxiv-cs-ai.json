@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-026",
+  "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26158",
+  "source_url": "https://arxiv.org/abs/2606.26158",
+  "author": "Nitya Nadgir, Sayash Kapoor, Kangheng Liu, Peter Kirgis, Matilda Orona, Stephan Rabanser, Tilman Bayer, Abhishek Shetty, Yue Ling, Derrick Chan-Sew, Rumi Nakagawa, Saiteja Utpala, Zachary S. Siegel, Arvind Narayanan",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26158v1 Announce Type: new Abstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validity issues such as shortcuts, out-of-distribution generalizability, efficiency, reliability, the relative importance of the model versus the scaffold, and uplift from human-agent collaboration. We use CORE-Bench Hard, a benchmark for computational reproducibility of scientific code, as a case study to demonstrate that measuring agents along these dimensions yields meaningful insights into agent performance even after accuracy saturates. First, we surface threats to construct validity in CORE-Bench Hard that are difficult to anticipate with less capable agents. We introduce an improved benchmark, CORE-Bench v1.1, and an out-of-distribution task suite, CORE-Bench OOD. Second, we find that despit",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "本文以CORE-Bench Hard为案例，提出在基准测试准确率饱和后，应从构造效度、泛化性、效率、可靠性、模型与脚手架相对重要性、人机协作提升等六个维度评估智能体性能，并引入改进版基准CORE-Bench v1.1和OOD任务套件。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "提出超越准确率的评估框架，案例扎实，对AI Agent基准设计有重要参考价值。",
+  "analyzed_at": "2026-06-26T06:22:50.837Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

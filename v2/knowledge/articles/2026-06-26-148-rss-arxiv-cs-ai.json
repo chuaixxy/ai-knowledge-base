@@ -1,0 +1,24 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-029",
+  "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26203",
+  "source_url": "https://arxiv.org/abs/2606.26203",
+  "author": "Yutian Wang, Luyao Zhang",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural topic modeling, and multi-layer network analysis to study socio-technical power structures at scale. We validate it on two contrasting standards for agent interoperability: ERC-8004 (permissionless, on-chain) and Google A2A (corporate-led). Analyzing 4,323 governance participation records, we combine LLM-assisted coding, topic modeling, and multi-layer network analysis to examine how institutional design shapes thematic priorities and community structure. We find that while governance form influences substantive focus, both regimes exhibit comparable levels of participation inequality and community fragmentation. Discourse alignment is denser in the permissionless settin",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "提出一种基于LLM的自动化比较分析流程，用于研究DAO和公司主导的AI协议治理结构，通过主题建模和网络分析揭示治理形式对社区结构和参与不平等的影响。",
+  "tags": [
+    "ai",
+    "llm",
+    "dao"
+  ],
+  "category": "paper",
+  "score": 0.72,
+  "audience": "研究员",
+  "analysis_note": "创新性地将LLM用于治理分析，方法严谨，但应用场景较窄，偏向学术研究。",
+  "analyzed_at": "2026-06-26T06:22:58.674Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-044",
+  "title": "Estimating Uncertainty in Classifier Performance with Applications to Large Language Models and Nested Data",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26422",
+  "source_url": "https://arxiv.org/abs/2606.26422",
+  "author": "Kylie Anglin",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26422v1 Announce Type: new Abstract: Researchers increasingly use text classification--supervised models or large language models--to measure constructs from natural language, providing metrics such as recall and precision as evidence of their validity. Yet, though these metrics are point estimates subject to sampling variation, measures of uncertainty are inconsistently reported alongside them. Further, when they are reported, they are often estimated with methods that are not appropriate when relevant labelled datasets are small or performance is high. To increase and improve confidence interval reporting in the field, this paper evaluates confidence interval methods for performance metrics under conditions typical of social science text classification: small to moderate sample sizes, infrequent constructs, and texts nested within individuals. Across simulations, default methods such as the Wald interval and the basic percentile bootstrap are the least accurate, with cover",
+  "collected_at": "2026-06-26T06:20:52.220Z",
+  "summary": "本文评估了在文本分类中，针对小样本、低频类别和嵌套数据等典型社会科学场景下，性能指标置信区间估计方法的准确性，发现Wald区间和基本百分位自助法最不准确。",
+  "tags": [
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "聚焦LLM分类性能评估的不确定性量化，方法实用但场景较窄，对实践有指导意义。",
+  "analyzed_at": "2026-06-26T06:23:39.081Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

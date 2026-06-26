@@ -1,0 +1,20 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-055",
+  "title": "[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/",
+  "author": "/u/ThirdWaveCat https://www.reddit.com/user/ThirdWaveCat",
+  "published_at": "2026-06-25T17:31:49.000Z",
+  "raw_description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/\"> <img src=\"https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb\" alt=\"[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost\" title=\"[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Token-based billing is causing my company to reevaluate small language models. I came across this paper that shows SLM supervised fine-tuning on traces from orchestration of frontier models can be nearly as performant and much cheaper. Has any tried this in the real world?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ThirdWaveCat\"> /u/ThirdWaveCat </a> <br/> <",
+  "collected_at": "2026-06-26T06:20:52.908Z",
+  "summary": "该论文提出将智能体工作流编译为LLM权重的方法，通过对前沿模型轨迹进行监督微调，使小语言模型在接近前沿质量的同时，成本降低两个数量级。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "核心亮点是显著降低推理成本且保持高质量，技术突破性强，但需验证实际部署效果。",
+  "analyzed_at": "2026-06-26T06:24:06.255Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-057",
+  "title": "High Dimensional, Dynamic Rotary Positional Embedding [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/",
+  "author": "/u/mikayahlevi https://www.reddit.com/user/mikayahlevi",
+  "published_at": "2026-06-24T18:16:36.000Z",
+  "raw_description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/\"> <img src=\"https://external-preview.redd.it/Go7zlxhewkLxNN5-ZvZe623w5Zrdi3SXYEIr0JeEGQk.png?width=140&amp;height=75&amp;auto=webp&amp;s=2d3a7ad647024e077a4b7f7b5746c806eba71b8a\" alt=\"High Dimensional, Dynamic Rotary Positional Embedding [P]\" title=\"High Dimensional, Dynamic Rotary Positional Embedding [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>At the end of my <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ubz5o8/an_update_on_matrix_recurrent_units_an_attention/\">last post</a>, I presented an idea: what if I used the core of my last project, the cumulative matrix product, and repurposed it as a positional embedding?</p> <p>I just finished fleshing out the math behind <strong>HDD-RoPE</strong> and training a model with this positional embedding algorithm, and the results are excellent. When trained on the dataset TinyStories, the val",
+  "collected_at": "2026-06-26T06:20:52.908Z",
+  "summary": "提出高维动态旋转位置编码（HDD-RoPE），利用累积矩阵乘积作为位置嵌入，在TinyStories数据集上取得优异结果。",
+  "tags": [
+    "rope",
+    "transformer"
+  ],
+  "category": "research",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性较高，将累积矩阵乘积用于位置编码，实验验证有效，但尚未广泛验证。",
+  "analyzed_at": "2026-06-26T06:24:11.141Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-056",
+  "title": "Find the best open-source OCR models in one place at Papers with Code [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/",
+  "author": "/u/NielsRogge https://www.reddit.com/user/NielsRogge",
+  "published_at": "2026-06-24T16:26:21.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I've created an overview of the most important OCR benchmarks, along with the top open models, and links to their paper and code: <a href=\"https://paperswithcode.co/tasks/ocr\">https://paperswithcode.co/tasks/ocr</a>.</p> <p>This week, new OCR models were released by Baidu and Mistral. </p> <p>Baidu released <a href=\"https://paperswithcode.co/paper/2606.23050\">Unlimited OCR</a>, a 3B-parameter model that introduces a key innovation called Reference Sliding Window Attention (R-SWA) and builds on top of <a href=\"https://paperswithcode.co/paper/2510.18234\">DeepSeek OCR</a>. Mistral released <a href=\"https://paperswithcode.co/paper/98727\">OCR 4</a>, which is available via an API. </p> <p>OCR, or Optical-Character Recognition, is the task of digitizing PDFs or scanned documents. There's, of course, a huge interest in this task, as it enables ingestion of all company data for agentic use cases. AI agents love Markdown; it can be valuable to turn all those",
+  "collected_at": "2026-06-26T06:20:52.908Z",
+  "summary": "该文章汇总了Papers with Code上开源OCR模型和基准测试，重点介绍了百度新发布的Unlimited OCR模型和Mistral的OCR 4 API，强调OCR在AI Agent数据摄取中的价值。",
+  "tags": [
+    "ocr"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "提供了实用的OCR模型汇总和最新动态，但内容偏重列表而非深度分析，技术深度一般。",
+  "analyzed_at": "2026-06-26T06:24:08.801Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

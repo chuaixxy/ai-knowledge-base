@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-040",
+  "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26366",
+  "source_url": "https://arxiv.org/abs/2606.26366",
+  "author": "Patrick Cooper, Alvaro Velasquez",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26366v1 Announce Type: new Abstract: Standard chain-of-thought on moral dilemmas exhibits two failure modes: stakeholder collapse (the trace names at most one party with a stake in the outcome) and uncertainty suppression (no explicit unknowns or hedges before committing to an action). We introduce narration-of-thought (NoT), a system prompt that structures chain-of-thought into five sections: protagonist, stakeholders, two-step consequences, uncertainty, then commitment. NoT adds no training, parameters, or fine-tuning. On 100 DailyDilemmas scenarios across four generators from three vendors, NoT cuts stakeholder collapse from up to 31% to under 1% and uncertainty suppression from up to 72% to 1-24% on every model. A matched-budget verbose-CoT control rules out token spend as the active ingredient; NoT retains Cliff's delta advantages of +0.79 to +0.90 on stakeholder count and +0.65 to +0.93 on uncertainty score for three of four generators, and a section ablation attribute",
+  "collected_at": "2026-06-26T06:20:52.220Z",
+  "summary": "提出Narration-of-Thought（NoT）提示方法，通过结构化思维链解决大模型在道德推理中的利益相关者遗漏和不确定性抑制问题，无需训练即可显著提升推理质量。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "方法创新且实验扎实，有效解决具体问题，但应用场景较窄，技术深度中等。",
+  "analyzed_at": "2026-06-26T06:23:28.184Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

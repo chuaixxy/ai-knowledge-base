@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-042",
+  "title": "When Agents Meet Electric Bus Fleet Operations: Pricing Behavior, Trade-offs, and Policy Implications in an Aggregator Framework",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26400",
+  "source_url": "https://arxiv.org/abs/2606.26400",
+  "author": "J\\^onatas Augusto Manzolli, Ali Eslami, Luis Miranda-Moreno, Jiangbo Yu",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26400v1 Announce Type: new Abstract: Agentic systems are changing how complex operational tasks are coordinated, introducing a new paradigm for connecting heterogeneous data sources and automating processes. Electric bus fleets provide a relevant test case. Their operation requires continuous coordination between service reliability, battery state-of-charge, charger availability, electricity prices, route-energy uncertainty, and vehicle-to-grid (V2G) opportunities. This paper proposes an agentic aggregator framework that streamlines this decision environment by coupling an optimization-based electric bus scheduling model with supervisory agents for disturbance detection, tariff adaptation, and schedule evaluation. The optimization core enforces physical feasibility across routes, chargers, batteries, and V2G exchanges, while the agentic layer interprets changing operating conditions, triggers real-time re-optimization when needed, and defines how flexibility value is allocat",
+  "collected_at": "2026-06-26T06:20:52.220Z",
+  "summary": "该论文提出一个基于智能体的电动公交车队运营聚合框架，将优化调度模型与监督智能体结合，实现实时协调与决策。",
+  "tags": [
+    "v2g"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "将AI智能体应用于交通运营优化，有一定创新性，但技术深度一般，属于应用型研究。",
+  "analyzed_at": "2026-06-26T06:23:33.563Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

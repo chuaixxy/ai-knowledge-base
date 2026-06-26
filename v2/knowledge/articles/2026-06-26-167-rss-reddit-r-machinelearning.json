@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-052",
+  "title": "CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uf8thw/calhippo_mapping_neurons_and_glial_cells_in_the/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uf8thw/calhippo_mapping_neurons_and_glial_cells_in_the/",
+  "author": "/u/V_ector https://www.reddit.com/user/V_ector",
+  "published_at": "2026-06-25T12:37:44.000Z",
+  "raw_description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uf8thw/calhippo_mapping_neurons_and_glial_cells_in_the/\"> <img src=\"https://preview.redd.it/m8eyacfmbf9h1.gif?width=640&amp;crop=smart&amp;s=1a9d654de34977e02d4c3b3a30f0f9e2d36a5c35\" alt=\"CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]\" title=\"CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello everyone!</p> <p>I'm posting our research work as you might be interested in how we used ML to map part of the brain cells of the human hippocampus :)</p> <p>We used various human brain slices at high resolution (1 micrometer per pixel) and developed a custom segmentation pipeline that uses SoTA whole slice cell segmentation networks, like CellPoseSAM with good zero shot performances. We t",
+  "collected_at": "2026-06-26T06:20:52.908Z",
+  "summary": "该项目使用SOTA分割和密度估计模型，对人类大脑海马体的神经元和胶质细胞进行3D映射，开发了自定义分割流程，利用CellPoseSAM等网络实现高分辨率脑切片细胞分割。",
+  "tags": [
+    "3d"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "技术应用有价值，但非LLM/AI核心领域，相关性中等，创新性一般。",
+  "analyzed_at": "2026-06-26T06:23:58.913Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

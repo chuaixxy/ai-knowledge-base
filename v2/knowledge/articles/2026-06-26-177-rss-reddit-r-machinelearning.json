@@ -1,0 +1,24 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-064",
+  "title": "What's your biggest pain point when choosing between cloud GPU providers for LLM inference?[R]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/",
+  "author": "/u/Technomadlyf https://www.reddit.com/user/Technomadlyf",
+  "published_at": "2026-06-23T12:24:29.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Trying to understand how other people make this decision. Do you compare $/hr, $/token, throughput, reliability? Is there a tool or resource you rely on, or are you just doing the math manually?</p> <p>Asking because I'm an ML engineer who's been doing this in spreadsheets and wondering if I'm missing something obvious.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Technomadlyf\"> /u/Technomadlyf </a> <br/> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/\">[comments]</a></span>",
+  "collected_at": "2026-06-26T06:20:52.909Z",
+  "summary": "一位ML工程师在Reddit上询问社区，在选择云GPU提供商进行LLM推理时，最大的痛点是什么，以及如何比较成本、吞吐量、可靠性等指标。",
+  "tags": [
+    "gpu",
+    "llm",
+    "ml"
+  ],
+  "category": "other",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "内容为社区讨论，非技术突破或工具，但反映了LLM部署中的真实痛点，有一定参考价值。",
+  "analyzed_at": "2026-06-26T06:24:27.695Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-061",
+  "title": "DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/",
+  "author": "/u/we_are_mammals https://www.reddit.com/user/we_are_mammals",
+  "published_at": "2026-06-24T02:03:34.000Z",
+  "raw_description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/\"> <img src=\"https://preview.redd.it/lacvagyr159h1.png?width=140&amp;height=89&amp;auto=webp&amp;s=14f97a97511fbfe2fd767e4dc986ce0b4da5c73e\" alt=\"DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]\" title=\"DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>DeepSWE delivers four advances over existing public benchmarks:</p> <ul> <li>Contamination free: Tasks are written from scratch, not adapted from existing commits or PRs, so no model has seen the solution during pretraining.</li> <li>High diversity: Tasks span a broad pool of 91 repositories across 5 languages.</li> <li>Real-world complexity: Prompts are ~half the length of SWE-bench Pro's, yet solutions require 5.5x more code and ~2x more output tokens.</li> <li>Re",
+  "collected_at": "2026-06-26T06:20:52.909Z",
+  "summary": "DeepSWE是一个新的代码生成基准测试，通过从头编写任务、覆盖多语言仓库和真实复杂度，评估前沿模型的编码能力，解决了现有基准的污染和多样性问题。",
+  "tags": [
+    "llm"
+  ],
+  "category": "dataset",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性高，解决数据污染和多样性问题，但描述不完整，需进一步验证实际效果。",
+  "analyzed_at": "2026-06-26T06:24:20.958Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

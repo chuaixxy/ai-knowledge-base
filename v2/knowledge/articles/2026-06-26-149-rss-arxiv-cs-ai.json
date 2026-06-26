@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-030",
+  "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26205",
+  "source_url": "https://arxiv.org/abs/2606.26205",
+  "author": "Huizi Yu, Jian Liu, Wenkong Wang, Lingyao Li, Jiayan Zhou, Zhaoqian Xue, Xiang Li, Xinxin Lin, Zhiying Liang, Zhuoru Wu, Siyuan Ma, Xin Ma, Lizhou Fan",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26205v1 Announce Type: new Abstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalidated. Integrating them without conflating evidence and anecdote is especially consequential in psychiatry, where poorly contextualised information can amplify fear, nocebo responses, and non-adherence. Here we develop a provenance-aware, knowledge-graph-based multi-agent framework unifying 466,525 Reddit posts, 60,782 WebMD reviews, and twenty years of U.S. FDA Adverse Event Reporting System records for nine antidepressants. A large-language-model entity-recognition pipeline benchmarked against physician annotations reached highest F1 scores of 0.969 for medications and 0.973 for conditions. The two community platforms were far more concordant with each other (overlap up to a Jaccard similari",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "提出一种基于知识图谱的多智能体框架，整合Reddit、WebMD和FDA不良事件报告系统数据，用于精神健康药物信息检索，通过大语言模型实体识别实现高精度。",
+  "tags": [],
+  "category": "framework",
+  "score": 0.72,
+  "audience": "研究员",
+  "analysis_note": "创新性地融合权威与社区数据，实体识别精度高，但应用场景较窄，技术深度中等。",
+  "analyzed_at": "2026-06-26T06:23:01.124Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}
