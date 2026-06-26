@@ -1,0 +1,20 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-049",
+  "title": "Showcase: geolocating a dashcam video without GPS, only from the footage [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/",
+  "author": "/u/Ok-Apricot956 https://www.reddit.com/user/Ok-Apricot956",
+  "published_at": "2026-06-26T05:03:04.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Sharing a project I have been working on called Third Eye. It does visual geolocation. Given a video, it figures out where it was filmed using only the image content, and draws the route on a map.</p> <p>Pipeline in short:</p> <ul> <li>per frame place recognition against a street imagery index</li> <li>a trajectory search that stitches the frames into one coherent path</li> <li>a geometric verification step to catch false matches</li> </ul> <p>per frame confidence so weak frames are flagged, not faked</p> <p>I ran it on real dashcam footage and it traced the route quite well. Cross domain matching like this is genuinely hard, so a fair amount of the work went into making it honest about uncertainty.</p> <p>Keen to hear feedback on the matching and trajectory side.</p> <p>Video Demo: <a href=\"https://youtu.be/U3sItFlvq6E?si=-KJrwb0gSlk-GxVH\">https://youtu.be/U3sItFlvq6E?si=-KJrwb0gSlk-GxVH</a></p> <p>The Index was covering a 12KM<sup>2</sup> Area around",
+  "collected_at": "2026-06-26T06:20:52.907Z",
+  "summary": "该项目展示了一种无需GPS仅凭视频画面进行地理定位的技术，通过帧级地点识别、轨迹搜索和几何验证，在行车记录仪视频上成功绘制路线。",
+  "tags": [],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "技术实现完整，跨域匹配有挑战性，但非LLM核心领域，评分中等偏上。",
+  "analyzed_at": "2026-06-26T06:23:51.177Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

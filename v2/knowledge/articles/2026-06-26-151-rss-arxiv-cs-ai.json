@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-032",
+  "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26298",
+  "source_url": "https://arxiv.org/abs/2606.26298",
+  "author": "Jakob Salfeld-Nebgen",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26298v1 Announce Type: new Abstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This paper observes that human institutions have governed powerful autonomous actors not by monitoring their reasoning but by requiring independently attested evidence at the point of consequential action. We formalise this institutional pattern as a computational governance model for AI agent systems. Under the proposed model, an agent retains full autonomy over planning and reasoning but holds no execution authority over designated high-risk actions. Execution is conditional on preconditions that are each independently attested by a separate authoritative source, cryptographically bound to a declared intent, and evaluated by a deterministic policy. Decisions are recorded in a tamper-evident log amenable to independent re-verification. We present a proof-of-concept implementation and illustrate th",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "提出一种基于机构认证的AI代理治理模型，通过独立权威源对高风险行动进行预条件验证，而非监控推理过程，确保执行安全与可审计。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性高，将机构治理模式形式化为计算模型，解决AI代理高风险行动问题，但实现细节有限。",
+  "analyzed_at": "2026-06-26T06:23:06.667Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

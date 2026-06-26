@@ -11,23 +11,23 @@
  *
  * 用法：
  *
- *   # 完整流水线（GitHub + RSS，采集 20 条）
- *   npx tsx pipeline/pipeline.ts --sources github,rss --limit 20
+ *   # 完整流水线，每源回退限制 5 条，全局最多保留 25 篇（推荐）
+ *   npx tsx pipeline/pipeline.ts --sources github,rss --limit 5 --total-limit 25
  *
- *   # 只采集 GitHub，限制 5 条
- *   npx tsx pipeline/pipeline.ts --sources github --limit 5
+ *   # 只采集 RSS，全局限制 20 篇
+ *   npx tsx pipeline/pipeline.ts --sources rss --limit 5 --total-limit 20
  *
- *   # 只采集 RSS，限制 10 条
- *   npx tsx pipeline/pipeline.ts --sources rss --limit 10
+ *   # 只采集 GitHub，限制 10 条
+ *   npx tsx pipeline/pipeline.ts --sources github --limit 10
  *
  *   # 干跑模式（不实际写入文件，用于测试采集和分析流程）
  *   npx tsx pipeline/pipeline.ts --sources github --limit 5 --dry-run
  *
  *   # 完整流水线 + 详细日志（显示每条采集/分析/去重细节）
- *   npx tsx pipeline/pipeline.ts --sources github,rss --limit 20 --verbose
+ *   npx tsx pipeline/pipeline.ts --sources github,rss --limit 5 --total-limit 25 --verbose
  *
  *   # 干跑 + 详细日志（最安全的调试方式）
- *   npx tsx pipeline/pipeline.ts --sources github,rss --limit 5 --dry-run --verbose
+ *   npx tsx pipeline/pipeline.ts --sources github,rss --limit 5 --total-limit 25 --dry-run --verbose
  */
 
 import {
@@ -86,6 +86,8 @@ interface RSSFeedConfig {
   url: string;
   /** 分类标签。 */
   category?: string;
+  /** 该源每次最多采集条数；未设置时回退到全局 --limit。 */
+  limit?: number;
 }
 
 /** rss_sources.yaml 原始条目结构。 */
@@ -95,6 +97,8 @@ interface YAMLSource {
   category?: string;
   enabled?: boolean;
   note?: string;
+  /** 该源每次最多采集条数，覆盖全局 --limit。 */
+  limit?: number;
 }
 
 /** rss_sources.yaml 顶层结构。 */
@@ -167,6 +171,8 @@ interface IndexEntry {
 interface PipelineOptions {
   sources: string[];
   limit: number;
+  /** 整理后最终保留的文章上限（按 score 降序截断）。未设置时不限制。 */
+  totalLimit?: number;
   dryRun: boolean;
   verbose: boolean;
 }
@@ -228,7 +234,7 @@ function parseArgs(): PipelineOptions {
   const argv = process.argv.slice(2);
   const opts: PipelineOptions = {
     sources: ["github", "rss"],
-    limit: 20,
+    limit: 5,
     dryRun: false,
     verbose: false,
   };
@@ -240,9 +246,14 @@ function parseArgs(): PipelineOptions {
         opts.sources = (argv[++i] ?? "github,rss").split(",").map((s) => s.trim());
         break;
       case "--limit":
-        opts.limit = parseInt(argv[++i] ?? "20", 10);
-        if (isNaN(opts.limit) || opts.limit <= 0) opts.limit = 20;
+        opts.limit = parseInt(argv[++i] ?? "5", 10);
+        if (isNaN(opts.limit) || opts.limit <= 0) opts.limit = 5;
         break;
+      case "--total-limit": {
+        const n = parseInt(argv[++i] ?? "0", 10);
+        if (!isNaN(n) && n > 0) opts.totalLimit = n;
+        break;
+      }
       case "--dry-run":
         opts.dryRun = true;
         break;
@@ -611,6 +622,7 @@ function loadRSSFeeds(): RSSFeedConfig[] {
         name: entry.name,
         url:  entry.url,
         category: entry.category,
+        limit: typeof entry.limit === "number" && entry.limit > 0 ? entry.limit : undefined,
       });
     }
 
@@ -639,8 +651,9 @@ async function collectRSS(limit: number): Promise<RawItem[]> {
   const allItems: RawItem[] = [];
 
   for (const feed of feeds) {
-    log.verbose(`解析 RSS: ${feed.name} (${feed.url})`);
-    const items = await parseFeed(feed.slug, feed.url, limit, dateStr, allItems.length);
+    const feedLimit = feed.limit ?? limit;
+    log.verbose(`解析 RSS: ${feed.name} (${feed.url}) limit=${feedLimit}`);
+    const items = await parseFeed(feed.slug, feed.url, feedLimit, dateStr, allItems.length);
     allItems.push(...items);
   }
 
@@ -1015,6 +1028,14 @@ function stepOrganize(articles: Article[], options: PipelineOptions): Article[] 
     `整理完成：通过 ${organized.length} 条，跳过 ${skipped.lowScore} 低分 / ${skipped.duplicate} 重复 / ${skipped.invalid} 无效`,
   );
 
+  // 全局总量截断：按 score 降序保留 top N
+  if (options.totalLimit && organized.length > options.totalLimit) {
+    organized.sort((a, b) => b.score - a.score);
+    const cut = organized.length - options.totalLimit;
+    organized.splice(options.totalLimit);
+    log.info(`总量截断：保留 top ${options.totalLimit}，丢弃 ${cut} 条`);
+  }
+
   return organized;
 }
 
@@ -1133,10 +1154,11 @@ async function main(): Promise<void> {
   console.log("=".repeat(60));
   console.log("AI 知识库自动化流水线");
   console.log("=".repeat(60));
-  log.info(`sources: [${options.sources.join(", ")}]`);
-  log.info(`limit:   ${options.limit}`);
-  log.info(`dry-run: ${options.dryRun}`);
-  log.info(`verbose: ${options.verbose}`);
+  log.info(`sources:     [${options.sources.join(", ")}]`);
+  log.info(`limit:       ${options.limit} (per-source fallback)`);
+  log.info(`total-limit: ${options.totalLimit ?? "无限制"}`);
+  log.info(`dry-run:     ${options.dryRun}`);
+  log.info(`verbose:     ${options.verbose}`);
   console.log("=".repeat(60));
 
   const startAt = Date.now();

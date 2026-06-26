@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-041",
+  "title": "Geometry-Aware MCTS for Extremal Problems in Combinatorial Geometry",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26399",
+  "source_url": "https://arxiv.org/abs/2606.26399",
+  "author": "Luoning Zhang, Xu Zhuang, Tianhao Wang, Nathan Kaplan",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26399v1 Announce Type: new Abstract: We study certain extremal problems in combinatorial geometry that ask about configurations of points in an $n \\times n$ grid that satisfy strict, global geometric constraints. Classical exact solvers suffer from combinatorial explosion for these types of problems, and standard reinforcement learning and transformer-based models struggle with the sparse reward \"validity cliff\" and quadratic token-consumption limits. To overcome these bottlenecks, we propose a Geometry-Aware Monte Carlo Tree Search (MCTS) framework. Our approach strictly enforces geometric constraints through incremental updates to the feasible action space. For constraints about collections of collinear points, like those that occur in the classic No-Three-in-Line problem (Max-N3IL), this mechanism reduces the constraint checking complexity from $O(n^3)$ to $O(n^2)$. To improve search efficiency, we exploit geometric symmetries in two ways: canonical pruning during node ex",
+  "collected_at": "2026-06-26T06:20:52.220Z",
+  "summary": "提出几何感知蒙特卡洛树搜索框架，用于解决组合几何中的极值问题，通过增量约束更新和对称性剪枝提升搜索效率，将复杂度从O(n^3)降至O(n^2)。",
+  "tags": [
+    "mcts"
+  ],
+  "category": "framework",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "针对特定几何问题的搜索框架，技术深度较高，但领域较窄，与AI/LLM核心领域相关性一般。",
+  "analyzed_at": "2026-06-26T06:23:30.931Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

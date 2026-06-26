@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-025",
+  "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26155",
+  "source_url": "https://arxiv.org/abs/2606.26155",
+  "author": "Maty Bohacek, Rishub Jain, Nicholas Dufour, Thomas Leung, Chris Bregler, Roma Patel",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect model features responsible for a behavior, and therefore the ability to steer models toward or away from such behavior. In this work, we present an iterative data generation pipeline that isolates cascading linear features responsible for a behavior. Specifically, we show how moving beyond simple binary pairs of samples, and instead isolating samples that show degrees of features that scale linearly with behavior, allows for better disentanglement of features. We focus on detecting and steering away from sycophancy -- the tendency of language models to prioritize user validation. We demonstrate that sycophancy features discovered through cascading samples form linearly sep",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "提出一种迭代数据生成管道，通过级联线性特征分离样本，以检测和控制语言模型中的谄媚行为，提升特征解耦与行为引导能力。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "方法创新，聚焦模型可解释性与行为控制，但实验细节有限，评分中等偏上。",
+  "analyzed_at": "2026-06-26T06:22:48.143Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

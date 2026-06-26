@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-26-065",
+  "title": "How agents are transforming work",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/how-agents-are-transforming-work",
+  "source_url": "https://openai.com/index/how-agents-are-transforming-work",
+  "author": "openai-blog",
+  "published_at": "2026-06-25T02:00:00.000Z",
+  "raw_description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+  "collected_at": "2026-06-26T06:20:53.431Z",
+  "summary": "OpenAI新研究论文探讨AI代理如何通过执行更长时间、更复杂的任务来变革工作方式，提升各角色的生产力。",
+  "tags": [
+    "ai",
+    "openai"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "来自OpenAI的顶级研究，聚焦AI代理关键突破，技术深度高，对行业有重要影响。",
+  "analyzed_at": "2026-06-26T06:24:30.189Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

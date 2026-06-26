@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-043",
+  "title": "Unbiased Canonical Set-Valued Oracles Via Lattice Theory",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26418",
+  "source_url": "https://arxiv.org/abs/2606.26418",
+  "author": "Jobst Heitzig",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26418v1 Announce Type: new Abstract: A non-agentic \"oracle\" AI that estimates probabilities of future events faces a self-reference problem: once its answer is learned and acted upon, it can change the very probability it was asked to report. One response, advocated for the Scientist AI programme, is to ask only counterfactual questions, evaluated as if the answer had no influence. We observe that such answers tend to become irrelevant the moment they are learned, precisely because their premise is then false. We therefore explore a self-referential alternative in which the oracle reports not a single probability but a credal set that is simultaneously unbiased and self-consistent with the consequences of being learned. The naive self-consistency requirement is satisfied by too many sets (including the useless answer $[0,1]$), so the problem is to single out a canonical, nontrivial member. We do so with the Knaster--Tarski fixed-point theorem on the complete lattice of close",
+  "collected_at": "2026-06-26T06:20:52.220Z",
+  "summary": "本文提出一种基于格论的无偏自洽集值预言机方法，解决AI概率估计中的自指问题，通过Knaster-Tarski不动点定理选取规范非平凡可信集。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "理论创新性强，解决AI自指问题有深度，但偏数学化，实用性待验证。",
+  "analyzed_at": "2026-06-26T06:23:36.479Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

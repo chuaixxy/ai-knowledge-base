@@ -1,0 +1,20 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-051",
+  "title": "Optimising LMAPF guidance graphs using Evolutionary algorithms: Advice needed [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ufdzsr/optimising_lmapf_guidance_graphs_using/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ufdzsr/optimising_lmapf_guidance_graphs_using/",
+  "author": "/u/Michi122211 https://www.reddit.com/user/Michi122211",
+  "published_at": "2026-06-25T15:54:31.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>I'm currently working on my dissertation and feel like I could really use some advice from someone who looks at the problem with fresh eyes. I appreciate all input.</p> <p>The Problem:<br/> Multi Agent Path Finding is the problem of finding paths for several agents to their destinations. Lifelong MAPF is the same, but upon task completion an agent is assigned a new task. For my dissertation (and usually in research) agents move on a grid-like graph and time is discrete. Each timestep an agent can move to an adjacent tile or wait. A good LMAPF algorithm creates paths which maximise average jobs completed per timestep.</p> <p>Some LMAPF algorithms can also work on weighted graphs where each edge to an adjacent node (or itself) has its own cost. Such a graph is called guidance graph and the choice of edge weights can influence which paths the LMAPF algorithm creates also impacting throughput.</p> <p>My supervisor wanted to explore whether Ev",
+  "collected_at": "2026-06-26T06:20:52.908Z",
+  "summary": "该文章探讨使用进化算法优化LMAPF（终身多智能体路径规划）中的引导图边权重，以提高任务吞吐量。",
+  "tags": [],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "针对LMAPF的引导图优化问题，结合进化算法，具有一定研究价值，但内容不完整且未涉及LLM。",
+  "analyzed_at": "2026-06-26T06:23:56.338Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

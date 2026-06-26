@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-027",
+  "title": "Refusal Lives Downstream of Persona in Chat Models",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26161",
+  "source_url": "https://arxiv.org/abs/2606.26161",
+  "author": "Viola Zhong, Qirui Li",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26161v1 Announce Type: new Abstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the refusal rate falls from 97% to 2%. Reintroducing the refusal direction partially restores refusal at late layers but not at early ones. Projecting out the persona direction in a late-layer window restores it to baseline; projecting out a random direction does not. Refusal is therefore gated at the late-layer expression stage, downstream of where it is computed. Treating refusal as a single isolated direction misses its dependence on persona.",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "该论文发现指令微调聊天模型中，顺从人格方向会门控拒绝方向，拒绝行为发生在人格表达的下游阶段，而非独立机制。",
+  "tags": [
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "揭示了拒绝机制与人格的交互关系，对AI安全对齐有重要理论贡献，实验设计严谨。",
+  "analyzed_at": "2026-06-26T06:22:53.220Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-26-062",
+  "title": "I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/",
+  "author": "/u/Technomadlyf https://www.reddit.com/user/Technomadlyf",
+  "published_at": "2026-06-24T11:28:51.000Z",
+  "raw_description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/\"> <img src=\"https://preview.redd.it/4vj50mvhu79h1.png?width=140&amp;height=63&amp;auto=webp&amp;s=f53b566e7aa9a25215aa77fcf3ed0b16e426e2a1\" alt=\"I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]\" title=\"I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I've been comparing GPU/LLM providers for a side project and ended up with way too many browser tabs and spreadsheets.</p> <p>So I decided to pull the public pricing data into one sheet and compare it side by side.</p> <p>A quick disclaimer: this is <strong>not benchmark data</strong>. I didn't run latency tests or throughput measurements. Everything comes from public pricing pages and APIs (OpenRouter, DeepSeek, Together AI, Firewor",
+  "collected_at": "2026-06-26T06:20:52.909Z",
+  "summary": "该文章整理了7家LLM推理服务商的定价数据，并重点分析了缓存定价的差异，附有电子表格。",
+  "tags": [
+    "llm"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "实用定价对比，缓存数据有亮点，但非基准测试，技术深度一般。",
+  "analyzed_at": "2026-06-26T06:24:23.164Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

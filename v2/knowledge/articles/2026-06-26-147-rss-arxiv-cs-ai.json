@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-028",
+  "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26173",
+  "source_url": "https://arxiv.org/abs/2606.26173",
+  "author": "Dhruv Sharma, Gautam Shroff",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26173v1 Announce Type: new Abstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of programs and proofs. Most current applications focus on static coding benchmarks. We extend this paradigm to algorithmic trading. This domain is uniquely challenging because it is noisy, non-stationary, and highly discontinuous. We present AlgoEvolve, an LLM-driven evolutionary framework that generates, evaluates, and iteratively improves executable trading strategies. These strategies are expressed as Python code and evaluated through a rigorous testing protocol. Across multiple experiments, the system exhibits emergent regime-adaptive strategy logic, including autonomous shifts in trading rules. We further introduce a meta-evolutionary outer loop that evolves the prompts guiding program synthesis in the inner loop. This outer loop discovers improved search heuristics. These heuristics balance exploration and explo",
+  "collected_at": "2026-06-26T06:20:52.219Z",
+  "summary": "提出AlgoEvolve框架，利用LLM作为变异算子进化生成交易策略，并引入元进化外层循环优化提示，实现自适应交易逻辑。",
+  "tags": [
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.72,
+  "audience": "研究员",
+  "analysis_note": "创新性地将LLM与进化算法结合应用于交易领域，元进化思路有深度，但领域小众且实验验证有限。",
+  "analyzed_at": "2026-06-26T06:22:55.927Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

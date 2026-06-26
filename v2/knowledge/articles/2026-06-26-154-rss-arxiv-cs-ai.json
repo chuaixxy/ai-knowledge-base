@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-26-035",
+  "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.26346",
+  "source_url": "https://arxiv.org/abs/2606.26346",
+  "author": "David Akinpelu, Akintonde Abbas, Rereloluwa Alimi, Ayodeji Lana",
+  "published_at": "2026-06-26T04:00:00.000Z",
+  "raw_description": "arXiv:2606.26346v1 Announce Type: new Abstract: Agentic benchmarks have emerged across general-purpose and domain-specific settings, including finance, coding, law, and drug discovery, yet energy-domain evaluations remain largely limited to static knowledge recall. This is a critical gap for a sector that requires live data retrieval, specialized regulatory and market knowledge, and multi-step quantitative reasoning under real-world constraints. We present an empirical study of tool-augmented LLM agents on real-world energy market analytics tasks. Our evaluation environment includes 243 expert-curated problems across three categories: (1) Market Data Retrieval and Analysis, (2) Knowledge Retrieval and Interpretation, and (3) Advanced Quantitative Modeling and Decision Analytics. Tasks include price and demand analysis, tariff impact modeling, asset revenue and returns estimation, hedging strategy analysis, and optimization modeling, with problems spanning multiple difficulty levels. Ag",
+  "collected_at": "2026-06-26T06:20:52.220Z",
+  "summary": "该论文针对能源领域缺乏智能体基准的空白，构建了包含243个专家问题的评估环境，测试工具增强型LLM智能体在实时数据检索、知识解释和定量建模等真实能源分析任务上的表现。",
+  "tags": [
+    "llm-agent"
+  ],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "填补能源领域Agent基准空白，任务设计专业且覆盖多难度，但尚未公开结果，创新性中等。",
+  "analyzed_at": "2026-06-26T06:23:15.048Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-the-verge-ai-2026-06-26-125",
+  "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+  "author": "Hayden Field",
+  "published_at": "2026-06-25T21:57:06.000Z",
+  "raw_description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
+  "collected_at": "2026-06-26T06:20:54.360Z",
+  "summary": "据报道，特朗普政府因担忧安全问题，要求OpenAI推迟发布GPT-5.6。OpenAI CEO Sam Altman在内部会议中表示，将先以有限预览形式发布，仅向小部分用户开放。",
+  "tags": [
+    "openai",
+    "gpt-56"
+  ],
+  "category": "other",
+  "score": 0.55,
+  "audience": "通用",
+  "analysis_note": "内容为行业新闻，涉及模型发布延迟，但缺乏技术细节，相关性中等。",
+  "analyzed_at": "2026-06-26T06:26:46.114Z",
+  "organized_at": "2026-06-26T06:28:14.013Z",
+  "status": "published"
+}

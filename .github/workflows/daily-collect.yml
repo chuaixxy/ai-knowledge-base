@@ -36,7 +36,7 @@ jobs:
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LLM_DEBUG: ${{ vars.LLM_DEBUG || '0' }}
-        run: npx --prefix v2 tsx v2/pipeline/pipeline.ts --sources github,rss --limit 20 --verbose
+        run: npx --prefix v2 tsx v2/pipeline/pipeline.ts --sources github,rss --limit 5 --total-limit 25 --verbose
 
       - name: Validate collected articles
         run: |
@@ -60,5 +60,8 @@ jobs:
             COUNT=$(find v2/knowledge/articles -maxdepth 1 -name "*.json" ! -name "index.json" | wc -l | tr -d " ")
             DATE=$(date +%Y-%m-%d)
             git commit -m "collect: ${COUNT} articles (${DATE})"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push origin main && break
+              sleep 5
+            done
           fi
