@@ -1,0 +1,23 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-27-008",
+  "title": "AI Agents Enable Adaptive Computer Worms",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://cleverhans.io/worm.html",
+  "source_url": "https://cleverhans.io/worm.html",
+  "author": "cleverhans.io via zurtar",
+  "published_at": "2026-06-26T22:15:36.000Z",
+  "raw_description": "<p>Full Paper: <a href=\"https://arxiv.org/pdf/2606.03811\" rel=\"ugc\">https://arxiv.org/pdf/2606.03811</a></p> <p><a href=\"https://lobste.rs/s/qsp10b/ai_agents_enable_adaptive_computer_worms\">Comments</a></p>",
+  "collected_at": "2026-06-27T10:05:52.837Z",
+  "summary": "该论文展示了AI代理如何生成自适应计算机蠕虫，利用LLM实现自主传播和攻击，引发安全担忧。",
+  "tags": [
+    "ai",
+    "llm"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "研究具有警示意义，但技术深度一般，属于LLM安全应用探索。",
+  "analyzed_at": "2026-06-27T10:06:32.642Z",
+  "organized_at": "2026-06-27T10:07:27.600Z",
+  "status": "published"
+}
