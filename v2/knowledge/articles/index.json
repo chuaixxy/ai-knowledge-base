@@ -1,5 +1,60 @@
 [
   {
+    "id": "rss-lobsters-ai-ml-2026-06-28-006",
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "apple-silicon",
+      "gpu"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.810Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-28-008",
+    "title": "AI Learns the \"Dark Art\" of RF Chip Design",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "rf"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.810Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-28-003",
+    "title": "Asian AI startups launch Mythos-like models",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.087Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-28-004",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm",
+      "deepseek"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.087Z"
+  },
+  {
     "id": "rss-the-verge-ai-2026-06-27-024",
     "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
     "source": "rss-the-verge-ai",
