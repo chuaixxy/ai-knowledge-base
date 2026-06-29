@@ -118,6 +118,19 @@ interface PricingTier {
   output: number;
 }
 
+/** 国产模型定价（CNY / 百万 tokens）。 */
+interface ProviderPricingCNY {
+  input: number;
+  output: number;
+}
+
+/** 单次 API 调用的 token 记录。 */
+interface CostCallRecord {
+  provider: string;
+  input_tokens: number;
+  output_tokens: number;
+}
+
 // ---------------------------------------------------------------------------
 // Provider Configurations
 // ---------------------------------------------------------------------------
@@ -149,6 +162,13 @@ const PROVIDER_CONFIGS: Record<string, ProviderConfig> = {
  * 当 estimateCost 查询不到某个模型的定价时，
  * 回退到当前提供商的默认模型定价；仍找不到则按默认价格。
  */
+/** 国产模型价格表（元 / 百万 tokens）。 */
+const PROVIDER_PRICING_CNY: Record<string, ProviderPricingCNY> = {
+  deepseek: { input: 1, output: 2 },
+  qwen: { input: 4, output: 12 },
+  openai: { input: 150, output: 600 },
+};
+
 const MODEL_PRICING: Record<string, PricingTier> = {
   // DeepSeek
   "deepseek-chat": { input: 0.0014, output: 0.0028 },
@@ -551,6 +571,84 @@ async function chatWithTry(
 }
 
 // ---------------------------------------------------------------------------
+// CostTracker
+// ---------------------------------------------------------------------------
+
+/**
+ * 追踪 LLM 调用的 token 消耗和成本。
+ *
+ * 累计每次 API 调用的输入/输出 token，并按提供商定价估算成本（元）。
+ */
+class CostTracker {
+  totalInputTokens = 0;
+  totalOutputTokens = 0;
+  callCount = 0;
+  calls: CostCallRecord[] = [];
+
+  /**
+   * 记录一次 API 调用的 token 消耗。
+   *
+   * @param usage - Token 用量（Usage 或 usage 字典）。
+   * @param provider - 模型提供商，默认 deepseek。
+   */
+  record(
+    usage: Usage | Record<string, number>,
+    provider: string = "deepseek",
+  ): void {
+    const inputTokens = usage.prompt_tokens ?? 0;
+    const outputTokens = usage.completion_tokens ?? 0;
+
+    this.totalInputTokens += inputTokens;
+    this.totalOutputTokens += outputTokens;
+    this.callCount += 1;
+
+    this.calls.push({
+      provider,
+      input_tokens: inputTokens,
+      output_tokens: outputTokens,
+    });
+  }
+
+  /**
+   * 估算总成本（单位：元）。
+   *
+   * @param provider - 用于查价的提供商，默认 deepseek。
+   * @returns 估算成本（元）。
+   */
+  estimatedCost(provider: string = "deepseek"): number {
+    const pricing =
+      PROVIDER_PRICING_CNY[provider] ?? PROVIDER_PRICING_CNY["deepseek"]!;
+    const costInput = (this.totalInputTokens * pricing.input) / 1_000_000;
+    const costOutput = (this.totalOutputTokens * pricing.output) / 1_000_000;
+    return costInput + costOutput;
+  }
+
+  /**
+   * 打印成本报告。
+   *
+   * @param provider - 用于成本估算的提供商，默认 deepseek。
+   */
+  report(provider: string = "deepseek"): void {
+    const cost = this.estimatedCost(provider);
+    console.log(`\n${"=".repeat(40)}`);
+    console.log("  Token 消耗报告");
+    console.log("=".repeat(40));
+    console.log(`  调用次数: ${this.callCount}`);
+    console.log(`  输入 tokens: ${this.totalInputTokens.toLocaleString()}`);
+    console.log(`  输出 tokens: ${this.totalOutputTokens.toLocaleString()}`);
+    console.log(
+      `  总 tokens: ${(this.totalInputTokens + this.totalOutputTokens).toLocaleString()}`,
+    );
+    console.log(`  估算成本: ${cost.toFixed(4)} 元`);
+    console.log(`  模型: ${provider}`);
+    console.log("=".repeat(40));
+  }
+}
+
+/** 全局 CostTracker 实例，Pipeline 结束时调用 tracker.report()。 */
+const tracker = new CostTracker();
+
+// ---------------------------------------------------------------------------
 // Cost Calculation
 // ---------------------------------------------------------------------------
 
@@ -669,23 +767,35 @@ async function chat(
   }
 
   const llm = getProvider();
-  try {
-    const response = await chatWithTry(messages, { maxRetries }, llm);
-    const cost = estimateCost(response.model, response.usage!);
-    logger.info(
-      "Token 用量: %d (prompt) + %d (completion) = %d, 估算成本: $%.6f",
-      response.usage?.prompt_tokens ?? 0,
-      response.usage?.completion_tokens ?? 0,
-      response.usage?.total_tokens ?? 0,
-      cost,
-    );
-    return {
-      content: response.content,
-      usage: response.usage ? usageToDict(response.usage) : usageToDict({ prompt_tokens: 0, completion_tokens: 0, total_tokens: 0 }),
-    };
-  } finally {
-    // 不缓存 providerName 切换时的实例
+  const providerKey =
+    providerName ?? (process.env["LLM_PROVIDER"] || "deepseek").toLowerCase();
+
+  const response = await chatWithTry(messages, { maxRetries }, llm);
+  const usageDict = response.usage
+    ? usageToDict(response.usage)
+    : usageToDict({ prompt_tokens: 0, completion_tokens: 0, total_tokens: 0 });
+
+  if (response.usage) {
+    tracker.record(usageDict, providerKey);
   }
+
+  const cost = estimateCost(response.model, response.usage ?? {
+    prompt_tokens: 0,
+    completion_tokens: 0,
+    total_tokens: 0,
+  });
+  const pricing = PROVIDER_PRICING_CNY[providerKey] ?? PROVIDER_PRICING_CNY["deepseek"]!;
+  const costCNY =
+    (usageDict.prompt_tokens * pricing.input + usageDict.completion_tokens * pricing.output) /
+    1_000_000;
+  logger.info(
+    `Token 用量: ${usageDict.prompt_tokens} (prompt) + ${usageDict.completion_tokens} (completion) = ${usageDict.total_tokens}, 估算成本: $${cost.toFixed(6)} / ¥${costCNY.toFixed(5)}`,
+  );
+
+  return {
+    content: response.content,
+    usage: usageDict,
+  };
 }
 
 // ---------------------------------------------------------------------------
@@ -766,6 +876,7 @@ export {
   // Classes
   LLMProvider,
   OpenAICompatibleProvider,
+  CostTracker,
 
   // Functions
   getProvider,
@@ -781,4 +892,8 @@ export {
   // Config
   PROVIDER_CONFIGS,
   MODEL_PRICING,
+  PROVIDER_PRICING_CNY,
+
+  // Cost tracking
+  tracker,
 };

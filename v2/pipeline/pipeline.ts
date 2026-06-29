@@ -40,7 +40,12 @@ import {
 import { resolve, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse as parseYAML } from "yaml";
-import { chatWithTry, getProvider, type ChatMessage } from "./model-client.ts";
+import {
+  chatWithTry,
+  getProvider,
+  tracker,
+  type ChatMessage,
+} from "./model-client.ts";
 
 // ---------------------------------------------------------------------------
 // Constants
@@ -783,6 +788,12 @@ async function analyzeItem(item: RawItem): Promise<AnalysisResult> {
       temperature: 0.1,
       max_tokens: 400,
     });
+    if (response.usage) {
+      tracker.record(
+        response.usage,
+        (process.env["LLM_PROVIDER"] || "deepseek").toLowerCase(),
+      );
+    }
     content = response.content.trim();
   } catch (err) {
     log.warn(`LLM 调用失败 [${item.id}]: ${err instanceof Error ? err.message : String(err)}`);
@@ -1189,6 +1200,8 @@ async function main(): Promise<void> {
   log.info(`整理: ${organized.length} 条（通过）`);
   log.info(`耗时: ${elapsed}s`);
   console.log("=".repeat(60));
+
+  tracker.report((process.env["LLM_PROVIDER"] || "deepseek").toLowerCase());
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
