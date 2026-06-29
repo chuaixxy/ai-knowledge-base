@@ -1,0 +1,24 @@
+{
+  "id": "rss-hacker-news-best-2026-06-27-001",
+  "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+  "source": "rss-hacker-news-best",
+  "source_id": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+  "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+  "author": "bobrenjc93",
+  "published_at": "2026-06-26T22:48:28.000Z",
+  "raw_description": "https://archive.md/ArXuF https://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 438 # Comments: 501",
+  "collected_at": "2026-06-27T10:05:52.476Z",
+  "summary": "美国政府允许Anthropic向受信任的美国组织发布其强大的Mythos AI模型，标志着AI监管与部署的新进展。",
+  "tags": [
+    "anthropic",
+    "mythos-ai",
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "涉及AI模型发布与政策，但技术细节有限，偏向新闻事件，相关性中等。",
+  "analyzed_at": "2026-06-27T10:06:14.563Z",
+  "organized_at": "2026-06-27T10:07:27.600Z",
+  "status": "published"
+}
