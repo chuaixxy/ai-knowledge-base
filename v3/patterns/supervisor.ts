@@ -132,7 +132,7 @@ const SUPERVISOR_SYSTEM = `你是一个严格的质量审核员，负责评审 A
  */
 async function runSupervisor(task: string, workerOutput: string): Promise<ReviewResult> {
   const prompt = `原始任务：${task}\n\nWorker 输出：\n${workerOutput}`;
-  const { content } = await chat(prompt, SUPERVISOR_SYSTEM);
+  const { content } = await chat(prompt, SUPERVISOR_SYSTEM, undefined, 3, 0.2);
 
   let parsed: ReviewResult;
   try {
