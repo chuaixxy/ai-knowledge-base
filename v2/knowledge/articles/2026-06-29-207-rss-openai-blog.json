@@ -1,0 +1,22 @@
+{
+  "id": "rss-openai-blog-2026-06-29-011",
+  "title": "Mapping Europe’s AI Workforce Opportunity",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+  "source_url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+  "author": "openai-blog",
+  "published_at": "2026-06-29T07:00:00.000Z",
+  "raw_description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+  "collected_at": "2026-06-29T12:29:37.213Z",
+  "summary": "OpenAI报告分析AI对欧盟就业市场的影响，指出哪些职业面临自动化、增长或工作流程变化，为劳动力转型提供数据洞察。",
+  "tags": [
+    "ai"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "报告聚焦AI对就业的影响，与LLM领域间接相关，数据有价值但技术深度一般。",
+  "analyzed_at": "2026-06-29T12:30:24.957Z",
+  "organized_at": "2026-06-29T12:31:13.465Z",
+  "status": "published"
+}

@@ -1,5 +1,31 @@
 [
   {
+    "id": "rss-the-verge-ai-2026-06-29-022",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "glm-52"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T12:29:38.314Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-29-011",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T12:29:37.213Z"
+  },
+  {
     "id": "rss-lobsters-ai-ml-2026-06-28-006",
     "title": "MAX models can now run on Apple silicon GPUs",
     "source": "rss-lobsters-ai-ml",
