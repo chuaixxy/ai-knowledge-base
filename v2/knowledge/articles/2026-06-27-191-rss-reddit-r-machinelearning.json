@@ -1,0 +1,20 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-06-27-011",
+  "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
+  "author": "/u/BaniyanChor https://www.reddit.com/user/BaniyanChor",
+  "published_at": "2026-06-26T15:34:28.000Z",
+  "raw_description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/\"> <img src=\"https://preview.redd.it/r5m95bf5cn9h1.gif?width=640&amp;crop=smart&amp;s=f9e1900b5e007ea3a72c74d4089c56fdeed22f49\" alt=\"A debugger for RL reward functions that detects reward hacking during training [P]\" title=\"A debugger for RL reward functions that detects reward hacking during training [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>While experimenting with GRPO training, I kept running this shit that when reward increases, it becomes difficult to tell whether the policy is genuinely improving or simply exploiting the reward function. So I built a small library called rewardspy that wraps an existing reward function and continuously monitors indicators that often precede reward hacking.</p> <p>It currently tracks things like rolling reward statistics, reward variance collapse, reward component imbalance, response length drift, rewa",
+  "collected_at": "2026-06-27T10:05:53.632Z",
+  "summary": "一个用于强化学习奖励函数的调试工具，能在训练过程中检测奖励破解（reward hacking）现象，通过监控奖励统计、方差、组件不平衡和响应长度漂移等指标，帮助判断策略是否真正改进。",
+  "tags": [],
+  "category": "tool",
+  "score": 0.72,
+  "audience": "工程师",
+  "analysis_note": "针对RL训练中的奖励破解问题提供实用监控方案，技术价值明确，但创新性一般，适合工程师使用。",
+  "analyzed_at": "2026-06-27T10:06:40.439Z",
+  "organized_at": "2026-06-27T10:07:27.600Z",
+  "status": "published"
+}

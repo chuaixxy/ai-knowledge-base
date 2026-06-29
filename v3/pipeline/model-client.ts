@@ -744,6 +744,7 @@ async function quickChat(
  *   system: 系统提示词，默认 "你是一个 AI 技术分析助手。"。
  *   providerName: 提供商名称（deepseek/qwen/openai），默认读环境变量。
  *   maxRetries: 最大重试次数，默认 3。
+ *   temperature: 采样温度（0–2），不传则使用提供商默认值（0.7）。
  *
  * Returns:
  *   { content: string, usage: { prompt_tokens: number, ... } }
@@ -756,6 +757,7 @@ async function chat(
   system: string = "你是一个 AI 技术分析助手。",
   providerName?: string,
   maxRetries: number = 3,
+  temperature?: number,
 ): Promise<{ content: string; usage: Record<string, number> }> {
   const messages: ChatMessage[] = [
     { role: "system", content: system },
@@ -770,7 +772,7 @@ async function chat(
   const providerKey =
     providerName ?? (process.env["LLM_PROVIDER"] || "deepseek").toLowerCase();
 
-  const response = await chatWithTry(messages, { maxRetries }, llm);
+  const response = await chatWithTry(messages, { maxRetries, temperature }, llm);
   const usageDict = response.usage
     ? usageToDict(response.usage)
     : usageToDict({ prompt_tokens: 0, completion_tokens: 0, total_tokens: 0 });

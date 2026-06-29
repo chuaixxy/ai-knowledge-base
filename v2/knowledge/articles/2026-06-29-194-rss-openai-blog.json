@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-06-29-013",
+  "title": "Previewing GPT-5.6 Sol: a next-generation model",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/previewing-gpt-5-6-sol",
+  "source_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+  "author": "openai-blog",
+  "published_at": "2026-06-26T10:00:00.000Z",
+  "raw_description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+  "collected_at": "2026-06-29T04:01:40.649Z",
+  "summary": "OpenAI 预览下一代模型 GPT-5.6 Sol，在编程、科学和网络安全方面能力更强，并配备最先进的安全栈。",
+  "tags": [
+    "gpt-56-sol",
+    "openai"
+  ],
+  "category": "research",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "重要模型预览，能力显著提升且安全栈先进，但信息有限，需后续验证。",
+  "analyzed_at": "2026-06-29T04:03:18.585Z",
+  "organized_at": "2026-06-29T04:03:29.456Z",
+  "status": "published"
+}

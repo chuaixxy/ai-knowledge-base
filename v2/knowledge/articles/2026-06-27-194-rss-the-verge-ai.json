@@ -1,0 +1,24 @@
+{
+  "id": "rss-the-verge-ai-2026-06-27-024",
+  "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+  "author": "Hayden Field",
+  "published_at": "2026-06-26T17:00:00.000Z",
+  "raw_description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]",
+  "collected_at": "2026-06-27T10:05:54.839Z",
+  "summary": "OpenAI在特朗普政府要求下发布GPT-5.6模型套件，包括旗舰版Sol、中端版Terra和轻量版Luna，标志着AI监管与模型发布的新动态。",
+  "tags": [
+    "openai",
+    "gpt-56",
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.75,
+  "audience": "通用",
+  "analysis_note": "核心亮点是模型发布与政府监管互动，但技术细节有限，评分中等偏上。",
+  "analyzed_at": "2026-06-27T10:07:11.154Z",
+  "organized_at": "2026-06-27T10:07:27.600Z",
+  "status": "published"
+}

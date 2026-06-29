@@ -1,0 +1,22 @@
+{
+  "id": "rss-hacker-news-best-2026-06-27-002",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "source": "rss-hacker-news-best",
+  "source_id": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "author": "cuchoi",
+  "published_at": "2026-06-26T02:29:23.000Z",
+  "raw_description": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 363 # Comments: 160",
+  "collected_at": "2026-06-27T10:05:52.477Z",
+  "summary": "作者分享其AI助手被2000人尝试攻击的经历，揭示了AI安全漏洞和防御策略，强调构建安全AI系统的重要性。",
+  "tags": [
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "真实案例有价值，但技术深度一般，偏向安全实践而非核心AI突破。",
+  "analyzed_at": "2026-06-27T10:06:16.815Z",
+  "organized_at": "2026-06-27T10:07:27.600Z",
+  "status": "published"
+}

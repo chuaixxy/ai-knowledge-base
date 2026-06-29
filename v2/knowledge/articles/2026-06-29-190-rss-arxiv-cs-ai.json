@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-29-009",
+  "title": "AI-Model Network: Concept, Current State and Future",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.27382",
+  "source_url": "https://arxiv.org/abs/2606.27382",
+  "author": "Li Zhetao, Zeng Xiyu, Wang Jianhui, Xiao Yong, Liu Zhongren, Wu Junru, Lai Junjie, Huang Jijun, Long Saiqin",
+  "published_at": "2026-06-29T04:00:00.000Z",
+  "raw_description": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. The rapid development of the Internet, cloud computing, and big data is pushing artificial intelligence into the era of large models (LMs). However, the practical application of LMs is currently hindered by high training costs and deployment complexities, driving a shift toward lightweight, private, and domain-specific models. With the rapid proliferation and wide distribution of heterogeneous models, enabling effective interaction and collaboration among them has emerged as a critical bottleneck that urgently needs to be addressed in LM development. Drawing inspiration from the development of the Internet, this paper proposes the concept, vision, and system architecture of world wide AI-model network (AI-ModelNet)",
+  "collected_at": "2026-06-29T04:01:28.099Z",
+  "summary": "本文受互联网发展启发，提出世界AI模型网络（AI-ModelNet）的概念、愿景和系统架构，旨在解决大模型训练成本高、部署复杂及异构模型间交互协作的瓶颈问题。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "概念新颖，类比互联网发展，但尚处早期构想阶段，缺乏具体实现和实验验证。",
+  "analyzed_at": "2026-06-29T04:03:08.874Z",
+  "organized_at": "2026-06-29T04:03:29.456Z",
+  "status": "published"
+}

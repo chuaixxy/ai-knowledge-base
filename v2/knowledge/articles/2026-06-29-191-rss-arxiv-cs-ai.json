@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-06-29-010",
+  "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.27443",
+  "source_url": "https://arxiv.org/abs/2606.27443",
+  "author": "Aryan Keluskar, Amrita Bhattacharjee, Huan Liu",
+  "published_at": "2026-06-29T04:00:00.000Z",
+  "raw_description": "arXiv:2606.27443v1 Announce Type: new Abstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task outcomes remains under-explored. Prior work shows that agents prompted with low agreeableness produce adversarial language, while those prompted with high agreeableness become cooperative, but the relationship between communication style and task performance has not been systematically examined across multiple domains. In this work, we investigate whether personality composition matters for multi-agent team performance by manipulating personality traits across frontier LLMs on three task domains: structured coding, open-ended research collaboration, and competitive bargaining. We find that personality effects depend critically on task structure. In coding tasks, low agreeableness leads to large communication shifts that have little effect on milestone completion. In open-ended collaboration and bargaining, the same",
+  "collected_at": "2026-06-29T04:01:28.099Z",
+  "summary": "该论文研究了人格提示对多智能体LLM团队任务表现的影响，发现人格效应关键取决于任务结构：在编码任务中影响小，在开放协作和谈判中影响大。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "研究视角新颖，系统探讨了人格与任务结构的交互，但实验范围有限，深度一般。",
+  "analyzed_at": "2026-06-29T04:03:11.554Z",
+  "organized_at": "2026-06-29T04:03:29.456Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-the-verge-ai-2026-06-29-022",
+  "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+  "author": "Terrence O’Brien",
+  "published_at": "2026-06-28T21:42:51.000Z",
+  "raw_description": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+  "collected_at": "2026-06-29T12:29:38.314Z",
+  "summary": "中国智谱AI发布开源权重模型GLM-5.2，在特定漏洞发现和网络安全场景中声称媲美Mythos，缩小了与Anthropic和OpenAI模型的差距。",
+  "tags": [
+    "glm-52"
+  ],
+  "category": "research",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "模型在特定领域有突破，但通用任务仍落后，开源权重有价值，但需验证复现性。",
+  "analyzed_at": "2026-06-29T12:30:53.089Z",
+  "organized_at": "2026-06-29T12:31:13.465Z",
+  "status": "published"
+}

@@ -1,5 +1,179 @@
 [
   {
+    "id": "rss-the-verge-ai-2026-06-29-022",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "glm-52"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T12:29:38.314Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-29-011",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T12:29:37.213Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-28-006",
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "apple-silicon",
+      "gpu"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.810Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-28-008",
+    "title": "AI Learns the \"Dark Art\" of RF Chip Design",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "rf"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.810Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-28-003",
+    "title": "Asian AI startups launch Mythos-like models",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.087Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-28-004",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm",
+      "deepseek"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-28T10:26:02.087Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-06-27-024",
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "category": "other",
+    "relevance_score": 0.75,
+    "tags": [
+      "openai",
+      "gpt-56",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-27T10:05:54.839Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-27-017",
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-27T10:05:54.266Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-27-012",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "gpt-56-sol",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-27T10:05:53.982Z"
+  },
+  {
+    "id": "rss-reddit-r-machinelearning-2026-06-27-011",
+    "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
+    "category": "tool",
+    "relevance_score": 0.72,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-27T10:05:53.632Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-27-008",
+    "title": "AI Agents Enable Adaptive Computer Worms",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://cleverhans.io/worm.html",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-27T10:05:52.837Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-27-002",
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-27T10:05:52.477Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-27-001",
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "anthropic",
+      "mythos-ai",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-27T10:05:52.476Z"
+  },
+  {
     "id": "rss-airbnb-engineering-2026-06-26-145",
     "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
     "source": "rss-airbnb-engineering",
