@@ -1,0 +1,224 @@
+# pipeline/rss_sources.yaml
+#
+# 知识库 RSS 数据源配置
+#
+# 字段说明：
+#   name     - 可读名称，用于日志展示
+#   url      - RSS / Atom 订阅地址
+#   category - 分类：general / research / industry / open-source / framework / news / chinese-tech / chinese
+#   enabled  - true 启用采集，false 跳过
+#   limit    - 该源每次最多采集条数；未设置时回退到全局 --limit
+
+sources:
+
+  # --- 综合技术 ---
+
+  - name:     "Hacker News (Best)"
+    url:      "https://hnrss.org/best?q=AI+OR+LLM+OR+agent"
+    category: "general"
+    enabled:  true
+    limit:    5           # 带关键词过滤，质量较高
+
+  - name:     "Lobsters (AI/ML)"
+    url:      "https://lobste.rs/t/ai,ml.rss"
+    category: "general"
+    enabled:  true
+    limit:    3
+
+  # --- AI 研究 ---
+
+  - name:     "arXiv cs.AI"
+    url:      "https://rss.arxiv.org/rss/cs.AI"
+    category: "research"
+    enabled:  true
+    limit:    3
+
+  - name:     "arXiv cs.CL"
+    url:      "https://rss.arxiv.org/rss/cs.CL"
+    category: "research"
+    enabled:  false       # 量太大，按需开启
+    limit:    3
+
+  - name:     "Reddit r/MachineLearning"
+    url:      "https://www.reddit.com/r/MachineLearning/hot.rss"
+    category: "research"
+    enabled:  true
+    limit:    3
+
+  # --- 公司博客 ---
+
+  - name:     "OpenAI Blog"
+    url:      "https://openai.com/blog/rss.xml"
+    category: "industry"
+    enabled:  true
+    limit:    3
+
+  - name:     "Anthropic Research"
+    url:      "https://www.anthropic.com/research/rss.xml"
+    category: "industry"
+    enabled:  false       # 404，Anthropic 暂无公开 RSS，待确认
+    limit:    3
+
+  - name:     "Google AI Blog"
+    url:      "https://blog.google/technology/ai/rss/"
+    category: "industry"
+    enabled:  true
+    limit:    3
+
+  # --- 开源社区 ---
+
+  - name:     "Hugging Face Blog"
+    url:      "https://huggingface.co/blog/feed.xml"
+    category: "open-source"
+    enabled:  true
+    limit:    5
+
+  - name:     "Reddit r/LocalLLaMA"
+    url:      "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    category: "open-source"
+    enabled:  true
+    limit:    3
+
+  # --- 框架 ---
+
+  - name:     "LangChain Blog"
+    url:      "https://blog.langchain.dev/rss/"
+    category: "framework"
+    enabled:  true
+    limit:    2
+
+  # --- 科技媒体 ---
+
+  - name:     "The Verge (AI)"
+    url:      "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "news"
+    enabled:  true
+    limit:    3
+
+  # --- 国内大厂技术博客 ---
+
+  - name:     "美团技术团队"
+    url:      "https://tech.meituan.com/feed/"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "字节跳动技术团队"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3253632141.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "大淘宝技术"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3014106999.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "阿里技术"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3885737868.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "阿里云开发者"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3239545440.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "阿里通义千问"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3911621034.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "蚂蚁技术 AntTech"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3247771423.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "魔搭 ModelScope"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3915395868.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "腾讯技术工程"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_2398602260.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "腾讯混元"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3908569425.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "腾讯研究院"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_2399148061.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "腾讯大讲堂"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_1105348241.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    1
+
+  - name:     "腾讯云中间件"
+    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3011465052.atom"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    1
+
+  # --- 国际大厂技术博客 ---
+
+  - name:     "Uber Engineering"
+    url:      "https://medium.com/feed/uber-engineering"
+    category: "industry"
+    enabled:  true
+    limit:    2
+
+  - name:     "Airbnb Engineering"
+    url:      "https://medium.com/feed/airbnb-engineering"
+    category: "industry"
+    enabled:  true
+    limit:    2
+
+  - name:     "Stripe Engineering"
+    url:      "https://stripe.com/blog/feed.rss"
+    category: "industry"
+    enabled:  true
+    limit:    2
+
+  - name:     "LinkedIn Engineering"
+    url:      "https://engineering.linkedin.com/blog.rss"
+    category: "industry"
+    enabled:  false       # 404，LinkedIn 已停用独立 RSS，待确认替代地址
+    limit:    2
+
+  # --- 中文社区 ---
+  # 机器之心：/rss 返回 302 → /data-service，RSS 不可用
+  # 量子位：/rss 和 /feed 均返回 403，RSS 不可用
+
+  - name:     "InfoQ AI 频道"
+    url:      "https://www.infoq.cn/feed"
+    category: "chinese"
+    enabled:  false       # URL 待验证
+    limit:    2
+
+  - name:     "机器之心"
+    url:      "https://www.jiqizhixin.com/rss"
+    category: "chinese"
+    enabled:  false       # RSS 不可用（302 → /data-service），暂无替代地址
+    limit:    2
+
+  - name:     "量子位"
+    url:      "https://www.qbitai.com/feed"
+    category: "chinese"
+    enabled:  false       # /rss 和 /feed 均返回 403，RSS 不可用
+    limit:    2

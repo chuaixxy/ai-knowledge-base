@@ -1,0 +1,23 @@
+{
+  "id": "rss-hacker-news-best-2026-06-29-005",
+  "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+  "source": "rss-hacker-news-best",
+  "source_id": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "author": "aurenvale",
+  "published_at": "2026-06-27T09:18:52.000Z",
+  "raw_description": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 784 # Comments: 352",
+  "collected_at": "2026-06-29T04:01:25.601Z",
+  "summary": "DeepSeek 提出 DSpark，一种投机性解码方法，通过小型草稿模型加速大型语言模型推理，显著提升生成速度。",
+  "tags": [
+    "llm",
+    "deepseek"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "来自 DeepSeek 的关键技术突破，直接解决 LLM 推理效率瓶颈，具有高实用价值。",
+  "analyzed_at": "2026-06-29T04:02:59.455Z",
+  "organized_at": "2026-06-29T04:03:29.456Z",
+  "status": "published"
+}

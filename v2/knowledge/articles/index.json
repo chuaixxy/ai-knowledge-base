@@ -1,5 +1,112 @@
 [
   {
+    "id": "rss-openai-blog-2026-06-29-012",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/hp-frontier-partnership",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "openai",
+      "hp",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:40.649Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-06-29-013",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "gpt-56-sol",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:40.649Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-29-009",
+    "title": "AI-Model Network: Concept, Current State and Future",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.27382",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:28.099Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-29-010",
+    "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.27443",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:28.099Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-06-29-011",
+    "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.27483",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm-agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:28.099Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-29-007",
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "apple-silicon",
+      "gpu"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:26.564Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-29-004",
+    "title": "Asian AI startups launch Mythos-like models",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:25.601Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-06-29-005",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm",
+      "deepseek"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-29T04:01:25.601Z"
+  },
+  {
     "id": "rss-airbnb-engineering-2026-06-26-145",
     "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
     "source": "rss-airbnb-engineering",
