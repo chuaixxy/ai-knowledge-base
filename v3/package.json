@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@langchain/langgraph": "^1.4.7",
+    "@langgraph-js/sdk": "^4.6.7"
+  }
+}
