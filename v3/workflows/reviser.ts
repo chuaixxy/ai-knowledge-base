@@ -5,7 +5,7 @@
  * 与 reviewer.ts 职责分离：Reviewer 评估质量，Reviser 执行修改，避免自评自改。
  */
 
-import { chatJson, accumulateUsage } from "./model-client.ts";
+import { chatJson, accumulateUsage, BudgetExceededError } from "./model-client.ts";
 import type { KBState } from "./state.ts";
 
 const REVISER_SYSTEM =
@@ -56,7 +56,7 @@ ${JSON.stringify(analyses, null, 2)}
 - 返回修改后的 JSON 数组`;
 
   try {
-    const { parsed, usage } = await chatJson(prompt, REVISER_SYSTEM, 0.4);
+    const { parsed, usage } = await chatJson(prompt, REVISER_SYSTEM, 0.4, "revise");
     tracker = accumulateUsage(tracker, usage);
 
     const improved = asRecordArray(parsed);
@@ -70,6 +70,7 @@ ${JSON.stringify(analyses, null, 2)}
     console.log("[ReviseNode] LLM 返回结果无法解析为数组，保留原 analyses");
     return { cost_tracker: tracker };
   } catch (err) {
+    if (err instanceof BudgetExceededError) throw err;
     const message = err instanceof Error ? err.message : String(err);
     console.log(`[ReviseNode] 修改失败: ${message}，保留原 analyses`);
     return { cost_tracker: tracker };

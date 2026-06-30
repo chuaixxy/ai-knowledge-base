@@ -2,7 +2,7 @@
  * 分析节点 — 用 LLM 对每条原始数据生成中文摘要、标签、评分
  */
 
-import { chatJson, accumulateUsage } from "./model-client.ts";
+import { chatJson, accumulateUsage, BudgetExceededError } from "./model-client.ts";
 import type { KBState } from "./state.ts";
 
 function isErrorItem(item: Record<string, unknown>): boolean {
@@ -27,10 +27,11 @@ export async function analyzeNode(
 返回格式: {"summary": "200字中文摘要", "tags": ["标签"], "relevance_score": 0.8, "category": "分类", "key_insight": "一句话洞察"}`;
 
     try {
-      const { parsed, usage } = await chatJson(prompt);
+      const { parsed, usage } = await chatJson(prompt, undefined, undefined, "analyze");
       tracker = accumulateUsage(tracker, usage);
       analyses.push({ ...item, ...parsed });
     } catch (err) {
+      if (err instanceof BudgetExceededError) throw err;
       const message = err instanceof Error ? err.message : String(err);
       console.log(`[AnalyzeNode] 分析失败: ${item.title} - ${message}`);
       analyses.push({

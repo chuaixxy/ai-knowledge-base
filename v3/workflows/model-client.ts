@@ -6,6 +6,23 @@ import {
   chat as pipelineChat,
   PROVIDER_PRICING_CNY,
 } from "../pipeline/model-client.ts";
+import {
+  CostGuard,
+  BudgetExceededError,
+} from "../tests/cost-guard.ts";
+
+export { BudgetExceededError };
+
+let costGuardInstance: CostGuard | null = null;
+
+export function getCostGuard(): CostGuard {
+  if (!costGuardInstance) {
+    const budgetYuan = parseFloat(process.env.BUDGET_YUAN ?? "1.0");
+    const alertThreshold = parseFloat(process.env.BUDGET_ALERT ?? "0.8");
+    costGuardInstance = new CostGuard(budgetYuan, alertThreshold);
+  }
+  return costGuardInstance;
+}
 
 /** 从 LLM 回复中提取 JSON 字符串（支持 markdown 代码块或裸 JSON）。 */
 function extractJson(text: string): string {
@@ -34,14 +51,25 @@ export async function chat(
   prompt: string,
   system?: string,
   temperature?: number,
+  nodeName = "unknown",
 ): Promise<{ content: string; usage: Record<string, number> }> {
-  return pipelineChat(
+  const result = await pipelineChat(
     prompt,
     system ?? "你是一个 AI 技术分析助手。",
     undefined,
     undefined,
     temperature,
   );
+
+  const guard = getCostGuard();
+  guard.record(nodeName, result.usage, process.env.LLM_MODEL ?? "unknown");
+
+  const checkResult = guard.check();
+  if (checkResult.status === "warning") {
+    console.warn(`[CostGuard] ${checkResult.message}`);
+  }
+
+  return result;
 }
 
 /**
@@ -51,8 +79,9 @@ export async function chatJson(
   prompt: string,
   system?: string,
   temperature?: number,
+  nodeName = "unknown",
 ): Promise<{ parsed: Record<string, unknown>; usage: Record<string, number> }> {
-  const { content, usage } = await chat(prompt, system, temperature);
+  const { content, usage } = await chat(prompt, system, temperature, nodeName);
   const parsed = JSON.parse(extractJson(content)) as Record<string, unknown>;
   return { parsed, usage };
 }

@@ -24,6 +24,9 @@ import { reviseNode } from "./reviser.ts";
 import { humanFlagNode } from "./human-flag.ts";
 import { saveNode } from "./nodes.ts";
 import { KBStateAnnotation, type KBState } from "./state.ts";
+import { getCostGuard, BudgetExceededError } from "./model-client.ts";
+
+export { BudgetExceededError };
 
 /** 审核循环最大次数。达到后路由到 human_flag，不再重试。 */
 export const MAX_ITERATIONS = 3;
@@ -88,6 +91,20 @@ function createInitialState(): KBState {
   };
 }
 
+/** 打印 CostGuard 成本报告并落盘 */
+export function printCostReport(reportPath = "knowledge/cost-report.json"): void {
+  const guard = getCostGuard();
+  const report = guard.getReport();
+
+  console.log(
+    `\n[CostGuard] 总调用 ${report.total_calls} 次 · 总成本 ¥${report.total_cost_yuan}`,
+  );
+  console.log(`[CostGuard] 按节点：${JSON.stringify(report.cost_by_node)}`);
+
+  const savedPath = guard.saveReport(reportPath);
+  console.log(`[CostGuard] 报告已保存: ${savedPath}`);
+}
+
 /** 流式执行工作流并打印每个节点的关键输出 */
 async function runCli(): Promise<void> {
   console.log("=".repeat(60));
@@ -95,42 +112,55 @@ async function runCli(): Promise<void> {
   console.log("=".repeat(60));
 
   const initialState = createInitialState();
-  const stream = await app.stream(initialState);
 
-  for await (const event of stream) {
-    const nodeName = Object.keys(event)[0];
-    if (!nodeName) continue;
+  try {
+    const stream = await app.stream(initialState);
 
-    const update = event[nodeName] as Partial<KBState>;
-    console.log(`\n--- [${nodeName}] 完成 ---`);
+    for await (const event of stream) {
+      const nodeName = Object.keys(event)[0];
+      if (!nodeName) continue;
 
-    if (update.plan && Object.keys(update.plan).length > 0) {
-      console.log(`  plan: ${update.plan.tier} (target=${update.plan.target_count})`);
+      const update = event[nodeName] as Partial<KBState>;
+      console.log(`\n--- [${nodeName}] 完成 ---`);
+
+      if (update.plan && Object.keys(update.plan).length > 0) {
+        console.log(`  plan: ${update.plan.tier} (target=${update.plan.target_count})`);
+      }
+      if (update.sources?.length !== undefined) {
+        console.log(`  sources: ${update.sources.length} 条`);
+      }
+      if (update.analyses?.length !== undefined) {
+        console.log(`  analyses: ${update.analyses.length} 条`);
+      }
+      if (update.articles?.length !== undefined) {
+        console.log(`  articles: ${update.articles.length} 条`);
+      }
+      if (update.review_passed !== undefined) {
+        console.log(`  review_passed: ${update.review_passed}`);
+      }
+      if (update.review_feedback) {
+        console.log(`  review_feedback: ${update.review_feedback.slice(0, 80)}`);
+      }
+      if (update.iteration !== undefined) {
+        console.log(`  iteration: ${update.iteration}`);
+      }
+      if (update.cost_tracker && Object.keys(update.cost_tracker).length > 0) {
+        const tracker = update.cost_tracker;
+        console.log(
+          `  tokens: ${tracker.total_tokens ?? 0}, calls: ${tracker.call_count ?? 0}`,
+        );
+      }
     }
-    if (update.sources?.length !== undefined) {
-      console.log(`  sources: ${update.sources.length} 条`);
+
+    console.log("\n=== 工作流完成 ===");
+  } catch (err) {
+    if (err instanceof BudgetExceededError) {
+      console.error(`\n[FATAL] 预算熔断触发：${err.message}`);
+    } else {
+      throw err;
     }
-    if (update.analyses?.length !== undefined) {
-      console.log(`  analyses: ${update.analyses.length} 条`);
-    }
-    if (update.articles?.length !== undefined) {
-      console.log(`  articles: ${update.articles.length} 条`);
-    }
-    if (update.review_passed !== undefined) {
-      console.log(`  review_passed: ${update.review_passed}`);
-    }
-    if (update.review_feedback) {
-      console.log(`  review_feedback: ${update.review_feedback.slice(0, 80)}`);
-    }
-    if (update.iteration !== undefined) {
-      console.log(`  iteration: ${update.iteration}`);
-    }
-    if (update.cost_tracker && Object.keys(update.cost_tracker).length > 0) {
-      const tracker = update.cost_tracker;
-      console.log(
-        `  tokens: ${tracker.total_tokens ?? 0}, calls: ${tracker.call_count ?? 0}`,
-      );
-    }
+  } finally {
+    printCostReport();
   }
 
   console.log("\n" + "=".repeat(60));
