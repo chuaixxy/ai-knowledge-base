@@ -24,6 +24,49 @@ import { reviseNode } from "./reviser.ts";
 import { humanFlagNode } from "./human-flag.ts";
 import { saveNode } from "./nodes.ts";
 import { KBStateAnnotation, type KBState } from "./state.ts";
+import { CostGuard, BudgetExceededError } from "../tests/cost-guard.ts";
+
+/** 工作流级别预算守卫（从环境变量读取配置，默认预算 1 元，预警阈值 80%） */
+export const guard = new CostGuard(
+  parseFloat(process.env["BUDGET_YUAN"] ?? "1.0"),
+  parseFloat(process.env["BUDGET_ALERT_THRESHOLD"] ?? "0.8"),
+);
+
+/**
+ * AOP Around Advice：在节点执行前 check()，执行后从 cost_tracker 差值 record()。
+ * 节点文件无需任何修改。
+ */
+function withCostGuard(
+  nodeName: string,
+  fn: (state: KBState) => Promise<Partial<KBState>>,
+): (state: KBState) => Promise<Partial<KBState>> {
+  return async (state: KBState) => {
+    const status = guard.check();
+    if (status.status === "warning") {
+      console.warn(`[CostGuard] ⚠ ${status.message}`);
+    }
+
+    const result = await fn(state);
+
+    // 从 cost_tracker 差值提取本节点实际消耗
+    const prev = state.cost_tracker;
+    const next = (result.cost_tracker ?? prev) as Record<string, unknown>;
+    const deltaPrompt = Number(next.prompt_tokens ?? 0) - Number(prev.prompt_tokens ?? 0);
+    const deltaCompletion = Number(next.completion_tokens ?? 0) - Number(prev.completion_tokens ?? 0);
+
+    if (deltaPrompt > 0 || deltaCompletion > 0) {
+      const rec = guard.record(nodeName, {
+        prompt_tokens: deltaPrompt,
+        completion_tokens: deltaCompletion,
+      });
+      console.log(
+        `[CostGuard] ${nodeName}: ¥${rec.cost_yuan.toFixed(6)}，累计 ¥${guard.totalCostYuan.toFixed(6)} / ¥${parseFloat(process.env["BUDGET_YUAN"] ?? "1.0").toFixed(2)}`,
+      );
+    }
+
+    return result;
+  };
+}
 
 /** 审核循环最大次数。达到后路由到 human_flag，不再重试。 */
 export const MAX_ITERATIONS = 3;
@@ -46,10 +89,10 @@ export function buildGraph(): StateGraph<typeof KBStateAnnotation> {
 
   graph.addNode("planner", plannerNode);
   graph.addNode("collect", collectNode);
-  graph.addNode("analyze", analyzeNode);
-  graph.addNode("review", reviewNode);
-  graph.addNode("organize", organizeNode);
-  graph.addNode("revise", reviseNode);
+  graph.addNode("analyze", withCostGuard("analyze", analyzeNode));
+  graph.addNode("review", withCostGuard("review", reviewNode));
+  graph.addNode("organize", withCostGuard("organize", organizeNode));
+  graph.addNode("revise", withCostGuard("revise", reviseNode));
   graph.addNode("human_flag", humanFlagNode);
   graph.addNode("save", saveNode);
 
@@ -92,49 +135,62 @@ function createInitialState(): KBState {
 async function runCli(): Promise<void> {
   console.log("=".repeat(60));
   console.log("AI 知识库 — LangGraph 工作流启动");
+  console.log(`[CostGuard] 预算 ¥${parseFloat(process.env["BUDGET_YUAN"] ?? "1.0").toFixed(2)}，预警阈值 ${parseFloat(process.env["BUDGET_ALERT_THRESHOLD"] ?? "0.8") * 100}%`);
   console.log("=".repeat(60));
 
   const initialState = createInitialState();
-  const stream = await app.stream(initialState);
 
-  for await (const event of stream) {
-    const nodeName = Object.keys(event)[0];
-    if (!nodeName) continue;
+  try {
+    const stream = await app.stream(initialState);
 
-    const update = event[nodeName] as Partial<KBState>;
-    console.log(`\n--- [${nodeName}] 完成 ---`);
+    for await (const event of stream) {
+      const nodeName = Object.keys(event)[0];
+      if (!nodeName) continue;
 
-    if (update.plan && Object.keys(update.plan).length > 0) {
-      console.log(`  plan: ${update.plan.tier} (target=${update.plan.target_count})`);
+      const update = event[nodeName] as Partial<KBState>;
+      console.log(`\n--- [${nodeName}] 完成 ---`);
+
+      if (update.plan && Object.keys(update.plan).length > 0) {
+        console.log(`  plan: ${update.plan.tier} (target=${update.plan.target_count})`);
+      }
+      if (update.sources?.length !== undefined) {
+        console.log(`  sources: ${update.sources.length} 条`);
+      }
+      if (update.analyses?.length !== undefined) {
+        console.log(`  analyses: ${update.analyses.length} 条`);
+      }
+      if (update.articles?.length !== undefined) {
+        console.log(`  articles: ${update.articles.length} 条`);
+      }
+      if (update.review_passed !== undefined) {
+        console.log(`  review_passed: ${update.review_passed}`);
+      }
+      if (update.review_feedback) {
+        console.log(`  review_feedback: ${update.review_feedback.slice(0, 80)}`);
+      }
+      if (update.iteration !== undefined) {
+        console.log(`  iteration: ${update.iteration}`);
+      }
+      if (update.cost_tracker && Object.keys(update.cost_tracker).length > 0) {
+        const tracker = update.cost_tracker;
+        console.log(
+          `  tokens: ${tracker.total_tokens ?? 0}, calls: ${tracker.call_count ?? 0}`,
+        );
+      }
     }
-    if (update.sources?.length !== undefined) {
-      console.log(`  sources: ${update.sources.length} 条`);
+
+    console.log("\n" + "=".repeat(60));
+    console.log("工作流执行完毕");
+    guard.saveReport("cost-report.json");
+  } catch (err) {
+    if (err instanceof BudgetExceededError) {
+      console.error(`\n[CostGuard] 预算超限，工作流中止`);
+      console.error(`  已花费 ¥${err.totalCost.toFixed(6)} / 预算 ¥${err.budget.toFixed(6)}`);
+      guard.saveReport("cost-report.json");
+      process.exit(0);
     }
-    if (update.analyses?.length !== undefined) {
-      console.log(`  analyses: ${update.analyses.length} 条`);
-    }
-    if (update.articles?.length !== undefined) {
-      console.log(`  articles: ${update.articles.length} 条`);
-    }
-    if (update.review_passed !== undefined) {
-      console.log(`  review_passed: ${update.review_passed}`);
-    }
-    if (update.review_feedback) {
-      console.log(`  review_feedback: ${update.review_feedback.slice(0, 80)}`);
-    }
-    if (update.iteration !== undefined) {
-      console.log(`  iteration: ${update.iteration}`);
-    }
-    if (update.cost_tracker && Object.keys(update.cost_tracker).length > 0) {
-      const tracker = update.cost_tracker;
-      console.log(
-        `  tokens: ${tracker.total_tokens ?? 0}, calls: ${tracker.call_count ?? 0}`,
-      );
-    }
+    throw err;
   }
-
-  console.log("\n" + "=".repeat(60));
-  console.log("工作流执行完毕");
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
