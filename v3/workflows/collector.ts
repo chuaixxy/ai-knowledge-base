@@ -4,8 +4,8 @@
 
 import type { KBState } from "./state.ts";
 
-const GITHUB_SEARCH_URL =
-  "https://api.github.com/search/repositories?q=topic:ai+topic:agent&sort=stars&per_page=10";
+const GITHUB_SEARCH_BASE =
+  "https://api.github.com/search/repositories?q=topic:ai+topic:agent&sort=stars";
 
 function nowUtcIso(): string {
   return new Date().toISOString();
@@ -14,7 +14,10 @@ function nowUtcIso(): string {
 export async function collectNode(
   state: KBState,
 ): Promise<Partial<KBState>> {
-  console.log("[CollectNode] 开始采集 GitHub 仓库");
+  const plan = state.plan ?? {};
+  const limit = Number(plan.per_source_limit ?? 10);
+
+  console.log(`[CollectNode] 开始采集 GitHub 仓库，plan 每源上限=${limit}`);
 
   const sources: Record<string, unknown>[] = [];
   const headers: Record<string, string> = {
@@ -26,8 +29,10 @@ export async function collectNode(
     headers.Authorization = `token ${token}`;
   }
 
+  const url = `${GITHUB_SEARCH_BASE}&per_page=${limit}`;
+
   try {
-    const resp = await fetch(GITHUB_SEARCH_URL, { headers });
+    const resp = await fetch(url, { headers });
     if (!resp.ok) {
       throw new Error(`GitHub API ${resp.status}: ${resp.statusText}`);
     }

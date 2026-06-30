@@ -27,7 +27,7 @@ export const REVIEWER_WEIGHTS: Record<string, number> = {
   formatting: 0.15,
 };
 
-export const REVIEWER_PASS_THRESHOLD = 9.0;
+export const REVIEWER_PASS_THRESHOLD = 7.0;
 
 const REVIEWER_SYSTEM =
   "你是严格但公正的知识库质量审核员。给出具体、可操作的反馈。";
@@ -46,6 +46,8 @@ export async function reviewNode(
   console.log("[ReviewNode] 开始质量审核");
 
   const { analyses, iteration, cost_tracker } = state;
+  const plan = state.plan ?? {};
+  const maxIterations = Number(plan.max_iterations ?? 3);
   let tracker = { ...cost_tracker };
 
   // 空样本：直接通过
@@ -112,7 +114,7 @@ ${JSON.stringify(sample, null, 2)}
         : rawFeedback;
 
     console.log(
-      `[ReviewNode] 加权总分: ${weightedTotal}/10, 通过: ${passed} (第 ${iteration + 1} 次审核)`,
+      `[ReviewNode] 加权总分: ${weightedTotal}/10, 通过: ${passed} (第 ${iteration + 1}/${maxIterations} 次审核)`,
     );
   } catch (err) {
     const message = err instanceof Error ? err.message : String(err);

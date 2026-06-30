@@ -47,8 +47,12 @@ export async function organizeNode(
   const iteration = state.iteration;
   let tracker = { ...state.cost_tracker };
 
+  const plan = state.plan ?? {};
+  const threshold = Number(plan.relevance_threshold ?? 0.5);
+  console.log(`[OrganizeNode] 相关性门槛=${threshold}`);
+
   const qualified = state.analyses.filter(
-    (a) => Number(a.relevance_score ?? 0) >= 0.6,
+    (a) => Number(a.relevance_score ?? 0) >= threshold,
   );
 
   const seen = new Set<string>();

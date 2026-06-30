@@ -4,17 +4,18 @@
  * LangGraph 工作流图定义 — 采集-分析-审核流水线（6 节点）
  *
  * 工作流拓扑:
- *   collect → analyze → review ──→ organize → save → END  （通过）
- *                           │
- *                           ├──→ revise ──→ review         （未通过 & iter < 3，循环修正）
- *                           │
- *                           └──→ human_flag → END          （未通过 & iter >= 3，人工兜底）
+ *   planner → collect → analyze → review ──→ organize → save → END  （通过）
+ *                                     │
+ *                                     ├──→ revise ──→ review         （未通过 & iter < 3，循环修正）
+ *                                     │
+ *                                     └──→ human_flag → END          （未通过 & iter >= 3，人工兜底）
  */
 
 import { fileURLToPath } from "node:url";
 
 import { StateGraph, START, END } from "@langchain/langgraph";
 
+import { plannerNode } from "./planner.ts";
 import { collectNode } from "./collector.ts";
 import { analyzeNode } from "./analyzer.ts";
 import { organizeNode } from "./organizer.ts";
@@ -43,6 +44,7 @@ export function routeAfterReview(state: KBState): string {
 export function buildGraph(): StateGraph<typeof KBStateAnnotation> {
   const graph = new StateGraph(KBStateAnnotation);
 
+  graph.addNode("planner", plannerNode);
   graph.addNode("collect", collectNode);
   graph.addNode("analyze", analyzeNode);
   graph.addNode("review", reviewNode);
@@ -51,7 +53,8 @@ export function buildGraph(): StateGraph<typeof KBStateAnnotation> {
   graph.addNode("human_flag", humanFlagNode);
   graph.addNode("save", saveNode);
 
-  graph.addEdge(START, "collect");
+  graph.addEdge(START, "planner");
+  graph.addEdge("planner", "collect");
   graph.addEdge("collect", "analyze");
   graph.addEdge("analyze", "review");
 
@@ -80,6 +83,7 @@ function createInitialState(): KBState {
     review_feedback: "",
     review_passed: false,
     iteration: 0,
+    plan: {},
     cost_tracker: {},
   };
 }
@@ -100,6 +104,9 @@ async function runCli(): Promise<void> {
     const update = event[nodeName] as Partial<KBState>;
     console.log(`\n--- [${nodeName}] 完成 ---`);
 
+    if (update.plan && Object.keys(update.plan).length > 0) {
+      console.log(`  plan: ${update.plan.tier} (target=${update.plan.target_count})`);
+    }
     if (update.sources?.length !== undefined) {
       console.log(`  sources: ${update.sources.length} 条`);
     }

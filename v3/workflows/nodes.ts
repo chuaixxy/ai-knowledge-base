@@ -2,6 +2,7 @@
  * 工作流节点统一出口
  *
  * 各节点已拆分为独立文件：
+ *   planner.ts    — plannerNode
  *   collector.ts  — collectNode
  *   analyzer.ts   — analyzeNode
  *   organizer.ts  — organizeNode
@@ -24,6 +25,7 @@ import { fileURLToPath } from "node:url";
 
 import type { KBState } from "./state.ts";
 
+export { plannerNode, planStrategy, type PlanStrategy } from "./planner.ts";
 export { collectNode } from "./collector.ts";
 export { analyzeNode } from "./analyzer.ts";
 export { organizeNode } from "./organizer.ts";

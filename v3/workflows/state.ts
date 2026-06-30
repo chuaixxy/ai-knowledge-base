@@ -68,6 +68,15 @@ export const KBStateAnnotation = Annotation.Root({
   }),
 
   /**
+   * Planner 生成的采集策略
+   * 格式：`{ tier, target_count, per_source_limit, relevance_threshold, max_iterations, rationale }`
+   */
+  plan: Annotation<Record<string, unknown>>({
+    reducer: (_, update) => update,
+    default: () => ({}),
+  }),
+
+  /**
    * Token 用量追踪（跨节点累加）
    * 格式：`{ prompt_tokens, completion_tokens, total_cost_yuan, call_count, ... }`
    */
