@@ -1,5 +1,96 @@
 [
   {
+    "id": "rss-meituan-2026-06-30-023",
+    "title": "ICML 2026 | 美团技术团队学术论文精选",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [
+      "icml"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T10:55:24.788Z"
+  },
+  {
+    "id": "rss-meituan-2026-06-30-024",
+    "title": "LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/06/29/LongCat-VitaBench-2.0.html",
+    "category": "dataset",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-06-30T10:55:24.788Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-06-30-021",
+    "title": "OpenAI is teasing new hardware… for Codex",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "openai",
+      "codex"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T10:55:20.993Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-06-30-022",
+    "title": "Lawmakers want to ban AI companies from selling your health data",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T10:55:20.993Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-06-30-015",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/discoformer",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [
+      "transformer"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T10:55:20.322Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-06-30-013",
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T10:55:20.166Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-06-30-004",
+    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://ieeexplore.ieee.org/document/11475847/",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "nist"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T10:55:19.222Z"
+  },
+  {
     "id": "rss-the-verge-ai-2026-06-29-022",
     "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
     "source": "rss-the-verge-ai",
