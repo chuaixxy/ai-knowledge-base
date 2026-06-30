@@ -27,7 +27,7 @@ export const REVIEWER_WEIGHTS: Record<string, number> = {
   formatting: 0.15,
 };
 
-export const REVIEWER_PASS_THRESHOLD = 7.0;
+export const REVIEWER_PASS_THRESHOLD = 9.0;
 
 const REVIEWER_SYSTEM =
   "你是严格但公正的知识库质量审核员。给出具体、可操作的反馈。";

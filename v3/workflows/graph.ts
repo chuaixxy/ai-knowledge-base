@@ -1,12 +1,14 @@
 #!/usr/bin/env tsx
 
 /**
- * LangGraph 工作流图定义 — 采集-分析-审核流水线
+ * LangGraph 工作流图定义 — 采集-分析-审核流水线（6 节点）
  *
  * 工作流拓扑:
- *   collect → analyze → organize → review ─→ save (通过)
- *                      ↑              │
- *                      └── organize (未通过，修正后重审)
+ *   collect → analyze → review ──→ organize → save → END  （通过）
+ *                           │
+ *                           ├──→ revise ──→ review         （未通过 & iter < 3，循环修正）
+ *                           │
+ *                           └──→ human_flag → END          （未通过 & iter >= 3，人工兜底）
  */
 
 import { fileURLToPath } from "node:url";
@@ -17,12 +19,24 @@ import { collectNode } from "./collector.ts";
 import { analyzeNode } from "./analyzer.ts";
 import { organizeNode } from "./organizer.ts";
 import { reviewNode } from "./reviewer.ts";
+import { reviseNode } from "./reviser.ts";
+import { humanFlagNode } from "./human-flag.ts";
 import { saveNode } from "./nodes.ts";
 import { KBStateAnnotation, type KBState } from "./state.ts";
 
-/** 审核通过 → save，未通过 → organize 修正 */
-export function shouldContinue(state: KBState): string {
-  return state.review_passed ? "save" : "organize";
+/** 审核循环最大次数。达到后路由到 human_flag，不再重试。 */
+export const MAX_ITERATIONS = 3;
+
+/**
+ * 审核后三路路由：
+ *   review_passed === true              → "organize"   （通过，整理入库）
+ *   review_passed === false, iter < 3  → "revise"     （未通过，定向修改后重审）
+ *   review_passed === false, iter >= 3 → "human_flag" （超限，人工介入）
+ */
+export function routeAfterReview(state: KBState): string {
+  if (state.review_passed) return "organize";
+  if (state.iteration >= MAX_ITERATIONS) return "human_flag";
+  return "revise";
 }
 
 /** 构建知识库 V3 工作流图（未编译） */
@@ -31,21 +45,26 @@ export function buildGraph(): StateGraph<typeof KBStateAnnotation> {
 
   graph.addNode("collect", collectNode);
   graph.addNode("analyze", analyzeNode);
-  graph.addNode("organize", organizeNode);
   graph.addNode("review", reviewNode);
+  graph.addNode("organize", organizeNode);
+  graph.addNode("revise", reviseNode);
+  graph.addNode("human_flag", humanFlagNode);
   graph.addNode("save", saveNode);
 
   graph.addEdge(START, "collect");
   graph.addEdge("collect", "analyze");
-  graph.addEdge("analyze", "organize");
-  graph.addEdge("organize", "review");
+  graph.addEdge("analyze", "review");
 
-  graph.addConditionalEdges("review", shouldContinue, {
-    save: "save",
+  graph.addConditionalEdges("review", routeAfterReview, {
     organize: "organize",
+    revise: "revise",
+    human_flag: "human_flag",
   });
 
+  graph.addEdge("revise", "review");
+  graph.addEdge("organize", "save");
   graph.addEdge("save", END);
+  graph.addEdge("human_flag", END);
 
   return graph;
 }

@@ -6,6 +6,8 @@
  *   analyzer.ts   — analyzeNode
  *   organizer.ts  — organizeNode
  *   reviewer.ts   — reviewNode
+ *   reviser.ts    — reviseNode
+ *   human-flag.ts  — humanFlagNode
  *
  * 本文件保留 saveNode、reviewNodeTest，并重新导出所有节点，
  * 供外部代码通过单一入口引用。
@@ -26,6 +28,8 @@ export { collectNode } from "./collector.ts";
 export { analyzeNode } from "./analyzer.ts";
 export { organizeNode } from "./organizer.ts";
 export { reviewNode, REVIEWER_WEIGHTS, REVIEWER_PASS_THRESHOLD } from "./reviewer.ts";
+export { reviseNode } from "./reviser.ts";
+export { humanFlagNode } from "./human-flag.ts";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
