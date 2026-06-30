@@ -13,13 +13,11 @@ import { fileURLToPath } from "node:url";
 
 import { StateGraph, START, END } from "@langchain/langgraph";
 
-import {
-  collectNode,
-  analyzeNode,
-  organizeNode,
-  reviewNode,
-  saveNode,
-} from "./nodes.ts";
+import { collectNode } from "./collector.ts";
+import { analyzeNode } from "./analyzer.ts";
+import { organizeNode } from "./organizer.ts";
+import { reviewNode } from "./reviewer.ts";
+import { saveNode } from "./nodes.ts";
 import { KBStateAnnotation, type KBState } from "./state.ts";
 
 /** 审核通过 → save，未通过 → organize 修正 */

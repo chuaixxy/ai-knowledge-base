@@ -33,10 +33,14 @@ function extractJson(text: string): string {
 export async function chat(
   prompt: string,
   system?: string,
+  temperature?: number,
 ): Promise<{ content: string; usage: Record<string, number> }> {
   return pipelineChat(
     prompt,
     system ?? "你是一个 AI 技术分析助手。",
+    undefined,
+    undefined,
+    temperature,
   );
 }
 
@@ -46,8 +50,9 @@ export async function chat(
 export async function chatJson(
   prompt: string,
   system?: string,
+  temperature?: number,
 ): Promise<{ parsed: Record<string, unknown>; usage: Record<string, number> }> {
-  const { content, usage } = await chat(prompt, system);
+  const { content, usage } = await chat(prompt, system, temperature);
   const parsed = JSON.parse(extractJson(content)) as Record<string, unknown>;
   return { parsed, usage };
 }
