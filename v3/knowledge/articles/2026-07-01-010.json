@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-01-010",
+  "title": "reworkd/AgentGPT",
+  "source": "github",
+  "url": "https://github.com/reworkd/AgentGPT",
+  "summary": "AgentGPT 是一个基于浏览器的自主AI代理配置与部署平台，允许用户无需后端服务器即可组装、配置并运行具有记忆与任务执行能力的AI代理。其核心特征包括模块化代理组装、实时流式输出、多工具链集成（如网页搜索、代码执行），采用React前端与Node.js后端架构，降低了AI代理的使用门槛。",
+  "tags": [
+    "AI代理",
+    "自动化",
+    "浏览器端",
+    "开源",
+    "GPT",
+    "任务编排"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用框架",
+  "key_insight": "将复杂AI代理能力封装为可视化配置工具，实现零代码自主代理部署。"
+}
