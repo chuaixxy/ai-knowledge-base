@@ -1,0 +1,22 @@
+{
+  "id": "rss-openai-blog-2026-07-01-009",
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "source_url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "author": "openai-blog",
+  "published_at": "2026-06-30T00:00:00.000Z",
+  "raw_description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+  "collected_at": "2026-07-01T11:22:04.107Z",
+  "summary": "OpenAI工程师通过大规模核心转储分析，定位并修复了一个持续18年的基础设施bug，涉及硬件故障和软件缺陷。",
+  "tags": [
+    "bug"
+  ],
+  "category": "research",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "展示了AI基础设施调试的深度实践，技术价值高，但非模型或框架突破。",
+  "analyzed_at": "2026-07-01T11:22:45.004Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

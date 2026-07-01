@@ -1,0 +1,25 @@
+{
+  "id": "rss-the-verge-ai-2026-07-01-018",
+  "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+  "author": "Hayden Field",
+  "published_at": "2026-07-01T00:03:55.000Z",
+  "raw_description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft [&#8230;]",
+  "collected_at": "2026-07-01T11:22:04.913Z",
+  "summary": "Anthropic与特朗普政府谈判后，获准恢复Claude Fable 5服务，将逐步在全球Claude平台及AWS、Google Cloud、Microsoft等云服务上重新上线。",
+  "tags": [
+    "anthropic",
+    "claude",
+    "fable-5",
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.5,
+  "audience": "通用",
+  "analysis_note": "内容为模型恢复上线的商业新闻，技术深度低，但涉及重要AI公司动态，相关性中等。",
+  "analyzed_at": "2026-07-01T11:23:06.559Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

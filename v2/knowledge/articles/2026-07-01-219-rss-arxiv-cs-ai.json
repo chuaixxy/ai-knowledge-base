@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-01-006",
+  "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.30846",
+  "source_url": "https://arxiv.org/abs/2606.30846",
+  "author": "Jhon G. Botello, Jose J. Padilla, Erika Frydenlund, Krzysztof Rechowicz, Eric Weisel",
+  "published_at": "2026-07-01T04:00:00.000Z",
+  "raw_description": "arXiv:2606.30846v1 Announce Type: new Abstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence (AI), particularly retrieval-based approaches, offer a promising pathway to operate at this semantic layer. In this paper, we present an experimental study investigating the impact of data representation, transformer-based embedding models, and retrieval strategies on the discovery of simulation models using natural language queries. We evaluated performance across multiple query types using standard information retrieval metrics, including recall@5 and nDCG@5. Results show that data representation matters, open-source embedding models can achieve high performance, and reranking methods are important, especially as query complexity increases. This work provides a baseline for AI-driven model",
+  "collected_at": "2026-07-01T11:22:03.223Z",
+  "summary": "该论文实验研究了数据格式、嵌入模型和检索策略对AI驱动仿真模型发现的影响，为基于自然语言查询的模型检索提供了基线。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "聚焦AI在仿真模型检索中的应用，实验设计系统，但领域较窄，创新性一般。",
+  "analyzed_at": "2026-07-01T11:22:37.823Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

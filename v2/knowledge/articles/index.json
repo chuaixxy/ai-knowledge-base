@@ -1,5 +1,165 @@
 [
   {
+    "id": "rss-meituan-2026-07-01-021",
+    "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "agentic-coding"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:09.771Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-07-01-018",
+    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "anthropic",
+      "claude",
+      "fable-5",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:04.913Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-07-01-019",
+    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "notebooklm",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:04.913Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-01-013",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "category": "dataset",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai-agent",
+      "java"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:04.424Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-01-014",
+    "title": "Why Specialization Is Inevitable",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:04.424Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-01-015",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/eee-community-evals",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "hugging-face"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:04.424Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-01-008",
+    "title": "Introducing GeneBench-Pro",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/introducing-genebench-pro",
+    "category": "dataset",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:04.107Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-01-009",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "bug"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:04.107Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-01-005",
+    "title": "Contrastive Reflection for Iterative Prompt Optimization",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.30840",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm-agent",
+      "prompt-optimization",
+      "information-retrieval"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:03.223Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-01-006",
+    "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.30846",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:03.223Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-01-004",
+    "title": "What Drives Interactive Improvement from Feedback?",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2606.30774",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:03.222Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-07-01-001",
+    "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "digikam",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-01T11:22:02.972Z"
+  },
+  {
     "id": "rss-meituan-2026-06-30-023",
     "title": "ICML 2026 | 美团技术团队学术论文精选",
     "source": "rss-meituan",

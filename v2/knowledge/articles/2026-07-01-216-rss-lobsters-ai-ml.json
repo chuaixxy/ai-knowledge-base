@@ -1,0 +1,23 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-07-01-001",
+  "title": "Teaching digiKam to Understand You: Natural Language Search with Local LLMs",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+  "source_url": "http://srirupa19.github.io/gsoc/2026/06/28/gsoc1.html",
+  "author": "srirupa19.github.io via FedericoSchonborn",
+  "published_at": "2026-07-01T10:22:01.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/d6tl13/teaching_digikam_understand_you_natural\">Comments</a></p>",
+  "collected_at": "2026-07-01T11:22:02.972Z",
+  "summary": "该项目介绍如何在digiKam中集成本地LLM，实现自然语言搜索功能，提升用户体验。",
+  "tags": [
+    "digikam",
+    "llm"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "将LLM应用于图像管理工具，实用性强，但技术深度一般，属于应用层创新。",
+  "analyzed_at": "2026-07-01T11:22:25.546Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

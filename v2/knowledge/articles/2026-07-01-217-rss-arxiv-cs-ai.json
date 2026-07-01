@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-01-004",
+  "title": "What Drives Interactive Improvement from Feedback?",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.30774",
+  "source_url": "https://arxiv.org/abs/2606.30774",
+  "author": "Bart{\\l}omiej Cupia{\\l}, Jan {\\L}ojek, Miko{\\l}aj Garstecki, Szymon Pob{\\l}ocki, Alicja Ziarko, Piotr Mi{\\l}o\\'s",
+  "published_at": "2026-07-01T04:00:00.000Z",
+  "raw_description": "arXiv:2606.30774v1 Announce Type: new Abstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise from resampling, format correction, or additional test-time computation. To separate these effects, we introduce a controlled student-teacher protocol across Omni-MATH, Codeforces, BBEH Linguini, and ARC-AGI1, evaluating thirteen open-weight models in both student and teacher roles. We compare external feedback, self-feedback, and unguided self-refinement, while varying interaction history, task difficulty, and teacher access to privileged task information. Across settings, we find that multi-turn improvement is often not evidence of feedback use: self-generated feedback adds little beyond unguided self-refinement, whereas the strongest external teachers produce substantially larger feedback-specific gains, sugge",
+  "collected_at": "2026-07-01T11:22:03.222Z",
+  "summary": "该论文通过受控学生-教师协议，在多轮语言智能体设置中分离反馈带来的改进与重复尝试、格式修正等效应，发现自我反馈增益有限，而强外部教师能带来显著提升。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "实验设计严谨，揭示了反馈在LLM多轮交互中的真实作用，对理解自我改进机制有重要价值。",
+  "analyzed_at": "2026-07-01T11:22:32.688Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-the-verge-ai-2026-07-01-019",
+  "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+  "source_url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+  "author": "Emma Roth",
+  "published_at": "2026-06-30T19:24:51.000Z",
+  "raw_description": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
+  "collected_at": "2026-07-01T11:22:04.913Z",
+  "summary": "Google NotebookLM新增TikTok风格AI视频功能，可将用户上传的笔记自动生成为60秒竖屏视频摘要，面向AI Ultra和Pro订阅用户。",
+  "tags": [
+    "notebooklm",
+    "ai"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "AI应用创新，提升笔记消费体验，但技术深度一般，偏向产品功能更新。",
+  "analyzed_at": "2026-07-01T11:23:09.247Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

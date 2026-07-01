@@ -1,0 +1,22 @@
+{
+  "id": "rss-hugging-face-blog-2026-07-01-015",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/eee-community-evals",
+  "source_url": "https://huggingface.co/blog/eee-community-evals",
+  "author": "hugging-face-blog",
+  "published_at": "2026-06-30T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-07-01T11:22:04.424Z",
+  "summary": "Hugging Face模型页面新增社区评估结果展示功能，汇集各类评估基准数据，提升模型透明度与可比性。",
+  "tags": [
+    "hugging-face"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "实用工具，增强模型选择效率，但技术深度一般，偏向平台功能更新。",
+  "analyzed_at": "2026-07-01T11:22:58.966Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

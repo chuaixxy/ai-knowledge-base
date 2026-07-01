@@ -1,0 +1,22 @@
+{
+  "id": "rss-meituan-2026-07-01-021",
+  "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
+  "source_url": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "作为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型（总参数 1.6 T，平均激活约 48 B，动态范围 33B~56B），LongCat-2.0 从零开始预训练，原生支持 1M 超长上下文，其架构设计自始至终围绕一个核心目标：让模型在真实的 Agentic Coding 任务中，更高效、更稳定地完成代码理解、生成与执行。",
+  "collected_at": "2026-07-01T11:22:09.771Z",
+  "summary": "美团发布LongCat-2.0万亿参数模型，在五万卡国产算力集群上完成全流程训练与推理，原生支持1M超长上下文，聚焦Agentic Coding任务。",
+  "tags": [
+    "agentic-coding"
+  ],
+  "category": "research",
+  "score": 0.85,
+  "audience": "工程师",
+  "analysis_note": "国产算力集群训练万亿模型是重大技术突破，聚焦Agentic Coding场景，实用价值高。",
+  "analyzed_at": "2026-07-01T11:23:14.242Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}

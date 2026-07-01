@@ -1,0 +1,24 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-01-005",
+  "title": "Contrastive Reflection for Iterative Prompt Optimization",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2606.30840",
+  "source_url": "https://arxiv.org/abs/2606.30840",
+  "author": "Derek Koh, Jinghui Mo, Benjamin H. Le, Jiening Zhan, Baofen Zheng, Kevin Bevis, Nathaniel C. Owen, Lauren Elizabeth Charney, Wenqiong Liu, Jingwei Wu",
+  "published_at": "2026-07-01T04:00:00.000Z",
+  "raw_description": "arXiv:2606.30840v1 Announce Type: new Abstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied IR settings it often looks less like blind search and more like debugging. Engineers need to know which behavior failed, which nearby behavior still worked, what distinguishes the two, and whether a prompt edit improves held-out quality without introducing regressions. We present Contrastive Reflection, an iterative prompt-optimization framework for agentic IR workflows. The framework starts from a task-centric quality definition: QA agents expose retrieval or reasoning traces, and grading agents expose dimension-level scores and rationales. These structured traces are used to identify error-anchored behavioral slices, add nearby successful examples from the same region, and ask a Teacher LLM",
+  "collected_at": "2026-07-01T11:22:03.223Z",
+  "summary": "提出对比反思框架，通过识别错误行为、对比成功案例，迭代优化LLM代理提示，提升信息检索工作流质量。",
+  "tags": [
+    "llm-agent",
+    "prompt-optimization",
+    "information-retrieval"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "针对IR场景的提示优化方法，结构清晰，但缺乏实验验证，创新性中等。",
+  "analyzed_at": "2026-07-01T11:22:35.176Z",
+  "organized_at": "2026-07-01T11:23:25.894Z",
+  "status": "published"
+}
