@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-30-012",
+  "title": "AstrBotDevs/AstrBot",
+  "source": "github",
+  "url": "https://github.com/AstrBotDevs/AstrBot",
+  "summary": "AstrBot 是一个集成了多种即时通讯平台（如 Discord、Telegram 等）、大型语言模型（LLMs）、插件和 AI 功能的 AI 智能体助手与开发框架。它旨在作为开源替代方案，提供灵活的 AI 功能扩展。项目支持用户通过插件自定义行为，结合 LLM 实现对话、任务自动化等场景，并强调跨平台兼容性和易用性。",
+  "tags": [
+    "AI Agent",
+    "开发框架",
+    "即时通讯集成",
+    "LLM",
+    "插件系统",
+    "开源替代"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发框架/工具",
+  "key_insight": "AstrBot 通过整合多平台与 LLM，提供了一个高度可扩展的 AI 智能体框架，旨在成为封闭式 AI 助手的开源替代方案。"
+}

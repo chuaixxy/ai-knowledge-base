@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-30-006",
+  "title": "headroomlabs-ai/headroom",
+  "source": "github",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "summary": "Headroom是一个开源工具，通过压缩LLM输入（如工具输出、日志、文件和RAG块），在保持回答质量不变的前提下，将令牌数量减少60-95%。它提供库、代理和MCP服务器三种使用方式，旨在降低大语言模型调用的成本和延迟，适用于需要高效处理大量上下文的应用场景。",
+  "tags": [
+    "LLM",
+    "令牌压缩",
+    "成本优化",
+    "RAG",
+    "开源工具",
+    "MCP服务器"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与工具",
+  "key_insight": "通过高效压缩输入令牌，Headroom在不牺牲准确性的情况下大幅降低LLM使用成本，解决了大模型应用中的关键痛点。"
+}

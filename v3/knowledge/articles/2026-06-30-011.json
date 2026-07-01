@@ -1,0 +1,20 @@
+{
+  "id": "2026-06-30-011",
+  "title": "CopilotKit/CopilotKit",
+  "source": "github",
+  "url": "https://github.com/CopilotKit/CopilotKit",
+  "summary": "CopilotKit 是一个面向智能体（Agent）与生成式UI的前端技术栈，支持React、Angular、移动端、Slack等多种平台。其核心创新在于提出了AG-UI协议，为构建具备AI交互能力的用户界面提供了标准化解决方案，使得开发者能够更便捷地集成和部署AI驱动的交互组件。该项目旨在降低AI应用在多种前端场景下的开发门槛，通过统一的协议和组件库实现跨平台的一致性体验。",
+  "tags": [
+    "前端框架",
+    "生成式UI",
+    "AI智能体",
+    "跨平台",
+    "React",
+    "Angular",
+    "移动端",
+    "AG-UI协议"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具/框架",
+  "key_insight": "CopilotKit 通过统一的AG-UI协议，将智能体交互能力标准化到前端，解决了多平台AI界面开发的碎片化问题。"
+}

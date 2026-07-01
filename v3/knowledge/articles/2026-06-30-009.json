@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-30-009",
+  "title": "pingcap/tidb",
+  "source": "github",
+  "url": "https://github.com/pingcap/tidb",
+  "summary": "TiDB 是一个开源的分布式 SQL 数据库，专为不可预测增长的代理工作负载而设计。它提供 ACID 事务保证，原生支持事务、分析和向量搜索，旨在消除数据孤岛、避免资源争用（无噪声邻居），并突破基础设施天花板，实现灵活扩展与高性能。",
+  "tags": [
+    "分布式数据库",
+    "HTAP",
+    "向量搜索",
+    "开源",
+    "ACID"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据库与数据基础设施",
+  "key_insight": "TiDB 通过融合事务、分析和向量搜索能力，打造无孤岛、可弹性扩展的 AI 原生数据平台。"
+}

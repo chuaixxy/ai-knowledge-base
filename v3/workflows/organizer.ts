@@ -2,7 +2,8 @@
  * 整理节点 — 过滤低分、URL 去重、按审核反馈修正
  */
 
-import { chatJson, accumulateUsage } from "./model-client.ts";
+import { filterOutput } from "../tests/security.ts";
+import { chatJson, accumulateUsage, BudgetExceededError } from "./model-client.ts";
 import type { KBState } from "./state.ts";
 
 const ARTICLE_FIELDS = [
@@ -73,13 +74,14 @@ export async function organizeNode(
 返回改进后的 JSON 数组，或 {"articles": [...]} 格式。`;
 
     try {
-      const { parsed, usage } = await chatJson(prompt);
+      const { parsed, usage } = await chatJson(prompt, undefined, undefined, "organize");
       tracker = accumulateUsage(tracker, usage);
       const improved = asRecordArray(parsed);
       if (improved) {
         unique = improved;
       }
-    } catch {
+    } catch (err) {
+      if (err instanceof BudgetExceededError) throw err;
       // 修正失败时保留当前条目
     }
   }
@@ -94,6 +96,28 @@ export async function organizeNode(
     }
     return entry;
   });
+
+  let totalPii = 0;
+  for (const article of articles) {
+    for (const field of ["summary", "content", "title", "key_insight"] as const) {
+      const value = article[field];
+      if (typeof value !== "string") continue;
+
+      const [filtered, detections] = filterOutput(value);
+      article[field] = filtered;
+      totalPii += detections.length;
+
+      if (detections.length > 0) {
+        console.log(
+          `[Security] ${String(article.id ?? "?")} ${field} 掩码 PII：${detections.join(", ")}`,
+        );
+      }
+    }
+  }
+
+  if (totalPii > 0) {
+    console.log(`[Security] organize 阶段共掩码 ${totalPii} 处 PII`);
+  }
 
   console.log(
     `[OrganizeNode] 整理出 ${articles.length} 条知识条目 (迭代 ${iteration})`,

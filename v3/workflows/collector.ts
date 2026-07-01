@@ -2,6 +2,7 @@
  * 采集节点 — 调用 GitHub Search API 获取 AI 相关仓库
  */
 
+import { sanitizeInput } from "../tests/security.ts";
 import type { KBState } from "./state.ts";
 
 const GITHUB_SEARCH_BASE =
@@ -66,6 +67,28 @@ export async function collectNode(
       title: "[ERROR]",
       description: message,
     });
+  }
+
+  let totalWarnings = 0;
+  for (const source of sources) {
+    for (const field of ["title", "description"] as const) {
+      const value = source[field];
+      if (typeof value !== "string") continue;
+
+      const [cleaned, warnings] = sanitizeInput(value);
+      source[field] = cleaned;
+      totalWarnings += warnings.length;
+
+      if (warnings.length > 0) {
+        console.log(
+          `[Security] ${String(source.url ?? "?")} ${field} 检出注入模式：${warnings.join(", ")}`,
+        );
+      }
+    }
+  }
+
+  if (totalWarnings > 0) {
+    console.log(`[Security] collect 阶段共拦截 ${totalWarnings} 处可疑输入`);
   }
 
   console.log(`[CollectNode] 采集到 ${sources.length} 条原始数据`);

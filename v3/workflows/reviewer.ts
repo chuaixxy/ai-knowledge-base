@@ -12,7 +12,7 @@
  * 加权总分 >= 7.0 通过；LLM 调用失败时自动通过，不阻塞流程。
  */
 
-import { chatJson, accumulateUsage } from "./model-client.ts";
+import { chatJson, accumulateUsage, BudgetExceededError } from "./model-client.ts";
 import type { KBState } from "./state.ts";
 
 // ---------------------------------------------------------------------------
@@ -89,7 +89,7 @@ ${JSON.stringify(sample, null, 2)}
   let feedback = "";
 
   try {
-    const { parsed, usage } = await chatJson(prompt, REVIEWER_SYSTEM, 0.1);
+    const { parsed, usage } = await chatJson(prompt, REVIEWER_SYSTEM, 0.1, "review");
     tracker = accumulateUsage(tracker, usage);
 
     // 代码重算加权总分，不使用 LLM 返回的 passed / overall_score
@@ -117,6 +117,7 @@ ${JSON.stringify(sample, null, 2)}
       `[ReviewNode] 加权总分: ${weightedTotal}/10, 通过: ${passed} (第 ${iteration + 1}/${maxIterations} 次审核)`,
     );
   } catch (err) {
+    if (err instanceof BudgetExceededError) throw err;
     const message = err instanceof Error ? err.message : String(err);
     passed = true;
     feedback = `审核 LLM 调用失败: ${message}，自动通过`;

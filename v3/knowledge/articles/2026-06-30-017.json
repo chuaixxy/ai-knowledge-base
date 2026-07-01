@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-30-017",
+  "title": "e2b-dev/awesome-ai-agents",
+  "source": "github",
+  "url": "https://github.com/e2b-dev/awesome-ai-agents",
+  "summary": "e2b-dev/awesome-ai-agents 是一个精心整理的 AI 自主智能体（AI autonomous agents）资源列表，汇集了当前最前沿的 AI 代理项目、框架、工具和相关研究。该列表涵盖了从通用任务代理到特定领域应用（如编程、数据分析、网页自动化等）的多种智能体，旨在为开发者、研究者和爱好者提供一站式参考。项目维护者持续更新，收录了如 AutoGPT、BabyAGI、AgentGPT 等代表性项目，并附有简要说明和链接，便于用户快速了解和选用。",
+  "tags": [
+    "AI Agent",
+    "自主智能体",
+    "资源列表",
+    "开源项目",
+    "自动化",
+    "大模型应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "资源聚合与导航",
+  "key_insight": "该列表系统梳理了 AI 自主智能体生态，是追踪该领域快速发展的核心入口。"
+}

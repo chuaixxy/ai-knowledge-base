@@ -1,0 +1,23 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-06-30-004",
+  "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://ieeexplore.ieee.org/document/11475847/",
+  "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+  "author": "ieeexplore.ieee.org via soulcutter",
+  "published_at": "2026-06-29T20:56:52.000Z",
+  "raw_description": "<p><a href=\"https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update\" rel=\"ugc\">NIST article</a> covers this paper well</p> <p><a href=\"https://lobste.rs/s/7exvix/robust_ai_security_alignment_sisyphean\">Comments</a></p>",
+  "collected_at": "2026-06-30T10:55:19.222Z",
+  "summary": "NIST文章介绍了一篇关于AI安全与对齐的论文，探讨其是否如西西弗斯任务般艰巨，强调持续监控与更新的必要性。",
+  "tags": [
+    "ai",
+    "nist"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "主题相关但非技术突破，NIST背书增加可信度，适合安全对齐领域研究者。",
+  "analyzed_at": "2026-06-30T10:55:48.701Z",
+  "organized_at": "2026-06-30T10:56:46.173Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-meituan-2026-06-30-023",
+  "title": "ICML 2026 | 美团技术团队学术论文精选",
+  "source": "rss-meituan",
+  "source_id": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
+  "source_url": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
+  "author": "meituan",
+  "published_at": null,
+  "raw_description": "ICML是机器学习领域最具影响力的国际顶级学术会议之一。大会旨在探讨机器学习未来发展所面临的关键挑战与核心问题，并通过征集和评估具有重要理论价值和实际影响的前沿研究成果，推动领域发展并引领未来研究方向。",
+  "collected_at": "2026-06-30T10:55:24.788Z",
+  "summary": "美团技术团队在ICML 2026上发表的多篇学术论文精选，涵盖机器学习前沿研究，具有重要理论价值和实际影响。",
+  "tags": [
+    "icml"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "顶级会议论文合集，但缺乏具体论文细节，相关性中等，适合研究者参考。",
+  "analyzed_at": "2026-06-30T10:56:33.927Z",
+  "organized_at": "2026-06-30T10:56:46.173Z",
+  "status": "published"
+}
