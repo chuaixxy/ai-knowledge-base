@@ -1,5 +1,121 @@
 [
   {
+    "id": "rss-hugging-face-blog-2026-07-02-013",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "hugging-face",
+      "cerebras",
+      "gemma-4",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:59.150Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-07-02-010",
+    "title": "The latest AI news we announced in June 2026",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "google-ai",
+      "ai",
+      "20266"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:59.102Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-02-007",
+    "title": "How ChatGPT adoption has expanded",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "chatgpt"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:58.789Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-02-008",
+    "title": "Inside Genebench-Pro",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/genebench-pro/case-studies",
+    "category": "dataset",
+    "relevance_score": 0.75,
+    "tags": [
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:58.789Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-02-004",
+    "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.00001",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:58.270Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-02-005",
+    "title": "Bounded Morality: Defining the Space of Moral Computation",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.00002",
+    "category": "paper",
+    "relevance_score": 0.55,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:58.270Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-02-006",
+    "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.00032",
+    "category": "paper",
+    "relevance_score": 0.55,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:58.270Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-07-02-001",
+    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://yfu.tw/blog/en/autofz-revisited/",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:58.124Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-07-02-002",
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-02T10:35:58.124Z"
+  },
+  {
     "id": "rss-meituan-2026-07-01-021",
     "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
     "source": "rss-meituan",

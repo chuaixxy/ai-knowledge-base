@@ -1,0 +1,20 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-07-02-002",
+  "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+  "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+  "author": "ayushtambde.com via Yogthos",
+  "published_at": "2026-07-01T13:04:01.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/k9qw5n/matrix_orthogonalization_improves\">Comments</a></p>",
+  "collected_at": "2026-07-02T10:35:58.124Z",
+  "summary": "该文章探讨了矩阵正交化如何提升循环模型中的记忆能力，提出了一种改进循环神经网络性能的方法。",
+  "tags": [],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "针对循环模型记忆问题的技术改进，有一定理论价值，但非LLM核心突破。",
+  "analyzed_at": "2026-07-02T10:36:19.952Z",
+  "organized_at": "2026-07-02T10:37:11.235Z",
+  "status": "published"
+}

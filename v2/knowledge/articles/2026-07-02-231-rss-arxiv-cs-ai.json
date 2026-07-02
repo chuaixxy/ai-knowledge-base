@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-02-005",
+  "title": "Bounded Morality: Defining the Space of Moral Computation",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.00002",
+  "source_url": "https://arxiv.org/abs/2607.00002",
+  "author": "Max Kanwal, Caryn Tran, Patrick Mineault",
+  "published_at": "2026-07-02T04:00:00.000Z",
+  "raw_description": "arXiv:2607.00002v1 Announce Type: new Abstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethics--implemented as static rules or value functions. We propose Bounded Morality, a formal framework for analyzing the computational demands of moral problems faced by finite agents. Extending Herbert Simon's notion of bounded rationality, we formalize moral situations along two orthogonal dimensions: moral breadth, the scope of entities treated as morally relevant, and moral depth, the inferential integration required to evaluate their interactions. Limited resources impose an unavoidable tradeoff between these dimensions, defining a feasible space of moral computation. Within this space, ethical theories correspond to locally efficient strategies adapted to different demand regimes rather than competing accounts of moral truth. The framework yields a formal notion of moral regret and moral progress under constra",
+  "collected_at": "2026-07-02T10:35:58.270Z",
+  "summary": "提出有界道德框架，将道德认知建模为有限智能体在资源约束下的计算问题，扩展西蒙的有界理性，定义道德广度和深度两个维度，分析伦理理论作为局部最优策略。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.55,
+  "audience": "研究员",
+  "analysis_note": "理论创新性强，但属于哲学与AI交叉领域，与主流LLM/Agent技术直接相关性较低。",
+  "analyzed_at": "2026-07-02T10:36:26.782Z",
+  "organized_at": "2026-07-02T10:37:11.235Z",
+  "status": "published"
+}

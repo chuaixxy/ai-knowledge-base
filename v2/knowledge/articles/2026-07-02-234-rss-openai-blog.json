@@ -1,0 +1,22 @@
+{
+  "id": "rss-openai-blog-2026-07-02-008",
+  "title": "Inside Genebench-Pro",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/genebench-pro/case-studies",
+  "source_url": "https://openai.com/index/genebench-pro/case-studies",
+  "author": "openai-blog",
+  "published_at": "2026-06-30T00:00:00.000Z",
+  "raw_description": "",
+  "collected_at": "2026-07-02T10:35:58.789Z",
+  "summary": "Genebench-Pro是OpenAI推出的一个基准测试平台，用于评估AI模型在基因相关任务上的表现，推动生物医学AI研究。",
+  "tags": [
+    "openai"
+  ],
+  "category": "dataset",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "OpenAI官方基准，聚焦基因领域，对生物医学AI研究有重要价值，但技术细节未明。",
+  "analyzed_at": "2026-07-02T10:36:33.287Z",
+  "organized_at": "2026-07-02T10:37:11.235Z",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-02-006",
+  "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.00032",
+  "source_url": "https://arxiv.org/abs/2607.00032",
+  "author": "Mathilde Noual",
+  "published_at": "2026-07-02T04:00:00.000Z",
+  "raw_description": "arXiv:2607.00032v1 Announce Type: new Abstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. While effective for large-scale dissemination, the document-centric organisation constrains how knowledge can be structured, updated, shared, and reused. Formal approaches address some of these limitations but struggle to achieve widespread contribution and adoption due to their prioritisation of formal structure over other system properties such as human usability and scope. AI systems are reshaping document production, but without providing a unified portable alternative to traditional documents for humans' expression and exchange of knowledge. This paper presents MMM, a data model for knowledge documentation that emerged from the practical needs of interdisciplinary collaborative research, and positioned here within a comparative analysis of the design space of information systems. MMM combines a small set of nor",
+  "collected_at": "2026-07-02T10:35:58.270Z",
+  "summary": "本文提出MMM数据模型，旨在解决文档中心知识系统的局限性，通过结合形式化结构与人类可用性，支持去中心化知识共享与互操作。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.55,
+  "audience": "研究员",
+  "analysis_note": "与AI/LLM领域间接相关，侧重知识工程而非模型技术，创新性一般。",
+  "analyzed_at": "2026-07-02T10:36:29.044Z",
+  "organized_at": "2026-07-02T10:37:11.235Z",
+  "status": "published"
+}
