@@ -1,0 +1,20 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-07-03-009",
+  "title": "Books/Resources to improve mathematical foundations for ML research [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ulmy9g/booksresources_to_improve_mathematical/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ulmy9g/booksresources_to_improve_mathematical/",
+  "author": "/u/mvreich https://www.reddit.com/user/mvreich",
+  "published_at": "2026-07-02T16:24:23.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>I am a mid to late stage PhD student in ML. I've known this before, but only recently I started feeling this urgently: my mathematical foundations are shaky, because I kept \"learning-things-as-I-go\" when working on various problems. I likely have only a year or two left until I graduate, and before I do so, I want to really dedicate some time and focus to brush up on the fundamentals.</p> <p>Primarily, I want to improve my knowledge in Linear Algebra, Probability Theory, and Functional Analysis.</p> <p>For Lin. alg., I am looking at \"Linear Algebra done right\", and I think this book is sufficient for the topic, unless anyone thinks otherwise.</p> <p>I am not sure where to start for probability, as well as functional analysis. Rudin's books give me headaches. I instead started reading \"A primer on RKHS\" (<a href=\"https://arxiv.org/abs/1408.0952\">https://arxiv.org/abs/1408.0952</a>) to \"dip my toe\" into functional analysis.</p> <p>Apart from the above, I",
+  "collected_at": "2026-07-03T10:33:18.286Z",
+  "summary": "一位ML博士生寻求提升数学基础（线性代数、概率论、泛函分析）的书籍推荐，核心价值在于为ML研究者提供系统化学习路径。",
+  "tags": [],
+  "category": "other",
+  "score": 0.55,
+  "audience": "研究员",
+  "analysis_note": "内容为个人学习求助，非技术突破或工具，相关性中等，但反映了ML研究者的常见需求。",
+  "analyzed_at": "2026-07-03T10:34:02.248Z",
+  "organized_at": "2026-07-03T10:34:53.423Z",
+  "status": "published"
+}

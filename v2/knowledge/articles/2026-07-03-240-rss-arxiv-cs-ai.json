@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-03-006",
+  "title": "The Wiola Architecture for Efficient Small Language Models",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.01394",
+  "source_url": "https://arxiv.org/abs/2607.01394",
+  "author": "Aryuemaan Kumar Chowdhury, Afreen Shaik, Yaparla Bhargavi, Brahma Kumar",
+  "published_at": "2026-07-03T04:00:00.000Z",
+  "raw_description": "arXiv:2607.01394v1 Announce Type: new Abstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural lineage with any existing model family including GPT, LLaMA, Mistral, or Falcon. Wiola introduces five independently novel components: (i) Spiral Rotary Positional Encoding (SRPE), which embeds token positions on a three-dimensional helical manifold combining absolute, relative, and hierarchical positional signals; (ii) Gated Cross-Layer Attention (GCLA), providing each decoder layer with soft cross-attention access to compressed summaries of two preceding layers for inter-layer coherence; (iii) Adaptive Token Merging (ATM), which dynamically merges se mantically redundant adjacent tokens in middle network layers to reduce attention complexity without information loss; (iv) Dual Stream Feed-Forward (DSFF), replacing the conventional MLP with two parallel streams fused by a learned per-dimension gate; and (v) WiolaR",
+  "collected_at": "2026-07-03T10:33:17.003Z",
+  "summary": "提出Wiola小型语言模型架构，包含五种原创组件：螺旋旋转位置编码、门控跨层注意力、自适应令牌合并、双流前馈网络和WiolaR，旨在提升效率。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "架构设计新颖，组件原创性强，但缺乏实验验证和性能对比，实用性待评估。",
+  "analyzed_at": "2026-07-03T10:33:54.444Z",
+  "organized_at": "2026-07-03T10:34:53.423Z",
+  "status": "published"
+}

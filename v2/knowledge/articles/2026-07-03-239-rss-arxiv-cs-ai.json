@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-03-005",
+  "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.01366",
+  "source_url": "https://arxiv.org/abs/2607.01366",
+  "author": "Holger R. Roth, Ziyue Xu, Chester Chen, Daguang Xu, Peter Cnudde, Andrew Feng",
+  "published_at": "2026-07-03T04:00:00.000Z",
+  "raw_description": "arXiv:2607.01366v1 Announce Type: new Abstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local training schedules, normalization, regularization, and model architecture. These choices are expensive to explore manually and difficult to compare fairly when candidate changes can also alter the FL training or evaluation path. In this work, we present Auto-FL-Research (AFR), a constrained coding-agent workflow for FL algorithmic recipe search. Agents may propose and implement candidate training algorithms, including server aggregation rules, client update schedules, local objectives, and registered model variants, while task profiles fix the mutation surface, compute budget, communication contract, and final model evaluation. Each campaign records candidate scores, runtime, edited files, artifacts, and failure status. We evaluate AFR on five healthcare cross-silo FLamby tasks and on grou",
+  "collected_at": "2026-07-03T10:33:17.003Z",
+  "summary": "提出Auto-FL-Research (AFR)，一个用于联邦学习算法搜索的约束编码智能体工作流，可自动提出并实现候选训练算法，在医疗跨孤岛FL任务上评估。",
+  "tags": [],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "将Agentic Search应用于FL算法搜索，创新性强，但仅限医疗场景评估，通用性待验证。",
+  "analyzed_at": "2026-07-03T10:33:51.785Z",
+  "organized_at": "2026-07-03T10:34:53.423Z",
+  "status": "published"
+}

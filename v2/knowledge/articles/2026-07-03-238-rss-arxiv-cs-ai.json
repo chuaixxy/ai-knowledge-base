@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-03-004",
+  "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.01306",
+  "source_url": "https://arxiv.org/abs/2607.01306",
+  "author": "Pavel Iakovets, Liyanapathiranage Sudeepika Wajirakumari Samarathunga, Martin Thomas Horsch, Fadi Al Machot",
+  "published_at": "2026-07-03T04:00:00.000Z",
+  "raw_description": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining data-driven predictive models with symbolic reasoning capable of representing human-understandable rules and feasible actions. This paper presents PACE, a modular neuro-symbolic framework for generating feasibility-aware counterfactual explanations. The framework separates prediction and reasoning into two components: a neural predictive model for classification and a symbolic reasoning layer that enforces domain-specific constraints during counterfactual generation. By explicitly modeling feasible",
+  "collected_at": "2026-07-03T10:33:17.003Z",
+  "summary": "PACE是一个神经符号框架，用于生成可行且合理的反事实解释，通过分离预测与推理，结合神经网络和符号推理，确保解释符合领域约束。",
+  "tags": [
+    "ai"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "结合神经符号方法解决反事实解释的可行性问题，创新性强，但尚未展示大规模实验验证。",
+  "analyzed_at": "2026-07-03T10:33:49.120Z",
+  "organized_at": "2026-07-03T10:34:53.423Z",
+  "status": "published"
+}

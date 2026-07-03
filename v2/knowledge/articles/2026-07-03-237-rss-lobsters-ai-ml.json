@@ -1,0 +1,22 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-07-03-001",
+  "title": "Investigating idiosyncrasies in AI fiction",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://arxiv.org/abs/2604.03136",
+  "source_url": "https://arxiv.org/abs/2604.03136",
+  "author": "arxiv.org via kehn",
+  "published_at": "2026-07-02T12:02:29.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\">Comments</a></p>",
+  "collected_at": "2026-07-03T10:33:16.748Z",
+  "summary": "该论文探讨AI生成小说中的独特风格和异常现象，分析其与人类写作的差异，揭示AI文本的固有特征。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "聚焦AI文本风格分析，有学术价值，但应用场景有限，评分中等偏上。",
+  "analyzed_at": "2026-07-03T10:33:41.018Z",
+  "organized_at": "2026-07-03T10:34:53.423Z",
+  "status": "published"
+}

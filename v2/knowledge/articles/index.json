@@ -1,5 +1,77 @@
 [
   {
+    "id": "rss-the-verge-ai-2026-07-03-021",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "category": "other",
+    "relevance_score": 0.5,
+    "tags": [
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-03T10:33:20.128Z"
+  },
+  {
+    "id": "rss-reddit-r-machinelearning-2026-07-03-009",
+    "title": "Books/Resources to improve mathematical foundations for ML research [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ulmy9g/booksresources_to_improve_mathematical/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-03T10:33:18.286Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-03-004",
+    "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.01306",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-03T10:33:17.003Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-03-005",
+    "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.01366",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-03T10:33:17.003Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-03-006",
+    "title": "The Wiola Architecture for Efficient Small Language Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.01394",
+    "category": "paper",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-03T10:33:17.003Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-07-03-001",
+    "title": "Investigating idiosyncrasies in AI fiction",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/abs/2604.03136",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-03T10:33:16.748Z"
+  },
+  {
     "id": "rss-hugging-face-blog-2026-07-02-013",
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "source": "rss-hugging-face-blog",
