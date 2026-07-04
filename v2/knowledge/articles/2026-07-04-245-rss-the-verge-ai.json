@@ -1,0 +1,24 @@
+{
+  "id": "rss-the-verge-ai-2026-07-04-020",
+  "title": "Anthropic wants to develop its own drugs",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+  "author": "Robert Hart",
+  "published_at": "2026-07-03T13:56:52.000Z",
+  "raw_description": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
+  "collected_at": "2026-07-04T10:07:30.792Z",
+  "summary": "Anthropic发布Claude Science，一个面向科学家的AI工作台，整合分散工具和数据集，支持生成图表和可视化，旨在加速药物研发。",
+  "tags": [
+    "anthropic",
+    "claude-science",
+    "ai"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "聚焦AI在科学领域的垂直应用，有明确场景价值，但技术细节披露有限，创新性一般。",
+  "analyzed_at": "2026-07-04T10:08:38.793Z",
+  "organized_at": "2026-07-04T10:08:58.883Z",
+  "status": "published"
+}

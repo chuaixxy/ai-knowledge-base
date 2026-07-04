@@ -1,0 +1,20 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-07-04-008",
+  "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+  "author": "/u/adseipsum https://www.reddit.com/user/adseipsum",
+  "published_at": "2026-07-04T08:24:42.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Instead of <code>node --edge--> node</code>, every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursively and you get \"MetaBary\" triads that surface structural bridges between concepts that live nowhere near each other in embedding space. Running locally on MongoDB Community + mongot + nomic-embed-text over the full English Wiktionary (6.6M docs). MCP server is live if you want to poke at it. Preprint + benchmark CSVs: <a href=\"https://zenodo.org/records/20186500\">https://zenodo.org/records/20186500</a></p> <p><strong>The problem I was chasing</strong></p> <p>Flat vector search treats a relationship as a byproduct of two points being close. That throws away information. Two papers can describe the same underlying phenomenon (a flyby anomaly in orbital mechanics, an anomalous residual in stellar dynamics) without ever citing each other and without their embeddings landing anywhere near each ot",
+  "collected_at": "2026-07-04T10:07:29.258Z",
+  "summary": "BaryGraph提出将知识图谱中的关系作为一等文档（BaryEdge）嵌入向量，而非传统边，通过递归堆叠形成MetaBary三元组，发现嵌入空间中相距甚远的概念间的结构桥梁。",
+  "tags": [],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "创新性地将关系作为独立文档嵌入，解决传统向量搜索信息丢失问题，但尚处早期研究阶段，实用性待验证。",
+  "analyzed_at": "2026-07-04T10:08:08.749Z",
+  "organized_at": "2026-07-04T10:08:58.883Z",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rss-hacker-news-best-2026-07-04-001",
+  "title": "Protect your right to run local AI",
+  "source": "rss-hacker-news-best",
+  "source_id": "https://righttointelligence.org/",
+  "source_url": "https://righttointelligence.org/",
+  "author": "thoughtpeddler",
+  "published_at": "2026-07-02T23:54:03.000Z",
+  "raw_description": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 516 # Comments: 182",
+  "collected_at": "2026-07-04T10:07:28.189Z",
+  "summary": "该项目倡导保护本地运行AI的权利，强调用户对AI模型的自主控制，反对云端依赖和监管限制，核心价值在于推动AI民主化和隐私保护。",
+  "tags": [
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "与AI/LLM领域相关，但更偏向政策倡导而非技术突破，评分中等偏上。",
+  "analyzed_at": "2026-07-04T10:07:50.287Z",
+  "organized_at": "2026-07-04T10:08:58.883Z",
+  "status": "published"
+}

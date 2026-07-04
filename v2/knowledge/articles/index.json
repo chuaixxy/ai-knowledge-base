@@ -1,5 +1,44 @@
 [
   {
+    "id": "rss-the-verge-ai-2026-07-04-020",
+    "title": "Anthropic wants to develop its own drugs",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "anthropic",
+      "claude-science",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-04T10:07:30.792Z"
+  },
+  {
+    "id": "rss-reddit-r-machinelearning-2026-07-04-008",
+    "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-04T10:07:29.258Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-07-04-001",
+    "title": "Protect your right to run local AI",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://righttointelligence.org/",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-04T10:07:28.189Z"
+  },
+  {
     "id": "rss-the-verge-ai-2026-07-03-021",
     "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
     "source": "rss-the-verge-ai",
