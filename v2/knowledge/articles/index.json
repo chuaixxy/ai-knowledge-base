@@ -1,5 +1,32 @@
 [
   {
+    "id": "rss-hugging-face-blog-2026-07-06-010",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/lerobot-release-v060",
+    "category": "framework",
+    "relevance_score": 0.65,
+    "tags": [
+      "lerobot"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-06T12:03:10.757Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-06-011",
+    "title": "🤗 Kernels: Major Updates",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/revamped-kernels",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "hugging-face",
+      "kernels"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-06T12:03:10.757Z"
+  },
+  {
     "id": "rss-the-verge-ai-2026-07-04-020",
     "title": "Anthropic wants to develop its own drugs",
     "source": "rss-the-verge-ai",
