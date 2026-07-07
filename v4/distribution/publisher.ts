@@ -11,6 +11,10 @@
  * | FEISHU_WEBHOOK_SECRET | 否 | 签名校验密钥（机器人在飞书侧开启「签名校验」时填写） |
  * | FEISHU_KEYWORD | 否 | 自定义关键词（机器人开启「自定义关键词」时，会写入卡片 title） |
  *
+ * ## 文件导出
+ *
+ * 默认将 Markdown 日报写入 `output/digest-YYYY-MM-DD.md`（{@link publishFile}）。
+ *
  * ## 飞书官方限制
  *
  * - 频率：5 次/秒、100 次/分钟（本模块卡片间隔 250ms，限流时 via withRetry 指数退避）
@@ -21,6 +25,9 @@
  * @see ./retry.ts
  * @see https://open.feishu.cn/document/client-docs/bot-v3/add-custom-bot
  */
+
+import { mkdir, writeFile } from "node:fs/promises";
+import { join } from "node:path";
 
 import { generateDailyDigest } from "./formatter.js";
 import {
@@ -59,6 +66,15 @@ export interface FeishuPublisherOptions {
   /** 自定义关键词，默认读 FEISHU_KEYWORD */
   keyword?: string;
 }
+
+/** 文件导出可选配置。 */
+export interface FilePublisherOptions {
+  /** 输出目录，默认 `output` */
+  outputDir?: string;
+}
+
+/** 默认 Markdown 日报输出目录。 */
+export const DEFAULT_OUTPUT_DIR = "output";
 
 type FeishuResponseData = {
   code?: number;
@@ -128,6 +144,54 @@ function feishuResult(
     return { channel, success: false, error: data.msg ?? `HTTP ${httpStatus}` };
   }
   return { channel, success: true };
+}
+
+// ── publishFile / FilePublisher ───────────────────────────────────────────────
+
+/**
+ * 将内容写入本地文件（自动创建 output 目录）。
+ *
+ * @param content - 文件正文。
+ * @param filename - 文件名，如 `digest-2026-07-01.md`。
+ * @param outputDir - 输出目录，默认 {@link DEFAULT_OUTPUT_DIR}。
+ * @returns 成功时 `messageId` 为写入的相对路径。
+ */
+export async function publishFile(
+  content: string,
+  filename: string,
+  outputDir = DEFAULT_OUTPUT_DIR
+): Promise<PublishResult> {
+  try {
+    await mkdir(outputDir, { recursive: true });
+    const filePath = join(outputDir, filename);
+    await writeFile(filePath, content, "utf-8");
+    return { channel: "file", success: true, messageId: filePath };
+  } catch (err) {
+    return { channel: "file", success: false, error: String(err) };
+  }
+}
+
+/**
+ * 将 Markdown 日报导出到 `output/digest-YYYY-MM-DD.md`。
+ */
+export class FilePublisher extends BasePublisher {
+  readonly channel = "file";
+  private readonly outputDir: string;
+
+  constructor(opts: FilePublisherOptions = {}) {
+    super();
+    this.outputDir = opts.outputDir ?? DEFAULT_OUTPUT_DIR;
+  }
+
+  async sendMessage(text: string): Promise<PublishResult> {
+    const filename = `message-${Date.now()}.md`;
+    return publishFile(text, filename, this.outputDir);
+  }
+
+  async sendDigest(digest: DailyDigest): Promise<PublishResult[]> {
+    const filename = `digest-${digest.date}.md`;
+    return [await publishFile(digest.markdown, filename, this.outputDir)];
+  }
 }
 
 // ── FeishuPublisher ───────────────────────────────────────────────────────────
@@ -229,6 +293,7 @@ export interface PublishOptions extends DigestOptions {
  * 统一入口：生成当日日报并发布到所有渠道。
  *
  * 按环境变量自动检测的渠道：
+ * - 始终启用 {@link FilePublisher} → `output/digest-YYYY-MM-DD.md`
  * - `FEISHU_WEBHOOK_URL` → {@link FeishuPublisher}
  *
  * 各渠道并发执行；渠道内卡片顺序发送。
@@ -246,9 +311,7 @@ export async function publishDailyDigest(
   const active: BasePublisher[] = publishers ?? detectPublishers();
 
   if (active.length === 0) {
-    console.warn(
-      "[publisher] 未配置推送渠道 — 请设置 FEISHU_WEBHOOK_URL"
-    );
+    console.warn("[publisher] 未配置任何发布渠道");
     return [];
   }
 
@@ -256,9 +319,9 @@ export async function publishDailyDigest(
   return batches.flat();
 }
 
-/** 为每个已设置的环境变量构建对应发布器实例。 */
+/** 构建默认发布器：文件导出 + 已配置的远程渠道。 */
 function detectPublishers(): BasePublisher[] {
-  const list: BasePublisher[] = [];
+  const list: BasePublisher[] = [new FilePublisher()];
   if (process.env.FEISHU_WEBHOOK_URL) list.push(new FeishuPublisher());
   return list;
 }
