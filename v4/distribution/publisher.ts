@@ -13,11 +13,12 @@
  *
  * ## 飞书官方限制
  *
- * - 频率：5 次/秒、100 次/分钟（本模块卡片间隔 250ms，限流时指数退避重试）
+ * - 频率：5 次/秒、100 次/分钟（本模块卡片间隔 250ms，限流时 via withRetry 指数退避）
  * - 请求体：≤ 20 KB（发送前自动截断过长 summary）
  * - IP 白名单：在飞书机器人设置中配置，代码无需改动
  *
  * @see ./feishu-webhook.ts
+ * @see ./retry.ts
  * @see https://open.feishu.cn/document/client-docs/bot-v3/add-custom-bot
  */
 
@@ -28,6 +29,7 @@ import {
   isFeishuRateLimited,
   prepareFeishuPayload,
 } from "./feishu-webhook.js";
+import { sleep, withRetry } from "./retry.js";
 
 // ── 共享类型 ──────────────────────────────────────────────────────────────────
 
@@ -92,10 +94,11 @@ export abstract class BasePublisher {
 
 // ── 辅助函数 ──────────────────────────────────────────────────────────────────
 
-/** 等待指定毫秒（用于 Webhook 限流间隔 / 退避重试）。 */
-function sleep(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
+type FeishuPostAttempt = {
+  result: PublishResult;
+  httpStatus: number;
+  data: FeishuResponseData;
+};
 
 /** 通过 AbortController 发起 JSON POST，硬超时 30 秒。 */
 async function postJson(url: string, body: unknown): Promise<Response> {
@@ -150,36 +153,38 @@ export class FeishuPublisher extends BasePublisher {
     this.keyword = opts.keyword ?? process.env.FEISHU_KEYWORD;
   }
 
-  /** 发送单条载荷，限流时指数退避重试。 */
-  private async postFeishu(payload: Record<string, unknown>): Promise<PublishResult> {
-    for (let attempt = 0; attempt <= FEISHU_MAX_RETRIES; attempt++) {
-      try {
-        const body = prepareFeishuPayload(payload, {
-          keyword: this.keyword,
-          secret: this.secret,
-        });
-        const res = await postJson(this.webhookUrl, body);
-        const data = (await res.json()) as FeishuResponseData;
-        const result = feishuResult(this.channel, res.status, data);
+  /** 执行一次 Webhook POST（每次重试重新签名）。 */
+  private async postFeishuOnce(
+    payload: Record<string, unknown>
+  ): Promise<FeishuPostAttempt> {
+    const body = prepareFeishuPayload(payload, {
+      keyword: this.keyword,
+      secret: this.secret,
+    });
+    const res = await postJson(this.webhookUrl, body);
+    const data = (await res.json()) as FeishuResponseData;
+    return {
+      result: feishuResult(this.channel, res.status, data),
+      httpStatus: res.status,
+      data,
+    };
+  }
 
-        if (
-          !result.success &&
-          isFeishuRateLimited(res.status, data) &&
-          attempt < FEISHU_MAX_RETRIES
-        ) {
-          await sleep(1000 * 2 ** attempt);
-          continue;
-        }
-        return result;
-      } catch (err) {
-        if (attempt < FEISHU_MAX_RETRIES) {
-          await sleep(1000 * 2 ** attempt);
-          continue;
-        }
-        return { channel: this.channel, success: false, error: String(err) };
-      }
+  /** 发送单条载荷，限流或网络错误时 via {@link withRetry} 指数退避重试。 */
+  private async postFeishu(payload: Record<string, unknown>): Promise<PublishResult> {
+    try {
+      const attempt = await withRetry(() => this.postFeishuOnce(payload), {
+        maxAttempts: FEISHU_MAX_RETRIES,
+        baseDelayMs: 1000,
+        shouldRetry: (a, n) =>
+          !a.result.success &&
+          isFeishuRateLimited(a.httpStatus, a.data) &&
+          n < FEISHU_MAX_RETRIES,
+      });
+      return attempt.result;
+    } catch (err) {
+      return { channel: this.channel, success: false, error: String(err) };
     }
-    return { channel: this.channel, success: false, error: "重试次数已用尽" };
   }
 
   /**
