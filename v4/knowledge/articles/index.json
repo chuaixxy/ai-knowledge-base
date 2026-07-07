@@ -330,5 +330,174 @@
     ],
     "status": "published",
     "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-07-07-001",
+    "title": "Snailclimb/JavaGuide",
+    "source": "github",
+    "category": "学习资源/面试准备",
+    "relevance_score": 0.9,
+    "tags": [
+      "Java",
+      "面试指南",
+      "后端开发",
+      "数据库",
+      "分布式系统",
+      "高并发",
+      "系统设计",
+      "AI应用开发",
+      "计算机基础"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-002",
+    "title": "langgenius/dify",
+    "source": "github",
+    "category": "AI开发平台",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI工作流",
+      "智能体平台",
+      "LLM应用开发",
+      "RAG",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-003",
+    "title": "lobehub/lobehub",
+    "source": "github",
+    "category": "AI平台与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "自动化运营",
+      "团队管理",
+      "AI调度"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-004",
+    "title": "bytedance/deer-flow",
+    "source": "github",
+    "category": "AI Agent框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "智能体",
+      "开源框架",
+      "自动化",
+      "长周期任务",
+      "字节跳动",
+      "自主工作流"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-005",
+    "title": "hiyouga/LlamaFactory",
+    "source": "github",
+    "category": "大模型微调工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "大语言模型",
+      "微调框架",
+      "高效训练",
+      "ACL 2024",
+      "多模态"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-006",
+    "title": "koala73/worldmonitor",
+    "source": "github",
+    "category": "信息监控与数据分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI",
+      "实时监控",
+      "全球情报",
+      "新闻聚合",
+      "地缘政治",
+      "基础设施",
+      "仪表盘"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-007",
+    "title": "Leonxlnx/taste-skill",
+    "source": "github",
+    "category": "AI应用开发",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI生成",
+      "内容质量",
+      "品味优化",
+      "开源",
+      "创意工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-008",
+    "title": "headroomlabs-ai/headroom",
+    "source": "github",
+    "category": "LLM基础设施/效率工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "Token压缩",
+      "数据预处理",
+      "RAG优化",
+      "成本控制",
+      "代理工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-009",
+    "title": "jeecgboot/JeecgBoot",
+    "source": "github",
+    "category": "开发工具与平台",
+    "relevance_score": 0.9,
+    "tags": [
+      "低代码",
+      "零代码",
+      "AI开发",
+      "Java",
+      "代码生成",
+      "流程编排"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-07-010",
+    "title": "pingcap/tidb",
+    "source": "github",
+    "category": "数据库",
+    "relevance_score": 0.9,
+    "tags": [
+      "分布式数据库",
+      "HTAP",
+      "向量搜索",
+      "ACID",
+      "云原生",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T17:14:51.506Z"
   }
 ]
