@@ -1,15 +1,26 @@
 /**
  * 采集节点 — 调用 GitHub Search API 获取 AI 相关仓库
+ *
+ * 搜索策略与 v4-production/workflows/collector.py 对齐：
+ * 只采最近 7 天 push 过、star > 100 的 AI/Agent/LLM 仓库。
  */
 
 import { sanitizeInput } from "../tests/security.ts";
 import type { KBState } from "./state.ts";
 
-const GITHUB_SEARCH_BASE =
-  "https://api.github.com/search/repositories?q=topic:ai+topic:agent&sort=stars";
-
 function nowUtcIso(): string {
   return new Date().toISOString();
+}
+
+function oneWeekAgoUtc(): string {
+  const date = new Date();
+  date.setUTCDate(date.getUTCDate() - 7);
+  return date.toISOString().slice(0, 10);
+}
+
+function buildGitHubSearchUrl(limit: number): string {
+  const query = `ai agent llm stars:>100 pushed:>${oneWeekAgoUtc()}`;
+  return `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&per_page=${limit}`;
 }
 
 export async function collectNode(
@@ -30,7 +41,8 @@ export async function collectNode(
     headers.Authorization = `token ${token}`;
   }
 
-  const url = `${GITHUB_SEARCH_BASE}&per_page=${limit}`;
+  const url = buildGitHubSearchUrl(limit);
+  console.log(`[CollectNode] GitHub 搜索: ai agent llm stars:>100 pushed:>${oneWeekAgoUtc()}`);
 
   try {
     const resp = await fetch(url, { headers });
@@ -53,9 +65,11 @@ export async function collectNode(
         sources.push({
           source: "github",
           title: repo.full_name as string,
+          source_id: repo.full_name as string,
           url: repo.html_url as string,
           description: (repo.description as string | null) ?? "",
           stars: (repo.stargazers_count as number) ?? 0,
+          language: (repo.language as string | null) ?? "",
           collected_at: nowUtcIso(),
         });
       }

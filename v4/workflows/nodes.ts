@@ -23,6 +23,7 @@ import {
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
+import { deriveSourceId } from "./source-id.ts";
 import type { KBState } from "./state.ts";
 
 export { plannerNode, planStrategy, type PlanStrategy } from "./planner.ts";
@@ -89,6 +90,7 @@ export async function saveNode(
       id,
       title: article.title ?? "",
       source: article.source ?? "",
+      source_id: deriveSourceId(article),
       category: article.category ?? "",
       relevance_score: article.relevance_score ?? 0,
       tags: article.tags ?? [],

@@ -1,14 +1,16 @@
 /**
- * 整理节点 — 过滤低分、URL 去重、按审核反馈修正
+ * 整理节点 — 过滤低分、当次 source_id 去重、按审核反馈修正
  */
 
 import { filterOutput } from "../tests/security.ts";
 import { chatJson, accumulateUsage, BudgetExceededError } from "./model-client.ts";
+import { deriveSourceId } from "./source-id.ts";
 import type { KBState } from "./state.ts";
 
 const ARTICLE_FIELDS = [
   "title",
   "source",
+  "source_id",
   "url",
   "summary",
   "tags",
@@ -39,6 +41,30 @@ function asRecordArray(value: unknown): Record<string, unknown>[] | null {
   return null;
 }
 
+function deduplicateBySourceId(
+  items: Record<string, unknown>[],
+): { unique: Record<string, unknown>[]; skipped: number } {
+  const sessionIds = new Set<string>();
+  const unique: Record<string, unknown>[] = [];
+  let skipped = 0;
+
+  for (const item of items) {
+    const sourceId = deriveSourceId(item);
+    if (!sourceId) continue;
+
+    if (sessionIds.has(sourceId)) {
+      console.log(`[OrganizeNode] 跳过重复（本次采集）: ${sourceId}`);
+      skipped++;
+      continue;
+    }
+
+    sessionIds.add(sourceId);
+    unique.push({ ...item, source_id: sourceId });
+  }
+
+  return { unique, skipped };
+}
+
 export async function organizeNode(
   state: KBState,
 ): Promise<Partial<KBState>> {
@@ -56,15 +82,7 @@ export async function organizeNode(
     (a) => Number(a.relevance_score ?? 0) >= threshold,
   );
 
-  const seen = new Set<string>();
-  let unique: Record<string, unknown>[] = [];
-  for (const item of qualified) {
-    const url = String(item.url ?? "");
-    if (url && !seen.has(url)) {
-      seen.add(url);
-      unique.push(item);
-    }
-  }
+  let { unique, skipped } = deduplicateBySourceId(qualified);
 
   if (iteration > 0 && feedback) {
     const prompt = `你是知识库编辑。请根据以下审核反馈定向改进条目。
@@ -78,7 +96,7 @@ export async function organizeNode(
       tracker = accumulateUsage(tracker, usage);
       const improved = asRecordArray(parsed);
       if (improved) {
-        unique = improved;
+        ({ unique, skipped } = deduplicateBySourceId(improved));
       }
     } catch (err) {
       if (err instanceof BudgetExceededError) throw err;
@@ -88,10 +106,13 @@ export async function organizeNode(
 
   const today = todayUtc();
   const articles: Record<string, unknown>[] = unique.map((item, i) => {
+    const sourceId = deriveSourceId(item);
     const entry: Record<string, unknown> = {
       id: `${today}-${String(i + 1).padStart(3, "0")}`,
+      source_id: sourceId,
     };
     for (const key of ARTICLE_FIELDS) {
+      if (key === "source_id") continue;
       entry[key] = item[key] ?? "";
     }
     return entry;
@@ -120,7 +141,7 @@ export async function organizeNode(
   }
 
   console.log(
-    `[OrganizeNode] 整理出 ${articles.length} 条知识条目 (迭代 ${iteration})`,
+    `[OrganizeNode] 整理出 ${articles.length} 条知识条目 (迭代 ${iteration})，跳过 ${skipped} 条本次重复`,
   );
   return { articles, cost_tracker: tracker };
 }
