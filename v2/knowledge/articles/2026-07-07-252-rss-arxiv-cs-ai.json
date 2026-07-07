@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-07-008",
+  "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.02686",
+  "source_url": "https://arxiv.org/abs/2607.02686",
+  "author": "Juarez Monteiro, Nathan Gavenski, Guilherme Lima, Francisco Galuppo, Odinaldo Rodrigues, Adriano Veloso",
+  "published_at": "2026-07-07T04:00:00.000Z",
+  "raw_description": "arXiv:2607.02686v1 Announce Type: new Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad reasoning priors. Yet integrating SLM guidance into this setting has proven difficult: across all test environments, vanilla uncertainty-gated approaches achieve an overwrite rate at or near zero, meaning the SLM almost never contributes an independent action. We trace this failure to the bare egocentric prompt, which provides insufficient context for genuine reasoning, and identify it as a context problem rather than a capacity problem. We propose ASK+, which supplies the SLM with trajectory-aware context (a partially revealed map, visited positions, and action history) and structured chain-of-thought reasoning, converting it from a passive redundancy check into a more informative consultant that occasionally corrects the policy. We further e",
+  "collected_at": "2026-07-07T10:53:15.968Z",
+  "summary": "提出ASK+方法，通过轨迹感知上下文和结构化思维链，解决部分可观测环境下小语言模型指导强化学习时上下文不足的问题，提升SLM的纠正能力。",
+  "tags": [],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "针对SLM在部分可观测RL中的上下文问题提出改进，方法新颖但实验细节有限，相关性中等。",
+  "analyzed_at": "2026-07-07T10:53:52.566Z",
+  "organized_at": "2026-07-07T10:54:37.523Z",
+  "status": "published"
+}

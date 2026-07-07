@@ -1,0 +1,22 @@
+{
+  "id": "rss-hugging-face-blog-2026-07-07-016",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "author": "hugging-face-blog",
+  "published_at": "2026-07-06T15:30:55.000Z",
+  "raw_description": "",
+  "collected_at": "2026-07-07T10:53:16.834Z",
+  "summary": "Photoroom 分享了其数据策略，涵盖数据收集、清洗、标注和迭代流程，旨在提升 AI 模型性能。",
+  "tags": [
+    "ai"
+  ],
+  "category": "other",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "数据策略对AI工程有参考价值，但内容偏实践，技术深度一般。",
+  "analyzed_at": "2026-07-07T10:54:09.861Z",
+  "organized_at": "2026-07-07T10:54:37.523Z",
+  "status": "published"
+}
