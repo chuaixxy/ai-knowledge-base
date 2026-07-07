@@ -248,15 +248,8 @@ export function jsonToFeishu(article: Article): object {
               ]
             : []),
           {
-            tag: "action",
-            actions: [
-              {
-                tag: "button",
-                text: { tag: "plain_text", content: "阅读原文" },
-                type: "primary",
-                url: article.url,
-              },
-            ],
+            tag: "markdown",
+            content: `[阅读原文](${article.url})`,
           },
         ],
       },
