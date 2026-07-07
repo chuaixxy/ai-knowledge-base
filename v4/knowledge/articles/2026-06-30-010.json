@@ -1,0 +1,19 @@
+{
+  "id": "2026-06-30-010",
+  "title": "reworkd/AgentGPT",
+  "source": "github",
+  "url": "https://github.com/reworkd/AgentGPT",
+  "summary": "AgentGPT 是一个允许用户在浏览器中组装、配置和部署自主 AI 代理的开源项目。它基于 GPT 模型，能够自动执行复杂任务，如数据分析、内容生成和自动化工作流，无需编程背景。项目界面友好，支持自定义代理目标和行为，适合快速实验和部署 AI 助手。",
+  "tags": [
+    "AI代理",
+    "自主AI",
+    "浏览器部署",
+    "GPT",
+    "开源",
+    "自动化",
+    "无代码"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI代理框架",
+  "key_insight": "将复杂AI代理部署简化为浏览器操作，降低自主AI使用门槛。"
+}

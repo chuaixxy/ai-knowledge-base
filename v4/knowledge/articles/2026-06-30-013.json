@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-30-013",
+  "title": "khoj-ai/khoj",
+  "source": "github",
+  "url": "https://github.com/khoj-ai/khoj",
+  "summary": "Khoj是一个开源的AI第二大脑工具，支持自托管。它能从网络或用户文档中获取答案，构建自定义代理，安排自动化任务，并进行深度研究。用户可以将任何在线或本地的大语言模型（如GPT、Claude、Gemini、Llama、Qwen、Mistral）转变为个人自主AI。该项目强调隐私和灵活性，提供免费入门选项，适合个人知识管理和自动化工作流。",
+  "tags": [
+    "AI助手",
+    "自托管",
+    "知识管理",
+    "自动化",
+    "开源"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具/知识管理",
+  "key_insight": "Khoj将多种LLM整合为可自托管的第二大脑，实现个性化知识检索与自动化，降低AI使用门槛。"
+}

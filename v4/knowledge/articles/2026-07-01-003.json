@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-01-003",
+  "title": "lobehub/lobehub",
+  "source": "github",
+  "url": "https://github.com/lobehub/lobehub",
+  "summary": "LobeHub 是一个AI代理编排平台，作为首席代理操作员，通过雇佣、调度和报告功能，将用户的AI代理组织成全天候运作的团队。该项目旨在实现AI代理的自动化管理，提升多代理协作效率。",
+  "tags": [
+    "AI代理",
+    "自动化",
+    "团队协作",
+    "工作流",
+    "调度"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施/工具",
+  "key_insight": "LobeHub将AI代理管理从单点操作升级为自动化团队运营，实现7x24小时无人值守协作。"
+}

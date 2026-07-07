@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-01-007",
+  "title": "Leonxlnx/taste-skill",
+  "source": "github",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "summary": "Taste-Skill 是一个提升AI输出质量的开源项目，通过引入“品味”机制，避免AI生成平庸、泛化的内容。该项目可能采用特定算法或训练方法，让AI在生成文本、图像等内容时，更倾向于选择有创意、有风格或符合特定审美标准的输出，解决AI内容生成中的同质化问题。",
+  "tags": [
+    "AI",
+    "内容生成",
+    "品味",
+    "质量控制",
+    "创意",
+    "开源"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI应用与工具",
+  "key_insight": "通过引入“品味”机制，让AI内容生成从“正确”转向“有趣”，解决AI内容同质化痛点。"
+}

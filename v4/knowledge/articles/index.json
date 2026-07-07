@@ -1,0 +1,334 @@
+[
+  {
+    "id": "2026-06-30-001",
+    "title": "Snailclimb/JavaGuide",
+    "source": "github",
+    "category": "技术教程与面试准备",
+    "relevance_score": 0.9,
+    "tags": [
+      "Java",
+      "面试指南",
+      "后端开发",
+      "系统设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-002",
+    "title": "langgenius/dify",
+    "source": "github",
+    "category": "AI开发平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "工作流引擎",
+      "低代码平台",
+      "大模型应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-003",
+    "title": "lobehub/lobehub",
+    "source": "github",
+    "category": "AI平台与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "自动化运营",
+      "团队管理",
+      "调度系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-004",
+    "title": "bytedance/deer-flow",
+    "source": "github",
+    "category": "AI Agent框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "智能体框架",
+      "自动化",
+      "开源",
+      "任务规划",
+      "长周期",
+      "字节跳动",
+      "沙盒",
+      "多智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-005",
+    "title": "hiyouga/LlamaFactory",
+    "source": "github",
+    "category": "大模型训练与微调",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM微调",
+      "高效训练",
+      "开源框架",
+      "多模型支持",
+      "ACL 2024"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-006",
+    "title": "headroomlabs-ai/headroom",
+    "source": "github",
+    "category": "AI基础设施/效率工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM优化",
+      "Token压缩",
+      "RAG",
+      "代理",
+      "MCP服务器",
+      "成本降低"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-007",
+    "title": "Leonxlnx/taste-skill",
+    "source": "github",
+    "category": "AI工具",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI",
+      "内容生成",
+      "品味",
+      "质量提升",
+      "创意"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-008",
+    "title": "jeecgboot/JeecgBoot",
+    "source": "github",
+    "category": "开发工具与平台",
+    "relevance_score": 0.9,
+    "tags": [
+      "低代码",
+      "零代码",
+      "AI辅助开发",
+      "Java",
+      "代码生成",
+      "流程编排",
+      "知识库",
+      "MCP插件"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-009",
+    "title": "pingcap/tidb",
+    "source": "github",
+    "category": "数据库与存储",
+    "relevance_score": 0.85,
+    "tags": [
+      "分布式数据库",
+      "HTAP",
+      "向量搜索",
+      "AI工作负载",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-010",
+    "title": "reworkd/AgentGPT",
+    "source": "github",
+    "category": "AI工具与平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "自动化",
+      "GPT",
+      "开源",
+      "浏览器工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T03:51:21.981Z"
+  },
+  {
+    "id": "2026-06-30-011",
+    "title": "CopilotKit/CopilotKit",
+    "source": "github",
+    "category": "AI开发工具/框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "前端框架",
+      "生成式UI",
+      "AI智能体",
+      "跨平台",
+      "React",
+      "Angular",
+      "移动端",
+      "AG-UI协议"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-012",
+    "title": "AstrBotDevs/AstrBot",
+    "source": "github",
+    "category": "AI开发框架/工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "开发框架",
+      "即时通讯集成",
+      "LLM",
+      "插件系统",
+      "开源替代"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-013",
+    "title": "khoj-ai/khoj",
+    "source": "github",
+    "category": "AI工具/知识管理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI助手",
+      "自托管",
+      "知识管理",
+      "自动化",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-014",
+    "title": "continuedev/continue",
+    "source": "github",
+    "category": "开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源",
+      "编码代理",
+      "AI辅助开发",
+      "IDE集成",
+      "代码生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-015",
+    "title": "zeroclaw-labs/zeroclaw",
+    "source": "github",
+    "category": "AI基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI助手",
+      "自主基础设施",
+      "跨平台",
+      "Rust",
+      "模块化",
+      "边缘计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-016",
+    "title": "calesthio/OpenMontage",
+    "source": "github",
+    "category": "AI应用/多媒体生成",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源",
+      "视频制作",
+      "智能体",
+      "AI工具",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-017",
+    "title": "e2b-dev/awesome-ai-agents",
+    "source": "github",
+    "category": "资源聚合与导航",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "自主智能体",
+      "资源列表",
+      "开源项目",
+      "自动化",
+      "大模型应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-018",
+    "title": "assafelovic/gpt-researcher",
+    "source": "github",
+    "category": "AI工具与框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "自主代理",
+      "自动化研究",
+      "AI工具",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-019",
+    "title": "oraios/serena",
+    "source": "github",
+    "category": "AI开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "MCP",
+      "AI代理",
+      "语义检索",
+      "代码编辑",
+      "开发工具",
+      "AI IDE"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  },
+  {
+    "id": "2026-06-30-020",
+    "title": "deepset-ai/haystack",
+    "source": "github",
+    "category": "AI开发框架/工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI编排",
+      "LLM应用",
+      "RAG",
+      "语义搜索",
+      "开源框架",
+      "代理工作流"
+    ],
+    "status": "published",
+    "collected_at": "2026-06-30T05:34:11.814Z"
+  }
+]

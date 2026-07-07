@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-30-016",
+  "title": "calesthio/OpenMontage",
+  "source": "github",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "summary": "OpenMontage 是全球首个开源、智能体驱动的视频制作系统，包含12条流水线、52种工具和500多种智能体技能，旨在将AI编码助手转变为完整的视频制作工作室，实现从创意到成片的自动化视频生产流程。",
+  "tags": [
+    "开源",
+    "视频制作",
+    "智能体",
+    "AI工具",
+    "自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用/多媒体生成",
+  "key_insight": "通过集成大量智能体技能和工具，将AI编码助手扩展为全功能视频制作平台，降低了视频创作门槛。"
+}

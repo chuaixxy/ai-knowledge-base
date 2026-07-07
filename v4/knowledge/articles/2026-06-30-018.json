@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-30-018",
+  "title": "assafelovic/gpt-researcher",
+  "source": "github",
+  "url": "https://github.com/assafelovic/gpt-researcher",
+  "summary": "GPT-Researcher 是一个基于大型语言模型（LLM）的自主研究代理项目，能够对任何数据进行深度研究。它通过自动化方式，利用多种LLM提供商（如OpenAI、Anthropic等）来执行搜索、摘要和推理任务，生成结构化报告。该项目旨在简化研究流程，适用于学术、商业和内容创作等场景，具有高灵活性和可扩展性。",
+  "tags": [
+    "LLM",
+    "自主代理",
+    "自动化研究",
+    "AI工具",
+    "开源"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具与框架",
+  "key_insight": "通过自主代理和LLM集成，将复杂研究任务自动化，显著提升信息获取和报告生成的效率。"
+}

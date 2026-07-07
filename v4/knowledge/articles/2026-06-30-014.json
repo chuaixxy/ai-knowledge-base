@@ -1,0 +1,17 @@
+{
+  "id": "2026-06-30-014",
+  "title": "continuedev/continue",
+  "source": "github",
+  "url": "https://github.com/continuedev/continue",
+  "summary": "Continue 是一个开源的编码代理项目，旨在通过AI辅助提升开发效率，支持多种IDE集成，提供自动补全、代码生成和错误修复等功能，强调灵活性和可定制性。",
+  "tags": [
+    "开源",
+    "编码代理",
+    "AI辅助开发",
+    "IDE集成",
+    "代码生成"
+  ],
+  "relevance_score": 0.85,
+  "category": "开发工具",
+  "key_insight": "开源编码代理，通过AI增强开发工作流，降低重复劳动。"
+}
