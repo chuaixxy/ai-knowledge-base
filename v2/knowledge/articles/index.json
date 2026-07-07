@@ -1,5 +1,79 @@
 [
   {
+    "id": "rss-hugging-face-blog-2026-07-07-016",
+    "title": "PRX Part 4: Our Data Strategy",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T10:53:16.834Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-07-007",
+    "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.02672",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-07T10:53:15.968Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-07-008",
+    "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.02686",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-07T10:53:15.968Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-07-006",
+    "title": "iFLYTEK-Embodied-Omni Technical Report",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.02542",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-07T10:53:15.967Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-07-07-002",
+    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "category": "tool",
+    "relevance_score": 0.55,
+    "tags": [
+      "amd",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T10:53:15.642Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-07-07-001",
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "glm-52",
+      "ai-margin-collapse"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-07T10:53:15.641Z"
+  },
+  {
     "id": "rss-hugging-face-blog-2026-07-06-010",
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "source": "rss-hugging-face-blog",
