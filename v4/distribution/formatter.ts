@@ -14,6 +14,89 @@ export interface Article {
   key_insight?: string;
 }
 
+// ── category bucketing ────────────────────────────────────────────────────────
+
+const BUCKET_PRIORITY: string[] = [
+  "mcp",
+  "agent",
+  "rag",
+  "fine-tuning",
+  "framework",
+  "tool",
+  "paper",
+  "benchmark",
+  "tutorial",
+];
+
+const BUCKET_LABEL: Record<string, string> = {
+  mcp: "MCP",
+  agent: "Agent",
+  rag: "RAG",
+  "fine-tuning": "Fine-tuning",
+  framework: "Framework",
+  tool: "Tool",
+  paper: "Paper",
+  benchmark: "Benchmark",
+  tutorial: "Tutorial",
+  other: "Other",
+};
+
+const TAG_TO_BUCKET: Record<string, string> = {
+  mcp: "mcp",
+  "agent-framework": "agent",
+  "multi-agent": "agent",
+  rag: "rag",
+  "vector-database": "rag",
+  "knowledge-graph": "rag",
+  "document-qa": "rag",
+  "fine-tuning": "fine-tuning",
+  "prompt-engineering": "fine-tuning",
+  "large-language-model": "framework",
+  transformer: "framework",
+  embedding: "framework",
+  "code-generation": "tool",
+  "code-assistant": "tool",
+  chatbot: "tool",
+  "data-analysis": "tool",
+  "workflow-automation": "tool",
+  langchain: "tool",
+  llamaindex: "tool",
+  openai: "tool",
+  anthropic: "tool",
+  deepseek: "tool",
+  huggingface: "tool",
+};
+
+const CATEGORY_TO_BUCKET: Record<string, string> = {
+  // English (upstream spec)
+  framework: "framework",
+  tool: "tool",
+  paper: "paper",
+  benchmark: "benchmark",
+  tutorial: "tutorial",
+  // Chinese (current pipeline output)
+  ai代理框架: "agent",
+  ai应用框架: "framework",
+  ai开发平台: "framework",
+  "ai基础设施/工具": "tool",
+  "ai基础设施/优化工具": "tool",
+  ai应用与工具: "tool",
+  模型微调框架: "fine-tuning",
+  开发工具与平台: "tool",
+  学习资源: "tutorial",
+  数据库技术: "tool",
+};
+
+function bucketOf(article: Article): string {
+  for (const tag of article.tags ?? []) {
+    const b = TAG_TO_BUCKET[tag.toLowerCase()];
+    if (b) return b;
+  }
+  const cb = CATEGORY_TO_BUCKET[article.category?.toLowerCase() ?? ""];
+  if (cb) return cb;
+  return "other";
+}
+
 // ── helpers ──────────────────────────────────────────────────────────────────
 
 function scoreEmoji(score: number): string {
@@ -69,31 +152,31 @@ export function jsonToMarkdown(article: Article): string {
 
 // ── 2. Telegram MarkdownV2 ────────────────────────────────────────────────────
 
-export function jsonToTelegram(article: Article): string {
-  const emoji = scoreEmoji(article.relevance_score);
-  const date = escapeTgMd(dateOnly(article.collected_at));
-  const score = escapeTgMd(article.relevance_score.toFixed(2));
-  const source = escapeTgMd(article.source);
-  const summary = escapeTgMd(article.summary);
-  const tags = article.tags
-    .map((t) => `#${escapeTgMd(t.replace(/\s+/g, "_"))}`)
-    .join(" ");
+// export function jsonToTelegram(article: Article): string {
+//   const emoji = scoreEmoji(article.relevance_score);
+//   const date = escapeTgMd(dateOnly(article.collected_at));
+//   const score = escapeTgMd(article.relevance_score.toFixed(2));
+//   const source = escapeTgMd(article.source);
+//   const summary = escapeTgMd(article.summary);
+//   const tags = article.tags
+//     .map((t) => `#${escapeTgMd(t.replace(/\s+/g, "_"))}`)
+//     .join(" ");
 
-  // Title as hyperlink — title and url must be escaped inside [text](url)
-  const titleEscaped = escapeTgMd(article.title);
-  const urlEscaped = article.url.replace(/[)\\]/g, (c) => `\\${c}`);
-  const titleLink = `[${titleEscaped}](${urlEscaped})`;
+//   // Title as hyperlink — title and url must be escaped inside [text](url)
+//   const titleEscaped = escapeTgMd(article.title);
+//   const urlEscaped = article.url.replace(/[)\\]/g, (c) => `\\${c}`);
+//   const titleLink = `[${titleEscaped}](${urlEscaped})`;
 
-  return [
-    `*${titleLink}*`,
-    "",
-    summary,
-    "",
-    `${emoji} 相关性：${score}　来源：${source}　日期：${date}`,
-    "",
-    tags,
-  ].join("\n");
-}
+//   return [
+//     `*${titleLink}*`,
+//     "",
+//     summary,
+//     "",
+//     `${emoji} 相关性：${score}　来源：${source}　日期：${date}`,
+//     "",
+//     tags,
+//   ].join("\n");
+// }
 
 // ── 3. Feishu Interactive Card ────────────────────────────────────────────────
 
@@ -197,6 +280,58 @@ interface DailyDigest {
   feishu: object[];
 }
 
+type BucketMap = Map<string, Article[]>;
+
+/** Pure: group articles by bucket, each bucket sorted desc by score, capped at topN. */
+export function groupByBucket(articles: Article[], topN: number): BucketMap {
+  const map = new Map<string, Article[]>();
+  for (const article of articles) {
+    const b = bucketOf(article);
+    if (!map.has(b)) map.set(b, []);
+    map.get(b)!.push(article);
+  }
+  for (const [b, list] of map) {
+    map.set(
+      b,
+      list.sort((a, b) => b.relevance_score - a.relevance_score).slice(0, topN)
+    );
+  }
+  return map;
+}
+
+/** Pure: return bucket keys in display order (priority list first, then alpha). */
+export function orderedBucketKeys(bucketMap: BucketMap): string[] {
+  return [
+    ...BUCKET_PRIORITY.filter((b) => bucketMap.has(b)),
+    ...[...bucketMap.keys()].filter((b) => !BUCKET_PRIORITY.includes(b)).sort(),
+  ];
+}
+
+/** Pure: render grouped articles as a Markdown daily digest string. */
+export function renderDigestMarkdown(
+  date: string,
+  total: number,
+  bucketMap: BucketMap,
+  buckets: string[]
+): string {
+  const allCount = buckets.reduce((n, b) => n + bucketMap.get(b)!.length, 0);
+  const parts = [
+    `# 知识库日报 ${date}`,
+    "",
+    `> 当日收录 **${total}** 篇，精选 ${allCount} 篇`,
+    "",
+  ];
+  for (const bucket of buckets) {
+    const list = bucketMap.get(bucket)!;
+    parts.push(`## ${BUCKET_LABEL[bucket] ?? bucket}`, "");
+    for (let i = 0; i < list.length; i++) {
+      parts.push(`### ${i + 1}. ${list[i].title}`, "");
+      parts.push(jsonToMarkdown(list[i]), "");
+    }
+  }
+  return parts.join("\n");
+}
+
 export async function generateDailyDigest(
   opts: DigestOptions = {}
 ): Promise<DailyDigest> {
@@ -210,7 +345,6 @@ export async function generateDailyDigest(
   const dayFiles = files.filter(
     (f) => f.startsWith(date) && f.endsWith(".json")
   );
-
   const articles: Article[] = await Promise.all(
     dayFiles.map(async (f) => {
       const raw = await readFile(join(knowledgeDir, f), "utf-8");
@@ -218,28 +352,15 @@ export async function generateDailyDigest(
     })
   );
 
-  // Sort by relevance desc, take topN
-  const top = articles
-    .sort((a, b) => b.relevance_score - a.relevance_score)
-    .slice(0, topN);
-
-  const mdParts = [
-    `# 知识库日报 ${date}`,
-    "",
-    `> 当日收录 **${articles.length}** 篇，精选 Top ${top.length}`,
-    "",
-  ];
-
-  for (let i = 0; i < top.length; i++) {
-    mdParts.push(`---`, "", `## ${i + 1}. ${top[i].title}`, "");
-    mdParts.push(jsonToMarkdown(top[i]), "");
-  }
+  const bucketMap = groupByBucket(articles, topN);
+  const buckets = orderedBucketKeys(bucketMap);
+  const allTop = buckets.flatMap((b) => bucketMap.get(b)!);
 
   return {
     date,
     total: articles.length,
-    articles: top,
-    markdown: mdParts.join("\n"),
-    feishu: top.map(jsonToFeishu),
+    articles: allTop,
+    markdown: renderDigestMarkdown(date, articles.length, bucketMap, buckets),
+    feishu: allTop.map(jsonToFeishu),
   };
 }
