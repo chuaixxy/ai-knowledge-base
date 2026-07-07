@@ -1,18 +1,20 @@
 {
   "id": "2026-07-07-009",
-  "title": "jeecgboot/JeecgBoot",
+  "source_id": "hiyouga/LlamaFactory",
+  "title": "hiyouga/LlamaFactory",
   "source": "github",
-  "url": "https://github.com/jeecgboot/JeecgBoot",
-  "summary": "JeecgBoot 是一个 AI 驱动的低代码开发平台，其核心创新在于将 AI 生成能力与低代码/零代码引擎深度融合，重塑 Java 开发流程。技术上，平台采用‘AI 生成 → 在线配置 → 代码生成 → 手工合并 → AI 修改’五步开发模式：AI 根据自然语言描述生成初始代码或配置，低代码引擎进行可视化调整，代码生成器产出标准前后端代码，开发者手工微调业务逻辑，最后 AI 辅助优化。内置的 AI 聊天、知识库与流程编排模块，以及 MCP 插件支持主流大模型，使得平台能够消除 Java 项目 80% 的重复性工作，同时保留手工编码的灵活性，实现效率与定制化的平衡。",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "summary": "LlamaFactory是一个统一高效的微调框架，支持100多种大语言模型（LLMs）和视觉语言模型（VLMs）的微调，已收录于ACL 2024。它提供了多种高效微调方法（如LoRA、QLoRA、AdaLoRA等），支持单GPU和多GPU训练，并集成了数据预处理、模型评估和推理接口。项目旨在降低大模型微调的门槛，使研究人员和开发者能够快速适配特定任务。其核心优势在于模块化设计、广泛的模型兼容性以及高效的资源利用。",
   "tags": [
-    "低代码",
-    "零代码",
-    "AI开发",
-    "Java",
-    "代码生成",
-    "流程编排"
+    "大语言模型",
+    "微调",
+    "高效训练",
+    "开源框架",
+    "LoRA",
+    "多模态",
+    "ACL 2024"
   ],
   "relevance_score": 0.9,
-  "category": "开发工具与平台",
-  "key_insight": "JeecgBoot 通过 AI 与低代码/零代码的深度融合，重塑了传统 Java 开发流程，显著降低重复性工作，同时保留了手工编码的灵活性。"
+  "category": "大模型微调工具",
+  "key_insight": "LlamaFactory通过统一接口和高效微调技术，显著降低了多模型、多任务微调的复杂性和计算成本。"
 }

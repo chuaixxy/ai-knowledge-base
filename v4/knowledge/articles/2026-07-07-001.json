@@ -1,21 +1,22 @@
 {
   "id": "2026-07-07-001",
-  "title": "Snailclimb/JavaGuide",
+  "source_id": "NousResearch/hermes-agent",
+  "title": "NousResearch/hermes-agent",
   "source": "github",
-  "url": "https://github.com/Snailclimb/JavaGuide",
-  "summary": "JavaGuide 作为 Java 开发者面试与后端技术栈系统学习的标杆资源，其核心价值在于跨越了从基础理论到前沿实践的完整知识图谱。该项目不仅系统化整理了计算机基础、数据库（MySQL/Redis）、分布式系统与高并发等经典领域，更与时俱进地融入了 AI 应用开发章节，体现了后端技术栈的演进。其独特之处在于对每个知识点的‘面试导向’拆解：不仅提供标准答案，更深入剖析底层原理（如 MySQL 索引数据结构 B+ 树与跳表的对比、Redis 持久化策略的适用场景），并辅以高并发场景下的实战代码与架构方案（如分布式锁的多种实现与选型分析），帮助读者构建‘知其所以然’的坚实知识体系。",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "summary": "NousResearch 推出的 hermes-agent 是一个基于 Hermes 系列模型的自适应智能代理项目。其核心机制是通过持续学习用户偏好、上下文和行为模式，在对话、任务执行和知识管理上逐步优化。项目采用模块化设计，支持多轮对话、工具调用和长期记忆，适用于个人助理、教育辅导和自动化工作流等场景。技术实现上，代理利用增量学习算法和上下文感知模型更新策略，动态调整行为参数，从而避免静态工具的局限性。",
   "tags": [
-    "Java",
-    "面试指南",
-    "后端开发",
-    "数据库",
-    "分布式系统",
-    "高并发",
-    "系统设计",
-    "AI应用开发",
-    "计算机基础"
+    "AI代理",
+    "自适应学习",
+    "智能助理",
+    "NousResearch",
+    "对话系统",
+    "个性化",
+    "开源项目",
+    "增量学习",
+    "上下文感知"
   ],
-  "relevance_score": 0.9,
-  "category": "学习资源/面试准备",
-  "key_insight": "JavaGuide 以面试为驱动，深度剖析后端全栈技术原理与实战方案，是 Java 开发者从入门到进阶的必备知识库。"
+  "relevance_score": 0.75,
+  "category": "AI代理框架",
+  "key_insight": "hermes-agent 通过增量学习和上下文感知模型更新，实现代理随用户需求动态演进的架构，而非传统静态工具。"
 }

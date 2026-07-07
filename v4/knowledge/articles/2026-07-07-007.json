@@ -1,17 +1,18 @@
 {
   "id": "2026-07-07-007",
-  "title": "Leonxlnx/taste-skill",
+  "source_id": "DietrichGebert/ponytail",
+  "title": "DietrichGebert/ponytail",
   "source": "github",
-  "url": "https://github.com/Leonxlnx/taste-skill",
-  "summary": "Taste-Skill 是一个从内容质量维度切入的 AI 优化项目，其核心创新在于引入‘品味’机制解决生成内容同质化问题。技术上，项目可能通过构建风格偏好模型或对抗训练，引导 AI 在文本、图像等生成任务中避免平庸输出，追求独特性和审美价值。其独特价值在于不单纯优化技术指标（如 BLEU、FID），而是关注生成内容的‘人感’与创意性，适用于写作辅助、艺术创作、个性化对话等场景。具体实现涵盖风格迁移、多样性增强采样等策略，但需进一步查阅代码获取完整细节。",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "summary": "Ponytail 是一个让AI代理模仿最懒资深开发者思维模式的项目。其核心理念是“最好的代码是你从未写过的代码”，通过促使AI减少不必要的代码生成，优化开发效率。项目可能通过提示工程或行为约束，让AI专注于关键逻辑，避免过度工程化，适合快速原型或维护场景。",
   "tags": [
-    "AI生成",
-    "内容质量",
-    "品味优化",
-    "开源",
-    "创意工具"
+    "AI代理",
+    "代码优化",
+    "懒人哲学",
+    "提示工程",
+    "开发效率"
   ],
-  "relevance_score": 0.85,
-  "category": "AI应用开发",
-  "key_insight": "通过引入‘品味’概念，该项目试图从根源上解决 AI 生成内容的平庸化问题，而非仅优化技术指标。"
+  "relevance_score": 0.75,
+  "category": "AI开发工具",
+  "key_insight": "通过让AI模仿资深开发者的“懒惰”思维，减少冗余代码，提升开发效率。"
 }

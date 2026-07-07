@@ -1,16 +1,19 @@
 {
   "id": "2026-07-07-003",
-  "title": "lobehub/lobehub",
+  "source_id": "langchain-ai/langchain",
+  "title": "langchain-ai/langchain",
   "source": "github",
-  "url": "https://github.com/lobehub/lobehub",
-  "summary": "LobeHub 是一个创新的 AI 代理运营平台，其核心理念是将多个 AI 代理视为可雇佣的‘数字员工’，通过自动化的雇佣、调度与报告机制，实现 7×24 小时不间断的团队化运作。技术上，LobeHub 引入了类似企业人力资源管理的框架：支持代理角色定义与技能匹配（雇佣）、动态任务分配与优先级管理（调度）、以及执行结果汇总与性能分析（报告）。这种架构使得用户能够像管理人类团队一样管理 AI 代理，适用于自动化客服、内容审核、数据标注等需要多代理协作与持续监控的场景，显著提升了 AI 系统的运营效率与可靠性。",
+  "url": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是一个用于构建基于大型语言模型（LLM）的代理（Agent）工程平台。它提供了模块化的组件和工具，帮助开发者轻松地将 LLM 与外部数据源、API 和工具链集成，从而创建复杂的、可交互的 AI 应用。该框架支持提示管理、链式调用、记忆功能、代理循环等核心特性，并兼容多种主流 LLM 提供商，如 OpenAI、Hugging Face 等。作为 LLM 应用开发的事实标准之一，LangChain 极大地降低了开发门槛，推动了 AI 代理和 RAG（检索增强生成）应用的普及。",
   "tags": [
+    "LLM",
     "AI代理",
-    "自动化运营",
-    "团队管理",
-    "AI调度"
+    "框架",
+    "RAG",
+    "提示工程",
+    "工具链"
   ],
-  "relevance_score": 0.85,
-  "category": "AI平台与工具",
-  "key_insight": "将 AI 代理视为可雇佣的‘员工’，通过类人力资源框架实现全天候无人化团队运营。"
+  "relevance_score": 0.95,
+  "category": "AI开发框架/工具",
+  "key_insight": "LangChain 通过模块化框架将 LLM 与外部世界连接，是构建复杂 AI 代理应用的核心基础设施。"
 }

@@ -1,17 +1,20 @@
 {
   "id": "2026-07-07-005",
-  "title": "hiyouga/LlamaFactory",
+  "source_id": "infiniflow/ragflow",
+  "title": "infiniflow/ragflow",
   "source": "github",
-  "url": "https://github.com/hiyouga/LlamaFactory",
-  "summary": "LlamaFactory 是 ACL 2024 收录的统一高效微调框架，其核心价值在于显著降低大规模语言模型（LLMs）与视觉语言模型（VLMs）的适配成本。技术上，框架集成了 LoRA、QLoRA、AdaLoRA 等主流参数高效微调方法，并通过统一接口支持 100+ 种模型架构，实现‘一次配置，多模型适配’。其优化策略包括梯度检查点、混合精度训练与分布式并行，可在单卡 GPU 上微调百亿参数模型。LlamaFactory 还提供丰富的训练监控与评估工具，支持从数据预处理到模型导出的全流程自动化，大幅提升了模型定制效率与可复现性。",
+  "url": "https://github.com/infiniflow/ragflow",
+  "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，将前沿的 RAG 技术与智能体（Agent）能力融合，为大型语言模型（LLM）构建更优质的上下文层。它通过高效检索外部知识库中的相关信息，增强 LLM 的生成准确性和可靠性，同时支持智能体功能以实现复杂任务自动化。项目旨在解决 LLM 知识过时、幻觉等问题，提供企业级文档管理、多轮对话、自定义知识库等特性。开源特性使其易于部署和二次开发，适用于客服、知识管理、智能问答等场景。",
   "tags": [
-    "大语言模型",
-    "微调框架",
-    "高效训练",
-    "ACL 2024",
-    "多模态"
+    "RAG",
+    "检索增强生成",
+    "开源",
+    "LLM",
+    "智能体",
+    "知识库",
+    "上下文增强"
   ],
-  "relevance_score": 0.9,
-  "category": "大模型微调工具",
-  "key_insight": "通过统一接口与参数高效微调方法的集成，LlamaFactory 解决了大规模 LLM/VLM 适配的复杂性与资源瓶颈问题。"
+  "relevance_score": 0.95,
+  "category": "AI应用与基础设施",
+  "key_insight": "通过融合检索增强与智能体能力，RAGFlow将LLM从静态知识库升级为动态、可交互的智能系统，是解决大模型落地中知识时效性与可控性的关键方案。"
 }

@@ -1,18 +1,22 @@
 {
   "id": "2026-07-07-004",
-  "title": "bytedance/deer-flow",
+  "source_id": "browser-use/browser-use",
+  "title": "browser-use/browser-use",
   "source": "github",
-  "url": "https://github.com/bytedance/deer-flow",
-  "summary": "Deer-Flow 是字节跳动开源的长周期超级智能体框架，其核心创新在于解决了 AI 在长时间跨度任务中的一致性与上下文连贯性问题。技术上，框架通过沙箱隔离执行环境、持久化记忆模块维护长期上下文、工具与技能库实现能力扩展、以及子智能体协作机制处理复杂任务。消息网关作为中枢，协调各模块间的通信与状态同步。这种模块化设计使得 Deer-Flow 能够执行从几分钟到数小时的自主工作流（如自动化研发、复杂问题分析），在保持目标一致性的同时，具备良好的可扩展性与容错能力。",
+  "url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use 是一个开源项目，旨在使网站对 AI 代理可访问，让 AI 能轻松自动化在线任务。其技术架构基于浏览器自动化协议（如Playwright），通过抽象层将DOM操作、事件监听和网络请求封装为标准化API。核心算法包括：基于视觉的页面元素定位（利用CSS选择器和XPath）、动态内容等待策略（结合MutationObserver和网络空闲检测）、以及会话状态管理（Cookie/Storage同步）。性能优化方面，采用并发标签页管理和资源缓存机制，减少重复加载。",
   "tags": [
-    "智能体",
-    "开源框架",
-    "自动化",
-    "长周期任务",
-    "字节跳动",
-    "自主工作流"
+    "AI Agent",
+    "浏览器自动化",
+    "网页交互",
+    "开源工具",
+    "RPA",
+    "Playwright",
+    "DOM操作",
+    "视觉定位",
+    "会话管理"
   ],
   "relevance_score": 0.85,
-  "category": "AI Agent框架",
-  "key_insight": "通过模块化沙箱与记忆机制，将 AI 从单次对话扩展为可持续数小时的自主执行体。"
+  "category": "AI 工具与框架",
+  "key_insight": "browser-use 通过标准化浏览器自动化协议和视觉定位算法，将AI能力与网页操作无缝结合，其动态等待和会话管理机制是构建稳定自动化流程的关键。"
 }
