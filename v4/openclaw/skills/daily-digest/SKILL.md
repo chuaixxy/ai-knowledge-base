@@ -1,6 +1,6 @@
 ---
 name: daily-digest
-description: 生成今日 AI 技术简报，汇总当天采集的 Top 5 知识条目，按相关性排序
+description: 当用户要查看今日/每日简报、摘要、digest、briefing 时触发。典型用语：今天简报/今天的简报/今日 digest/每日摘要/每日简报/daily briefing/今日摘要。不用于搜索或推荐。
 allowed-tools:
   - Read
 ---

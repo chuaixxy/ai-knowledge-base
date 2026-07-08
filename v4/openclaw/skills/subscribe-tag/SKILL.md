@@ -1,6 +1,6 @@
 ---
 name: subscribe-tag
-description: 当用户要订阅或取消订阅某个标签/主题时触发。典型用语："订阅 RAG 标签"、"关注 agent 类"、"取消订阅 mcp"、"我想收到 framework 相关推送"、"不要再推 tool 了"。不用于搜索文章或查看简报。
+description: 当用户要订阅/取消订阅/查看订阅某个标签或主题时触发。典型用语：订阅 RAG 标签/订阅 RAG/关注 agent 类/取消订阅 mcp/取消订阅/我订阅了什么/查看订阅/我想收到推送/不要再推/不要再推 tool 了。不用于搜索文章或查看简报。
 allowed-tools:
   - Read
   - file_write

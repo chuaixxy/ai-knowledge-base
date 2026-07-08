@@ -1,6 +1,6 @@
 ---
 name: category-summary
-description: 当用户询问某个分类/类别有多少篇文章，或要看某类的 top 文章时触发。典型用语："framework 类有多少"、"agent 类几篇"、"tool 类 top 5"、"有哪些 RAG 相关"、"xx 类文章"。不用于全库推荐（走 top-rated）或日报（走 daily-digest）。
+description: 当用户询问某个分类/类别有多少篇文章，或要看某类的 top 文章时触发。典型用语：framework 类有多少/framework 类有多少篇/agent 类几篇/tool 类有几篇/tool 类 top 5/有哪些 RAG 相关/xx 类文章。不用于全库推荐（走 top-rated）或日报（走 daily-digest）。
 allowed-tools:
   - Read
 ---

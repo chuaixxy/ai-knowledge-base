@@ -1,6 +1,6 @@
 ---
 name: top-rated
-description: 当用户要"推荐 / 高分 / 最佳 / score 最高"的知识库文章时触发。典型用语:推荐几个 xxx / score 最高的 / 最值得看的。基于本地 kb,不需要联网。
+description: 当用户要推荐/高分/最佳/best/score 最高的知识库文章时触发。典型用语：推荐几个/推荐 3 个/最值得看的/高分推荐/最佳文章/score 最高。不用于分类统计或日报。
 allowed-tools:
   - Read
 ---
