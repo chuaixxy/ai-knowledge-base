@@ -7,7 +7,7 @@ allowed-tools:
 
 # 知识库检索
 
-## 解析规则（对齐 knowledge-bot.ts `_handleSearch`）
+## 解析规则
 
 从用户输入中提取两类参数：
 
@@ -18,7 +18,7 @@ allowed-tools:
 
 两类参数可同时存在，也可只有其中一种。
 
-## 检索流程（对齐 `KnowledgeSearchEngine.search()`）
+## 检索流程
 
 ### Step 1 · 只读索引
 
@@ -53,7 +53,7 @@ allowed-tools:
 
 > index.json 里已有 title / tags / score / category / collected_at，不要为了输出这些字段多余地读全文。
 
-## 输出格式（对齐 `formatSearchResults()`）
+## 输出格式
 
 ```
 🔍 找到 N 条与「<query>」相关的内容：
