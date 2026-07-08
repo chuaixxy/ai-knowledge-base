@@ -22,6 +22,7 @@ const S = {
   DAILY_DIGEST:     "daily-digest",
   CATEGORY_SUMMARY: "category-summary",
   SUBSCRIBE_TAG:    "subscribe-tag",
+  KNOWLEDGE_QUERY:  "knowledge-query",
 } as const;
 
 type SkillName = (typeof S)[keyof typeof S];
@@ -59,6 +60,14 @@ const EVAL_CASES: EvalCase[] = [
   { query: "取消订阅 mcp",              skill: S.SUBSCRIBE_TAG },
   { query: "我订阅了什么",               skill: S.SUBSCRIBE_TAG },
   { query: "不要再推 tool 了",           skill: S.SUBSCRIBE_TAG },
+
+  // knowledge-query
+  { query: "搜索 MCP 协议相关文章",       skill: S.KNOWLEDGE_QUERY },
+  { query: "查找 agent 框架",            skill: S.KNOWLEDGE_QUERY },
+  { query: "找一下 RAG 文章",            skill: S.KNOWLEDGE_QUERY },
+  { query: "search langchain",          skill: S.KNOWLEDGE_QUERY },
+  { query: "关于 dify 有什么",           skill: S.KNOWLEDGE_QUERY },
+  { query: "找 #rag 标签文章",           skill: S.KNOWLEDGE_QUERY },
 ];
 
 // ── 读取 skill description ────────────────────────────────────────────────────

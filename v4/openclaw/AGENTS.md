@@ -25,6 +25,7 @@ This folder is home. Treat it that way.
 | 简报 / 摘要 / 今日 / daily / digest / briefing | `./skills/daily-digest/SKILL.md`        |
 | xx 类有多少 / xx 类 top N / 某分类几篇            | `./skills/category-summary/SKILL.md`    |
 | 订阅 / 取消订阅 / 关注 / 查看订阅 标签/主题           | `./skills/subscribe-tag/SKILL.md`       |
+| 搜索 / 查找 / 查询 / find / search 关键词        | `./skills/knowledge-query/SKILL.md`     |
 
 
 命中时：Read 对应的 `SKILL.md`，严格按其步骤执行，**不走下面的通用流程**。
