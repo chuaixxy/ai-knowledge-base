@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-machinelearning-2026-07-08-009",
+  "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+  "source_url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+  "author": "/u/Skeylos2 https://www.reddit.com/user/Skeylos2",
+  "published_at": "2026-07-07T16:20:47.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! I wanted to share some recent progress on <a href=\"https://github.com/SimplexLab/TorchJD\">TorchJD</a> that might be useful to the machine learning community.</p> <p>When training models with multiple losses (multiple tasks, constraints, auxiliary losses, regularization terms, etc.), you typically have two options:</p> <ul> <li>Scalarization: Various ways to combine those losses into a single loss (e.g. average them or combine them with trainable weights); then you can do gradient descent on it.</li> <li>Jacobian descent: Compute the Jacobian of the vector of losses (i.e. one gradient per loss), and aggregate it into an update vector that will decrease each individual loss (rather than just the average loss). There are many ways to do this aggregation step.</li> </ul> <p>Scalarization methods are generally cheaper in memory, but in some cases there is so much disagreement between your objectives that it's better to use a Jacobian descent me",
+  "collected_at": "2026-07-08T10:14:07.355Z",
+  "summary": "TorchJD 是一个 PyTorch 库，用于在多损失训练中实现雅可比下降法，替代标量聚合，能更有效地处理多目标冲突。",
+  "tags": [
+    "pytorch"
+  ],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "解决多目标优化痛点，技术方向有价值，但受众偏研究，工程实用性待验证。",
+  "analyzed_at": "2026-07-08T10:14:58.254Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

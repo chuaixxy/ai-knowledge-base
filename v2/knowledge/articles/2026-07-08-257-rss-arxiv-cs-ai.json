@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-08-006",
+  "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.05571",
+  "source_url": "https://arxiv.org/abs/2607.05571",
+  "author": "H. Chad Lane, Bryson Kageler",
+  "published_at": "2026-07-08T04:00:00.000Z",
+  "raw_description": "arXiv:2607.05571v1 Announce Type: new Abstract: Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs) offer a promising alternative, but selecting the right model for a specific educational context remains difficult, particularly when the target domain, such as block-based programming, is largely absent from model training data. We introduce CSTutorBench, a benchmark for evaluating language models as CS tutors in VEX VR, a block-based robotics environment. The benchmark comprises 17 scenario-based questions scored against a pedagogical rubric grounded in established tutoring and feedback research, with a human-in-the-loop LLM-as-judge pipeline for evaluation. Preliminary findings across 11 models (4B-120B parameters) reveal that models perform well on surface-level criteria such as vocabulary and tone but struggle with deeper pedagogical beh",
+  "collected_at": "2026-07-08T10:14:06.628Z",
+  "summary": "提出CSTutorBench基准，用于评估小语言模型在基于块的编程环境（VEX VR）中作为AI导师的表现，包含17个场景问题和教学评分标准。",
+  "tags": [
+    "ai"
+  ],
+  "category": "dataset",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "针对教育场景的SLM评估基准，填补了块编程领域空白，但初步结果有限，深度不足。",
+  "analyzed_at": "2026-07-08T10:14:50.932Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-07-08-011",
+  "title": "MUFG aims to become AI-native with OpenAI",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/mufg",
+  "source_url": "https://openai.com/index/mufg",
+  "author": "openai-blog",
+  "published_at": "2026-07-07T00:00:00.000Z",
+  "raw_description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+  "collected_at": "2026-07-08T10:14:07.661Z",
+  "summary": "三菱日联金融集团（MUFG）利用ChatGPT Enterprise构建AI原生组织，优化工作流程并规模化提供AI驱动的金融服务。",
+  "tags": [
+    "ai",
+    "chatgpt-enterprise"
+  ],
+  "category": "other",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "有价值的AI商业化应用案例，但技术深度一般，主要展示企业级AI部署。",
+  "analyzed_at": "2026-07-08T10:15:03.262Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

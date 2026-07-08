@@ -1,0 +1,24 @@
+{
+  "id": "rss-the-verge-ai-2026-07-08-021",
+  "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+  "source_url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+  "author": "Emma Roth",
+  "published_at": "2026-07-07T20:31:58.000Z",
+  "raw_description": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
+  "collected_at": "2026-07-08T10:14:08.654Z",
+  "summary": "Meta发布Muse Image模型，这是其Superintelligence Labs部门的首个AI图像生成模型，现已集成到Meta AI、Instagram和WhatsApp中，即将登陆Facebook和Messenger。",
+  "tags": [
+    "ai",
+    "meta",
+    "muse"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "Meta在图像生成领域的实际应用，技术深度一般，但具有广泛用户基础，评分0.65。",
+  "analyzed_at": "2026-07-08T10:15:27.056Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

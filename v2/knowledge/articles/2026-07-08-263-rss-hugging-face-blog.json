@@ -1,0 +1,23 @@
+{
+  "id": "rss-hugging-face-blog-2026-07-08-017",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "author": "hugging-face-blog",
+  "published_at": "2026-07-07T15:20:06.000Z",
+  "raw_description": "",
+  "collected_at": "2026-07-08T10:14:08.126Z",
+  "summary": "介绍如何在微软Foundry托管计算上部署和使用Hugging Face模型，提供高效、可扩展的推理服务。",
+  "tags": [
+    "hugging-face",
+    "foundry"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "实用部署指南，但技术深度一般，适合工程实践参考。",
+  "analyzed_at": "2026-07-08T10:15:17.374Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

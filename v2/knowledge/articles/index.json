@@ -1,5 +1,184 @@
 [
   {
+    "id": "rss-the-verge-ai-2026-07-08-022",
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "anthropic",
+      "claude-cowork",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:08.655Z"
+  },
+  {
+    "id": "rss-the-verge-ai-2026-07-08-021",
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "meta",
+      "muse"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:08.654Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-08-016",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "hugging-face",
+      "amazon-sagemaker"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:08.126Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-08-017",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "hugging-face",
+      "foundry"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:08.126Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-08-018",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/skypilot-hf-storage",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "hugging-face",
+      "skypilot",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:08.126Z"
+  },
+  {
+    "id": "rss-google-ai-blog-2026-07-08-013",
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "tags": [
+      "gemini-api",
+      "managed-agents",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:07.994Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-08-010",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/australian-payments-plus",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "chatgpt",
+      "codex"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:07.661Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-08-011",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/mufg",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "chatgpt-enterprise"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:07.661Z"
+  },
+  {
+    "id": "rss-reddit-r-machinelearning-2026-07-08-009",
+    "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [
+      "pytorch"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:07.355Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-08-004",
+    "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.05456",
+    "category": "framework",
+    "relevance_score": 0.75,
+    "tags": [],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:06.628Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-08-005",
+    "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.05563",
+    "category": "paper",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:06.628Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-08-006",
+    "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.05571",
+    "category": "dataset",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:06.628Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-07-08-001",
+    "title": "A global workspace in language models",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.anthropic.com/research/global-workspace",
+    "category": "research",
+    "relevance_score": 0.85,
+    "tags": [
+      "anthropic"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-08T10:14:06.527Z"
+  },
+  {
     "id": "rss-hugging-face-blog-2026-07-07-016",
     "title": "PRX Part 4: Our Data Strategy",
     "source": "rss-hugging-face-blog",

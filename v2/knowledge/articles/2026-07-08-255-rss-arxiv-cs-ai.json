@@ -1,0 +1,20 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-08-004",
+  "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.05456",
+  "source_url": "https://arxiv.org/abs/2607.05456",
+  "author": "Ramsha Kamran, Maheera Amjad, Zartasha Mustansar, Arsalan Shaukat, Salma Sherbaz, Muhammad U. S. Khan",
+  "published_at": "2026-07-08T04:00:00.000Z",
+  "raw_description": "arXiv:2607.05456v1 Announce Type: new Abstract: While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer from three critical deficiencies: (i) generated claims are not deterministically grounded in verifiable literature, (ii) experimental results are frequently fabricated rather than executed, and (iii) there exists no standardized, multi-dimensional framework to assess whether AI-generated manuscripts meet the quality and rigor required for real-world publication. We present Prompt-to-Paper, a multi-agent framework that directly addresses this evaluation gap through three integrated innovations. First, a deterministic retrieval-augmented generation pipeline with section-aware relevance scoring and snowball citation expansion grounds every claim in a verifiable corpus of 60--100 papers. Second, an autonomous coding agent executes real computational biology experiments replacing synthetic outputs with genuine numeric",
+  "collected_at": "2026-07-08T10:14:06.628Z",
+  "summary": "提出Prompt-to-Paper多智能体框架，通过确定性检索增强生成和自主编码代理，解决AI生成手稿中声明不可验证、结果伪造及缺乏评估标准的问题，实现可验证的生物信息学论文自动生成。",
+  "tags": [],
+  "category": "framework",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性地结合RAG和自主实验执行，解决AI论文生成的关键可信问题，但领域限定于生物信息学，通用性待验证。",
+  "analyzed_at": "2026-07-08T10:14:45.350Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

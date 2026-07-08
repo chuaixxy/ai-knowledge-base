@@ -1,0 +1,24 @@
+{
+  "id": "rss-google-ai-blog-2026-07-08-013",
+  "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+  "source": "rss-google-ai-blog",
+  "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+  "author": "Philipp Schmid Developer Relations Engineer Google DeepMind",
+  "published_at": "2026-07-07T08:54:00.000Z",
+  "raw_description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp\">We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+  "collected_at": "2026-07-08T10:14:07.994Z",
+  "summary": "Google在Gemini API中推出Managed Agents新功能，支持后台任务、远程MCP等，帮助开发者构建可靠的生产级AI代理。",
+  "tags": [
+    "gemini-api",
+    "managed-agents",
+    "ai"
+  ],
+  "category": "tool",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "核心亮点是增强代理的可靠性和生产就绪性，但技术细节有限，评分中等偏上。",
+  "analyzed_at": "2026-07-08T10:15:08.313Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

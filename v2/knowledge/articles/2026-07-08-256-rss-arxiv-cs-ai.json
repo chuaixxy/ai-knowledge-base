@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-08-005",
+  "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.05563",
+  "source_url": "https://arxiv.org/abs/2607.05563",
+  "author": "Spyridon Evangelatos, Christos Diou, Georgios Th. Papadopoulos, Evangelos Markakis, Panagiotis Sarigiannidis",
+  "published_at": "2026-07-08T04:00:00.000Z",
+  "raw_description": "arXiv:2607.05563v1 Announce Type: new Abstract: Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a deeper understanding of why a system behaves in a certain way under different inputs. Unlike traditional explainability methods, which mainly highlight correlations between input and output variables, causal explanation focuses on interventional questions. By doing so, it provides more robust insights, helping users understand automated decisions, especially in high-risk domains. Recovering an explicit directed causal structure, however, is often impractical in large-scale, hybrid cyber-physical systems with feedback loops and partial observability. This paper introduces a novel framework inspired by statistical mechanics that instead models variable dependencies through an undirected, energy-based representation of cyber-physical IoT systems. Our approach enables rigorous dependency-aware attribution by analysin",
+  "collected_at": "2026-07-08T10:14:06.628Z",
+  "summary": "本文提出一种受统计力学启发的框架，通过无向能量基表示对网络物理IoT系统进行依赖感知归因，以解决传统因果解释在大规模混合系统中的不可行问题。",
+  "tags": [
+    "ai"
+  ],
+  "category": "paper",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "创新性地将物理启发方法用于IoT系统归因，但偏理论且与LLM直接关联较弱，质量中等。",
+  "analyzed_at": "2026-07-08T10:14:48.270Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}

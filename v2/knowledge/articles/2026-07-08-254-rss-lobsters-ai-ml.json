@@ -1,0 +1,22 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-07-08-001",
+  "title": "A global workspace in language models",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://www.anthropic.com/research/global-workspace",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "author": "anthropic.com via bshanks",
+  "published_at": "2026-07-07T18:26:18.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\">Comments</a></p>",
+  "collected_at": "2026-07-08T10:14:06.527Z",
+  "summary": "Anthropic研究提出语言模型中的全局工作空间概念，探索模型内部信息整合与推理机制，旨在提升AI系统的认知能力。",
+  "tags": [
+    "anthropic"
+  ],
+  "category": "research",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "来自顶级AI实验室Anthropic，涉及模型内部机制创新，具有理论突破潜力，但尚处研究阶段。",
+  "analyzed_at": "2026-07-08T10:14:37.843Z",
+  "organized_at": "2026-07-08T10:15:40.803Z",
+  "status": "published"
+}
