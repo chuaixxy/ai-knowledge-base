@@ -1,0 +1,22 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-09-006",
+  "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.06624",
+  "source_url": "https://arxiv.org/abs/2607.06624",
+  "author": "Andrey Podivilov, Vadim Lomshakov, Sergey Savin, Matvei Startsev, Roman Pozharskiy, Maksim Parshin, Sergey Nikolenko",
+  "published_at": "2026-07-09T04:00:00.000Z",
+  "raw_description": "arXiv:2607.06624v1 Announce Type: new Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instructions, uses its tools, verifies its own work, recovers from mistakes, and talks to them along the way. AgentLens evaluates that whole trajectory. It pairs formal verification, where an objective check exists, with LLM-written trajectory reviews and side-by-side comparisons, so that each run yields a readable explanation of why the score is what it is. This makes AgentLens useful for more than ranking models: we use it to diagnose model behavior, compare successive versions of our own agent, and catch product regressions in a nightly evaluation pipeline. We release the benchmark as open source at https://github.com/agent-lens/agent-lens-bench.",
+  "collected_at": "2026-07-09T10:51:58.475Z",
+  "summary": "AgentLens是一个面向交互式代码智能体的生产评估基准，通过形式化验证与LLM轨迹审查相结合，提供可解释的评分，用于诊断模型行为、比较版本和检测产品回归。",
+  "tags": [
+    "llm"
+  ],
+  "category": "dataset",
+  "score": 0.75,
+  "audience": "研究员",
+  "analysis_note": "创新性地评估完整轨迹而非单一通过率，结合形式验证与LLM审查，实用性强，但技术深度中等。",
+  "analyzed_at": "2026-07-09T10:52:36.081Z",
+  "organized_at": "2026-07-09T10:53:46.915Z",
+  "status": "published"
+}

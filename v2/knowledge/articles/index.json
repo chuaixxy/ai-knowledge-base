@@ -1,5 +1,133 @@
 [
   {
+    "id": "rss-the-verge-ai-2026-07-09-026",
+    "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "chatgpt",
+      "openai",
+      "gpt-live-1"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:52:00.959Z"
+  },
+  {
+    "id": "rss-reddit-r-localllama-2026-07-09-023",
+    "title": "Best Local VLMs - July 2026",
+    "source": "rss-reddit-r-localllama",
+    "source_id": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
+    "category": "other",
+    "relevance_score": 0.55,
+    "tags": [
+      "vlm"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:52:00.649Z"
+  },
+  {
+    "id": "rss-hugging-face-blog-2026-07-09-018",
+    "title": "Data for Agents",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "category": "research",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "nvidia"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:52:00.069Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-09-013",
+    "title": "Separating signal from noise in coding evaluations",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai",
+      "openai",
+      "swe-bench"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:51:59.662Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-09-006",
+    "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.06624",
+    "category": "dataset",
+    "relevance_score": 0.75,
+    "tags": [
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:51:58.475Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-09-007",
+    "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.06720",
+    "category": "paper",
+    "relevance_score": 0.85,
+    "tags": [
+      "llm",
+      "in-context-search",
+      "sampling-complexity"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:51:58.475Z"
+  },
+  {
+    "id": "rss-arxiv-cs-ai-2026-07-09-008",
+    "title": "LLM-powered reasoning in agent-based modeling",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.06757",
+    "category": "paper",
+    "relevance_score": 0.72,
+    "tags": [
+      "llm",
+      "agent-based-modeling",
+      "epidemic-simulation"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:51:58.475Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-07-09-003",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "tags": [
+      "vllm",
+      "transformers"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:51:58.319Z"
+  },
+  {
+    "id": "rss-hacker-news-best-2026-07-09-002",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "category": "research",
+    "relevance_score": 0.75,
+    "tags": [
+      "ai",
+      "github"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-09T10:51:57.890Z"
+  },
+  {
     "id": "rss-the-verge-ai-2026-07-08-022",
     "title": "Anthropic is launching Claude Cowork on mobile and web",
     "source": "rss-the-verge-ai",

@@ -1,0 +1,22 @@
+{
+  "id": "rss-reddit-r-localllama-2026-07-09-023",
+  "title": "Best Local VLMs - July 2026",
+  "source": "rss-reddit-r-localllama",
+  "source_id": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
+  "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
+  "author": "/u/rm-rf-rm https://www.reddit.com/user/rm-rf-rm",
+  "published_at": "2026-07-05T19:08:06.000Z",
+  "raw_description": "<!-- SC_OFF --><div class=\"md\"><p>Share what your favorite models are right now and <strong><em>why</em></strong>. Given the nature of the beast in evaluating VLMs (untrustworthiness of benchmarks, immature tooling, intrinsic stochasticity), please be as detailed as possible in </p> <ul> <li>describing your setup (at least hardware and inference engine) </li> <li>nature of your usage (what applications, how much, personal/professional use)</li> <li>tools/frameworks/prompts etc.</li> </ul> <p><strong>Rules</strong></p> <ol> <li>Only open weights models allowed</li> </ol> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rm-rf-rm\"> /u/rm-rf-rm </a> <br/> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/\">[comments]</a></span>",
+  "collected_at": "2026-07-09T10:52:00.649Z",
+  "summary": "Reddit社区讨论2026年7月最佳本地视觉语言模型，要求用户分享硬件、推理引擎、使用场景及工具，仅限开源权重模型。",
+  "tags": [
+    "vlm"
+  ],
+  "category": "other",
+  "score": 0.55,
+  "audience": "工程师",
+  "analysis_note": "社区讨论帖，非技术突破或工具，但涉及本地VLM实践，对工程师有参考价值，相关性中等。",
+  "analyzed_at": "2026-07-09T10:53:20.084Z",
+  "organized_at": "2026-07-09T10:53:46.915Z",
+  "status": "published"
+}

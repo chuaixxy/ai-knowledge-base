@@ -1,0 +1,23 @@
+{
+  "id": "rss-hugging-face-blog-2026-07-09-018",
+  "title": "Data for Agents",
+  "source": "rss-hugging-face-blog",
+  "source_id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "source_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "author": "hugging-face-blog",
+  "published_at": "2026-07-08T17:16:05.000Z",
+  "raw_description": "",
+  "collected_at": "2026-07-09T10:52:00.069Z",
+  "summary": "NVIDIA发布Data for Agents博客，探讨为AI代理构建开放数据集的策略与方法，旨在提升代理系统的数据质量与可用性。",
+  "tags": [
+    "ai",
+    "nvidia"
+  ],
+  "category": "research",
+  "score": 0.65,
+  "audience": "研究员",
+  "analysis_note": "聚焦代理数据构建，有实用价值，但内容偏概念性，技术深度一般。",
+  "analyzed_at": "2026-07-09T10:53:07.523Z",
+  "organized_at": "2026-07-09T10:53:46.915Z",
+  "status": "published"
+}

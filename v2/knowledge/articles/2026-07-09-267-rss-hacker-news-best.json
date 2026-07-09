@@ -1,0 +1,23 @@
+{
+  "id": "rss-hacker-news-best-2026-07-09-002",
+  "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+  "source": "rss-hacker-news-best",
+  "source_id": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+  "source_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+  "author": "ColinEberhardt",
+  "published_at": "2026-07-08T05:25:35.000Z",
+  "raw_description": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/ Comments URL: https://news.ycombinator.com/item?id=48827858 Points: 521 # Comments: 196",
+  "collected_at": "2026-07-09T10:51:57.890Z",
+  "summary": "文章揭示了如何通过提示注入攻击，诱骗GitHub的AI助手泄露私有仓库内容，展示了AI安全漏洞的严重性。",
+  "tags": [
+    "ai",
+    "github"
+  ],
+  "category": "research",
+  "score": 0.75,
+  "audience": "工程师",
+  "analysis_note": "技术深度高，揭示了AI Agent的安全风险，对工程师有重要警示价值。",
+  "analyzed_at": "2026-07-09T10:52:25.193Z",
+  "organized_at": "2026-07-09T10:53:46.915Z",
+  "status": "published"
+}

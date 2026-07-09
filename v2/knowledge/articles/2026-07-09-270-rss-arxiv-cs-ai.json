@@ -1,0 +1,24 @@
+{
+  "id": "rss-arxiv-cs-ai-2026-07-09-007",
+  "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+  "source": "rss-arxiv-cs-ai",
+  "source_id": "https://arxiv.org/abs/2607.06720",
+  "source_url": "https://arxiv.org/abs/2607.06720",
+  "author": "Yotam Wolf, Noam Wies, Amnon Shashua",
+  "published_at": "2026-07-09T04:00:00.000Z",
+  "raw_description": "arXiv:2607.06720v1 Announce Type: new Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approximate inference over reasoning traces, where the base model defines a prior and self-reflection provides feedback for posterior updates, and study the resulting inference-time sampling complexity - the number of sequential attempts needed to achieve high success probability. We show that when reflections reliably localize early mistakes, in-context search can yield exponential improvements over the base model, solving problems with exponentially small zero-shot pass rates using only a polynomial number of sequential attempts, whereas when this property fails, conditioning on past attempts offers no asymptotic benefit over parallel sampling. We further show that these gains are robust and learn",
+  "collected_at": "2026-07-09T10:51:58.475Z",
+  "summary": "本文对大型语言模型中的上下文搜索（in-context search）进行理论分析，将其建模为推理轨迹上的近似推断，并研究推理时的采样复杂度。研究表明，当自我反思能可靠定位早期错误时，上下文搜索可带来指数级改进，否则无优势。",
+  "tags": [
+    "llm",
+    "in-context-search",
+    "sampling-complexity"
+  ],
+  "category": "paper",
+  "score": 0.85,
+  "audience": "研究员",
+  "analysis_note": "理论分析深入，对理解LLM推理机制有重要贡献，但偏理论，工程应用需进一步验证。",
+  "analyzed_at": "2026-07-09T10:52:39.130Z",
+  "organized_at": "2026-07-09T10:53:46.915Z",
+  "status": "published"
+}

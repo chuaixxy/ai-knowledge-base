@@ -1,0 +1,24 @@
+{
+  "id": "rss-the-verge-ai-2026-07-09-026",
+  "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+  "source": "rss-the-verge-ai",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+  "author": "Emma Roth",
+  "published_at": "2026-07-08T17:00:00.000Z",
+  "raw_description": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's [&#8230;]",
+  "collected_at": "2026-07-09T10:52:00.959Z",
+  "summary": "OpenAI升级ChatGPT语音模式，推出GPT-Live-1模型，减少打断，支持暂停后等待用户继续说话，提升对话自然度。",
+  "tags": [
+    "chatgpt",
+    "openai",
+    "gpt-live-1"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "产品功能改进，技术深度一般，但提升用户体验，对AI语音交互领域有参考价值。",
+  "analyzed_at": "2026-07-09T10:53:27.862Z",
+  "organized_at": "2026-07-09T10:53:46.915Z",
+  "status": "published"
+}
