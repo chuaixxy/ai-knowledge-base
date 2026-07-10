@@ -68,7 +68,7 @@ describe("fitFeishuBodySize", () => {
     expect(fitFeishuBodySize(payload)).toEqual(payload);
   });
 
-  test("超大 summary 会被截断", () => {
+  test("超大 summary 会被截断（schema 2.0 body）", () => {
     const payload = {
       msg_type: "interactive",
       card: {
@@ -83,6 +83,27 @@ describe("fitFeishuBodySize", () => {
     expect(
       (out.card as { body: { elements: { content: string }[] } }).body
         .elements[0]!.content
+    ).toContain("已截断");
+  });
+
+  test("汇总卡片 card.elements 超大内容会被截断", () => {
+    const payload = {
+      msg_type: "interactive",
+      card: {
+        elements: [
+          {
+            tag: "div",
+            text: { tag: "lark_md", content: "x".repeat(30_000) },
+          },
+        ],
+      },
+    };
+    const out = fitFeishuBodySize(payload, FEISHU_MAX_BODY_BYTES);
+    const size = Buffer.byteLength(JSON.stringify(out), "utf8");
+    expect(size).toBeLessThanOrEqual(FEISHU_MAX_BODY_BYTES);
+    expect(
+      (out.card as { elements: { text: { content: string } }[] }).elements[0]!
+        .text.content,
     ).toContain("已截断");
   });
 });

@@ -180,6 +180,7 @@ export function jsonToMarkdown(article: Article): string {
 
 // ── 3. Feishu Interactive Card ────────────────────────────────────────────────
 
+/** 单篇文章飞书卡片（保留供独立推送场景使用）。 */
 export function jsonToFeishu(article: Article): object {
   const color = scoreColor(article.relevance_score);
   const date = dateOnly(article);
@@ -257,6 +258,95 @@ export function jsonToFeishu(article: Article): object {
   };
 }
 
+/** 空简报的飞书卡片（与 Python _build_empty_feishu_card 一致）。 */
+export function buildEmptyFeishuCard(date: string): object {
+  return {
+    msg_type: "interactive",
+    card: {
+      header: {
+        title: {
+          tag: "plain_text",
+          content: `📭 AI 知识库每日简报 — ${date}`,
+        },
+        template: "grey",
+      },
+      elements: [
+        {
+          tag: "div",
+          text: {
+            tag: "plain_text",
+            content: "今日暂无新增知识条目。",
+          },
+        },
+      ],
+    },
+  };
+}
+
+/**
+ * 构建飞书汇总卡片：多篇文章合并为一条消息（与 Python _build_feishu_digest 一致）。
+ */
+export function buildFeishuDigest(date: string, articles: Article[]): object {
+  if (articles.length === 0) {
+    return buildEmptyFeishuCard(date);
+  }
+
+  const elements: object[] = [];
+
+  for (let i = 0; i < articles.length; i++) {
+    const article = articles[i]!;
+    const tags = article.tags.join(" | ");
+    const score = article.relevance_score;
+    const summary =
+      article.summary.length > 100
+        ? `${article.summary.slice(0, 100)}...`
+        : article.summary;
+
+    elements.push({
+      tag: "div",
+      text: {
+        tag: "lark_md",
+        content: [
+          `**${i + 1}. ${article.title}**`,
+          summary,
+          `来源：${article.source} | 相关性：${score.toFixed(1)} | 标签：${tags}`,
+        ].join("\n"),
+      },
+    });
+
+    elements.push({
+      tag: "action",
+      actions: [
+        {
+          tag: "button",
+          text: { tag: "plain_text", content: "查看原文" },
+          url: article.url,
+          type: "default",
+        },
+      ],
+    });
+
+    if (i < articles.length - 1) {
+      elements.push({ tag: "hr" });
+    }
+  }
+
+  return {
+    msg_type: "interactive",
+    card: {
+      config: { wide_screen_mode: true },
+      header: {
+        title: {
+          tag: "plain_text",
+          content: `📰 AI 知识库每日简报 — ${date}`,
+        },
+        template: "blue",
+      },
+      elements,
+    },
+  };
+}
+
 // ── 4. Daily Digest ───────────────────────────────────────────────────────────
 
 interface DigestOptions {
@@ -270,7 +360,8 @@ interface DailyDigest {
   total: number;
   articles: Article[];
   markdown: string;
-  feishu: object[];
+  /** 单张汇总卡片，各渠道发送一条消息（与 Python 版一致）。 */
+  feishu: object;
 }
 
 type BucketMap = Map<string, Article[]>;
@@ -354,6 +445,6 @@ export async function generateDailyDigest(
     total: articles.length,
     articles: allTop,
     markdown: renderDigestMarkdown(date, articles.length, bucketMap, buckets),
-    feishu: allTop.map(jsonToFeishu),
+    feishu: buildFeishuDigest(date, allTop),
   };
 }

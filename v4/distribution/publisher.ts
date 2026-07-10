@@ -17,7 +17,7 @@
  *
  * ## 飞书官方限制
  *
- * - 频率：5 次/秒、100 次/分钟（本模块卡片间隔 250ms，限流时 via withRetry 指数退避）
+ * - 频率：5 次/秒、100 次/分钟（限流时 via withRetry 指数退避）
  * - 请求体：≤ 20 KB（发送前自动截断过长 summary）
  * - IP 白名单：在飞书机器人设置中配置，代码无需改动
  *
@@ -32,11 +32,10 @@ import { join } from "node:path";
 import { generateDailyDigest } from "./formatter.js";
 import {
   FEISHU_MAX_RETRIES,
-  FEISHU_SEND_INTERVAL_MS,
   isFeishuRateLimited,
   prepareFeishuPayload,
 } from "./feishu-webhook.js";
-import { sleep, withRetry } from "./retry.js";
+import { withRetry } from "./retry.js";
 
 // ── 共享类型 ──────────────────────────────────────────────────────────────────
 
@@ -260,22 +259,13 @@ export class FeishuPublisher extends BasePublisher {
   }
 
   /**
-   * 顺序发送日报卡片。
+   * 发送每日汇总卡片（一条消息，与 Python FeishuPublisher.send_digest 一致）。
    *
-   * 卡片逐条发送（非并发），间隔 {@link FEISHU_SEND_INTERVAL_MS} ms；
-   * 触发限流时自动指数退避重试。
-   *
-   * @param digest - 日报；digest.feishu 为预构建的卡片载荷。
-   * @returns 每张卡片对应一条 PublishResult。
+   * @param digest - 日报；digest.feishu 为预构建的汇总卡片载荷。
    */
   async sendDigest(digest: DailyDigest): Promise<PublishResult[]> {
-    const results: PublishResult[] = [];
-    for (let i = 0; i < digest.feishu.length; i++) {
-      const card = digest.feishu[i] as Record<string, unknown>;
-      results.push(await this.postFeishu(card));
-      if (i < digest.feishu.length - 1) await sleep(FEISHU_SEND_INTERVAL_MS);
-    }
-    return results;
+    const card = digest.feishu as Record<string, unknown>;
+    return [await this.postFeishu(card)];
   }
 }
 
@@ -296,7 +286,7 @@ export interface PublishOptions extends DigestOptions {
  * - 始终启用 {@link FilePublisher} → `output/digest-YYYY-MM-DD.md`
  * - `FEISHU_WEBHOOK_URL` → {@link FeishuPublisher}
  *
- * 各渠道并发执行；渠道内卡片顺序发送。
+ * 各渠道并发执行；飞书每个渠道发送一条汇总卡片。
  *
  * @param opts - 可选的日报生成参数与发布器覆盖。
  * @returns 所有渠道 {@link PublishResult} 的扁平数组。

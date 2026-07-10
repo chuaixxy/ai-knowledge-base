@@ -8,8 +8,10 @@ import { tmpdir } from "node:os";
 import { afterEach, describe, test, expect } from "vitest";
 import {
   FilePublisher,
+  FeishuPublisher,
   publishFile,
 } from "../distribution/publisher.ts";
+import { buildEmptyFeishuCard } from "../distribution/formatter.ts";
 
 let tempDir = "";
 
@@ -58,7 +60,7 @@ describe("FilePublisher", () => {
       total: 3,
       articles: [],
       markdown: "# 知识库日报 2026-07-01",
-      feishu: [],
+      feishu: buildEmptyFeishuCard("2026-07-01"),
     });
 
     expect(result.success).toBe(true);
@@ -66,5 +68,36 @@ describe("FilePublisher", () => {
 
     const saved = await readFile(join(dir, "digest-2026-07-01.md"), "utf-8");
     expect(saved).toBe("# 知识库日报 2026-07-01");
+  });
+});
+
+describe("FeishuPublisher", () => {
+  test("sendDigest 只发送一条汇总卡片", async () => {
+    const calls: unknown[] = [];
+    const originalFetch = globalThis.fetch;
+    globalThis.fetch = (async (_url, init) => {
+      calls.push(JSON.parse(String(init?.body)));
+      return new Response(JSON.stringify({ code: 0 }), { status: 200 });
+    }) as typeof fetch;
+
+    try {
+      const pub = new FeishuPublisher({
+        webhookUrl: "https://example.com/hook",
+      });
+      const card = buildEmptyFeishuCard("2026-07-01");
+      const results = await pub.sendDigest({
+        date: "2026-07-01",
+        total: 0,
+        articles: [],
+        markdown: "# empty",
+        feishu: card,
+      });
+
+      expect(results).toHaveLength(1);
+      expect(results[0]!.success).toBe(true);
+      expect(calls).toHaveLength(1);
+    } finally {
+      globalThis.fetch = originalFetch;
+    }
   });
 });

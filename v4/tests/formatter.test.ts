@@ -4,6 +4,8 @@
 
 import { describe, test, expect } from "vitest";
 import {
+  buildEmptyFeishuCard,
+  buildFeishuDigest,
   groupByBucket,
   orderedBucketKeys,
   renderDigestMarkdown,
@@ -144,5 +146,32 @@ describe("groupByBucket 集成行为", () => {
     );
     expect(md).toContain("## Agent");
     expect(md).toContain("Agent 文章");
+  });
+});
+
+describe("buildFeishuDigest — 与 Python 一致的单卡片汇总", () => {
+  test("多篇文章合并为一张卡片", () => {
+    const articles = [
+      makeArticle({ title: "Article A", relevance_score: 0.9, tags: ["mcp"] }),
+      makeArticle({ title: "Article B", relevance_score: 0.7, tags: ["rag"] }),
+    ];
+    const card = buildFeishuDigest("2026-07-10", articles) as {
+      msg_type: string;
+      card: { elements: unknown[]; header: { title: { content: string } } };
+    };
+
+    expect(card.msg_type).toBe("interactive");
+    expect(card.card.header.title.content).toContain("2026-07-10");
+    expect(card.card.elements.length).toBeGreaterThan(2);
+    expect(JSON.stringify(card)).toContain("Article A");
+    expect(JSON.stringify(card)).toContain("Article B");
+    expect(JSON.stringify(card)).toContain('"tag":"hr"');
+  });
+
+  test("无文章时返回空简报卡片", () => {
+    const card = buildEmptyFeishuCard("2026-07-10") as {
+      card: { header: { title: { content: string } } };
+    };
+    expect(card.card.header.title.content).toContain("📭");
   });
 });

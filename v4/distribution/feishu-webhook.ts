@@ -80,24 +80,45 @@ export function fitFeishuBodySize(
   const clone = structuredClone(payload) as FeishuPayload;
   if (Buffer.byteLength(JSON.stringify(clone), "utf8") <= maxBytes) return clone;
 
-  const card = clone.card as { body?: { elements?: MarkdownElement[] } } | undefined;
-  const elements = card?.body?.elements;
-  if (!elements?.length) return clone;
+  const card = clone.card as {
+    body?: { elements?: MarkdownElement[] };
+    elements?: Array<{ tag: string; text?: { content?: string } }>;
+  } | undefined;
 
-  const markdownEls = elements.filter(
-    (el) => el.tag === "markdown" && typeof el.content === "string"
-  );
-  if (!markdownEls.length) return clone;
+  // schema 2.0: card.body.elements markdown
+  const bodyElements = card?.body?.elements;
+  if (bodyElements?.length) {
+    const markdownEls = bodyElements.filter(
+      (el) => el.tag === "markdown" && typeof el.content === "string",
+    );
+    for (const el of markdownEls) {
+      const suffix = "…（已截断）";
+      while (
+        Buffer.byteLength(JSON.stringify(clone), "utf8") > maxBytes &&
+        (el.content?.length ?? 0) > suffix.length + 20
+      ) {
+        el.content = el.content!.slice(0, el.content!.length - 200) + suffix;
+      }
+    }
+    if (Buffer.byteLength(JSON.stringify(clone), "utf8") <= maxBytes) return clone;
+  }
 
-  const suffix = "…（已截断）";
-  for (const el of markdownEls) {
-    while (
-      Buffer.byteLength(JSON.stringify(clone), "utf8") > maxBytes &&
-      (el.content?.length ?? 0) > suffix.length + 20
-    ) {
-      el.content = el.content!.slice(0, el.content!.length - 200) + suffix;
+  // Python 汇总卡片: card.elements div.lark_md
+  const rootElements = card?.elements;
+  if (rootElements?.length) {
+    const suffix = "…（已截断）";
+    for (const el of rootElements) {
+      if (el.tag !== "div" || typeof el.text?.content !== "string") continue;
+      while (
+        Buffer.byteLength(JSON.stringify(clone), "utf8") > maxBytes &&
+        el.text.content.length > suffix.length + 20
+      ) {
+        el.text.content =
+          el.text.content.slice(0, el.text.content.length - 200) + suffix;
+      }
     }
   }
+
   return clone;
 }
 
