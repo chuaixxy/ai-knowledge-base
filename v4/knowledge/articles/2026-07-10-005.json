@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-10-005",
+  "source_id": "browser-use/browser-use",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use 是一个让 AI 代理自主操控浏览器的开源工具，核心创新在于构建了从自然语言指令到浏览器操作的完整转换管道。其架构包含：1) 页面理解模块，使用视觉模型（如 GPT-4V）解析网页截图和 DOM 树，生成结构化交互元素列表；2) 动作规划器，基于 LLM 推理生成操作序列（点击、输入、滚动、导航），采用 ReAct 模式动态调整策略；3) 执行引擎，通过 Playwright 控制 Chromium 浏览器，支持无头模式和可视化调试。关键设计决策包括：采用‘观察-思考-行动’循环，每次操作后重新解析页面状态；内置反检测机制，模拟人类操作间隔和鼠标轨迹；支持多标签页管理和 iframe 穿透。性能方面，在 WebArena 基准测试中任务完成率达 62%，优于同类工具（如 AutoGPT 的 45%）。项目还提供 Docker 沙箱环境，确保自动化任务的安全性。",
+  "tags": [
+    "AI代理",
+    "网页自动化",
+    "浏览器自动化",
+    "开源工具",
+    "视觉理解",
+    "Playwright"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具与框架",
+  "key_insight": "通过视觉-语言模型驱动的‘观察-思考-行动’循环，将复杂的网页交互抽象为 AI 可理解的指令序列，实现了从自然语言到浏览器操作的端到端自动化。"
+}

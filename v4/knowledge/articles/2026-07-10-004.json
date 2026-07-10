@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-10-004",
+  "source_id": "Shubhamsaboo/awesome-llm-apps",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "summary": "该项目是一个面向实践的 AI Agent 和 RAG 应用模板库，包含 100+ 可直接运行的示例，覆盖 8 大场景：客服对话（基于 RAG 的知识库问答）、代码生成（结合工具调用的自修复代码代理）、数据分析（自然语言到 SQL 查询）、多模态应用（图像理解+文本生成）、自动化工作流（邮件处理、网页抓取）、金融分析（实时市场数据检索）、医疗咨询（医学文献 RAG）和游戏 AI（NPC 对话系统）。每个示例采用标准化目录结构，包含 requirements.txt、配置文件和测试数据。项目特色在于提供可复用的模块化组件，如自定义检索器、工具包装器和提示模板，开发者可通过修改 YAML 配置文件快速适配新场景。其核心价值在于降低了 AI 应用实践的门槛，但缺乏对底层算法和性能优化的深入讨论。",
+  "tags": [
+    "AI Agent",
+    "RAG",
+    "LLM应用",
+    "开源",
+    "代码示例",
+    "模板库"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用开发",
+  "key_insight": "通过场景化模板库提供‘开箱即用’的 AI 应用示例，显著缩短从概念到原型的验证周期，是学习和快速原型开发的实用资源。"
+}

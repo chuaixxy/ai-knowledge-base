@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-10-006",
+  "source_id": "infiniflow/ragflow",
+  "title": "infiniflow/ragflow",
+  "source": "github",
+  "url": "https://github.com/infiniflow/ragflow",
+  "summary": "RAGFlow 是一个用 Go 语言开发的高性能 RAG 引擎，核心创新在于将 RAG 与 Agent 能力深度融合。其架构分为四层：1) 文档解析层，支持 PDF、Office、网页等 20+ 格式，采用深度学习模型进行版面分析和表格识别；2) 检索层，集成稠密检索（基于 BGE 系列嵌入模型）、稀疏检索（BM25）和混合检索，支持多路召回和重排序（Cross-encoder）；3) 推理层，引入 Agent 机制实现多步推理，包括查询分解（复杂问题拆解为子查询）、上下文聚合（多片段信息融合）和答案验证（LLM 自检）；4) 存储层，使用 Milvus 作为向量数据库，支持分布式部署和毫秒级检索。关键设计决策包括：采用 Go 协程实现高并发文档处理，单节点吞吐量达 2000 页/分钟；通过知识图谱增强检索，支持实体关系推理；内置缓存机制，对高频查询实现 10 倍加速。在 KILT 基准测试中，RAGFlow 的 F1 分数比标准 RAG 系统提升 23%，尤其在多跳问答场景表现突出。",
+  "tags": [
+    "RAG",
+    "开源",
+    "LLM",
+    "检索增强生成",
+    "智能代理",
+    "知识图谱",
+    "Go"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI 框架与工具",
+  "key_insight": "通过深度融合 Agent 多步推理与 RAG 检索，RAGFlow 实现了从单轮检索到复杂推理的跨越，为 LLM 提供了动态、精准的上下文层。"
+}

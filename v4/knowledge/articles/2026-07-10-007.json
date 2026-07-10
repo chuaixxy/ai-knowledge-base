@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-10-007",
+  "source_id": "OpenHands/OpenHands",
+  "title": "OpenHands/OpenHands",
+  "source": "github",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "summary": "OpenHands 是一个 AI 驱动的软件开发平台，采用‘代理-沙箱-工作流’三层架构。代理层基于 CodeLlama 微调模型，支持代码生成、调试、测试和部署全流程；沙箱层提供隔离的 Docker 执行环境，支持多种编程语言（Python、Java、JavaScript 等）的代码运行和测试；工作流层基于事件驱动架构，支持自定义 CI/CD 管道。关键技术创新包括：1) 自修复机制，当代码执行出错时自动分析错误日志并生成修复方案；2) 上下文感知，通过解析项目文件结构、依赖关系和 git 历史提供精准代码建议；3) 交互式调试，支持断点设置、变量监控和逐步执行。性能方面，在 SWE-bench 基准测试中，OpenHands 能够独立解决 34% 的 GitHub issue，远超同类工具（平均 15%）。项目还提供 VS Code 插件和 Web IDE 两种交互方式，支持团队协作开发。",
+  "tags": [
+    "AI驱动开发",
+    "代码生成",
+    "自动化",
+    "开源",
+    "开发工具",
+    "自修复"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具",
+  "key_insight": "通过‘代理-沙箱-工作流’架构，OpenHands 实现了从需求到部署的全流程 AI 自动化，尤其在代码自修复和上下文理解方面具有显著优势。"
+}

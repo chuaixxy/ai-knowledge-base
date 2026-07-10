@@ -499,5 +499,188 @@
     ],
     "status": "published",
     "collected_at": "2026-07-07T17:14:51.506Z"
+  },
+  {
+    "id": "2026-07-10-001",
+    "title": "NousResearch/hermes-agent",
+    "source": "github",
+    "source_id": "NousResearch/hermes-agent",
+    "category": "AI代理与个性化交互",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "个性化",
+      "持续学习",
+      "记忆管理",
+      "强化学习",
+      "隐私保护"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-002",
+    "title": "langgenius/dify",
+    "source": "github",
+    "source_id": "langgenius/dify",
+    "category": "AI开发平台",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI平台",
+      "智能体工作流",
+      "LLM应用开发",
+      "RAG",
+      "可视化编排",
+      "微服务"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-003",
+    "title": "langchain-ai/langchain",
+    "source": "github",
+    "source_id": "langchain-ai/langchain",
+    "category": "AI开发框架",
+    "relevance_score": 0.95,
+    "tags": [
+      "大语言模型",
+      "智能体",
+      "AI框架",
+      "开源",
+      "LLM应用开发",
+      "ReAct"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-004",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source": "github",
+    "source_id": "Shubhamsaboo/awesome-llm-apps",
+    "category": "AI应用开发",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "RAG",
+      "LLM应用",
+      "开源",
+      "代码示例",
+      "模板库"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-005",
+    "title": "browser-use/browser-use",
+    "source": "github",
+    "source_id": "browser-use/browser-use",
+    "category": "AI工具与框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "网页自动化",
+      "浏览器自动化",
+      "开源工具",
+      "视觉理解",
+      "Playwright"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-006",
+    "title": "infiniflow/ragflow",
+    "source": "github",
+    "source_id": "infiniflow/ragflow",
+    "category": "AI 框架与工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "RAG",
+      "开源",
+      "LLM",
+      "检索增强生成",
+      "智能代理",
+      "知识图谱",
+      "Go"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-007",
+    "title": "OpenHands/OpenHands",
+    "source": "github",
+    "source_id": "OpenHands/OpenHands",
+    "category": "AI开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI驱动开发",
+      "代码生成",
+      "自动化",
+      "开源",
+      "开发工具",
+      "自修复"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-008",
+    "title": "DietrichGebert/ponytail",
+    "source": "github",
+    "source_id": "DietrichGebert/ponytail",
+    "category": "AI编程工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "代码优化",
+      "开发效率",
+      "反模式",
+      "懒人哲学",
+      "AST分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-009",
+    "title": "bytedance/deer-flow",
+    "source": "github",
+    "source_id": "bytedance/deer-flow",
+    "category": "AI Agent 框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "开源框架",
+      "长周期任务",
+      "自主智能体",
+      "字节跳动",
+      "沙箱",
+      "记忆系统",
+      "任务分解"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-10-010",
+    "title": "hiyouga/LlamaFactory",
+    "source": "github",
+    "source_id": "hiyouga/LlamaFactory",
+    "category": "AI模型训练与优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "大语言模型",
+      "微调框架",
+      "高效微调",
+      "LoRA",
+      "ACL 2024",
+      "分布式训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T16:08:27.017Z"
   }
 ]
