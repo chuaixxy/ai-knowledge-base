@@ -72,7 +72,7 @@ describe("FilePublisher", () => {
 });
 
 describe("FeishuPublisher", () => {
-  test("sendDigest 只发送一条汇总卡片", async () => {
+  test("sendDigest 发送一条每日汇总卡片", async () => {
     const calls: unknown[] = [];
     const originalFetch = globalThis.fetch;
     globalThis.fetch = (async (_url, init) => {

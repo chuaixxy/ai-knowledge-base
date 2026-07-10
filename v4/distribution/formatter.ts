@@ -180,12 +180,59 @@ export function jsonToMarkdown(article: Article): string {
 
 // ── 3. Feishu Interactive Card ────────────────────────────────────────────────
 
-/** 单篇文章飞书卡片（保留供独立推送场景使用）。 */
+/** 单篇文章元数据块（来源 / 相关性 / 分类 / 标签分行）。 */
+function feishuArticleMetaLines(article: Article): string {
+  const emoji = scoreEmoji(article.relevance_score);
+  const tagLine = article.tags.length > 0 ? article.tags.join(" | ") : "—";
+  const lines = [
+    `**来源** ${article.source}`,
+    `**相关性** ${emoji} ${article.relevance_score.toFixed(1)}`,
+  ];
+  if (article.category) {
+    lines.push(`**分类** ${article.category}`);
+  }
+  lines.push(`**标签** ${tagLine}`);
+  return lines.join("\n");
+}
+
+/** 单篇文章卡片 body 元素（摘要 + 元数据 + 洞察 + 链接）。 */
+function feishuArticleBodyElements(
+  article: Article,
+  index?: number,
+): object[] {
+  const elements: object[] = [];
+
+  if (index !== undefined) {
+    elements.push({
+      tag: "markdown",
+      content: `**${index}. ${article.title}**`,
+    });
+  }
+
+  elements.push(
+    { tag: "markdown", content: article.summary },
+    { tag: "markdown", content: feishuArticleMetaLines(article) },
+  );
+
+  if (article.key_insight) {
+    elements.push({
+      tag: "markdown",
+      content: `**核心洞察** ${article.key_insight}`,
+    });
+  }
+
+  elements.push({
+    tag: "markdown",
+    content: `[阅读原文](${article.url})`,
+  });
+
+  return elements;
+}
+
+/** 单篇文章飞书卡片（独立推送场景）。 */
 export function jsonToFeishu(article: Article): object {
   const color = scoreColor(article.relevance_score);
   const date = dateOnly(article);
-  const emoji = scoreEmoji(article.relevance_score);
-  const tagText = article.tags.join(" · ");
 
   return {
     msg_type: "interactive",
@@ -199,58 +246,34 @@ export function jsonToFeishu(article: Article): object {
         },
         subtitle: {
           tag: "plain_text",
-          content: `${article.source} · ${date}`,
+          content: date,
+        },
+      },
+      body: {
+        elements: feishuArticleBodyElements(article),
+      },
+    },
+  };
+}
+
+/** 空简报的飞书卡片。 */
+export function buildEmptyFeishuCard(date: string): object {
+  return {
+    msg_type: "interactive",
+    card: {
+      schema: "2.0",
+      header: {
+        template: "grey",
+        title: {
+          tag: "plain_text",
+          content: `📭 知识库日报 ${date}`,
         },
       },
       body: {
         elements: [
           {
             tag: "markdown",
-            content: article.summary,
-          },
-          {
-            tag: "column_set",
-            flex_mode: "stretch",
-            columns: [
-              {
-                tag: "column",
-                elements: [
-                  {
-                    tag: "markdown",
-                    content: `**相关性** ${emoji} ${article.relevance_score.toFixed(2)}`,
-                  },
-                ],
-              },
-              {
-                tag: "column",
-                elements: [
-                  {
-                    tag: "markdown",
-                    content: `**分类** ${article.category}`,
-                  },
-                ],
-              },
-            ],
-          },
-          ...(tagText
-            ? [
-                {
-                  tag: "markdown",
-                  content: `**标签** ${tagText}`,
-                },
-              ]
-            : []),
-          ...(article.key_insight
-            ? [
-                {
-                  tag: "markdown",
-                  content: `**核心洞察** ${article.key_insight}`,
-                },
-              ]
-            : []),
-          {
-            tag: "markdown",
-            content: `[阅读原文](${article.url})`,
+            content: "今日暂无新增知识条目。",
           },
         ],
       },
@@ -258,33 +281,8 @@ export function jsonToFeishu(article: Article): object {
   };
 }
 
-/** 空简报的飞书卡片（与 Python _build_empty_feishu_card 一致）。 */
-export function buildEmptyFeishuCard(date: string): object {
-  return {
-    msg_type: "interactive",
-    card: {
-      header: {
-        title: {
-          tag: "plain_text",
-          content: `📭 AI 知识库每日简报 — ${date}`,
-        },
-        template: "grey",
-      },
-      elements: [
-        {
-          tag: "div",
-          text: {
-            tag: "plain_text",
-            content: "今日暂无新增知识条目。",
-          },
-        },
-      ],
-    },
-  };
-}
-
 /**
- * 构建飞书汇总卡片：多篇文章合并为一条消息（与 Python _build_feishu_digest 一致）。
+ * 构建每日汇总飞书卡片：一条消息，内含多篇文章，每篇样式同 jsonToFeishu。
  */
 export function buildFeishuDigest(date: string, articles: Article[]): object {
   if (articles.length === 0) {
@@ -294,55 +292,28 @@ export function buildFeishuDigest(date: string, articles: Article[]): object {
   const elements: object[] = [];
 
   for (let i = 0; i < articles.length; i++) {
-    const article = articles[i]!;
-    const tags = article.tags.join(" | ");
-    const score = article.relevance_score;
-    const summary =
-      article.summary.length > 100
-        ? `${article.summary.slice(0, 100)}...`
-        : article.summary;
-
-    elements.push({
-      tag: "div",
-      text: {
-        tag: "lark_md",
-        content: [
-          `**${i + 1}. ${article.title}**`,
-          summary,
-          `来源：${article.source} | 相关性：${score.toFixed(1)} | 标签：${tags}`,
-        ].join("\n"),
-      },
-    });
-
-    elements.push({
-      tag: "action",
-      actions: [
-        {
-          tag: "button",
-          text: { tag: "plain_text", content: "查看原文" },
-          url: article.url,
-          type: "default",
-        },
-      ],
-    });
-
+    elements.push(...feishuArticleBodyElements(articles[i]!, i + 1));
     if (i < articles.length - 1) {
-      elements.push({ tag: "hr" });
+      elements.push({ tag: "markdown", content: "---" });
     }
   }
 
   return {
     msg_type: "interactive",
     card: {
-      config: { wide_screen_mode: true },
+      schema: "2.0",
       header: {
+        template: "blue",
         title: {
           tag: "plain_text",
-          content: `📰 AI 知识库每日简报 — ${date}`,
+          content: `📰 知识库日报 ${date}`,
         },
-        template: "blue",
+        subtitle: {
+          tag: "plain_text",
+          content: `精选 ${articles.length} 篇`,
+        },
       },
-      elements,
+      body: { elements },
     },
   };
 }
@@ -360,7 +331,7 @@ interface DailyDigest {
   total: number;
   articles: Article[];
   markdown: string;
-  /** 单张汇总卡片，各渠道发送一条消息（与 Python 版一致）。 */
+  /** 每日汇总单张飞书卡片（内含多篇，样式同单篇卡片）。 */
   feishu: object;
 }
 

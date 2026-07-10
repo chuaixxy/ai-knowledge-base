@@ -17,7 +17,7 @@
  *
  * ## 飞书官方限制
  *
- * - 频率：5 次/秒、100 次/分钟（限流时 via withRetry 指数退避）
+ * - 频率：5 次/秒、100 次/分钟（每日一条汇总卡片，限流时 withRetry 指数退避）
  * - 请求体：≤ 20 KB（发送前自动截断过长 summary）
  * - IP 白名单：在飞书机器人设置中配置，代码无需改动
  *
@@ -259,9 +259,7 @@ export class FeishuPublisher extends BasePublisher {
   }
 
   /**
-   * 发送每日汇总卡片（一条消息，与 Python FeishuPublisher.send_digest 一致）。
-   *
-   * @param digest - 日报；digest.feishu 为预构建的汇总卡片载荷。
+   * 发送每日汇总卡片（一条消息，内含多篇文章）。
    */
   async sendDigest(digest: DailyDigest): Promise<PublishResult[]> {
     const card = digest.feishu as Record<string, unknown>;
@@ -286,7 +284,7 @@ export interface PublishOptions extends DigestOptions {
  * - 始终启用 {@link FilePublisher} → `output/digest-YYYY-MM-DD.md`
  * - `FEISHU_WEBHOOK_URL` → {@link FeishuPublisher}
  *
- * 各渠道并发执行；飞书每个渠道发送一条汇总卡片。
+ * 各渠道并发执行；飞书发送一条每日汇总卡片。
  *
  * @param opts - 可选的日报生成参数与发布器覆盖。
  * @returns 所有渠道 {@link PublishResult} 的扁平数组。

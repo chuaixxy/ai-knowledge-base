@@ -7,6 +7,7 @@ import {
   buildEmptyFeishuCard,
   buildFeishuDigest,
   groupByBucket,
+  jsonToFeishu,
   orderedBucketKeys,
   renderDigestMarkdown,
   type Article,
@@ -149,23 +150,57 @@ describe("groupByBucket 集成行为", () => {
   });
 });
 
-describe("buildFeishuDigest — 与 Python 一致的单卡片汇总", () => {
-  test("多篇文章合并为一张卡片", () => {
-    const articles = [
-      makeArticle({ title: "Article A", relevance_score: 0.9, tags: ["mcp"] }),
-      makeArticle({ title: "Article B", relevance_score: 0.7, tags: ["rag"] }),
-    ];
-    const card = buildFeishuDigest("2026-07-10", articles) as {
-      msg_type: string;
-      card: { elements: unknown[]; header: { title: { content: string } } };
+describe("jsonToFeishu — 单篇卡片元数据分行", () => {
+  test("元数据分行展示，标签用 | 分隔", () => {
+    const card = jsonToFeishu(
+      makeArticle({
+        title: "langchain-ai/langchain",
+        source: "github",
+        relevance_score: 0.9,
+        category: "应用框架",
+        tags: ["LLM", "AI代理", "应用框架", "开源", "LangChain"],
+      }),
+    ) as {
+      card: { body: { elements: { content: string }[] } };
     };
 
-    expect(card.msg_type).toBe("interactive");
-    expect(card.card.header.title.content).toContain("2026-07-10");
-    expect(card.card.elements.length).toBeGreaterThan(2);
-    expect(JSON.stringify(card)).toContain("Article A");
-    expect(JSON.stringify(card)).toContain("Article B");
-    expect(JSON.stringify(card)).toContain('"tag":"hr"');
+    const body = card.card.body.elements.map((el) => el.content).join("\n");
+    expect(body).toContain("**来源** github");
+    expect(body).toContain("**相关性**");
+    expect(body).toContain("0.9");
+    expect(body).toContain("**分类** 应用框架");
+    expect(body).toContain("**标签** LLM | AI代理 | 应用框架 | 开源 | LangChain");
+    expect(body).not.toMatch(/来源：.*\|.*相关性：.*\|.*标签：/);
+  });
+});
+
+describe("buildFeishuDigest — 每日一条消息，多篇分行样式", () => {
+  test("多篇文章合并为一张卡片，每篇元数据分行", () => {
+    const articles = [
+      makeArticle({
+        title: "Article A",
+        source: "github",
+        relevance_score: 0.9,
+        tags: ["LLM", "Agent"],
+      }),
+      makeArticle({
+        title: "Article B",
+        source: "rss",
+        relevance_score: 0.7,
+        tags: ["RAG"],
+      }),
+    ];
+    const card = buildFeishuDigest("2026-07-10", articles) as {
+      card: { body: { elements: { content: string }[] } };
+    };
+
+    const body = card.card.body.elements.map((el) => el.content).join("\n");
+    expect(body).toContain("**1. Article A**");
+    expect(body).toContain("**2. Article B**");
+    expect(body).toContain("**来源** github");
+    expect(body).toContain("**来源** rss");
+    expect(body).not.toMatch(/来源：.*\|.*相关性：/);
+    expect(body).toContain("---");
   });
 
   test("无文章时返回空简报卡片", () => {
