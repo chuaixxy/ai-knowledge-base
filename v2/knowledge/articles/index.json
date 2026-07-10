@@ -1,5 +1,75 @@
 [
   {
+    "id": "rss-hugging-face-blog-2026-07-10-013",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/torch-attention-profile",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "pytorch"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T10:51:05.952Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-10-007",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/deutsche-telekom",
+    "category": "other",
+    "relevance_score": 0.65,
+    "tags": [
+      "ai",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T10:51:05.445Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-10-008",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "gpt-56",
+      "microsoft-365-copilot",
+      "ai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T10:51:05.445Z"
+  },
+  {
+    "id": "rss-openai-blog-2026-07-10-009",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/gpt-5-6",
+    "category": "other",
+    "relevance_score": 0.85,
+    "tags": [
+      "gpt-56",
+      "openai"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T10:51:05.445Z"
+  },
+  {
+    "id": "rss-lobsters-ai-ml-2026-07-10-001",
+    "title": "A Prolog library for interfacing with LLMs",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://github.com/vagos/llmpl",
+    "category": "tool",
+    "relevance_score": 0.65,
+    "tags": [
+      "prolog",
+      "llm"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-10T10:51:04.886Z"
+  },
+  {
     "id": "rss-the-verge-ai-2026-07-09-026",
     "title": "ChatGPT’s upgraded voice mode is better at shutting up",
     "source": "rss-the-verge-ai",

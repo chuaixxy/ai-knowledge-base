@@ -1,0 +1,23 @@
+{
+  "id": "rss-lobsters-ai-ml-2026-07-10-001",
+  "title": "A Prolog library for interfacing with LLMs",
+  "source": "rss-lobsters-ai-ml",
+  "source_id": "https://github.com/vagos/llmpl",
+  "source_url": "https://github.com/vagos/llmpl",
+  "author": "github.com by vagos",
+  "published_at": "2026-07-09T13:52:12.000Z",
+  "raw_description": "<p><a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\">Comments</a></p>",
+  "collected_at": "2026-07-10T10:51:04.886Z",
+  "summary": "一个Prolog库，用于与大型语言模型（LLM）进行接口交互，支持在逻辑编程环境中调用LLM。",
+  "tags": [
+    "prolog",
+    "llm"
+  ],
+  "category": "tool",
+  "score": 0.65,
+  "audience": "工程师",
+  "analysis_note": "将LLM集成到Prolog中，有创新性，但受众较窄，技术深度一般。",
+  "analyzed_at": "2026-07-10T10:51:25.175Z",
+  "organized_at": "2026-07-10T10:52:22.700Z",
+  "status": "published"
+}

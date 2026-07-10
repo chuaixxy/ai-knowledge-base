@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-07-10-007",
+  "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/deutsche-telekom",
+  "source_url": "https://openai.com/index/deutsche-telekom",
+  "author": "openai-blog",
+  "published_at": "2026-07-10T07:00:00.000Z",
+  "raw_description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+  "collected_at": "2026-07-10T10:51:05.445Z",
+  "summary": "德国电信正利用OpenAI技术转型为AI原生电信公司，涵盖客户服务、员工工作流、网络运营及语音未来。",
+  "tags": [
+    "ai",
+    "openai"
+  ],
+  "category": "other",
+  "score": 0.65,
+  "audience": "通用",
+  "analysis_note": "展示了AI在传统行业的深度应用，但技术细节较少，偏向商业案例。",
+  "analyzed_at": "2026-07-10T10:51:39.539Z",
+  "organized_at": "2026-07-10T10:52:22.700Z",
+  "status": "published"
+}

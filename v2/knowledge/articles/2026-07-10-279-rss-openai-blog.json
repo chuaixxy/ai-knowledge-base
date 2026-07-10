@@ -1,0 +1,23 @@
+{
+  "id": "rss-openai-blog-2026-07-10-009",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "source": "rss-openai-blog",
+  "source_id": "https://openai.com/index/gpt-5-6",
+  "source_url": "https://openai.com/index/gpt-5-6",
+  "author": "openai-blog",
+  "published_at": "2026-07-09T10:00:00.000Z",
+  "raw_description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+  "collected_at": "2026-07-10T10:51:05.445Z",
+  "summary": "OpenAI发布GPT-5.6，提供更强的每token智能、每美元性能，以及按需扩展的能力，旨在支持最复杂的工作负载。",
+  "tags": [
+    "gpt-56",
+    "openai"
+  ],
+  "category": "other",
+  "score": 0.85,
+  "audience": "通用",
+  "analysis_note": "顶级模型发布，性能与成本优化显著，但缺乏技术细节，评分略降。",
+  "analyzed_at": "2026-07-10T10:51:44.118Z",
+  "organized_at": "2026-07-10T10:52:22.700Z",
+  "status": "published"
+}
