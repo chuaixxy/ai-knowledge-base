@@ -47,7 +47,7 @@ export async function reviewNode(
 
   const { analyses, iteration, cost_tracker } = state;
   const plan = state.plan ?? {};
-  const maxIterations = Number(plan.max_iterations ?? 3);
+  const maxIterations = Number(plan.maxIterations ?? 3);
   let tracker = { ...cost_tracker };
 
   // 空样本：直接通过

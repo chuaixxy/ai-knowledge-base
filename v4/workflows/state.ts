@@ -10,7 +10,7 @@ import { Annotation } from "@langchain/langgraph";
 /**
  * 知识库工作流的全局状态
  *
- * 数据流向: sources → analyses → articles → review → save
+ * 数据流向: sources → analyses → review → organize（整理并写盘）
  * review_loop 是本项目的核心教学点——展示如何用条件边实现质量门控。
  *
  * 遵循「报告式通信」原则：各字段承载结构化摘要，而非原始 HTML/API 响应全文。
@@ -59,8 +59,7 @@ export const KBStateAnnotation = Annotation.Root({
   }),
 
   /**
-   * 当前审核循环次数（最多 3 次）
-   * `iteration >= 2` 时 review_node 可强制通过，防止无限循环
+   * 当前审核循环次数（上限由 plan.maxIterations 决定，默认 3）
    */
   iteration: Annotation<number>({
     reducer: (_, update) => update,
@@ -68,8 +67,16 @@ export const KBStateAnnotation = Annotation.Root({
   }),
 
   /**
+   * 超过 maxIterations 仍未通过时由 human_flag 置 true，标记需人工介入
+   */
+  needsHumanReview: Annotation<boolean>({
+    reducer: (_, update) => update,
+    default: () => false,
+  }),
+
+  /**
    * Planner 生成的采集策略
-   * 格式：`{ tier, target_count, per_source_limit, relevance_threshold, max_iterations, rationale }`
+   * 格式：`{ tier, target_count, per_source_limit, relevance_threshold, maxIterations, rationale }`
    */
   plan: Annotation<Record<string, unknown>>({
     reducer: (_, update) => update,

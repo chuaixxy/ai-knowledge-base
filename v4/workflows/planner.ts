@@ -21,7 +21,7 @@ export interface PlanStrategy {
   /** 进入 organize 的最低相关性分数 */
   relevance_threshold: number;
   /** 审核循环最大次数 */
-  max_iterations: number;
+  maxIterations: number;
   /** 策略选择理由 */
   rationale: string;
 }
@@ -37,21 +37,21 @@ const STRATEGIES: Record<
   lite: {
     per_source_limit: 5,
     relevance_threshold: 0.7,
-    max_iterations: 1,
+    maxIterations: 1,
     rationale:
       "目标量较少（< 10），优先精准：提高相关性门槛、减少采集量，单轮审核即可完成，适合快速验证或调试。",
   },
   standard: {
     per_source_limit: 10,
     relevance_threshold: 0.5,
-    max_iterations: 2,
+    maxIterations: 2,
     rationale:
       "目标量适中（10–19），兼顾覆盖率与质量：中等相关性门槛、最多两轮审核，是日常运行的默认档位。",
   },
   full: {
     per_source_limit: 20,
     relevance_threshold: 0.4,
-    max_iterations: 3,
+    maxIterations: 3,
     rationale:
       "目标量较大（>= 20），优先覆盖：降低相关性门槛以扩大入库范围，允许三轮审核迭代提升质量，适合定期全量构建。",
   },
@@ -94,7 +94,7 @@ export async function plannerNode(
   console.log(
     `[PlannerNode] 策略档位: ${plan.tier}, 目标量: ${plan.target_count}, ` +
     `每源上限: ${plan.per_source_limit}, 相关性门槛: ${plan.relevance_threshold}, ` +
-    `最大迭代: ${plan.max_iterations}`,
+    `最大迭代: ${plan.maxIterations}`,
   );
 
   return { plan };

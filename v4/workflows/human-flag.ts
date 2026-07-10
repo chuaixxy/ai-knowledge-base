@@ -1,7 +1,7 @@
 /**
  * HumanFlag 节点 — 审核循环熔断器
  *
- * 当审核循环达到 MAX_ITERATIONS 次仍未通过时由 graph.ts 路由到此节点。
+ * 当审核循环达到 plan.maxIterations 次仍未通过时由 graph.ts 路由到此节点。
  * 问题条目写入 knowledge/flagged/ 独立目录，附带审核反馈，等待人工判断。
  * 不写入 articles/ 和 index.json，不污染主知识库。
  */
@@ -54,5 +54,5 @@ export async function humanFlagNode(
     `[HumanFlag] 已写入 ${filepath}（${analyses.length} 条待人工审查）`,
   );
 
-  return {};
+  return { needsHumanReview: true };
 }

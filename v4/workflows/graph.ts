@@ -4,11 +4,11 @@
  * LangGraph 工作流图定义 — 采集-分析-审核流水线（6 节点）
  *
  * 工作流拓扑:
- *   planner → collect → analyze → review ──→ organize → save → END  （通过）
+ *   planner → collect → analyze → review ──→ organize → END  （通过）
  *                                     │
- *                                     ├──→ revise ──→ review         （未通过 & iter < 3，循环修正）
+ *                                     ├──→ revise ──→ review         （未通过 & iter < maxIterations，循环修正）
  *                                     │
- *                                     └──→ human_flag → END          （未通过 & iter >= 3，人工兜底）
+ *                                     └──→ human_flag → END          （未通过 & iter >= maxIterations，人工兜底）
  *
  * CostGuard 集成：model-client.chat 每次 LLM 调用后 record + check；
  * 本文件仅在 runCli 收尾打印成本报告。
@@ -25,24 +25,32 @@ import { organizeNode } from "./organizer.ts";
 import { reviewNode } from "./reviewer.ts";
 import { reviseNode } from "./reviser.ts";
 import { humanFlagNode } from "./human-flag.ts";
-import { saveNode } from "./nodes.ts";
 import { KBStateAnnotation, type KBState } from "./state.ts";
 import { getCostGuard, BudgetExceededError } from "./model-client.ts";
 
 export { BudgetExceededError };
 
-/** 审核循环最大次数。达到后路由到 human_flag，不再重试。 */
-export const MAX_ITERATIONS = 3;
+/** plan.maxIterations 未设置时的默认审核循环上限。 */
+export const DEFAULT_MAX_ITERATIONS = 3;
+
+/** 从 plan 读取审核循环上限，与 Python route_after_review 一致。 */
+export function getMaxIterations(plan: Record<string, unknown> = {}): number {
+  const raw = plan.maxIterations ?? DEFAULT_MAX_ITERATIONS;
+  const n = Number(raw);
+  return Number.isFinite(n) && n > 0 ? Math.floor(n) : DEFAULT_MAX_ITERATIONS;
+}
 
 /**
  * 审核后三路路由：
- *   review_passed === true              → "organize"   （通过，整理入库）
- *   review_passed === false, iter < 3  → "revise"     （未通过，定向修改后重审）
- *   review_passed === false, iter >= 3 → "human_flag" （超限，人工介入）
+ *   review_passed === true                        → "organize"   （通过，整理入库）
+ *   review_passed === false, iter < maxIterations → "revise"     （未通过，定向修改后重审）
+ *   review_passed === false, iter >= maxIterations → "human_flag" （超限，人工介入）
  */
 export function routeAfterReview(state: KBState): string {
+  const maxIter = getMaxIterations(state.plan ?? {});
+
   if (state.review_passed) return "organize";
-  if (state.iteration >= MAX_ITERATIONS) return "human_flag";
+  if (state.iteration >= maxIter) return "human_flag";
   return "revise";
 }
 
@@ -57,7 +65,6 @@ export function buildGraph(): StateGraph<typeof KBStateAnnotation> {
   graph.addNode("organize", organizeNode);
   graph.addNode("revise", reviseNode);
   graph.addNode("human_flag", humanFlagNode);
-  graph.addNode("save", saveNode);
 
   graph.addEdge(START, "planner");
   graph.addEdge("planner", "collect");
@@ -71,8 +78,7 @@ export function buildGraph(): StateGraph<typeof KBStateAnnotation> {
   });
 
   graph.addEdge("revise", "review");
-  graph.addEdge("organize", "save");
-  graph.addEdge("save", END);
+  graph.addEdge("organize", END);
   graph.addEdge("human_flag", END);
 
   return graph;
@@ -89,6 +95,7 @@ function createInitialState(): KBState {
     review_feedback: "",
     review_passed: false,
     iteration: 0,
+    needsHumanReview: false,
     plan: {},
     cost_tracker: {},
   };
@@ -145,6 +152,9 @@ async function runCli(): Promise<void> {
       }
       if (update.iteration !== undefined) {
         console.log(`  iteration: ${update.iteration}`);
+      }
+      if (update.needsHumanReview) {
+        console.log("  ⚠️ 需要人工介入");
       }
       if (update.cost_tracker && Object.keys(update.cost_tracker).length > 0) {
         const tracker = update.cost_tracker;

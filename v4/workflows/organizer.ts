@@ -1,11 +1,26 @@
 /**
- * 整理节点 — 过滤低分、当次 source_id 去重、按审核反馈修正
+ * 整理节点 — 过滤低分、去重、按审核反馈修正，并写入 knowledge/articles/
  */
+
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  writeFileSync,
+} from "node:fs";
+import { dirname, join, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 
 import { filterOutput } from "../tests/security.ts";
 import { chatJson, accumulateUsage, BudgetExceededError } from "./model-client.ts";
 import { deriveSourceId } from "./source-id.ts";
 import type { KBState } from "./state.ts";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const ROOT_DIR = resolve(__dirname, "..");
+const ARTICLES_DIR = join(ROOT_DIR, "knowledge", "articles");
+const INDEX_FILE = join(ARTICLES_DIR, "index.json");
 
 const ARTICLE_FIELDS = [
   "title",
@@ -21,6 +36,63 @@ const ARTICLE_FIELDS = [
 
 function todayUtc(): string {
   return new Date().toISOString().slice(0, 10);
+}
+
+function nowUtcIso(): string {
+  return new Date().toISOString();
+}
+
+/** 写入 knowledge/articles/*.json 并更新 index.json（与 Python organizer 一致）。 */
+function saveArticlesToDisk(articles: Record<string, unknown>[]): number {
+  if (articles.length === 0) return 0;
+
+  mkdirSync(ARTICLES_DIR, { recursive: true });
+
+  for (const article of articles) {
+    const id = String(article.id ?? "unknown");
+    writeFileSync(
+      join(ARTICLES_DIR, `${id}.json`),
+      JSON.stringify(article, null, 2),
+      "utf-8",
+    );
+  }
+
+  let index: Record<string, unknown>[] = [];
+  if (existsSync(INDEX_FILE)) {
+    try {
+      index = JSON.parse(readFileSync(INDEX_FILE, "utf-8")) as Record<
+        string,
+        unknown
+      >[];
+    } catch {
+      index = [];
+    }
+  }
+
+  const existingIds = new Set(index.map((entry) => String(entry.id ?? "")));
+  let appended = 0;
+
+  for (const article of articles) {
+    const id = String(article.id ?? "");
+    if (!id || existingIds.has(id)) continue;
+
+    index.push({
+      id,
+      title: article.title ?? "",
+      source: article.source ?? "",
+      source_id: deriveSourceId(article),
+      category: article.category ?? "",
+      relevance_score: article.relevance_score ?? 0,
+      tags: article.tags ?? [],
+      status: "published",
+      collected_at: article.collected_at ?? nowUtcIso(),
+    });
+    existingIds.add(id);
+    appended += 1;
+  }
+
+  writeFileSync(INDEX_FILE, JSON.stringify(index, null, 2), "utf-8");
+  return appended;
 }
 
 /** chatJson 返回值可能是对象或数组（LLM 直接返回 JSON 数组时）。 */
@@ -143,5 +215,16 @@ export async function organizeNode(
   console.log(
     `[OrganizeNode] 整理出 ${articles.length} 条知识条目 (迭代 ${iteration})，跳过 ${skipped} 条本次重复`,
   );
+
+  const appended = saveArticlesToDisk(articles);
+  if (articles.length > 0) {
+    console.log(
+      `[OrganizeNode] 已写入 ${articles.length} 篇文章，索引新增 ${appended} 条`,
+    );
+    console.log(
+      `[OrganizeNode] 本次运行总成本: ¥${Number(tracker.total_cost_yuan ?? 0)}`,
+    );
+  }
+
   return { articles, cost_tracker: tracker };
 }
