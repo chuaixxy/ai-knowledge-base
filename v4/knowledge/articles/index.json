@@ -682,5 +682,179 @@
     ],
     "status": "published",
     "collected_at": "2026-07-10T16:08:27.017Z"
+  },
+  {
+    "id": "2026-07-11-001",
+    "title": "NousResearch/hermes-agent",
+    "source": "github",
+    "source_id": "NousResearch/hermes-agent",
+    "category": "AI代理框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "自适应学习",
+      "人机协作",
+      "智能助手",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-002",
+    "title": "langgenius/dify",
+    "source": "github",
+    "source_id": "langgenius/dify",
+    "category": "AI开发框架",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "工作流引擎",
+      "低代码平台",
+      "大模型应用",
+      "生产部署"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-003",
+    "title": "langchain-ai/langchain",
+    "source": "github",
+    "source_id": "langchain-ai/langchain",
+    "category": "AI开发框架",
+    "relevance_score": 0.92,
+    "tags": [
+      "LLM",
+      "AI代理",
+      "链式编程",
+      "工具集成",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-004",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source": "github",
+    "source_id": "Shubhamsaboo/awesome-llm-apps",
+    "category": "AI应用开发",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "RAG",
+      "LLM应用",
+      "开源项目",
+      "开发工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-005",
+    "title": "browser-use/browser-use",
+    "source": "github",
+    "source_id": "browser-use/browser-use",
+    "category": "AI工具/自动化框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "网页自动化",
+      "浏览器控制",
+      "开源工具",
+      "任务自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-006",
+    "title": "infiniflow/ragflow",
+    "source": "github",
+    "source_id": "infiniflow/ragflow",
+    "category": "人工智能/自然语言处理",
+    "relevance_score": 0.95,
+    "tags": [
+      "RAG",
+      "开源",
+      "LLM",
+      "智能代理",
+      "知识检索",
+      "上下文增强"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-007",
+    "title": "OpenHands/OpenHands",
+    "source": "github",
+    "source_id": "OpenHands/OpenHands",
+    "category": "AI开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI驱动开发",
+      "代码生成",
+      "开发工具",
+      "自然语言处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-008",
+    "title": "DietrichGebert/ponytail",
+    "source": "github",
+    "source_id": "DietrichGebert/ponytail",
+    "category": "AI开发工具/方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "提示词工程",
+      "代码生成",
+      "懒人哲学",
+      "效率优化",
+      "简洁代码"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-009",
+    "title": "bytedance/deer-flow",
+    "source": "github",
+    "source_id": "bytedance/deer-flow",
+    "category": "AI框架/智能体平台",
+    "relevance_score": 0.8,
+    "tags": [
+      "开源",
+      "智能体框架",
+      "自动化",
+      "长周期任务",
+      "字节跳动",
+      "SuperAgent",
+      "沙箱",
+      "工具集成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-11-010",
+    "title": "hiyouga/LlamaFactory",
+    "source": "github",
+    "source_id": "hiyouga/LlamaFactory",
+    "category": "模型微调工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM微调",
+      "高效训练",
+      "多模态",
+      "开源框架",
+      "ACL2024"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-11T02:47:43.166Z"
   }
 ]

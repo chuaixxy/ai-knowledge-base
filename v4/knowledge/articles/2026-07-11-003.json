@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-11-003",
+  "source_id": "langchain-ai/langchain",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是构建LLM应用的事实标准工程平台，提供模块化抽象层（Chains、Agents、Memory、Tools）。其核心架构采用组件化设计，支持动态链式调用与工具路由。技术深度体现在：内置多种LLM调用优化（如缓存、重试、速率限制），支持异步执行与流式响应。性能方面，通过LangSmith可观测性平台实现端到端追踪。与Dify相比，LangChain更偏向代码级灵活定制，适合需要深度控制LLM行为的开发者。",
+  "tags": [
+    "LLM",
+    "AI代理",
+    "链式编程",
+    "工具集成",
+    "开源"
+  ],
+  "relevance_score": 0.92,
+  "category": "AI开发框架",
+  "key_insight": "LangChain通过模块化抽象与可观测性工具，成为LLM应用开发的事实标准，在灵活性与生态丰富度上领先同类框架。"
+}

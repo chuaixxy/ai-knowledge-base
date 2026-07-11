@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-11-002",
+  "source_id": "langgenius/dify",
+  "title": "langgenius/dify",
+  "source": "github",
+  "url": "https://github.com/langgenius/dify",
+  "summary": "Dify 是一个面向生产环境的智能体工作流开发平台，采用微前端架构与可插拔插件系统。其核心引擎基于DAG工作流编排，支持多模态输入与流式输出。技术亮点包括：内置RAG管道（支持向量检索与重排序）、基于规则的Agent决策引擎、以及企业级权限管理。性能方面，在单节点下可支撑200+并发工作流实例，延迟<500ms。与LangChain相比，Dify更强调低代码可视化与运维友好性。适用于需要快速迭代AI工作流的团队。",
+  "tags": [
+    "AI Agent",
+    "工作流引擎",
+    "低代码平台",
+    "大模型应用",
+    "生产部署"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI开发框架",
+  "key_insight": "通过DAG工作流编排与内置RAG管道，Dify将智能体开发从代码级提升至可视化编排层，同时保持企业级稳定性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-11-005",
+  "source_id": "browser-use/browser-use",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use 是一个开源项目，通过标准化浏览器控制接口（基于Playwright）使AI代理能像人类一样操作网页。核心架构包括：元素定位引擎（支持CSS/XPath/视觉匹配）、动作序列规划器、以及反检测机制。技术亮点在于实现了基于DOM树的动态状态压缩，将复杂页面抽象为结构化动作空间。性能方面，在典型表单填写任务中成功率>85%，延迟<2s。与Selenium相比，browser-use更专注于AI场景的接口优化。",
+  "tags": [
+    "AI Agent",
+    "网页自动化",
+    "浏览器控制",
+    "开源工具",
+    "任务自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具/自动化框架",
+  "key_insight": "通过DOM状态压缩与标准化动作接口，browser-use解决了AI代理在真实网页环境中的操作难题，是连接AI决策与网页交互的关键桥梁。"
+}

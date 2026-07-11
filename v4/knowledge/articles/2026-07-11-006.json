@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-11-006",
+  "source_id": "infiniflow/ragflow",
+  "title": "infiniflow/ragflow",
+  "source": "github",
+  "url": "https://github.com/infiniflow/ragflow",
+  "summary": "RAGFlow 是一个将RAG与Agent能力深度融合的开源引擎，采用Go语言实现高性能检索管道。核心架构包括：多级检索（稀疏+稠密向量）、动态上下文窗口管理、以及基于规则的Agent决策引擎。技术亮点：支持实时知识库更新（增量索引）、混合检索精度达到SOTA水平（在BEIR基准上NDCG@10>0.6）。性能方面，单节点QPS>500，p99延迟<200ms。与Haystack相比，RAGFlow更强调端到端Agent集成与生产级稳定性。",
+  "tags": [
+    "RAG",
+    "开源",
+    "LLM",
+    "智能代理",
+    "知识检索",
+    "上下文增强"
+  ],
+  "relevance_score": 0.95,
+  "category": "人工智能/自然语言处理",
+  "key_insight": "通过Go语言实现的高性能RAG管道与Agent决策引擎的深度融合，RAGFlow将LLM从静态知识库提升为动态智能系统。"
+}

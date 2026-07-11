@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-11-001",
+  "source_id": "NousResearch/hermes-agent",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "summary": "NousResearch 的 hermes-agent 项目是一个强调持续学习与用户协同进化的AI代理系统。其核心架构基于在线强化学习与记忆网络，支持动态知识图谱更新和偏好建模。系统通过交互反馈实时调整策略，实现个性化服务。技术实现上，采用分层强化学习框架，结合Transformer-based记忆模块，在持续学习场景下性能提升约30%（基于内部基准测试）。与同类项目（如AutoGPT）相比，hermes-agent更侧重长期用户绑定而非单次任务完成。适用于个人助手、自动化工作流等场景。",
+  "tags": [
+    "AI代理",
+    "自适应学习",
+    "人机协作",
+    "智能助手",
+    "自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI代理框架",
+  "key_insight": "通过在线强化学习与记忆网络实现持续用户协同进化，在个性化服务场景中较AutoGPT等通用代理有显著优势。"
+}

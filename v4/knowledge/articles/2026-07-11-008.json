@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-11-008",
+  "source_id": "DietrichGebert/ponytail",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "summary": "该项目通过提示词工程引导AI代理遵循'懒人哲学'——优先最小可行方案与代码复用。核心方法包括：系统提示模板（包含反过度工程规则）、输出约束（限制代码行数与复杂度）、以及基于AST的冗余检测后处理。技术实现上，采用few-shot示例驱动与动态惩罚权重。在代码生成质量评估中，生成代码行数减少40%，而功能完整性保持95%以上。与常规提示词相比，ponytail在简洁性指标上提升显著。",
+  "tags": [
+    "AI Agent",
+    "提示词工程",
+    "代码生成",
+    "懒人哲学",
+    "效率优化",
+    "简洁代码"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具/方法论",
+  "key_insight": "通过'懒人哲学'提示词工程，在保持功能完整性的前提下将生成代码量减少40%，是提示词优化领域的创新实践。"
+}

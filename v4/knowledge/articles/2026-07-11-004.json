@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-11-004",
+  "source_id": "Shubhamsaboo/awesome-llm-apps",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "summary": "该项目是一个包含100+可运行AI Agent与RAG应用的集合库，覆盖对话、知识库问答、复杂工作流等场景。技术特点包括：统一的应用脚手架（支持FastAPI/Streamlit部署）、预配置的向量数据库集成（Chroma/Pinecone）、以及可插拔的LLM适配器。每个应用都包含完整的前后端代码与Docker编排文件。与LangChain示例相比，该项目更强调即用性，但定制灵活性较低。适合快速原型验证与教育场景。",
+  "tags": [
+    "AI Agent",
+    "RAG",
+    "LLM应用",
+    "开源项目",
+    "开发工具"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI应用开发",
+  "key_insight": "通过提供立即可运行的端到端应用模板，极大降低了AI应用从理论到实践的转化门槛，适合快速原型验证。"
+}

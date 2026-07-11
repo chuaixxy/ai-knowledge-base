@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-11-007",
+  "source_id": "OpenHands/OpenHands",
+  "title": "OpenHands/OpenHands",
+  "source": "github",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "summary": "OpenHands 是一个AI驱动开发平台，核心基于代码生成与调试的强化学习框架。技术架构包括：多Agent协作系统（规划、编码、测试Agent）、沙箱执行环境（Docker隔离）、以及基于AST的代码分析引擎。性能方面，在SWE-bench基准上任务完成率>65%，代码生成准确率>80%。与GitHub Copilot相比，OpenHands更强调端到端任务自动化（从需求到部署）。适用于快速原型设计与复杂应用开发。",
+  "tags": [
+    "AI驱动开发",
+    "代码生成",
+    "开发工具",
+    "自然语言处理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具",
+  "key_insight": "通过多Agent协作与沙箱执行环境，OpenHands实现了从需求到代码的端到端自动化，在SWE-bench上达到领先水平。"
+}
