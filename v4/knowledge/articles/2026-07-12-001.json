@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-12-001",
+  "source_id": "NousResearch/hermes-agent",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "summary": "NousResearch 开发的 hermes-agent 是一个基于强化学习与持续交互微调的智能代理框架。其核心机制包括：1）采用在线强化学习（如PPO）根据用户反馈实时更新策略网络，实现行为自适应；2）集成经验回放缓冲区，存储历史交互以进行离线训练，避免灾难性遗忘；3）通过自然语言指令解析模块（基于Transformer编码器）理解用户意图，并动态调整任务执行优先级。架构上采用分离式记忆模块（工作记忆+长期记忆），支持跨会话知识迁移。与主流框架（如AutoGPT）相比，hermes-agent 不依赖静态提示模板，而是通过端到端学习优化决策流程，特别适用于需要长期个性化服务的场景，如个人知识管理助手或自适应教育机器人。",
+  "tags": [
+    "AI代理",
+    "持续学习",
+    "个性化助手",
+    "自适应系统",
+    "NousResearch",
+    "强化学习"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI代理框架",
+  "key_insight": "hermes-agent 采用在线强化学习与经验回放机制实现动态进化，区别于静态预设型代理，其核心创新在于将用户交互转化为实时训练信号，使代理行为随使用过程不断优化。"
+}

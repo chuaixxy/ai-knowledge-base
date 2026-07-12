@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-12-003",
+  "source_id": "langchain-ai/langchain",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是一个基于LLM的代理工程平台，其核心创新在于提出“链式抽象”与“工具调用”范式。技术实现包括：1）可组合的Chain模块（LLMChain、RetrievalQAChain等），支持通过管道操作符串联多个处理步骤；2）Agent执行器采用ReAct（Reasoning + Acting）循环，利用LLM生成推理轨迹并调用外部工具（如搜索引擎、API）；3）记忆系统支持多种存储后端（Redis、SQLite）和压缩策略（摘要记忆、向量存储记忆）。对比Dify，LangChain更偏底层开发，提供细粒度API控制，适合需要高度定制化的工作流。其生态（LangSmith用于调试，LangServe用于部署）形成了完整的开发-测试-部署闭环。",
+  "tags": [
+    "LLM框架",
+    "AI代理",
+    "大语言模型",
+    "应用开发",
+    "工具集成",
+    "ReAct"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI开发平台",
+  "key_insight": "LangChain通过ReAct循环和链式抽象标准化了LLM与外部世界的交互，其核心价值在于将AI从对话生成扩展为可执行任务的代理，成为连接大模型与现实应用的工程化基础设施。"
+}

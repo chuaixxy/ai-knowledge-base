@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-12-010",
+  "source_id": "hiyouga/LlamaFactory",
+  "title": "hiyouga/LlamaFactory",
+  "source": "github",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "summary": "LlamaFactory 是一个统一高效微调框架，支持100多种LLM和VLM的微调。其技术亮点包括：1）统一模型接口，通过抽象层兼容HuggingFace、ModelScope等不同格式的模型；2）集成多种高效微调方法，如LoRA、QLoRA、Prefix Tuning，支持参数高效更新；3）自动化数据预处理，包括指令格式化、对话模板转换和动态批处理；4）训练优化，支持分布式训练（DeepSpeed、FSDP）和混合精度训练。与HuggingFace Trainer相比，LlamaFactory 提供更简洁的配置和更丰富的微调策略选择，显著降低定制化大模型的门槛，适用于垂直领域模型适配和个性化AI助手开发。",
+  "tags": [
+    "大模型微调",
+    "LLM",
+    "VLM",
+    "高效训练",
+    "ACL 2024",
+    "开源框架",
+    "LoRA"
+  ],
+  "relevance_score": 0.85,
+  "category": "大模型微调框架",
+  "key_insight": "通过统一接口和集成多种高效微调方法，LlamaFactory 将百种大模型的定制化流程标准化，极大降低了模型适配的技术门槛，是推动大模型应用落地的关键工具。"
+}

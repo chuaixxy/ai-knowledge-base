@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-12-005",
+  "source_id": "browser-use/browser-use",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use 是一个开源项目，通过提供统一的浏览器控制接口，让AI代理能够像人类一样操作网页。其技术架构包括：1）基于Playwright的无头浏览器控制层，支持页面导航、元素点击、表单填写和JavaScript执行；2）智能元素定位模块，结合CSS选择器和视觉相似度匹配，处理动态加载内容；3）任务规划器使用LLM将自然语言指令分解为原子浏览器操作序列（如“查找输入框→输入文本→点击提交”）。与传统Selenium自动化相比，browser-use 集成LLM推理能力，可处理非结构化任务（如“预订最近日期的航班”），适用于网页自动化测试、数据采集和在线服务操作。",
+  "tags": [
+    "AI代理",
+    "网页自动化",
+    "浏览器控制",
+    "开源工具",
+    "Python",
+    "Playwright"
+  ],
+  "relevance_score": 0.85,
+  "category": "开发工具与框架",
+  "key_insight": "通过LLM驱动的任务规划与Playwright浏览器控制结合，实现从‘读取网页’到‘操作网页’的跨越，是AI代理执行真实世界在线任务的关键基础设施。"
+}

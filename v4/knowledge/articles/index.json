@@ -856,5 +856,187 @@
     ],
     "status": "published",
     "collected_at": "2026-07-11T02:47:43.166Z"
+  },
+  {
+    "id": "2026-07-12-001",
+    "title": "NousResearch/hermes-agent",
+    "source": "github",
+    "source_id": "NousResearch/hermes-agent",
+    "category": "AI代理框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "持续学习",
+      "个性化助手",
+      "自适应系统",
+      "NousResearch",
+      "强化学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-002",
+    "title": "langgenius/dify",
+    "source": "github",
+    "source_id": "langgenius/dify",
+    "category": "AI开发平台与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI平台",
+      "工作流引擎",
+      "智能体开发",
+      "LLM应用",
+      "可视化编排",
+      "低代码"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-003",
+    "title": "langchain-ai/langchain",
+    "source": "github",
+    "source_id": "langchain-ai/langchain",
+    "category": "AI开发平台",
+    "relevance_score": 0.95,
+    "tags": [
+      "LLM框架",
+      "AI代理",
+      "大语言模型",
+      "应用开发",
+      "工具集成",
+      "ReAct"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-004",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source": "github",
+    "source_id": "Shubhamsaboo/awesome-llm-apps",
+    "category": "AI应用开发框架/工具集",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "RAG",
+      "LLM应用",
+      "开源项目",
+      "开发者工具",
+      "模板库"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-005",
+    "title": "browser-use/browser-use",
+    "source": "github",
+    "source_id": "browser-use/browser-use",
+    "category": "开发工具与框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "网页自动化",
+      "浏览器控制",
+      "开源工具",
+      "Python",
+      "Playwright"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-006",
+    "title": "infiniflow/ragflow",
+    "source": "github",
+    "source_id": "infiniflow/ragflow",
+    "category": "人工智能/自然语言处理",
+    "relevance_score": 0.92,
+    "tags": [
+      "RAG",
+      "开源",
+      "LLM",
+      "知识库",
+      "智能代理",
+      "上下文增强",
+      "文档理解"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-007",
+    "title": "DietrichGebert/ponytail",
+    "source": "github",
+    "source_id": "DietrichGebert/ponytail",
+    "category": "开发工具/AI辅助",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "代码生成",
+      "效率优化",
+      "开发工具",
+      "懒人哲学",
+      "提示工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-008",
+    "title": "OpenHands/OpenHands",
+    "source": "github",
+    "source_id": "OpenHands/OpenHands",
+    "category": "开发者工具/AI辅助开发",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI驱动开发",
+      "智能代理",
+      "代码生成",
+      "自动化开发",
+      "开发者工具",
+      "多代理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-009",
+    "title": "bytedance/deer-flow",
+    "source": "github",
+    "source_id": "bytedance/deer-flow",
+    "category": "AI框架与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "开源框架",
+      "任务自动化",
+      "长时域任务",
+      "字节跳动",
+      "子代理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-12-010",
+    "title": "hiyouga/LlamaFactory",
+    "source": "github",
+    "source_id": "hiyouga/LlamaFactory",
+    "category": "大模型微调框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型微调",
+      "LLM",
+      "VLM",
+      "高效训练",
+      "ACL 2024",
+      "开源框架",
+      "LoRA"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-12T02:56:05.804Z"
   }
 ]

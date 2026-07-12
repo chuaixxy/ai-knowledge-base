@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-12-004",
+  "source_id": "Shubhamsaboo/awesome-llm-apps",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "summary": "该项目是一个汇集了100多个可实际运行的AI Agent与RAG应用模板集合，覆盖问答、文档分析、智能客服等场景。技术亮点包括：1）每个应用提供完整代码、依赖配置和Docker部署文件，实现“克隆即运行”；2）内置RAG流水线示例，展示多种检索策略（密集向量检索、混合检索）和重排序方法；3）Agent应用模板演示了工具调用（如搜索、计算器）和记忆集成。与LangChain示例库相比，该项目更注重实战性和即用性，为开发者提供从零到一的快速原型基础，特别适合初学者快速上手或企业进行概念验证。",
+  "tags": [
+    "AI Agent",
+    "RAG",
+    "LLM应用",
+    "开源项目",
+    "开发者工具",
+    "模板库"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用开发框架/工具集",
+  "key_insight": "提供100+即用型AI应用模板，覆盖RAG和Agent常见模式，让开发者跳过环境配置和基础架构搭建，直接聚焦业务逻辑定制，是AI应用开发的加速器。"
+}

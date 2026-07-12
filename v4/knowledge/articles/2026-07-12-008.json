@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-12-008",
+  "source_id": "OpenHands/OpenHands",
+  "title": "OpenHands/OpenHands",
+  "source": "github",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "summary": "OpenHands 是一个AI驱动开发平台，集成代码生成、调试、测试和部署的端到端自动化。其技术架构包括：1）多代理协作系统，包含规划代理、编码代理和测试代理，通过共享工作区协调任务；2）沙箱执行环境，在隔离容器中运行生成的代码，防止恶意操作；3）基于LLM的调试循环，自动捕获运行时错误并迭代修复。与GitHub Copilot的代码补全不同，OpenHands 强调自主任务执行，开发者只需描述需求，AI代理即可完成从设计到部署的全流程。适合快速原型开发和自动化代码审查。",
+  "tags": [
+    "AI驱动开发",
+    "智能代理",
+    "代码生成",
+    "自动化开发",
+    "开发者工具",
+    "多代理"
+  ],
+  "relevance_score": 0.9,
+  "category": "开发者工具/AI辅助开发",
+  "key_insight": "通过多代理协作和沙箱执行，实现从需求到部署的全流程自动化，重塑人机协作的软件工程范式，是AI自主编程领域的领先实践。"
+}
