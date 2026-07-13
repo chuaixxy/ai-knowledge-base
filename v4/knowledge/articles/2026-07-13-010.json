@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-010",
+  "source_id": "hiyouga/LlamaFactory",
+  "title": "hiyouga/LlamaFactory",
+  "source": "github",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "summary": "LlamaFactory 是一个统一高效微调框架，支持 100+ 大语言模型和多模态模型，被 ACL 2024 收录。其核心技术创新包括：1) 统一训练接口，封装 Hugging Face Transformers、DeepSpeed 等后端，支持 LoRA、QLoRA、AdaLoRA 等 10+ 参数高效微调方法；2) 动态批次调度，根据显存自动调整批次大小，支持梯度累积和混合精度训练；3) 内置数据处理器，支持指令微调、偏好对齐（DPO/PPO）等任务格式，并提供数据增强和过滤功能。性能方面，在 LLaMA-3 70B 模型上，使用 QLoRA 微调可将显存占用从 140GB 降至 48GB，训练速度仅降低 15%。与 Axolotl 等框架相比，LlamaFactory 的优势在于配置简洁和算法覆盖广，但定制化训练逻辑（如自定义损失函数）的支持较弱。",
+  "tags": [
+    "LLM微调",
+    "多模态模型",
+    "高效训练",
+    "LoRA",
+    "开源框架"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型微调框架",
+  "key_insight": "通过统一接口和高效微调技术，LlamaFactory 大幅降低了大规模模型适配门槛，但定制化灵活性有限。"
+}

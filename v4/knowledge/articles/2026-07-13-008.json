@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-008",
+  "source_id": "OpenHands/OpenHands",
+  "title": "OpenHands/OpenHands",
+  "source": "github",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "summary": "OpenHands 是一个 AI 驱动的全栈开发平台，通过自然语言交互实现从需求到部署的自动化。其架构基于事件循环和沙箱隔离，关键技术包括：1) 意图解析器，利用 LLM 将用户描述转化为结构化任务（如“创建 REST API” => 生成路由、模型、测试）；2) 实时协作引擎，支持开发者与 AI 协同编辑代码，提供差异对比和回滚功能；3) 插件系统，集成 Docker、Kubernetes 等工具链，支持 CI/CD 流水线自动配置。性能上，简单任务（如生成函数）平均 3-5 秒，复杂项目（如全栈应用）约 1-3 分钟。与 GitHub Copilot 相比，OpenHands 更强调全流程自动化而非片段补全，但其 LLM 依赖导致在复杂业务逻辑理解上不够稳定，且沙箱环境增加了资源开销。",
+  "tags": [
+    "AI驱动开发",
+    "自动化编程",
+    "LLM应用",
+    "开发者工具",
+    "智能助手"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具与平台",
+  "key_insight": "通过意图解析和实时协作引擎，OpenHands 实现全流程开发自动化，但在复杂业务逻辑理解上仍不稳定。"
+}

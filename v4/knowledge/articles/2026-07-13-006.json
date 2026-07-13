@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-13-006",
+  "source_id": "infiniflow/ragflow",
+  "title": "infiniflow/ragflow",
+  "source": "github",
+  "url": "https://github.com/infiniflow/ragflow",
+  "summary": "RAGFlow 是一个用 Go 语言实现的高性能 RAG 引擎，深度融合检索增强生成与智能体能力。其架构设计强调低延迟和高吞吐，核心组件包括：1) 多源解析器，支持 PDF、Word、HTML 等 20+ 格式，采用分块策略（如语义分块、固定窗口）优化检索精度；2) 混合检索器，结合稀疏检索（BM25）和稠密检索（向量嵌入），支持加权融合和重排序；3) 智能体编排层，允许定义条件路由、工具调用和记忆管理，实现动态上下文构建。性能指标上，在标准基准（如 KILT、FEVER）上，RAGFlow 的检索准确率比基线高出 12-18%，端到端延迟控制在 500ms 内（10 万文档规模）。与 LlamaIndex 等纯 Python 方案相比，Go 语言带来更低的内存占用和更高的并发能力，适合企业级部署，但生态扩展性较弱。",
+  "tags": [
+    "RAG",
+    "检索增强生成",
+    "开源",
+    "LLM",
+    "智能体",
+    "知识管理",
+    "信息检索",
+    "AI"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI框架与工具",
+  "key_insight": "RAGFlow 通过 Go 语言实现的高性能混合检索和智能体编排，为 LLM 提供低延迟、高精度的上下文层，适合企业级知识管理场景。"
+}

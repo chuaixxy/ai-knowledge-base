@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-003",
+  "source_id": "langchain-ai/langchain",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langchain",
+  "summary": "LangChain 是当前最主流的 LLM 应用开发框架之一，提供模块化工具集以构建智能体（Agent）和链式推理流程。其核心架构包括：1) 链（Chain）抽象层，支持顺序、并行和条件分支的推理逻辑；2) 智能体运行时（Agent Executor），通过 ReAct（推理+行动）模式循环调用工具，并支持自定义策略（如 OpenAI 函数调用）；3) 可插拔记忆模块，支持缓冲、摘要和向量存储等记忆类型；4) 广泛的集成生态，覆盖 700+ 第三方工具（如 SerpAPI、Wolfram Alpha）。性能方面，LangChain 通过异步执行和缓存机制优化延迟，但在高并发场景下资源消耗显著。与 Dify 的低代码路线不同，LangChain 坚持代码优先，提供更高灵活性但陡峭的学习曲线。其局限性在于智能体决策逻辑的透明度和调试工具较弱。",
+  "tags": [
+    "大语言模型",
+    "智能体",
+    "AI工程化",
+    "链式调用",
+    "工具集成"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI开发框架",
+  "key_insight": "LangChain 通过模块化链式和 ReAct 智能体架构，成为构建复杂 LLM 应用的核心基础设施，但高灵活度也带来了调试复杂度和资源开销。"
+}

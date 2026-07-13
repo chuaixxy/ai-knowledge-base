@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-005",
+  "source_id": "browser-use/browser-use",
+  "title": "browser-use/browser-use",
+  "source": "github",
+  "url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use 是一个让 AI 代理能够像人类一样操作浏览器的开源工具库。其核心基于 Playwright 自动化框架，支持 Chromium、Firefox 和 WebKit 三大浏览器协议。关键技术实现包括：1) 智能选择器引擎，自动识别页面元素（如按钮、输入框），无需手动指定 CSS/XPath；2) 视觉锚点定位，利用 OCR 和图像匹配技术处理非标准元素；3) 会话管理模块，支持 Cookie 持久化和代理轮换以规避反爬机制；4) 任务分解策略，将复杂操作（如表单填写）拆解为原子步骤并支持失败重试。性能上，单任务延迟平均 2-5 秒（取决于页面复杂度），支持并发执行。与 Puppeteer 等传统工具相比，browser-use 专为 LLM 驱动设计，但依赖外部模型进行决策，在动态验证码和反爬场景下稳定性有限。",
+  "tags": [
+    "AI Agent",
+    "浏览器自动化",
+    "Web Scraping",
+    "开源工具",
+    "任务自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具",
+  "key_insight": "通过智能选择器和视觉锚点技术，browser-use 降低了 LLM 驱动的 Web 自动化门槛，但反爬能力与稳定性仍是主要局限。"
+}
