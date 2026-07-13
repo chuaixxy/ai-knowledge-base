@@ -1,11 +1,14 @@
 /**
- * 采集节点 — 调用 GitHub Search API 获取 AI 相关仓库
+ * 采集节点 — 从 GitHub Search API 与 RSS 源采集 AI 相关内容
  *
- * 搜索策略与 v4-production/workflows/collector.py 对齐：
+ * GitHub 搜索策略与 v4-production/workflows/collector.py 对齐：
  * 只采最近 7 天 push 过、star > 100 的 AI/Agent/LLM 仓库。
+ *
+ * RSS 源列表读取 pipeline/rss_sources.yaml，逻辑与 v3 pipeline 对齐。
  */
 
 import { sanitizeInput } from "../tests/security.ts";
+import { collectRss } from "./rss-collector.ts";
 import type { KBState } from "./state.ts";
 
 function nowUtcIso(): string {
@@ -23,14 +26,9 @@ function buildGitHubSearchUrl(limit: number): string {
   return `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&per_page=${limit}`;
 }
 
-export async function collectNode(
-  state: KBState,
-): Promise<Partial<KBState>> {
-  const plan = state.plan ?? {};
-  const limit = Number(plan.per_source_limit ?? 10);
-
-  console.log(`[CollectNode] 开始采集 GitHub 仓库，plan 每源上限=${limit}`);
-
+async function collectGitHub(
+  limit: number,
+): Promise<Record<string, unknown>[]> {
   const sources: Record<string, unknown>[] = [];
   const headers: Record<string, string> = {
     Accept: "application/vnd.github.v3+json",
@@ -42,7 +40,9 @@ export async function collectNode(
   }
 
   const url = buildGitHubSearchUrl(limit);
-  console.log(`[CollectNode] GitHub 搜索: ai agent llm stars:>100 pushed:>${oneWeekAgoUtc()}`);
+  console.log(
+    `[CollectNode] GitHub 搜索: ai agent llm stars:>100 pushed:>${oneWeekAgoUtc()}`,
+  );
 
   try {
     const resp = await fetch(url, { headers });
@@ -83,7 +83,13 @@ export async function collectNode(
     });
   }
 
+  console.log(`[CollectNode] GitHub 采集完成，共 ${sources.length} 条`);
+  return sources;
+}
+
+function sanitizeSources(sources: Record<string, unknown>[]): void {
   let totalWarnings = 0;
+
   for (const source of sources) {
     for (const field of ["title", "description"] as const) {
       const value = source[field];
@@ -104,7 +110,28 @@ export async function collectNode(
   if (totalWarnings > 0) {
     console.log(`[Security] collect 阶段共拦截 ${totalWarnings} 处可疑输入`);
   }
+}
 
-  console.log(`[CollectNode] 采集到 ${sources.length} 条原始数据`);
+export async function collectNode(
+  state: KBState,
+): Promise<Partial<KBState>> {
+  const plan = state.plan ?? {};
+  const limit = Number(plan.per_source_limit ?? 10);
+
+  console.log(
+    `[CollectNode] 开始采集，plan 每源上限=${limit}（GitHub + RSS）`,
+  );
+
+  const [githubSources, rssSources] = await Promise.all([
+    collectGitHub(limit),
+    collectRss(limit),
+  ]);
+
+  const sources = [...githubSources, ...rssSources];
+  sanitizeSources(sources);
+
+  console.log(
+    `[CollectNode] 采集到 ${sources.length} 条原始数据（GitHub ${githubSources.length} + RSS ${rssSources.length}）`,
+  );
   return { sources };
 }

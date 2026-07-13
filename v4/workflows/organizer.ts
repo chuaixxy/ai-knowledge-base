@@ -13,7 +13,7 @@ import { fileURLToPath } from "node:url";
 
 import { filterOutput } from "../tests/security.ts";
 import { chatJson, accumulateUsage, BudgetExceededError } from "./model-client.ts";
-import { deriveSourceId } from "./source-id.ts";
+import { deriveSourceId, loadExistingSourceIds } from "./source-id.ts";
 import type { KBState } from "./state.ts";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -115,8 +115,8 @@ function asRecordArray(value: unknown): Record<string, unknown>[] | null {
 
 function deduplicateBySourceId(
   items: Record<string, unknown>[],
+  existingIds: Set<string>,
 ): { unique: Record<string, unknown>[]; skipped: number } {
-  const sessionIds = new Set<string>();
   const unique: Record<string, unknown>[] = [];
   let skipped = 0;
 
@@ -124,13 +124,13 @@ function deduplicateBySourceId(
     const sourceId = deriveSourceId(item);
     if (!sourceId) continue;
 
-    if (sessionIds.has(sourceId)) {
-      console.log(`[OrganizeNode] 跳过重复（本次采集）: ${sourceId}`);
+    if (existingIds.has(sourceId)) {
+      console.log(`[OrganizeNode] 跳过重复（已存在）: ${sourceId}`);
       skipped++;
       continue;
     }
 
-    sessionIds.add(sourceId);
+    existingIds.add(sourceId);
     unique.push({ ...item, source_id: sourceId });
   }
 
@@ -154,7 +154,14 @@ export async function organizeNode(
     (a) => Number(a.relevance_score ?? 0) >= threshold,
   );
 
-  let { unique, skipped } = deduplicateBySourceId(qualified);
+  const existingIds = loadExistingSourceIds();
+  let skipped = 0;
+
+  let { unique, skipped: sessionSkipped } = deduplicateBySourceId(
+    qualified,
+    existingIds,
+  );
+  skipped += sessionSkipped;
 
   if (iteration > 0 && feedback) {
     const prompt = `你是知识库编辑。请根据以下审核反馈定向改进条目。
@@ -168,7 +175,11 @@ export async function organizeNode(
       tracker = accumulateUsage(tracker, usage);
       const improved = asRecordArray(parsed);
       if (improved) {
-        ({ unique, skipped } = deduplicateBySourceId(improved));
+        ({ unique, skipped: sessionSkipped } = deduplicateBySourceId(
+          improved,
+          existingIds,
+        ));
+        skipped += sessionSkipped;
       }
     } catch (err) {
       if (err instanceof BudgetExceededError) throw err;
@@ -213,7 +224,7 @@ export async function organizeNode(
   }
 
   console.log(
-    `[OrganizeNode] 整理出 ${articles.length} 条知识条目 (迭代 ${iteration})，跳过 ${skipped} 条本次重复`,
+    `[OrganizeNode] 整理出 ${articles.length} 条知识条目 (迭代 ${iteration})，跳过 ${skipped} 条重复`,
   );
 
   const appended = saveArticlesToDisk(articles);

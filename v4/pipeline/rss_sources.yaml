@@ -96,6 +96,7 @@ sources:
     limit:    3
 
   # --- 国内大厂技术博客 ---
+  # 微信公众号源通过 BestBlogs Wechat2RSS 订阅（2026-07 更新）
 
   - name:     "美团技术团队"
     url:      "https://tech.meituan.com/feed/"
@@ -104,76 +105,142 @@ sources:
     limit:    2
 
   - name:     "字节跳动技术团队"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3253632141.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "字节跳动 Seed"
+    url:      "https://wechat2rss.bestblogs.dev/feed/6efd40bb335d2037f365d284cb5e00f0843e737e.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "大淘宝技术"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3014106999.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/26fef2307bebc8673703f7e726982d8f56c9a219.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "阿里技术"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3885737868.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/6535a444e9651fecae3383363be7589acdebe2b6.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "阿里云开发者"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3239545440.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/39fc51b0b1316137e608c45da5dbbca4f9eb9538.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
-  - name:     "阿里通义千问"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3911621034.atom"
+  - name:     "通义实验室"
+    url:      "https://wechat2rss.bestblogs.dev/feed/4ebee6222ae08705b8aabc9116f0defbcb6b17c6.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "蚂蚁技术 AntTech"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3247771423.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/15738401f49466ad01b324b69f779f9bef0cb3e7.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "魔搭 ModelScope"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3915395868.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/d993a885260f96057b9a4c96212cb2c95bb5054b.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "腾讯技术工程"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_2398602260.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/1e0ac39f8952b2e7f0807313cf2633d25078a171.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "腾讯混元"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3908569425.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/306ce19a1ca590c9c2df781789e828d1acfa1356.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
   - name:     "腾讯研究院"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_2399148061.atom"
+    url:      "https://wechat2rss.bestblogs.dev/feed/6152301e0978bffb0a8284cab339262b9764dcfb.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    2
 
-  - name:     "腾讯大讲堂"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_1105348241.atom"
+  - name:     "腾讯云开发者"
+    url:      "https://wechat2rss.bestblogs.dev/feed/6cec2c211479a5502896375860009782cf10c2ba.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "腾讯云中间件"
+    url:      "https://wechat2rss.bestblogs.dev/feed/bf602c1e692b10b8f0192f2379d0f64dee58eba0.xml"
     category: "chinese-tech"
     enabled:  true
     limit:    1
 
-  - name:     "腾讯云中间件"
-    url:      "https://werss.bestblogs.dev/feeds/MP_WXS_3011465052.atom"
+  - name:     "京东技术"
+    url:      "https://wechat2rss.bestblogs.dev/feed/fa0be550682410cc187c0d1eab1a0fc4e073b949.xml"
     category: "chinese-tech"
     enabled:  true
-    limit:    1
+    limit:    2
+
+  - name:     "小米技术"
+    url:      "https://wechat2rss.bestblogs.dev/feed/8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "哔哩哔哩技术"
+    url:      "https://wechat2rss.bestblogs.dev/feed/3a12ae4fde5bb74aab2fddc9f710a3c057eab82f.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "滴滴技术"
+    url:      "https://wechat2rss.bestblogs.dev/feed/b9a02e7d9e35178ef44fc560fcb5ec4995613af2.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "快手技术"
+    url:      "https://wechat2rss.bestblogs.dev/feed/c4cc10d2e32a5fa12927581ae581a336f399fe75.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "携程技术"
+    url:      "https://wechat2rss.bestblogs.dev/feed/b5d5237d609fe96d74ae9d0241ffa8daad2f147b.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "百度文心"
+    url:      "https://wechat2rss.bestblogs.dev/feed/d0767d885e6ba213344fb0c0408c51331e23a994.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "DeepSeek"
+    url:      "https://wechat2rss.bestblogs.dev/feed/1709da4f538d4ce4fb6d7a8ba1a5a1c297919601.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "月之暗面 Kimi"
+    url:      "https://wechat2rss.bestblogs.dev/feed/c5c43d4bc17bae656763859ed0903bb6314ec6fe.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
+
+  - name:     "智谱"
+    url:      "https://wechat2rss.bestblogs.dev/feed/433d2134dca54d80804daf32e8be546155be3300.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    2
 
   # --- 国际大厂技术博客 ---
 
@@ -202,23 +269,21 @@ sources:
     limit:    2
 
   # --- 中文社区 ---
-  # 机器之心：/rss 返回 302 → /data-service，RSS 不可用
-  # 量子位：/rss 和 /feed 均返回 403，RSS 不可用
 
-  - name:     "InfoQ AI 频道"
-    url:      "https://www.infoq.cn/feed"
+  - name:     "InfoQ"
+    url:      "https://wechat2rss.bestblogs.dev/feed/13da94d7eb314b49fa251cb7e8399cae29d772db.xml"
     category: "chinese"
-    enabled:  false       # URL 待验证
+    enabled:  true
     limit:    2
 
   - name:     "机器之心"
-    url:      "https://www.jiqizhixin.com/rss"
+    url:      "https://wechat2rss.bestblogs.dev/feed/8d97af31b0de9e48da74558af128a4673d78c9a3.xml"
     category: "chinese"
-    enabled:  false       # RSS 不可用（302 → /data-service），暂无替代地址
+    enabled:  true
     limit:    2
 
   - name:     "量子位"
     url:      "https://www.qbitai.com/feed"
     category: "chinese"
-    enabled:  false       # /rss 和 /feed 均返回 403，RSS 不可用
+    enabled:  false       # /rss 和 /feed 均返回 403，OPML 中暂无替代地址
     limit:    2
