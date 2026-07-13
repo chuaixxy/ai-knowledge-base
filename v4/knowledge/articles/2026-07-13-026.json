@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-13-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501654&idx=1&sn=62fb9b2cfe6a97f7e47f39d11a4f8392",
+  "title": "🔥Fun-ASR-Realtime发布：语音识别再升级！",
+  "source": "rss-4ebee6222ae08705b8aabc9116f0defbcb6b17c6",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501654&idx=1&sn=62fb9b2cfe6a97f7e47f39d11a4f8392",
+  "summary": "Fun-ASR-Realtime是一款升级版的语音识别技术，支持单模型覆盖30种语言和16种方言，尤其在东亚和东南亚地区优化后，全球多语言识别准确率显著提升。在工业级方言测试中，语义准确率达87.8%，接近人工水平。该技术引入上下文理解，支持动态注入热词和对话上下文，实现同音词、品牌名等语义消歧。流式实时识别与非流式训练一体化，首字延迟百毫秒级，准确率接近离线，并支持多语言无缝切换。API已上线阿里云百炼平台。",
+  "tags": [
+    "语音识别",
+    "多语言",
+    "方言识别",
+    "流式识别",
+    "阿里云",
+    "实时识别",
+    "语义消歧"
+  ],
+  "relevance_score": 0.85,
+  "category": "语音识别技术",
+  "key_insight": "通过一体化训练和上下文理解，实现了流式实时识别的高准确率与多语言方言的全面覆盖，接近人工水平。"
+}

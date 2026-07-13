@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-13-011",
+  "source_id": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+  "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+  "summary": "苹果的自动驾驶汽车项目虽未成功落地，但其研发过程中对车载AI处理能力的极高需求，意外推动了苹果芯片技术的重大突破。苹果在开发自动驾驶平台早期就意识到需要强大的设备端AI处理能力，虽然车用处理器最终未能完成，但这一项目的技术积累和探索，为苹果后续打造出性能强大的AI芯片（如A系列和M系列）奠定了关键基础，成为苹果芯片发展的隐形遗产。",
+  "tags": [
+    "苹果",
+    "自动驾驶",
+    "AI芯片",
+    "技术遗产",
+    "芯片研发",
+    "汽车项目"
+  ],
+  "relevance_score": 0.85,
+  "category": "科技/芯片与AI",
+  "key_insight": "苹果失败的自驾车项目，意外催生了其如今领先的AI芯片技术，证明高难度研发的副产品往往具有颠覆性价值。"
+}

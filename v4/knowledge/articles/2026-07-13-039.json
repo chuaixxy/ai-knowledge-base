@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-13-039",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506846&idx=1&sn=76b611baa783baf93166447e1c1f4ad1",
+  "title": "5-6月产品月报 | RabbitMQ Serverless 版弹性 TPS 上线，MQTT 支持 10s 粒度监控",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506846&idx=1&sn=76b611baa783baf93166447e1c1f4ad1",
+  "summary": "该项目为RabbitMQ Serverless版弹性TPS功能上线，并支持MQTT协议下的10秒粒度监控。弹性TPS意味着用户可根据实际负载自动调整吞吐量，无需预置资源，降低成本；10秒级MQTT监控则大幅提升物联网场景下的实时性能观测能力。这两项更新主要面向高并发、动态负载的云原生应用及IoT设备管理场景，增强了消息队列的弹性与可观测性。",
+  "tags": [
+    "RabbitMQ",
+    "Serverless",
+    "弹性TPS",
+    "MQTT",
+    "10s粒度监控",
+    "消息队列",
+    "IoT",
+    "云原生"
+  ],
+  "relevance_score": 0.85,
+  "category": "产品更新",
+  "key_insight": "RabbitMQ Serverless版通过弹性TPS和细粒度监控，显著提升了在IoT和云原生场景下的资源利用效率与实时运维能力。"
+}

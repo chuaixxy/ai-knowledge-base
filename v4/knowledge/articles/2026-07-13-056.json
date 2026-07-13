@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-056",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247493980&idx=1&sn=995ae194e71d723b6110fb8c621e618c",
+  "title": "GLM-5.2上线并开源：专注Coding与长程任务",
+  "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247493980&idx=1&sn=995ae194e71d723b6110fb8c621e618c",
+  "summary": "GLM-5.2版本正式上线并开源，该版本专注于提升代码生成（Coding）能力和长程任务处理能力。通过优化训练数据和模型架构，GLM-5.2在编程相关任务上表现出更高准确性和效率，同时能更好地处理需要长期依赖的复杂任务。开源策略有助于社区协作和进一步优化。",
+  "tags": [
+    "GLM-5.2",
+    "开源",
+    "代码生成",
+    "长程任务",
+    "AI模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能模型",
+  "key_insight": "GLM-5.2通过聚焦编码和长程任务，显著提升了模型在专业领域的实用性和性能。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-13-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510000&idx=1&sn=f055ab32a27f479101b8c0f65c79dde9",
+  "title": "Cloud Use：当 Agent 开始真正使用云",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510000&idx=1&sn=f055ab32a27f479101b8c0f65c79dde9",
+  "summary": "本文探讨了Cloud Use与普通Tool Use的核心区别，指出Cloud Use强调Agent真正理解并主动调用云服务（如API、存储、计算等）以完成复杂任务，而不仅是简单工具调用。通过实践案例，展示了Agent如何动态组合云资源、处理状态管理及异常恢复，从而提升自动化效率。文章提供了具体设计思路与经验总结，帮助开发者构建更智能的云原生Agent。",
+  "tags": [
+    "Cloud Use",
+    "Agent",
+    "Tool Use",
+    "云原生",
+    "自动化",
+    "API"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术实践",
+  "key_insight": "Cloud Use的核心在于Agent主动理解并编排云服务，而非被动调用工具，这要求Agent具备环境感知与动态决策能力。"
+}

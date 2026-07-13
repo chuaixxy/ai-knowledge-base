@@ -234,7 +234,19 @@ sources:
     url:      "https://wechat2rss.bestblogs.dev/feed/c5c43d4bc17bae656763859ed0903bb6314ec6fe.xml"
     category: "chinese-tech"
     enabled:  true
-    limit:    2
+    limit:    5
+
+  - name:     "奇舞精选"
+    url:      "https://wechat2rss.bestblogs.dev/feed/156a64fe3e95eebe4b85bf981d6ebb85441897bf.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    5
+
+  - name:     "得物技术"
+    url:      "https://wechat2rss.bestblogs.dev/feed/1cde72c9129b1f79cbb150166e7fed9a7568ee10.xml"
+    category: "chinese-tech"
+    enabled:  true
+    limit:    5
 
   - name:     "智谱"
     url:      "https://wechat2rss.bestblogs.dev/feed/433d2134dca54d80804daf32e8be546155be3300.xml"

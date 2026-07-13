@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-13-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561434&idx=1&sn=f93af04c3958ccf69d495d3296503a29",
+  "title": "限流比降 10 倍：百炼网关如何用 RocketMQ LiteTopic 重构大模型限流",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561434&idx=1&sn=f93af04c3958ccf69d495d3296503a29",
+  "summary": "百炼网关利用RocketMQ LiteTopic技术将大模型限流的限流比降提升10倍。传统限流方法在高并发场景下因性能瓶颈导致效率低下，而LiteTopic通过轻量化主题设计和优化消息队列处理，显著降低延迟并提高吞吐量。该方案实现了更精准的流量控制，适用于大语言模型等资源密集型应用，有效缓解了突发请求对后端服务的冲击，提升了系统的稳定性和响应速度。",
+  "tags": [
+    "限流",
+    "RocketMQ",
+    "LiteTopic",
+    "大模型",
+    "百炼网关",
+    "流量控制"
+  ],
+  "relevance_score": 0.85,
+  "category": "系统架构与性能优化",
+  "key_insight": "通过RocketMQ LiteTopic的轻量主题机制，百炼网关大幅优化了消息处理路径，从而以10倍限流比降提升了大模型场景下的流量控制效率。"
+}

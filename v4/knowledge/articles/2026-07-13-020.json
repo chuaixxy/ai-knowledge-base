@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544719&idx=1&sn=42fb0cb0fe7c292ac867355c9bb61062",
+  "title": "ICLR 2026 | 基于视觉自回归模型的前馈式主体驱动图像生成算法 EchoGen",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544719&idx=1&sn=42fb0cb0fe7c292ac867355c9bb61062",
+  "summary": "EchoGen 提出了一种基于视觉自回归模型（VAR）的前馈式主体驱动图像生成算法。该方法首次将VAR应用于主体驱动生成任务，通过双路径注入机制，在保证图像质量的同时显著提升生成效率。实验表明，生成1024分辨率图像仅需5.2秒，速度相比现有方法提升2倍以上。该工作有望在图像编辑、个性化生成等场景中实现高效应用。",
+  "tags": [
+    "视觉自回归",
+    "主体驱动生成",
+    "前馈式",
+    "图像生成",
+    "高效推理"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机视觉与生成模型",
+  "key_insight": "通过双路径注入实现VAR在主体驱动生成中的首次高效应用，速度与质量兼得。"
+}

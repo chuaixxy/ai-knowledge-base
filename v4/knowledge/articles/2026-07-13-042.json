@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-13-042",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247519825&idx=1&sn=955f06302a8b11467024254492c249b3",
+  "title": "从 Vibe Coding 到 Harness Engineering： JDK 升级中可控演进的 AI 工程实践",
+  "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247519825&idx=1&sn=955f06302a8b11467024254492c249b3",
+  "summary": "该项目探讨了在JDK升级过程中，如何从传统的“Vibe Coding”（即依赖开发者直觉和经验的编码方式）转向“Harness Engineering”（一种更可控、系统化的工程方法）。它提出结合AI技术，实现JDK升级的可控演进，包括自动化代码迁移、兼容性检测、性能优化和风险预测。通过AI辅助，团队能够更高效地管理升级过程中的技术债务、回归测试和文档更新，从而降低升级风险，提升系统稳定性和开发效率。",
+  "tags": [
+    "JDK升级",
+    "AI工程实践",
+    "代码迁移",
+    "兼容性检测",
+    "Harness Engineering",
+    "自动化",
+    "技术债务管理"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI工程化与系统演进",
+  "key_insight": "AI能够将JDK升级从依赖直觉的松散过程转变为可量化、可控制的工程实践，显著降低升级风险。"
+}

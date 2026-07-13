@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-13-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510011&idx=1&sn=dde47100c92c8264e667c27d7d52f41a",
+  "title": "意识 × Loop：让 Loop 跨 Session 自进化的最佳实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510011&idx=1&sn=dde47100c92c8264e667c27d7d52f41a",
+  "summary": "本文探讨了Agent Loop在跨会话场景下实现自进化与对齐的实践方法。核心在于通过持续学习机制，使Loop能够跨越不同会话（Session）积累经验、优化策略，并保持与人类意图的对齐。文章提供了具体的实现样本和参考框架，旨在解决Agent在长期交互中的适应性与一致性挑战。",
+  "tags": [
+    "Agent Loop",
+    "自进化",
+    "跨会话",
+    "对齐",
+    "人工智能",
+    "最佳实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能技术",
+  "key_insight": "通过跨会话的持续学习与对齐机制，使Agent Loop具备自主进化能力，是提升长期交互适应性的关键。"
+}

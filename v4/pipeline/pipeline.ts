@@ -163,9 +163,19 @@ export async function runPipeline(
 // ============================================================
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  const onlyPublish = process.argv.includes("--only-publish");
   const publish = !process.argv.includes("--no-publish");
 
-  runPipeline(publish).catch((err) => {
+  const run = onlyPublish
+    ? publishDailyDigest().then((results) => {
+        for (const r of results) {
+          const status = r.success ? "成功" : `失败(${r.error ?? "unknown"})`;
+          console.log(`[V4 Pipeline] ${r.channel}: ${status}`);
+        }
+      })
+    : runPipeline(publish).then(() => {});
+
+  run.catch((err) => {
     console.error(
       "[V4 Pipeline] 执行失败:",
       err instanceof Error ? err.message : String(err),

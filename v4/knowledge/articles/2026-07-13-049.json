@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-049",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247500992&idx=1&sn=56ec80386e6be243545b43374a15b0d3",
+  "title": "智能UI用例生成与执行的四阶进化实践",
+  "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247500992&idx=1&sn=56ec80386e6be243545b43374a15b0d3",
+  "summary": "该项目探讨了智能UI用例生成与执行的四个进化阶段，从基础自动化到智能化演进，涵盖用例设计、执行与维护的实践方法。通过引入AI技术，提升测试效率与覆盖率，最终实现全流程自动化与智能优化。文末提供讲师PPT供进一步学习。",
+  "tags": [
+    "智能UI测试",
+    "用例生成",
+    "自动化测试",
+    "AI进化",
+    "测试实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "软件测试",
+  "key_insight": "通过四阶进化，智能UI测试从手动迈向AI驱动，实现高效、自适应的用例生成与执行。"
+}

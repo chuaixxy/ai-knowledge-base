@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-051",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277403&idx=1&sn=95e1bf7a8244080704a4a238cf395795",
+  "title": "AI专栏 | 上下文越多，Agent 越笨？开源框架 Flow2Spec 给出另一种答案",
+  "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277403&idx=1&sn=95e1bf7a8244080704a4a238cf395795",
+  "summary": "Flow2Spec 是一个开源框架，旨在解决 AI Agent 在处理大量上下文时性能下降的问题。其核心创新在于，通过引导项目在开发过程中自然生长出知识图谱，而不是依赖人工预定义。框架将开发流程中的规范、代码、文档等碎片化信息自动关联、结构化，形成动态的知识网络。这允许 Agent 在需要时精准检索和利用相关上下文，而非依赖线性增长的上下文窗口，从而避免“上下文越多越笨”的困境。该方案为构建更高效、可扩展的 AI 辅助开发工具提供了新思路。",
+  "tags": [
+    "AI Agent",
+    "知识图谱",
+    "开源框架",
+    "上下文管理",
+    "软件工程"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具与框架",
+  "key_insight": "Flow2Spec 利用开发过程中自然生长的知识图谱，替代线性上下文，解决了 AI Agent 的上下文过载问题。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-045",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504293&idx=1&sn=295e1a16139debbbda7a391efa4ae157",
+  "title": "B站特征选择算法LeAP：模型的“精准瘦身”实践",
+  "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504293&idx=1&sn=295e1a16139debbbda7a391efa4ae157",
+  "summary": "B站提出的LeAP算法是一种自动化特征选择方法，旨在解决深度学习推荐系统中特征冗余与模型性能平衡的难题。该算法通过自适应剪枝策略，在训练过程中动态评估特征重要性，剔除低贡献特征，实现模型“精准瘦身”。实践表明，LeAP在保持推荐效果的同时，显著降低模型参数量与计算开销，提升线上推理效率。其核心创新在于结合梯度分析与稀疏正则化，实现端到端的特征筛选，适用于大规模工业推荐场景。",
+  "tags": [
+    "特征选择",
+    "深度学习推荐系统",
+    "模型压缩",
+    "B站",
+    "自动化特征工程"
+  ],
+  "relevance_score": 0.9,
+  "category": "推荐系统技术",
+  "key_insight": "LeAP通过训练时自适应剪枝，自动化筛选重要特征，实现模型轻量化而不损效果。"
+}

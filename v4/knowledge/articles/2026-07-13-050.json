@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-13-050",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277419&idx=1&sn=48894d010001089bffca517fcaacbaeb",
+  "title": "干货 | 200G内存尖峰、数十万Pod迁移：携程Karmada规模化治理实录",
+  "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277419&idx=1&sn=48894d010001089bffca517fcaacbaeb",
+  "summary": "携程在Kubernetes集群规模扩张中，遇到单集群超200G内存尖峰与数十万Pod迁移挑战。通过引入Karmada联邦治理框架，实现全局资源统一调度与策略管控，同时保留各成员集群的本地自治能力。该方案有效缓解了单集群压力，提升了多集群资源利用率和运维效率，为大型企业多云/多集群管理提供了可复用的实践经验。",
+  "tags": [
+    "Kubernetes",
+    "Karmada",
+    "集群联邦",
+    "多云管理",
+    "资源调度",
+    "运维实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "云原生与容器技术",
+  "key_insight": "联邦层全局治理与成员集群本地自治的分离设计，是解决超大规模多集群资源尖峰和迁移挑战的关键。"
+}

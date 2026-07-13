@@ -1038,5 +1038,1110 @@
     ],
     "status": "published",
     "collected_at": "2026-07-12T02:56:05.804Z"
+  },
+  {
+    "id": "2026-07-13-001",
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "category": "模型推理与部署",
+    "relevance_score": 0.85,
+    "tags": [
+      "推理优化",
+      "MiMo模型",
+      "流水线",
+      "算子融合",
+      "内存优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-002",
+    "title": "AI Surveillance and Social Progress",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "category": "技术伦理与社会影响",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI监控",
+      "社会进步",
+      "技术伦理",
+      "隐私保护",
+      "公共安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-003",
+    "title": "Tau: An Educational Coding Agent",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://twotimespi.dev/",
+    "category": "教育技术",
+    "relevance_score": 0.7,
+    "tags": [
+      "教育",
+      "编码代理",
+      "AI教学",
+      "交互式学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-004",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/deutsche-telekom",
+    "category": "电信行业AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "德国电信",
+      "AI原生",
+      "OpenAI",
+      "客户服务",
+      "网络运营",
+      "语音交互",
+      "数字化转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-005",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "category": "AI应用与办公软件",
+    "relevance_score": 0.9,
+    "tags": [
+      "GPT-5.6",
+      "Microsoft 365",
+      "Copilot",
+      "AI办公",
+      "智能协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-006",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/gpt-5-6",
+    "category": "人工智能/大语言模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "前沿智能",
+      "性能优化",
+      "成本效益",
+      "按需能力"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-007",
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "category": "AI 代理与 API 更新",
+    "relevance_score": 0.9,
+    "tags": [
+      "Gemini API",
+      "Managed Agents",
+      "后台任务",
+      "远程 MCP",
+      "AI 代理",
+      "Google AI",
+      "生产级部署"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-008",
+    "title": "The latest AI news we announced in June 2026",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "category": "技术新闻与更新",
+    "relevance_score": 0.85,
+    "tags": [
+      "谷歌",
+      "AI更新",
+      "2026年6月",
+      "生成式AI",
+      "多模态",
+      "企业应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-009",
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "category": "教育科技",
+    "relevance_score": 0.9,
+    "tags": [
+      "人工智能",
+      "教育",
+      "纽约",
+      "谷歌",
+      "行业合作",
+      "峰会"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-010",
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "category": "社会文化",
+    "relevance_score": 0.6,
+    "tags": [
+      "AI眼镜",
+      "名人批评",
+      "时尚争议",
+      "Meta"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-011",
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "category": "科技/芯片与AI",
+    "relevance_score": 0.85,
+    "tags": [
+      "苹果",
+      "自动驾驶",
+      "AI芯片",
+      "技术遗产",
+      "芯片研发",
+      "汽车项目"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-012",
+    "title": "The fight against AI data centers is just beginning",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+    "category": "科技与社会",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI数据中心",
+      "能源消耗",
+      "社区冲突",
+      "基础设施",
+      "环境问题"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-013",
+    "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
+    "category": "大模型技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "万亿参数模型",
+      "国产算力",
+      "长上下文",
+      "代码生成",
+      "美团"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-014",
+    "title": "ICML 2026 | 美团技术团队学术论文精选",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
+    "category": "学术会议",
+    "relevance_score": 0.85,
+    "tags": [
+      "ICML",
+      "机器学习",
+      "美团",
+      "学术论文",
+      "前沿研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-015",
+    "title": "字节跳动 STE 固件团队亮相 OCP China 2026：从标准化到智能化，构建下一代数据中心固件基础设施",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=1&sn=be8775089a0a07f7d22f5bf267ee752b",
+    "category": "技术趋势与架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "字节跳动",
+      "OCP China 2026",
+      "固件",
+      "数据中心",
+      "标准化",
+      "智能化",
+      "AI运维",
+      "基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-016",
+    "title": "扣子 × SearchCLI：一个不会英语的卖家，靠一个 bot 卖到了日韩英多个市场",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=2&sn=9b8a0e95210d1da2b0c48795c93a1024",
+    "category": "AI应用与跨境电商",
+    "relevance_score": 0.85,
+    "tags": [
+      "跨境电商",
+      "AI自动化",
+      "扣子",
+      "SearchCLI",
+      "自然语言处理",
+      "低代码"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-017",
+    "title": "不止“生成”，更懂“设计”｜Seedream 5.0 Pro 发布",
+    "source": "rss-seed",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494019&idx=1&sn=35d263cfd1c740502bb27ab572f53b78",
+    "category": "AI应用与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI设计",
+      "生成式AI",
+      "专业生产力",
+      "创意工具",
+      "Seedream"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-018",
+    "title": "EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
+    "source": "rss-seed",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493765&idx=1&sn=c949ca4147a445fc55a31005784f1d05",
+    "category": "AI基础研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "Scaling Law",
+      "Agent学习",
+      "基准测试",
+      "真实环境",
+      "log-sigmoid"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-019",
+    "title": "CVPR 2026 | 重思基于扩散模型的视频超分辨率：利用对齐特征的稠密引导 DGAF-VSR",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544787&idx=1&sn=1a22e2fc4328c7ee3a432c996ef50f3c",
+    "category": "计算机视觉-视频增强",
+    "relevance_score": 0.85,
+    "tags": [
+      "视频超分辨率",
+      "扩散模型",
+      "CVPR 2026",
+      "稠密引导",
+      "对齐特征",
+      "时序一致性",
+      "SOTA",
+      "淘天音视频"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-020",
+    "title": "ICLR 2026 | 基于视觉自回归模型的前馈式主体驱动图像生成算法 EchoGen",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544719&idx=1&sn=42fb0cb0fe7c292ac867355c9bb61062",
+    "category": "计算机视觉与生成模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "视觉自回归",
+      "主体驱动生成",
+      "前馈式",
+      "图像生成",
+      "高效推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-021",
+    "title": "意识 × Loop：让 Loop 跨 Session 自进化的最佳实践",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510011&idx=1&sn=dde47100c92c8264e667c27d7d52f41a",
+    "category": "人工智能技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agent Loop",
+      "自进化",
+      "跨会话",
+      "对齐",
+      "人工智能",
+      "最佳实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-022",
+    "title": "Cloud Use：当 Agent 开始真正使用云",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510000&idx=1&sn=f055ab32a27f479101b8c0f65c79dde9",
+    "category": "技术实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "Cloud Use",
+      "Agent",
+      "Tool Use",
+      "云原生",
+      "自动化",
+      "API"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-023",
+    "title": "限流比降 10 倍：百炼网关如何用 RocketMQ LiteTopic 重构大模型限流",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561434&idx=1&sn=f93af04c3958ccf69d495d3296503a29",
+    "category": "系统架构与性能优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "限流",
+      "RocketMQ",
+      "LiteTopic",
+      "大模型",
+      "百炼网关",
+      "流量控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-024",
+    "title": "淘宝内容生态：GrowBrain - 淘宝Agentic内容成长引擎",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561428&idx=1&sn=037c032be851bffa7adf403e63bc0486",
+    "category": "AI+电商内容",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "内容生成",
+      "电商增长",
+      "多模态",
+      "智能运营",
+      "自动化营销"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-025",
+    "title": "小有可为AI向善创新挑战赛，启程！",
+    "source": "rss-4ebee6222ae08705b8aabc9116f0defbcb6b17c6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501664&idx=1&sn=43387671719ccf5db6fe1fab3249a8e3",
+    "category": "社会创新",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI向善",
+      "创新挑战赛",
+      "社会公益",
+      "短期项目"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-026",
+    "title": "🔥Fun-ASR-Realtime发布：语音识别再升级！",
+    "source": "rss-4ebee6222ae08705b8aabc9116f0defbcb6b17c6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501654&idx=1&sn=62fb9b2cfe6a97f7e47f39d11a4f8392",
+    "category": "语音识别技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音识别",
+      "多语言",
+      "方言识别",
+      "流式识别",
+      "阿里云",
+      "实时识别",
+      "语义消歧"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-027",
+    "title": "全球报名倒计时！AFAC2026大赛百万舞台已搭好，就等你的才华登场！",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537524&idx=1&sn=0b76ba78107e28dfe45be2cba95aeb5e",
+    "category": "竞赛推广",
+    "relevance_score": 0.6,
+    "tags": [
+      "AI大赛",
+      "竞赛报名",
+      "奖金激励",
+      "倒计时"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-028",
+    "title": "论文秀 Live#41 | ICML 2026 Spotlight 论文解读",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537517&idx=1&sn=7073300cd4559801368cda6baec0eade",
+    "category": "学术研讨",
+    "relevance_score": 0.9,
+    "tags": [
+      "ICML",
+      "机器学习",
+      "论文解读",
+      "学术分享",
+      "前沿技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-029",
+    "title": "21万奖金，来「小有可为」一起AI向善！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510546&idx=1&sn=404ed9c41b7928bed45cf4bed475e5d4",
+    "category": "AI竞赛",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI向善",
+      "创新挑战赛",
+      "开源",
+      "社会公益",
+      "奖金"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-030",
+    "title": "蚂蚁灵波全栈 2.0 来了！具身原生，让智能走进物理世界",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510529&idx=1&sn=37f4f35e57b1cd1a90439dda41905d1e",
+    "category": "具身智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "全栈技术",
+      "机器人",
+      "物理世界交互",
+      "蚂蚁灵波"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-031",
+    "title": "【揭秘】如何打造一支凌晨3点还在交付的AI军团",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802528&idx=1&sn=2a38aa36abe5401b21ec718ccc60260a",
+    "category": "AI应用与自动化",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI自动化",
+      "超级个体",
+      "智能协作",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-032",
+    "title": "大圆实测 : 你真的需要一个长在企业微信中的AI",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802499&idx=1&sn=5428fc3fdfc06b974e550f75d225d70a",
+    "category": "企业服务/AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "企业微信",
+      "AI助手",
+      "企业协作",
+      "自然语言处理",
+      "工作流自动化",
+      "SaaS",
+      "对话式AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-033",
+    "title": "Hy3 调用激增，WorkBuddy 已紧急扩容",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247497999&idx=1&sn=f7c5a33a36778944f0f06ed5eed80d35",
+    "category": "运维与扩展",
+    "relevance_score": 0.85,
+    "tags": [
+      "扩容",
+      "流量激增",
+      "Hy3",
+      "WorkBuddy",
+      "系统稳定性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-034",
+    "title": "腾讯混元 Hy3 发布：Agent 能力和产品体验跃升",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247497981&idx=1&sn=9d5226192f9a29ec5f0c6796fa34ac4f",
+    "category": "AI模型与平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "腾讯混元",
+      "Agent",
+      "AI升级",
+      "多模态",
+      "产品体验"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-035",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650997991&idx=1&sn=988bd86eef7defe015d8255412425bfe",
+    "category": "行业资讯",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI动态",
+      "每周关键词",
+      "腾讯研究院",
+      "行业趋势",
+      "热点追踪"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-036",
+    "title": "AI 公司为何把哲学家请进实验室？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650997989&idx=1&sn=27c1fe778992ecc462459b195143bfe6",
+    "category": "科技与社会",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI伦理",
+      "哲学",
+      "技术与社会",
+      "跨学科合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-037",
+    "title": "当K8s遇见Ray：大模型时代AI Workload调度的通用范式",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696261&idx=1&sn=b1ddd752e3e7b20d4e27de5505e28e37",
+    "category": "AI基础设施与调度",
+    "relevance_score": 0.9,
+    "tags": [
+      "Kubernetes",
+      "Ray",
+      "AI Workload",
+      "分布式调度",
+      "大模型",
+      "容器编排",
+      "弹性计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-038",
+    "title": "一文读懂Harness Engineering！",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696218&idx=1&sn=6fdeed9f45504aede19989f68d0c6cd9",
+    "category": "工程方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "约束工程",
+      "系统设计",
+      "黑盒测试",
+      "工程实践",
+      "技术框架"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-039",
+    "title": "5-6月产品月报 | RabbitMQ Serverless 版弹性 TPS 上线，MQTT 支持 10s 粒度监控",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506846&idx=1&sn=76b611baa783baf93166447e1c1f4ad1",
+    "category": "产品更新",
+    "relevance_score": 0.85,
+    "tags": [
+      "RabbitMQ",
+      "Serverless",
+      "弹性TPS",
+      "MQTT",
+      "10s粒度监控",
+      "消息队列",
+      "IoT",
+      "云原生"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-040",
+    "title": "7月18日，WAIC京东论坛共探AI进入物理世界",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502391&idx=1&sn=50e71b45b67825c32a25e5cd2bd472fe",
+    "category": "行业会议与论坛",
+    "relevance_score": 0.7,
+    "tags": [
+      "WAIC",
+      "京东",
+      "AI物理世界",
+      "产业智能化",
+      "实体经济"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-041",
+    "title": "超越单线程极限：JIMDB 内核热 Key 治理与性能优化实践",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502385&idx=1&sn=1410ac95dcf24bc93ecc4232d612e1f5",
+    "category": "分布式系统与性能优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "热Key治理",
+      "JIMDB",
+      "异步IO",
+      "旁路缓存",
+      "分布式系统",
+      "性能优化",
+      "一致性模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-042",
+    "title": "从 Vibe Coding 到 Harness Engineering： JDK 升级中可控演进的 AI 工程实践",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247519825&idx=1&sn=955f06302a8b11467024254492c249b3",
+    "category": "AI工程化与系统演进",
+    "relevance_score": 0.8,
+    "tags": [
+      "JDK升级",
+      "AI工程实践",
+      "代码迁移",
+      "兼容性检测",
+      "Harness Engineering",
+      "自动化",
+      "技术债务管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-043",
+    "title": "小米泰坦合金 2.0：100% 再生铝，打造汽车低碳制造新标杆",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247519802&idx=1&sn=2ece9570e2359ee19c2acfa9049728f4",
+    "category": "新材料与制造工艺",
+    "relevance_score": 0.85,
+    "tags": [
+      "再生铝",
+      "汽车轻量化",
+      "低碳制造",
+      "循环经济",
+      "小米汽车"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-044",
+    "title": "B站技术团队邀您共赴 ACL 2026｜携 FATE系列新作&B-UP岗位亮相圣地亚哥",
+    "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504327&idx=1&sn=d62459c18b89bfa5742726977ff74aa4",
+    "category": "学术会议与招聘",
+    "relevance_score": 0.85,
+    "tags": [
+      "ACL 2026",
+      "B站",
+      "FATE系列",
+      "B-UP招聘",
+      "自然语言处理",
+      "技术交流"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-045",
+    "title": "B站特征选择算法LeAP：模型的“精准瘦身”实践",
+    "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504293&idx=1&sn=295e1a16139debbbda7a391efa4ae157",
+    "category": "推荐系统技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "特征选择",
+      "深度学习推荐系统",
+      "模型压缩",
+      "B站",
+      "自动化特征工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-046",
+    "title": "邀您参与2026“直通乌镇” HUATUO 开源竞技挑战赛！",
+    "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575288&idx=1&sn=f9c60e1da5d9d6a016999df925b97734",
+    "category": "技术竞赛与开源生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源",
+      "竞技挑战赛",
+      "互联网大赛",
+      "乌镇",
+      "全球赛事",
+      "技术竞赛"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-047",
+    "title": "滴滴国际化客服质检智能化之路：多语种多业务线 LLM 质检系统设计与实践",
+    "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575277&idx=1&sn=08a2141a19f30538617a1b1c14db1f2d",
+    "category": "人工智能应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "客服质检",
+      "多语种",
+      "LLM",
+      "出行",
+      "外卖",
+      "金融",
+      "智能化",
+      "滴滴"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-048",
+    "title": "KAT-Coder-V2.5 正式发布：从“写代码”到“做工程”，Agentic 能力全面提升",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247500994&idx=1&sn=881baae88f086734a025f6709c9495c8",
+    "category": "AI开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编码",
+      "Agentic能力",
+      "代码生成",
+      "工程化",
+      "KAT-Coder",
+      "版本更新"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-049",
+    "title": "智能UI用例生成与执行的四阶进化实践",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247500992&idx=1&sn=56ec80386e6be243545b43374a15b0d3",
+    "category": "软件测试",
+    "relevance_score": 0.85,
+    "tags": [
+      "智能UI测试",
+      "用例生成",
+      "自动化测试",
+      "AI进化",
+      "测试实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-050",
+    "title": "干货 | 200G内存尖峰、数十万Pod迁移：携程Karmada规模化治理实录",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277419&idx=1&sn=48894d010001089bffca517fcaacbaeb",
+    "category": "云原生与容器技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "Kubernetes",
+      "Karmada",
+      "集群联邦",
+      "多云管理",
+      "资源调度",
+      "运维实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-051",
+    "title": "AI专栏 | 上下文越多，Agent 越笨？开源框架 Flow2Spec 给出另一种答案",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277403&idx=1&sn=95e1bf7a8244080704a4a238cf395795",
+    "category": "AI开发工具与框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "知识图谱",
+      "开源框架",
+      "上下文管理",
+      "软件工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-052",
+    "title": "每天要读上百篇论文，这谁顶得住？",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669342&idx=1&sn=9ca277b010c911031b39accb9c617e4c",
+    "category": "学术工具与效率",
+    "relevance_score": 0.85,
+    "tags": [
+      "论文阅读",
+      "信息过载",
+      "学术工具",
+      "效率提升",
+      "自动化摘要"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-053",
+    "title": "DeepSeek-V4 预览版：迈入百万上下文普惠时代",
+    "source": "rss-deepseek",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485745&idx=1&sn=ef3bc11042fc329e89bc66a8938e8b2c",
+    "category": "大模型技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "长文本",
+      "上下文窗口",
+      "普惠AI",
+      "模型配置"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-054",
+    "title": "Kimi Work 上新：目标模式、插件中心和 6 月限时福利",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488561&idx=1&sn=6c43bef9dace58a90e8c52f5fcee7c48",
+    "category": "AI应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI工具",
+      "工作效率",
+      "任务管理",
+      "插件系统",
+      "Kimi"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-055",
+    "title": "Kimi K2.7 Code 编程模型已上线 Kimi Code、API 开放平台",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488546&idx=1&sn=93d0057b04afc0c85495c6fd9a3b8516",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "编程模型",
+      "AI代码生成",
+      "Kimi",
+      "开发者工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-056",
+    "title": "GLM-5.2上线并开源：专注Coding与长程任务",
+    "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247493980&idx=1&sn=995ae194e71d723b6110fb8c621e618c",
+    "category": "人工智能模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "GLM-5.2",
+      "开源",
+      "代码生成",
+      "长程任务",
+      "AI模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-057",
+    "title": "致开发者：GLM-5.2全量开放，前沿智能属于所有人",
+    "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247493935&idx=1&sn=5bf94fa8e504e6c20957cca2e98c97c2",
+    "category": "AI模型发布",
+    "relevance_score": 0.9,
+    "tags": [
+      "GLM-5.2",
+      "AI开放",
+      "开发者",
+      "大模型",
+      "多模态"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-058",
+    "title": "Four travel and hospitality trends from HITEC 2026",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/trends-from-hitec",
+    "category": "行业趋势",
+    "relevance_score": 0.85,
+    "tags": [
+      "酒店业",
+      "AI投资",
+      "HITEC 2026",
+      "趋势分析",
+      "数字化转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-059",
+    "title": "What Link data tells us about AI spending",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
+    "category": "金融科技与AI",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI支出",
+      "消费模式",
+      "Link支付",
+      "AI平台",
+      "数据分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-060",
+    "title": "连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=1&sn=8bbada4ac098dd4390b3408be7fb1370",
+    "category": "软件开发方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI迁移",
+      "代码库重构",
+      "任务分解",
+      "自愈循环",
+      "工程化AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-061",
+    "title": "Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288666&idx=2&sn=1dcaba62d285d767d42974cba8db16d6",
+    "category": "行业趋势",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI移动化",
+      "应用生态",
+      "人机协作",
+      "即时交互",
+      "技术趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-062",
+    "title": "98年哈工大教授带队，破晓智能要把触觉写进机器人基础模型",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043906&idx=1&sn=f8bd8f3ee9b7bb634d9a4dea3eeb3545",
+    "category": "具身智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "机器人",
+      "触觉感知",
+      "多模态AI",
+      "基础模型",
+      "哈工大"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-13-063",
+    "title": "ICML 2026｜让奖励模型更准更高效，TikTok、NUS提出置信度门控",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043906&idx=2&sn=b664726db41281efe1ba814d26ae887c",
+    "category": "人工智能 / 机器学习 / 强化学习优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "奖励模型",
+      "置信度门控",
+      "计算效率",
+      "强化学习",
+      "ICML 2026",
+      "TikTok",
+      "NUS",
+      "动态推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-13T03:15:05.245Z"
   }
 ]

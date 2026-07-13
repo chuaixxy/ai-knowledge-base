@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-006",
+  "source_id": "https://openai.com/index/gpt-5-6",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/gpt-5-6",
+  "summary": "GPT-5.6 是一款前沿智能模型，旨在通过提升每个token的智能密度、优化每美元性能比，以及提供按需增强的能力，来支撑用户最具挑战性的工作。它强调在保持成本效益的同时，显著增强模型在复杂推理、多模态理解和长上下文处理等方面的表现，尤其适用于科研、工程、金融等高要求领域。该模型通过架构创新和训练策略优化，实现了性能与效率的平衡，推动AI向更实用、更经济的方向发展。",
+  "tags": [
+    "大语言模型",
+    "前沿智能",
+    "性能优化",
+    "成本效益",
+    "按需能力"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能/大语言模型",
+  "key_insight": "GPT-5.6 通过提升每个token的智能密度和每美元性能比，实现了高性能与低成本的双重突破，使前沿AI更易获取和部署。"
+}

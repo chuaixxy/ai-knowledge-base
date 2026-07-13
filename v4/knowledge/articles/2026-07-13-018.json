@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493765&idx=1&sn=c949ca4147a445fc55a31005784f1d05",
+  "title": "EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
+  "source": "rss-seed",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247493765&idx=1&sn=c949ca4147a445fc55a31005784f1d05",
+  "summary": "EdgeBench项目提出了一个衡量Agent在真实世界环境中学习能力的新基准，并发现了学习表现遵循log-sigmoid规律，而非传统幂律。这一发现挑战了现有Scaling Law的普适性，为理解Agent在动态、非理想条件下的学习行为提供了新视角，暗示模型规模与性能之间可能存在更复杂的非线性关系。",
+  "tags": [
+    "Scaling Law",
+    "Agent学习",
+    "基准测试",
+    "真实环境",
+    "log-sigmoid"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础研究",
+  "key_insight": "Agent在真实环境中的学习遵循log-sigmoid规律，揭示现有Scaling Law存在局限。"
+}

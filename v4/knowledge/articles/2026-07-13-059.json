@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-059",
+  "source_id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
+  "title": "What Link data tells us about AI spending",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
+  "summary": "该项目通过分析使用Link支付的2.5亿客户的消费模式，发现与三个月前相比，客户在人工智能领域的支出显著增加，尤其是在允许用户构建AI应用的平台上投资巨大。这反映了AI技术在日常消费中日益增长的影响力和用户对AI工具的高需求。",
+  "tags": [
+    "AI支出",
+    "消费模式",
+    "Link支付",
+    "AI平台",
+    "数据分析"
+  ],
+  "relevance_score": 0.85,
+  "category": "金融科技与AI",
+  "key_insight": "AI消费激增，用户正大量投资于构建AI的平台，显示AI从工具转向基础建设趋势。"
+}

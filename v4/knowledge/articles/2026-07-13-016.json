@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-13-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=2&sn=9b8a0e95210d1da2b0c48795c93a1024",
+  "title": "扣子 × SearchCLI：一个不会英语的卖家，靠一个 bot 卖到了日韩英多个市场",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=2&sn=9b8a0e95210d1da2b0c48795c93a1024",
+  "summary": "该项目展示了非英语母语的卖家如何利用扣子（Coze）平台与SearchCLI工具结合，创建一个自动化bot，成功将产品卖到日本、韩国、英国等多个国际市场。通过自然语言处理和命令行界面集成，卖家无需精通外语即可实现跨语言产品描述生成、市场搜索优化和订单处理，大幅降低了跨境电商的语言壁垒。项目强调低技术门槛和高效自动化，适合小卖家快速拓展海外业务。",
+  "tags": [
+    "跨境电商",
+    "AI自动化",
+    "扣子",
+    "SearchCLI",
+    "自然语言处理",
+    "低代码"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用与跨境电商",
+  "key_insight": "AI工具可消除语言障碍，让非技术卖家通过简单bot实现多国市场自动运营。"
+}

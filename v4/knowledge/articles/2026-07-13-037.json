@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-13-037",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696261&idx=1&sn=b1ddd752e3e7b20d4e27de5505e28e37",
+  "title": "当K8s遇见Ray：大模型时代AI Workload调度的通用范式",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696261&idx=1&sn=b1ddd752e3e7b20d4e27de5505e28e37",
+  "summary": "该项目探讨了在AI大模型时代，如何结合Kubernetes（K8s）与Ray框架，构建一种通用且高效的AI工作负载调度范式。K8s作为容器编排的行业标准，提供资源管理和弹性扩展能力；Ray则专注于分布式AI计算，支持复杂任务如模型训练、推理和超参数调优。通过将Ray运行在K8s之上，可以实现AI工作负载与通用微服务的统一调度，降低运维复杂度，提升资源利用率。这种范式特别适合处理动态、异构的AI任务，为企业和研究机构提供可扩展、可复用的基础设施解决方案。",
+  "tags": [
+    "Kubernetes",
+    "Ray",
+    "AI Workload",
+    "分布式调度",
+    "大模型",
+    "容器编排",
+    "弹性计算"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与调度",
+  "key_insight": "K8s与Ray的融合为AI工作负载提供了从资源管理到任务调度的端到端通用范式，解决了传统调度系统对大模型动态任务支持不足的问题。"
+}

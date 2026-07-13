@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696218&idx=1&sn=6fdeed9f45504aede19989f68d0c6cd9",
+  "title": "一文读懂Harness Engineering！",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696218&idx=1&sn=6fdeed9f45504aede19989f68d0c6cd9",
+  "summary": "本文深入剖析了「约束工程」（Harness Engineering）的核心理念与实践方法，通过回顾十五个月的文献研究与实际案例，打破了传统黑盒思维，系统性地展示了该工程方法的内在逻辑与真实设计图纸。文章揭示了如何通过明确的约束条件来引导系统设计与开发，提升工程效率与可控性，为复杂系统构建提供了全新的视角与可落地的技术框架。",
+  "tags": [
+    "约束工程",
+    "系统设计",
+    "黑盒测试",
+    "工程实践",
+    "技术框架"
+  ],
+  "relevance_score": 0.85,
+  "category": "工程方法论",
+  "key_insight": "约束工程通过主动设计约束条件，将系统从黑盒转化为透明可控的白盒，从而提升工程效率与可靠性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-13-001",
+  "source_id": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "summary": "该项目针对MiMo-V2.5系列模型，提出了全流水线推理优化方案。通过分析模型推理中的瓶颈环节，采用算子融合、内存管理优化、异步调度等策略，显著降低了推理延迟并提升了吞吐量。实验表明，该方法在保持模型精度的前提下，实现了约2-3倍的推理速度提升，适用于大规模部署场景。",
+  "tags": [
+    "推理优化",
+    "MiMo模型",
+    "流水线",
+    "算子融合",
+    "内存优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "模型推理与部署",
+  "key_insight": "全流水线优化通过系统级协同设计，突破了MiMo模型推理中的关键性能瓶颈。"
+}
