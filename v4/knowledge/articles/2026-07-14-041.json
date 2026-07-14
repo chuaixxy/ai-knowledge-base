@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-14-041",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545481&idx=1&sn=3bba2e63d88f2b54d75943ba92b63686",
+  "title": "从表单到 Agent：得物社区活动搭建的 AI 实践之路",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545481&idx=1&sn=3bba2e63d88f2b54d75943ba92b63686",
+  "summary": "得物社区通过AI技术重构了营销活动搭建流程，将原本需在多个系统间跳转、填写大量字段的复杂操作，优化为“两阶段Agent+聚合工作台”模式。文章重点分享了从“AI填表”到“Agent驱动”的演进路径，强调设计选择与反思，而非技术细节。最终实现了运营效率的显著提升，减少了人工操作成本。",
+  "tags": [
+    "AI Agent",
+    "活动搭建",
+    "工作流优化",
+    "营销自动化",
+    "得物社区",
+    "低代码",
+    "人机协作"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用实践",
+  "key_insight": "从‘表单填充’到‘Agent代理’的转变，核心在于将复杂业务流程抽象为可编排的智能体任务，而非简单用AI替代人工输入。"
+}

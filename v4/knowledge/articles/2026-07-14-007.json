@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-007",
+  "source_id": "https://openai.com/academy/getting-started",
+  "title": "Getting started with ChatGPT",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/academy/getting-started",
+  "summary": "该项目是一个针对初学者的ChatGPT入门指南，旨在帮助用户快速上手使用这一AI对话工具。内容涵盖如何开始第一次对话、利用AI进行写作、头脑风暴以及解决问题等基础操作，强调通过简单实践掌握AI辅助日常任务的方法。",
+  "tags": [
+    "ChatGPT",
+    "AI入门",
+    "AI对话",
+    "写作辅助",
+    "问题解决"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI教育",
+  "key_insight": "ChatGPT作为通用AI助手，其核心价值在于降低非技术用户使用AI的门槛，通过对话式交互将人工智能转化为日常生产力工具。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518384&idx=1&sn=23790020d0566e855f8670f3fee1b3d9",
+  "title": "你的Agent，也有自己的云盘了｜360AgentDrive正式发布，互动赢好礼！",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518384&idx=1&sn=23790020d0566e855f8670f3fee1b3d9",
+  "summary": "360发布了AgentDrive，这是一个专为AI Agent设计的云盘服务。其核心功能是为AI Agent提供一个持久化、可靠的工作空间，解决Agent在任务执行中因会话重置或上下文丢失导致的“失忆”问题。通过云盘，Agent可以存储、读取和管理文件与数据，实现长期记忆和跨会话的连续工作能力。该项目旨在提升Agent的实用性和自主性，使其能像人类一样拥有稳定的数字工作环境，适用于自动化办公、智能助手等场景。",
+  "tags": [
+    "AI Agent",
+    "云盘",
+    "360",
+    "持久化存储",
+    "Agent工作空间",
+    "智能助手"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与工具",
+  "key_insight": "通过云盘为AI Agent提供持久化存储，解决其任务连续性痛点，是Agent从对话工具迈向自主工作实体的关键一步。"
+}

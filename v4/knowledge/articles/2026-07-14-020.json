@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529",
+  "title": "淘宝直播数字人 AgenticRL 实践：从 RLVR 到 MultiAgent RL",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529",
+  "summary": "该项目介绍了淘宝直播在数字人领域应用AgenticRL的实践，首创了Multi-Agent RL算法，将工具调用与回复解耦并进行协同优化。通过在强化学习框架下引入多智能体协作，显著提升了数字人直播的事实正确性（提升4.1个百分点），同时增强了交互的拟真度和实时性。该技术旨在打造下一代高拟真、强交互的数字直播范式，推动直播电商向智能化、自动化发展。",
+  "tags": [
+    "强化学习",
+    "多智能体",
+    "数字人",
+    "直播电商",
+    "工具调用",
+    "协同优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能/强化学习",
+  "key_insight": "通过Multi-Agent RL将工具调用与回复解耦协同，显著提升数字人直播的事实正确性和交互质量。"
+}

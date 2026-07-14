@@ -2143,5 +2143,834 @@
     ],
     "status": "published",
     "collected_at": "2026-07-13T03:15:05.245Z"
+  },
+  {
+    "id": "2026-07-14-001",
+    "title": "Syntax with Purpose in a Programming Language",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+    "category": "编程语言理论",
+    "relevance_score": 0.8,
+    "tags": [
+      "编程语言设计",
+      "语法语义",
+      "代码可读性",
+      "语言工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-002",
+    "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.08773",
+    "category": "人工智能安全/形式化验证",
+    "relevance_score": 0.85,
+    "tags": [
+      "对抗鲁棒性",
+      "区间认证",
+      "多层感知机",
+      "格点遍历",
+      "AI安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-003",
+    "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.08774",
+    "category": "AI系统架构与可靠性",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "推理时控制",
+      "可靠性",
+      "结构化接口",
+      "上下文漂移"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-004",
+    "title": "[D] Self-Promotion Thread",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
+    "category": "社区公告与规则",
+    "relevance_score": 0.7,
+    "tags": [
+      "自我推广",
+      "社区管理",
+      "机器学习",
+      "Reddit",
+      "项目展示"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-005",
+    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uk949b/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+    "category": "社区活动与招聘",
+    "relevance_score": 0.6,
+    "tags": [
+      "招聘",
+      "求职",
+      "机器学习",
+      "社区",
+      "模板"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-006",
+    "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+    "category": "AI推理技术趋势",
+    "relevance_score": 0.9,
+    "tags": [
+      "Chain of Thought",
+      "潜在推理",
+      "忠实度",
+      "系统成本",
+      "黑箱",
+      "BDH",
+      "Coconut",
+      "HRM"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-007",
+    "title": "Getting started with ChatGPT",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/academy/getting-started",
+    "category": "AI教育",
+    "relevance_score": 0.8,
+    "tags": [
+      "ChatGPT",
+      "AI入门",
+      "AI对话",
+      "写作辅助",
+      "问题解决"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-008",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/torch-attention-profile",
+    "category": "深度学习性能优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "Transformer",
+      "注意力机制",
+      "模型优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-009",
+    "title": "Data for Agents",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "category": "数据基础设施",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI智能体",
+      "数据工程",
+      "数据管道",
+      "数据集构建",
+      "智能体训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-010",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "category": "推理引擎优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "vLLM",
+      "推理加速",
+      "Transformers",
+      "高性能计算",
+      "大语言模型",
+      "后端优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-011",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "category": "机器学习工程与部署",
+    "relevance_score": 0.85,
+    "tags": [
+      "Hugging Face",
+      "Amazon SageMaker",
+      "模型部署",
+      "MLOps",
+      "云原生",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-012",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "category": "AI基础设施与部署",
+    "relevance_score": 0.85,
+    "tags": [
+      "Hugging Face",
+      "模型部署",
+      "托管计算",
+      "机器学习",
+      "推理优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-013",
+    "title": "Siri AI is already changing how I use my iPhone",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "category": "科技产品评测",
+    "relevance_score": 0.85,
+    "tags": [
+      "iOS 27",
+      "Siri AI",
+      "公测版",
+      "系统优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-014",
+    "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "category": "科技法律纠纷",
+    "relevance_score": 0.9,
+    "tags": [
+      "苹果",
+      "OpenAI",
+      "诉讼",
+      "商业机密",
+      "招聘",
+      "科技竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-015",
+    "title": "Waze is getting a bunch of new AI-powered features",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "category": "AI应用场景",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI导航",
+      "Gemini",
+      "智能出行",
+      "Waze更新",
+      "个性化功能"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-016",
+    "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+    "category": "AI模型开源",
+    "relevance_score": 0.95,
+    "tags": [
+      "美团",
+      "LongCat-2.0",
+      "开源",
+      "稀疏注意力",
+      "N-gram Embedding",
+      "动态激活",
+      "代码生成",
+      "国产卡推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-017",
+    "title": "直播回放·含 ACL'26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html",
+    "category": "技术分享与教育",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI前沿",
+      "顶会论文",
+      "美团技术",
+      "ACL",
+      "SIGIR",
+      "ICML",
+      "KDD",
+      "论文精讲",
+      "直播回放"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-018",
+    "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520810&idx=1&sn=d0fb295a9edfdcdb71d4cb70ecd80c15",
+    "category": "AI应用工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "音视频处理",
+      "CLI工具",
+      "自动化工作流",
+      "Skill扩展"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-019",
+    "title": "让搜索更懂用户：Viking AI 搜索如何用个性化提升转化",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520810&idx=2&sn=425e0a64545b3e7b9b8f39c2671ed7b8",
+    "category": "人工智能应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI搜索",
+      "个性化推荐",
+      "转化率优化",
+      "用户行为分析",
+      "机器学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-020",
+    "title": "淘宝直播数字人 AgenticRL 实践：从 RLVR 到 MultiAgent RL",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544788&idx=1&sn=04119d3b590b121e87fe87142daa6529",
+    "category": "人工智能/强化学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "强化学习",
+      "多智能体",
+      "数字人",
+      "直播电商",
+      "工具调用",
+      "协同优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-021",
+    "title": "超越 Vision Banana！商汤开源 SenseNova-Vision：视觉任务大统一，经典视觉并入大模型",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510661&idx=1&sn=ab8e4817b7d8adceed914cd36c17ed74",
+    "category": "AI基础技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "多模态大模型",
+      "视觉理解",
+      "开源模型",
+      "3D重建",
+      "商汤",
+      "SenseNova",
+      "检测分割"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-022",
+    "title": "“中国云谷·高校训练营”OtterMind AI Agent项目实战营开启招募！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510661&idx=2&sn=cf4c269d28cfe0275dee27f20d670df4",
+    "category": "AI教育与培训",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "实战训练营",
+      "爱獭科技",
+      "魔搭社区",
+      "云谷中心",
+      "生产力工具",
+      "教育"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-023",
+    "title": "腾讯Ray团队实践：K8s + Ray如何支撑超大规模AI Workload",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22",
+    "category": "AI基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "K8s",
+      "Ray",
+      "AI调度",
+      "大模型",
+      "分布式计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-024",
+    "title": "训推全开源：HyOCR-1.5 让端到端 OCR 大模型跑得更快、看得更准、功能更全",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498015&idx=1&sn=aa97c2dd942e4c50d2553cf922bc61bd",
+    "category": "计算机视觉与自然语言处理",
+    "relevance_score": 0.85,
+    "tags": [
+      "OCR",
+      "端到端模型",
+      "大模型",
+      "轻量化",
+      "开源",
+      "训推一体"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-025",
+    "title": "具身智能的 iPhone时刻要来了吗？｜AI+千行百业洞察",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650997998&idx=1&sn=8cbdd07e9b13c990a6a0604b4236348c",
+    "category": "技术趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "机器人",
+      "AI产业化",
+      "技术趋势",
+      "行业洞察"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-026",
+    "title": "全国首个WorkBuddy OPC合作社区成立！社区合作计划在全国开放申请",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696391&idx=1&sn=f80cfa1b09880c39e053b7a8fb112a25",
+    "category": "技术合作与生态建设",
+    "relevance_score": 0.6,
+    "tags": [
+      "WorkBuddy",
+      "OPC",
+      "合作社区",
+      "技术生态",
+      "全国招募"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-027",
+    "title": "“沪签”到手，礼拜五碰头！",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669464&idx=1&sn=b4c332d94ab931bc3c79be7af9ae2e17",
+    "category": "科技展会推广",
+    "relevance_score": 0.9,
+    "tags": [
+      "WAIC",
+      "百度",
+      "AI",
+      "智能体",
+      "AI云",
+      "大模型",
+      "芯片",
+      "上海",
+      "互动体验"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-028",
+    "title": "DeepSeek 寻找闪亮发光的你",
+    "source": "rss-deepseek",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485758&idx=1&sn=ed4935af2a05e9c7a07c66c9f4846f51",
+    "category": "人才招聘",
+    "relevance_score": 0.9,
+    "tags": [
+      "招聘",
+      "人才扩招",
+      "DeepSeek",
+      "岗位急招"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-029",
+    "title": "Kimi 将公开预测 104 场世界杯赛事：德国队或爆冷夺冠",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488523&idx=1&sn=2f3f79f943ff9df29ea3df0dc013685e",
+    "category": "AI应用与透明度",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI透明度",
+      "世界杯预测",
+      "体育科技",
+      "德国队",
+      "可解释AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-030",
+    "title": "Kimi Work Beta 版邀你体验：你的工作，分我一半",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488492&idx=1&sn=f7a0013c095a20f7aaeac00eacec1c16",
+    "category": "AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI办公",
+      "任务自动化",
+      "智能助手",
+      "生产力工具",
+      "协作平台"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-031",
+    "title": "和 Kimi 创始团队聊聊",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488479&idx=1&sn=5287be0f700769e0e19cb6273e76e91a",
+    "category": "活动",
+    "relevance_score": 0.65,
+    "tags": [
+      "线下活动",
+      "AI创业",
+      "创始团队交流",
+      "Kimi",
+      "北京"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-032",
+    "title": "你的Agent，也有自己的云盘了｜360AgentDrive正式发布，互动赢好礼！",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518384&idx=1&sn=23790020d0566e855f8670f3fee1b3d9",
+    "category": "AI基础设施与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "云盘",
+      "360",
+      "持久化存储",
+      "Agent工作空间",
+      "智能助手"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-033",
+    "title": "3步给你的Agent配一个云盘",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518384&idx=2&sn=0c0d9e53992fddb9469c1e53b8b42aaa",
+    "category": "AI工具与集成",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "云存储",
+      "工具集成",
+      "低代码开发",
+      "文件管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-034",
+    "title": "奇舞周刊第591期：AI软件工程范式革命的思考",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518372&idx=1&sn=6a9bb5225d6a7b86e9b9996eb675a9ad",
+    "category": "技术趋势分析",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "软件工程",
+      "范式革命",
+      "智能开发",
+      "奇舞周刊"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-035",
+    "title": "我的 AI 驱动开发工作流：基于 Cursor 的全流程实战开发 SOP",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518364&idx=1&sn=ae7a330975da1abfaa1ad10812a66526",
+    "category": "开发工具与方法论",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI驱动开发",
+      "Cursor",
+      "开发工作流",
+      "SOP",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-036",
+    "title": "奇舞周刊第590期：全方位对比：Hermes VS OpenClaw",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518342&idx=1&sn=4c6398b558b974781058fdbf02775c5b",
+    "category": "前端技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "JavaScript引擎",
+      "前端框架",
+      "性能对比",
+      "React Native",
+      "Hermes",
+      "OpenClaw"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-037",
+    "title": "得物推荐系统诊断 Agent：从 “调接口” 到 “会思考”｜AICon 演讲整理",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545826&idx=1&sn=ebb5f57a0094dafcb1c43ac135f1a48b",
+    "category": "AI工程化与运维",
+    "relevance_score": 0.9,
+    "tags": [
+      "推荐系统",
+      "AI Agent",
+      "智能诊断",
+      "混合智能体",
+      "工程化实践",
+      "AICon演讲"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-038",
+    "title": "得物 OceanBase 落地实践",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545821&idx=1&sn=3234c5ee286b9efa19c14ef3b9a2fb1c",
+    "category": "技术架构与落地实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "多模数据库",
+      "分布式数据库",
+      "电商架构",
+      "OceanBase",
+      "混合负载"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-039",
+    "title": "AI UITester：AI Native 的 UI 自动化测试新范式｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545653&idx=1&sn=e7c008cf208a9b5d535349dedc667651",
+    "category": "软件测试与质量保障",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI测试",
+      "UI自动化",
+      "视觉驱动",
+      "测试自愈",
+      "跨平台测试",
+      "得物技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-040",
+    "title": "从狂野代码到按目标生产：得物推荐 AI Harness 的工程化实践｜AICon 演讲整理",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545565&idx=1&sn=2408887769f776089b6421e7bea8657e",
+    "category": "AI工程化实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI工程化",
+      "推荐系统",
+      "PDCA",
+      "大模型",
+      "代码质量控制",
+      "业务系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-041",
+    "title": "从表单到 Agent：得物社区活动搭建的 AI 实践之路",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545481&idx=1&sn=3bba2e63d88f2b54d75943ba92b63686",
+    "category": "AI应用实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "活动搭建",
+      "工作流优化",
+      "营销自动化",
+      "得物社区",
+      "低代码",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-042",
+    "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
+    "category": "数据架构演进",
+    "relevance_score": 0.85,
+    "tags": [
+      "数据架构",
+      "Airbnb",
+      "多产品",
+      "数据治理",
+      "领域驱动设计",
+      "事件驱动"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-043",
+    "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
+    "category": "基础设施与运维",
+    "relevance_score": 0.85,
+    "tags": [
+      "动态配置",
+      "边车模式",
+      "分布式系统",
+      "一致性哈希",
+      "限流",
+      "故障隔离"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-044",
+    "title": "从看见问题到解决问题，Agent 正重新定义可观测",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=1&sn=ff190c842f5e4d2db50faafc2f943f59",
+    "category": "技术趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "可观测性",
+      "智能运维",
+      "因果推断",
+      "系统可靠性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-045",
+    "title": "用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=2&sn=3c2d145177b05f3d7fab056792a2e23e",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI辅助编程",
+      "SQL解析器",
+      "性能优化",
+      "Claude Code",
+      "代码重构",
+      "验证闭环"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-046",
+    "title": "Codex封号、Claude查证件，而它选择了免费且不限期",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=1&sn=e7268436ea4de9b8c561b77e1adb6990",
+    "category": "人工智能/模型发布",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI模型",
+      "免费开源",
+      "代码生成",
+      "Agnes系列",
+      "开发者工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-14-047",
+    "title": "宇树科技牵手湖南钢铁，一家物理AI公司浮出水面",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=2&sn=857b00344b86c7c9654c2ee53d51738a",
+    "category": "产业合作",
+    "relevance_score": 0.85,
+    "tags": [
+      "机器人",
+      "物理AI",
+      "工业自动化",
+      "钢铁制造",
+      "人工智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-14T02:44:16.796Z"
   }
 ]

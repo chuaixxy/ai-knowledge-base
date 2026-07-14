@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-040",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545565&idx=1&sn=2408887769f776089b6421e7bea8657e",
+  "title": "从狂野代码到按目标生产：得物推荐 AI Harness 的工程化实践｜AICon 演讲整理",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545565&idx=1&sn=2408887769f776089b6421e7bea8657e",
+  "summary": "得物推荐团队针对AI在复杂业务系统中难以按目标、边界和质量标准持续生产的问题，提出了AI Harness工程化实践方案。该方案围绕PDCA全链路设计，包括需求约束、执行断点、效果度量和经验复用四个环节，实现从“狂野代码”到“按目标生产”的转变。通过构建统一的AI开发框架和治理体系，得物解决了大模型在推荐场景中的可控性、可观测性和可迭代性问题，提升了代码质量和业务效果。",
+  "tags": [
+    "AI工程化",
+    "推荐系统",
+    "PDCA",
+    "大模型",
+    "代码质量控制",
+    "业务系统"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化实践",
+  "key_insight": "AI Harness通过PDCA全链路管控，将AI开发从代码生成提升为可度量、可复用的工程化生产流程。"
+}

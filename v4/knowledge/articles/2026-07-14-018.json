@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520810&idx=1&sn=d0fb295a9edfdcdb71d4cb70ecd80c15",
+  "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520810&idx=1&sn=d0fb295a9edfdcdb71d4cb70ecd80c15",
+  "summary": "该项目提出AI MediaKit CLI工具，旨在将AI Agent转变为音视频工作台。通过发布Skill（技能）机制，用户可扩展CLI功能，实现自动化音视频处理（如剪辑、转码、分析）。项目聚焦于降低音视频处理门槛，让非专业用户通过自然语言指令驱动复杂工作流，核心创新在于将Agent能力与媒体处理管线深度集成。",
+  "tags": [
+    "AI Agent",
+    "音视频处理",
+    "CLI工具",
+    "自动化工作流",
+    "Skill扩展"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用工具",
+  "key_insight": "通过Agent+Skill架构，将音视频工作台从图形界面转向自然语言驱动的命令行，实现低门槛、高扩展性的媒体处理自动化。"
+}

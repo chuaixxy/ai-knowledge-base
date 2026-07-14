@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518342&idx=1&sn=4c6398b558b974781058fdbf02775c5b",
+  "title": "奇舞周刊第590期：全方位对比：Hermes VS OpenClaw",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518342&idx=1&sn=4c6398b558b974781058fdbf02775c5b",
+  "summary": "本文全方位对比了 Hermes 和 OpenClaw 两种技术方案。Hermes 是 React Native 的 JavaScript 引擎，专注于提升应用启动速度和运行性能，减少内存占用，适合移动端场景。OpenClaw 则是一个用于构建高性能 Web 应用的前端框架，强调组件化和响应式设计。文章从性能、开发体验、社区支持、适用场景等多个维度进行了详细比较，帮助开发者根据项目需求选择合适的技术栈。",
+  "tags": [
+    "JavaScript引擎",
+    "前端框架",
+    "性能对比",
+    "React Native",
+    "Hermes",
+    "OpenClaw"
+  ],
+  "relevance_score": 0.85,
+  "category": "前端技术",
+  "key_insight": "Hermes 和 OpenClaw 分别聚焦于移动端引擎优化和 Web 应用框架，开发者应根据应用平台和性能需求做出选择。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-002",
+  "source_id": "https://arxiv.org/abs/2607.08773",
+  "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.08773",
+  "summary": "本文提出了一个严格的数学框架，将多层感知机（MLP）的对抗鲁棒性问题转化为格点遍历问题。每个格点对应一个包含输入点的轴对齐超矩形（区间）。对于MLP分类器，若输入点在该区间内任意扰动均不改变预测结果，则该区间构成“可靠认证”；若输入点移出区间后预测必然改变，则构成“完备认证”。本文重点研究了完备认证问题，并开发了相应的格点遍历算法。",
+  "tags": [
+    "对抗鲁棒性",
+    "区间认证",
+    "多层感知机",
+    "格点遍历",
+    "AI安全"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能安全/形式化验证",
+  "key_insight": "通过将对抗鲁棒性转化为格点遍历问题，首次提出了完备认证的概念，并给出了相应的理论框架和算法。"
+}

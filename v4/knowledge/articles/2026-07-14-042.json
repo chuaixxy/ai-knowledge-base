@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-042",
+  "source_id": "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
+  "title": "Scaling beyond one: How Airbnb evolved its data architecture for a multi-product world",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4",
+  "summary": "本文探讨了Airbnb如何从单一产品数据架构演进为支持多产品生态系统的架构。随着业务扩展到体验、旅游等多元化产品，原有数据架构面临隔离、扩展性差等问题。Airbnb通过引入领域驱动的数据架构、统一数据层、标准化数据模型和跨产品数据治理框架，实现了数据的可重用性和可扩展性。关键措施包括建立数据域、实施数据契约、构建共享数据基础设施，并采用事件驱动架构来支持实时数据同步。该演进不仅提升了数据团队的效率，还保障了跨产品数据的一致性和可靠性。",
+  "tags": [
+    "数据架构",
+    "Airbnb",
+    "多产品",
+    "数据治理",
+    "领域驱动设计",
+    "事件驱动"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据架构演进",
+  "key_insight": "Airbnb通过领域驱动数据架构和标准化数据契约，成功解决了多产品生态下的数据隔离与扩展难题。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545821&idx=1&sn=3234c5ee286b9efa19c14ef3b9a2fb1c",
+  "title": "得物 OceanBase 落地实践",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545821&idx=1&sn=3234c5ee286b9efa19c14ef3b9a2fb1c",
+  "summary": "得物（毒APP）在数据库选型上采用多引擎混合架构，涵盖MySQL、TiDB、MongoDB、HBase、DuckDB、ClickHouse/StarRocks及向量数据库，以应对核心交易、运营分析、AI算法和社区等不同场景。其中，OceanBase作为关键分布式数据库，用于支撑高并发、强一致性的核心交易业务，体现了其在电商场景下对OLTP与轻量OLAP混合负载的成熟落地能力。",
+  "tags": [
+    "多模数据库",
+    "分布式数据库",
+    "电商架构",
+    "OceanBase",
+    "混合负载"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术架构与落地实践",
+  "key_insight": "得物通过OceanBase实现核心交易系统的分布式改造，验证了其在电商高并发场景下对MySQL兼容性与强一致性的替代能力。"
+}

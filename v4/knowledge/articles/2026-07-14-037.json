@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-037",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545826&idx=1&sn=ebb5f57a0094dafcb1c43ac135f1a48b",
+  "title": "得物推荐系统诊断 Agent：从 “调接口” 到 “会思考”｜AICon 演讲整理",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545826&idx=1&sn=ebb5f57a0094dafcb1c43ac135f1a48b",
+  "summary": "得物技术专家在AICon上海演讲中介绍了推荐系统诊断Agent的演进，从传统的“调接口”模式转向具备“会思考”能力的智能诊断系统。演讲重点阐述了自研AI Harness的整体架构框架，包括全流程安全防护机制、混合智能体核心算法实现，以及工业级工程落地的实战细节。该系统通过多智能体协同、因果推理和在线学习等技术，实现对推荐系统异常、效果波动等问题的自动化根因分析与修复建议，显著提升诊断效率和准确性，是推荐系统运维领域的重要创新实践。",
+  "tags": [
+    "推荐系统",
+    "AI Agent",
+    "智能诊断",
+    "混合智能体",
+    "工程化实践",
+    "AICon演讲"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程化与运维",
+  "key_insight": "从被动调接口到主动思考的Agent化转型，是推荐系统运维从经验驱动走向智能自治的关键突破。"
+}

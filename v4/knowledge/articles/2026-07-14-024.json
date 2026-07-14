@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498015&idx=1&sn=aa97c2dd942e4c50d2553cf922bc61bd",
+  "title": "训推全开源：HyOCR-1.5 让端到端 OCR 大模型跑得更快、看得更准、功能更全",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498015&idx=1&sn=aa97c2dd942e4c50d2553cf922bc61bd",
+  "summary": "HyOCR-1.5 是一个端到端光学字符识别（OCR）大模型，以仅1B参数量实现超越同级模型的性能，在速度和准确性上均表现优异，且支持训推全开源。该项目通过轻量化设计与高效训练策略，在保持低计算成本的同时提升OCR任务中的识别精度与功能完整性，适合资源受限场景下的部署与二次开发。",
+  "tags": [
+    "OCR",
+    "端到端模型",
+    "大模型",
+    "轻量化",
+    "开源",
+    "训推一体"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机视觉与自然语言处理",
+  "key_insight": "以极小参数量实现高性能OCR，打破大模型必须依赖海量参数的传统认知。"
+}

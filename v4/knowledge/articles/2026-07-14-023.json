@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22",
+  "title": "腾讯Ray团队实践：K8s + Ray如何支撑超大规模AI Workload",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22",
+  "summary": "腾讯Ray团队结合Kubernetes（K8s）和Ray框架，构建了支撑超大规模AI工作负载的调度体系。通过K8s管理资源、Ray提供分布式计算能力，实现了弹性扩展、动态调度和资源高效利用，解决了大模型训练和推理中的复杂依赖与资源瓶颈问题，成为AI工作负载调度的新范式。",
+  "tags": [
+    "K8s",
+    "Ray",
+    "AI调度",
+    "大模型",
+    "分布式计算"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施",
+  "key_insight": "K8s与Ray的融合实现了AI工作负载的弹性与高效调度，是大规模AI落地的关键基础设施创新。"
+}

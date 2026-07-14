@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-011",
+  "source_id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "summary": "该项目提供一键式解决方案，将Hugging Face上的模型快速迁移至Amazon SageMaker Studio环境。用户无需手动处理模型转换、容器构建或推理端点配置等复杂步骤，即可直接利用SageMaker的托管服务进行模型部署、训练和调优。该工具简化了从开源社区到云原生ML工作流的过渡，提升了开发效率，尤其适合需要快速实验和生产级部署的团队。",
+  "tags": [
+    "Hugging Face",
+    "Amazon SageMaker",
+    "模型部署",
+    "MLOps",
+    "云原生",
+    "自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "机器学习工程与部署",
+  "key_insight": "通过自动化管道消除模型迁移的工程障碍，实现开源生态与云服务的无缝衔接。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-003",
+  "source_id": "https://arxiv.org/abs/2607.08774",
+  "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.08774",
+  "summary": "该研究挑战了LLM可靠性仅取决于模型能力的传统观点，认为推理时控制（即任务框架和上下文选择的计算层）对可靠性有显著影响。作者提出CogniConsole架构，将这种控制外部化为一个结合程序化协调与有限提示推理的结构化接口。通过在多步交互环境中进行489次可控性探测实验，发现从非结构化到完全结构化的脚手架过程，在固定模型架构下系统性地降低了输出方差和失败率。结果表明，许多失败模式（如上下文漂移和约束不一致）源于控制不足而非模型能力不足。",
+  "tags": [
+    "LLM",
+    "推理时控制",
+    "可靠性",
+    "结构化接口",
+    "上下文漂移"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI系统架构与可靠性",
+  "key_insight": "LLM的可靠性问题主要源于推理时控制不足，而非模型能力不足，通过外部化结构化控制可以显著提升系统稳定性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-008",
+  "source_id": "https://huggingface.co/blog/torch-attention-profile",
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/torch-attention-profile",
+  "summary": "本文是PyTorch性能分析系列第三部分，聚焦于Transformer模型中自注意力机制的性能剖析。文章详细介绍了如何使用PyTorch Profiler工具对多头注意力层进行性能瓶颈分析，包括计算耗时、内存占用和算子级别的性能数据。通过实际代码示例，展示了如何识别注意力计算中的低效环节，如矩阵乘法、Softmax和Dropout等操作，并提出了优化建议，例如使用Flash Attention或减少不必要的内存拷贝。文章强调，精准的性能分析是优化深度学习模型的关键，尤其对于大模型训练和推理场景。",
+  "tags": [
+    "PyTorch",
+    "性能分析",
+    "Transformer",
+    "注意力机制",
+    "模型优化"
+  ],
+  "relevance_score": 0.9,
+  "category": "深度学习性能优化",
+  "key_insight": "通过PyTorch Profiler对Transformer注意力层进行细粒度性能分析，能够精准定位计算瓶颈（如矩阵乘法和Softmax），从而指导针对性的优化策略。"
+}

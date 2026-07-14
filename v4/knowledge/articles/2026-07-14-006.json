@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-14-006",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+  "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+  "summary": "该文指出Chain of Thought（CoT）虽提升推理可读性，但存在忠实度不足（步骤与真实计算脱节）和系统成本高（延迟、算力、上下文占用）两大缺陷。因此，研究转向“潜在推理”（latent reasoning），如Coconut、HRM、RecursiveMAS等，将内部推理过程压缩到隐藏空间，仅在最终解码语言。然而，这又面临“黑箱”问题——无法解释模型内部状态。最后提到BDH可能作为一种融合方案，平衡可解释性与推理效率。",
+  "tags": [
+    "Chain of Thought",
+    "潜在推理",
+    "忠实度",
+    "系统成本",
+    "黑箱",
+    "BDH",
+    "Coconut",
+    "HRM"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI推理技术趋势",
+  "key_insight": "CoT的文本轨迹并非真正思考，潜在推理虽提升效率但陷入黑箱，BDH可能是弥合可解释性与性能鸿沟的关键方案。"
+}

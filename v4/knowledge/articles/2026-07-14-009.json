@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-009",
+  "source_id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "title": "Data for Agents",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+  "summary": "Data for Agents 是一个专注于为AI智能体提供高质量数据支持的技术项目。其核心目标是解决智能体在训练和运行过程中对结构化、实时数据的依赖问题，通过构建高效的数据管道和数据集，提升AI智能体的决策准确性和响应速度。项目可能涉及数据采集、清洗、标注、增强及存储等环节，旨在降低智能体开发的数据门槛，推动自主智能体在复杂场景中的应用。",
+  "tags": [
+    "AI智能体",
+    "数据工程",
+    "数据管道",
+    "数据集构建",
+    "智能体训练"
+  ],
+  "relevance_score": 0.75,
+  "category": "数据基础设施",
+  "key_insight": "该项目通过系统化数据服务，降低AI智能体开发的数据门槛，是智能体生态的关键支撑。"
+}

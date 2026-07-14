@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-039",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545653&idx=1&sn=e7c008cf208a9b5d535349dedc667651",
+  "title": "AI UITester：AI Native 的 UI 自动化测试新范式｜得物技术",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247545653&idx=1&sn=e7c008cf208a9b5d535349dedc667651",
+  "summary": "得物技术推出的AI UITester项目，代表了UI自动化测试从“代码驱动”向“视觉驱动”的范式转变。其核心创新在于：利用AI视觉技术替代传统基于元素定位的脚本编写，使测试用例更具鲁棒性；引入AI自愈机制，自动修复因UI变化导致的测试失败；并实现三端（Web、iOS、Android）的统一抽象，降低跨平台测试的维护成本。该方案旨在解决传统UI自动化测试中脚本脆弱、维护成本高、跨端适配难等痛点，为AI原生测试提供了新思路。",
+  "tags": [
+    "AI测试",
+    "UI自动化",
+    "视觉驱动",
+    "测试自愈",
+    "跨平台测试",
+    "得物技术"
+  ],
+  "relevance_score": 0.85,
+  "category": "软件测试与质量保障",
+  "key_insight": "AI UITester的核心洞察是：通过视觉理解和AI自愈，将UI测试从脆弱的代码依赖中解放出来，实现测试用例对UI变化的智能适应，从而显著降低维护成本并提升测试的鲁棒性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-044",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=1&sn=ff190c842f5e4d2db50faafc2f943f59",
+  "title": "从看见问题到解决问题，Agent 正重新定义可观测",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=1&sn=ff190c842f5e4d2db50faafc2f943f59",
+  "summary": "该项目探讨了AI Agent技术爆发后，可观测性（Observability）的重要性被重新定义。Agent系统在自主决策、执行任务时会产生大量动态、复杂的行为链，传统监控手段难以捕捉其内部状态和故障根因。因此，可观测性从被动记录转向主动分析，需提供实时、细粒度的数据追踪与因果推断能力，以保障Agent的可靠性和透明度。项目强调，Agent的‘黑箱’特性使得可观测性成为解决‘看见问题’到‘解决问题’的关键桥梁，推动运维智能化升级。",
+  "tags": [
+    "AI Agent",
+    "可观测性",
+    "智能运维",
+    "因果推断",
+    "系统可靠性"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术趋势分析",
+  "key_insight": "Agent的自主性加剧了系统复杂性，可观测性成为连接行为理解与故障修复的核心能力。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518384&idx=2&sn=0c0d9e53992fddb9469c1e53b8b42aaa",
+  "title": "3步给你的Agent配一个云盘",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518384&idx=2&sn=0c0d9e53992fddb9469c1e53b8b42aaa",
+  "summary": "该项目提供了一种简便的方法，通过三个步骤为AI Agent配置云盘功能。它可能利用现有云存储API（如阿里云盘、百度云盘等），使Agent能够自动存储、检索和管理文件。核心价值在于降低开发门槛，让非专业用户也能快速为智能助手添加持久化存储能力，从而扩展Agent在文档处理、数据备份等场景的应用。",
+  "tags": [
+    "AI Agent",
+    "云存储",
+    "工具集成",
+    "低代码开发",
+    "文件管理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具与集成",
+  "key_insight": "以极简的3步操作，降低了AI Agent接入云盘的技术门槛，实现了智能体与外部存储的无缝连接。"
+}

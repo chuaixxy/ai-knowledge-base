@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-045",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=2&sn=3c2d145177b05f3d7fab056792a2e23e",
+  "title": "用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288698&idx=2&sn=3c2d145177b05f3d7fab056792a2e23e",
+  "summary": "该项目展示了使用AI辅助重写SQL解析器的过程，通过多个并行Claude Code会话，将PostHog的SQL解析器从16K行手工代码重写为更高效的实现。结果包括16K行解析器代码、5K行工具代码和数千行测试代码，性能提升了约70倍。核心思路是程序员不再逐行编写代码，而是搭建验证闭环：定义问题、生成代码、测试验证、迭代优化。这体现了AI在代码生成和优化中的潜力，尤其适用于重构和性能敏感型系统。",
+  "tags": [
+    "AI辅助编程",
+    "SQL解析器",
+    "性能优化",
+    "Claude Code",
+    "代码重构",
+    "验证闭环"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "AI重写代码的关键不是生成代码本身，而是建立高效的验证闭环来确保正确性和性能提升。"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-14-001",
+  "source_id": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+  "title": "Syntax with Purpose in a Programming Language",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.youtube.com/watch?v=_HLZoeFREFo",
+  "summary": "该文章讨论编程语言中语法设计的目的性，强调语法不仅仅是表面形式，更应服务于语言的核心语义、可读性和编程意图表达。作者通过具体例子（如分号、缩进、操作符重载）分析不同语言设计中语法如何影响代码理解与维护，并批判无目的或过度复杂的语法规则。文章还探讨了语法与领域特定语言（DSL）的关系，提出好的语法应帮助程序员更自然地映射问题域。",
+  "tags": [
+    "编程语言设计",
+    "语法语义",
+    "代码可读性",
+    "语言工程"
+  ],
+  "relevance_score": 0.8,
+  "category": "编程语言理论",
+  "key_insight": "语法设计应以清晰表达意图为核心，避免冗余或误导性语法，从而提升代码的可维护性和领域映射效率。"
+}

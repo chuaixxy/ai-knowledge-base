@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-14-043",
+  "source_id": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
+  "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4",
+  "summary": "Sitar-agent是一个在大型分布式系统中实现可靠动态配置管理的边车（sidecar）组件。它通过引入一致性哈希、自适应限流和故障隔离机制，解决了配置变更时的大规模同步、版本冲突和系统稳定性问题。该方案在数千节点规模下验证了低延迟和高可用性，为云原生环境下的配置管理提供了可扩展的实践参考。",
+  "tags": [
+    "动态配置",
+    "边车模式",
+    "分布式系统",
+    "一致性哈希",
+    "限流",
+    "故障隔离"
+  ],
+  "relevance_score": 0.85,
+  "category": "基础设施与运维",
+  "key_insight": "通过边车模式与一致性哈希结合，在保证配置一致性的同时实现了大规模动态配置的可靠推送和故障隔离。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-14-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510661&idx=1&sn=ab8e4817b7d8adceed914cd36c17ed74",
+  "title": "超越 Vision Banana！商汤开源 SenseNova-Vision：视觉任务大统一，经典视觉并入大模型",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510661&idx=1&sn=ab8e4817b7d8adceed914cd36c17ed74",
+  "summary": "商汤科技开源了SenseNova-Vision多模态大模型，首次将检测、分割、3D重建等经典视觉任务原生融入模型底座，而非作为外部工具调用。该模型在多项视觉任务上全面超越Vision Banana，实现了从单一任务执行到通用世界理解的范式跨越。其核心创新在于统一了视觉理解与生成能力，使得一个模型能够同时处理识别、定位、重建与推理，显著提升了多模态AI的通用性和效率。",
+  "tags": [
+    "多模态大模型",
+    "视觉理解",
+    "开源模型",
+    "3D重建",
+    "商汤",
+    "SenseNova",
+    "检测分割"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础技术",
+  "key_insight": "将经典视觉任务原生融入多模态大模型，标志AI视觉从‘工具化’走向‘世界理解’的统一范式。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-14-016",
+  "source_id": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+  "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+  "summary": "美团正式开源LongCat-2.0模型，总参数达1.6T，平均激活约48B，专为真实Agentic Coding任务设计。该模型在架构上创新引入LongCat稀疏注意力和N-gram Embedding，显著提升长上下文处理效率与Token级表示能力。结合动态激活技术，进一步强化了代码理解、生成及执行表现。该开源项目同时开放国产卡推理代码，降低了部署门槛，为AI编程领域提供了高性能、低资源消耗的解决方案。",
+  "tags": [
+    "美团",
+    "LongCat-2.0",
+    "开源",
+    "稀疏注意力",
+    "N-gram Embedding",
+    "动态激活",
+    "代码生成",
+    "国产卡推理"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI模型开源",
+  "key_insight": "LongCat-2.0通过稀疏注意力与动态激活，在1.6T参数下实现高效代码推理，并开放国产卡支持，推动AI编程实用化。"
+}

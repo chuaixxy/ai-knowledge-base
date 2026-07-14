@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-14-046",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=1&sn=e7268436ea4de9b8c561b77e1adb6990",
+  "title": "Codex封号、Claude查证件，而它选择了免费且不限期",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044025&idx=1&sn=e7268436ea4de9b8c561b77e1adb6990",
+  "summary": "该项目聚焦于Agnes系列模型的最新进展，包括Agnes-2.5-Flash和AgnesCode，以及即将推出的Agnes-2.5-Pro。项目名称暗示其相比Codex和Claude等主流AI产品具有免费且不限期使用的优势，可能针对开发者或企业用户提供更开放的访问策略。AgnesCode可能是一个聚焦代码生成或辅助编程的模型，而Flash和Pro版本则分别对应轻量快速和高级性能。整体上，该项目试图在AI模型竞争中以免费、无限制使用为卖点，吸引对成本敏感或需要高频调用的用户群体，同时通过多版本覆盖不同场景需求。",
+  "tags": [
+    "AI模型",
+    "免费开源",
+    "代码生成",
+    "Agnes系列",
+    "开发者工具"
+  ],
+  "relevance_score": 0.75,
+  "category": "人工智能/模型发布",
+  "key_insight": "以免费不限次使用为差异化策略，Agnes系列试图在Codex和Claude的付费壁垒下抢占开发者市场。"
+}
