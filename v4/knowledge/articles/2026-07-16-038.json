@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-16-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520052&idx=1&sn=1f9b67443f733cf2ad60feabf3908948",
+  "title": "小米开源 Xiaomi-Robotics-U0：让具身数据进入大规模生成时代",
+  "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520052&idx=1&sn=1f9b67443f733cf2ad60feabf3908948",
+  "summary": "小米开源了Xiaomi-Robotics-U0项目，旨在推动具身智能数据的大规模生成。该项目通过开源平台，提供高效、标准化的数据生成工具与方法，使机器人训练数据不再依赖昂贵的人工采集，而是能够通过自动化流程批量合成。这解决了具身智能领域数据稀缺、成本高昂的核心痛点，有望加速机器人从感知到执行的算法迭代，降低行业门槛，为机器人产业的规模化落地奠定数据基础。",
+  "tags": [
+    "具身智能",
+    "数据生成",
+    "机器人",
+    "开源",
+    "小米",
+    "自动化",
+    "人工智能"
+  ],
+  "relevance_score": 0.9,
+  "category": "具身智能与机器人",
+  "key_insight": "通过开源数据生成平台，将具身智能训练从手工数据采集转向自动化规模化生产，是降低机器人研发成本、加速行业普及的关键突破。"
+}

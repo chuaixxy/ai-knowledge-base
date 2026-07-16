@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-013",
+  "source_id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "summary": "该项目探讨了模型路由（Model Routing）在AI系统中的复杂性。尽管表面看似简单，但实际应用中面临动态负载、模型异构性、延迟与精度权衡等挑战。文章揭示了路由决策需考虑实时性能、成本优化及多目标平衡，并指出静态规则难以适应多变场景，强调了自适应路由策略的重要性。",
+  "tags": [
+    "模型路由",
+    "AI系统",
+    "负载均衡",
+    "动态决策",
+    "性能优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI系统架构",
+  "key_insight": "模型路由的复杂性源于动态环境下的多目标优化，简单规则无法替代自适应策略。"
+}

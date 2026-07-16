@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-16-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520827&idx=1&sn=543e0e51b78349e2c5f87c4867713da5",
+  "title": "想到即建、不用即停 —— 火山 PostgreSQL 助力飞书妙搭的 AI 效率革新",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520827&idx=1&sn=543e0e51b78349e2c5f87c4867713da5",
+  "summary": "该项目展示了火山引擎 PostgreSQL 数据库在飞书妙搭（Feishu/ByteDance 的低代码平台）中的 AI 效率革新应用。核心特点是“想到即建、不用即停”，即通过 PostgreSQL 的弹性扩展和自动伸缩能力，实现 AI 驱动的应用快速构建与资源动态释放。该方案降低了开发门槛，提升了资源利用率，特别适用于 AI 实验、原型验证和轻量级应用场景。",
+  "tags": [
+    "PostgreSQL",
+    "火山引擎",
+    "飞书妙搭",
+    "低代码平台",
+    "AI效率",
+    "弹性扩展",
+    "资源优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据库与AI应用",
+  "key_insight": "火山 PostgreSQL 通过弹性伸缩与 AI 结合，实现了低代码平台的即时构建与闲置资源自动释放，显著提升了 AI 应用的开发效率和资源利用率。"
+}

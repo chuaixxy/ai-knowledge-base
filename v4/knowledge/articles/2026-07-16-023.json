@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561511&idx=1&sn=0561f27f340cd19d280dc5543780965b",
+  "title": "数据研发Multi-Agent架构的Harness工程实践",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561511&idx=1&sn=0561f27f340cd19d280dc5543780965b",
+  "summary": "该项目探讨了在数据研发领域应用Multi-Agent架构的Harness工程实践。通过构建多个智能体协同工作的框架，旨在提升数据流水线的自动化、可观测性和鲁棒性。Harness作为持续交付与平台工程工具，与Multi-Agent结合可实现数据任务的智能调度、异常检测与自愈。实践内容包括Agent角色定义（如数据采集、清洗、建模Agent）、通信协议设计、状态管理与Harness pipeline的集成。该方案能有效降低数据工程中的手动干预，加速数据产品交付，并为复杂数据场景提供可扩展的工程化解决方案。",
+  "tags": [
+    "数据研发",
+    "Multi-Agent",
+    "Harness",
+    "工程实践",
+    "数据流水线",
+    "自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据工程与AI架构",
+  "key_insight": "通过Multi-Agent架构与Harness平台结合，将数据研发从人工编排升级为智能协同的自动化流水线，显著提升效率与稳定性。"
+}

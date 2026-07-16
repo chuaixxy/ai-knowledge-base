@@ -2972,5 +2972,824 @@
     ],
     "status": "published",
     "collected_at": "2026-07-14T02:44:16.796Z"
+  },
+  {
+    "id": "2026-07-16-001",
+    "title": "AI Data Centers and the Concentration of Wealth",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+    "category": "技术与社会经济分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI数据中心",
+      "财富集中",
+      "科技垄断",
+      "社会经济不平等",
+      "基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-002",
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "category": "AI历史与哲学",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI历史",
+      "聊天机器人",
+      "ELIZA",
+      "人机交互",
+      "自然语言处理",
+      "开放获取",
+      "AI伦理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-003",
+    "title": "Verifiable AI inference",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "category": "人工智能与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI推理",
+      "可验证计算",
+      "零知识证明",
+      "可信执行环境",
+      "密码学",
+      "模型完整性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-004",
+    "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.11888",
+    "category": "金融工程/去中心化金融",
+    "relevance_score": 0.75,
+    "tags": [
+      "市场做市",
+      "永续合约",
+      "随机最优控制",
+      "流动性提供",
+      "DeFi"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-005",
+    "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.11906",
+    "category": "强化学习综述",
+    "relevance_score": 0.8,
+    "tags": [
+      "上下文强化学习",
+      "非平稳环境",
+      "元强化学习",
+      "算法蒸馏",
+      "决策预训练",
+      "综述"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-006",
+    "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.11948",
+    "category": "自然语言处理",
+    "relevance_score": 0.85,
+    "tags": [
+      "数据驻留",
+      "金融AI",
+      "知识蒸馏",
+      "本体定向偏好优化",
+      "统计功效不足"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-007",
+    "title": "Looking for JEPA devil advocates [R]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
+    "category": "技术讨论与需求",
+    "relevance_score": 0.75,
+    "tags": [
+      "JEPA",
+      "世界模型",
+      "机器人学习",
+      "批判性分析",
+      "Yann LeCun"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-008",
+    "title": "The US is advancing AI safety through state and federal action",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "category": "政策与治理",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI治理",
+      "联邦主义",
+      "政策创新",
+      "安全监管"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-009",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "红队测试",
+      "自我对弈",
+      "鲁棒性",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-010",
+    "title": "How to manage AI investments in the agentic era",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "category": "AI战略与管理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI投资",
+      "智能体时代",
+      "效率优化",
+      "工作流程规模化",
+      "投资回报率"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-011",
+    "title": "Celebrating 25 years of visual search innovation",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "category": "技术里程碑",
+    "relevance_score": 0.7,
+    "tags": [
+      "谷歌图片",
+      "视觉搜索",
+      "25周年",
+      "图像识别",
+      "AI视觉",
+      "多模态搜索",
+      "视觉内容生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-012",
+    "title": "What building Shippy taught us about building agents",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "category": "技术经验总结",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "架构设计",
+      "工程实践",
+      "可靠性",
+      "状态管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-013",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "category": "AI系统架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "模型路由",
+      "AI系统",
+      "负载均衡",
+      "动态决策",
+      "性能优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-014",
+    "title": "Welcome Inkling by Thinking Machines",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "category": "AI研究",
+    "relevance_score": 0.6,
+    "tags": [
+      "人工智能",
+      "机器学习",
+      "认知计算",
+      "概念验证"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-015",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/real-world-voiceeq",
+    "category": "AI技术评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音AI",
+      "语音质量评估",
+      "自然语言处理",
+      "情感计算",
+      "人机交互"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-016",
+    "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+    "category": "科技法律",
+    "relevance_score": 0.85,
+    "tags": [
+      "xAI",
+      "Grok",
+      "CSAM",
+      "法律诉讼",
+      "AI滥用",
+      "儿童保护"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-017",
+    "title": "AI slop movies are the new direct-to-video cash grabs",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+    "category": "影视科技分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI电影",
+      "电影产业",
+      "诺兰",
+      "流媒体",
+      "商业策略"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-018",
+    "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "category": "AI伦理与法律",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI音乐生成",
+      "数据泄露",
+      "版权争议",
+      "训练数据",
+      "Suno",
+      "网络爬虫"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-019",
+    "title": "想到即建、不用即停 —— 火山 PostgreSQL 助力飞书妙搭的 AI 效率革新",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520827&idx=1&sn=543e0e51b78349e2c5f87c4867713da5",
+    "category": "数据库与AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "PostgreSQL",
+      "火山引擎",
+      "飞书妙搭",
+      "低代码平台",
+      "AI效率",
+      "弹性扩展",
+      "资源优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-020",
+    "title": "AINMM：存量生产级工程向 AI Native 演进的五级成熟度模型",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544860&idx=1&sn=2af590b12b53e721597358cc91e03eac",
+    "category": "技术框架与模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI架构",
+      "成熟度模型",
+      "工程化转型",
+      "AI治理",
+      "系统演进"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-021",
+    "title": "阿里荣膺 ACL 2026 最佳资源论文 | HSCodeComp 揭开智能体「分层规则应用」的能力鸿沟",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510248&idx=1&sn=bf7c5cc932df692cbf3ba61e3bfc973e",
+    "category": "人工智能研究",
+    "relevance_score": 0.9,
+    "tags": [
+      "ACL 2026",
+      "HSCodeComp",
+      "智能体评估",
+      "分层规则",
+      "资源论文",
+      "阿里"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-022",
+    "title": "从 Coder 到 Designer ：电商团队数据研发的 Harness Engineering 实践",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510241&idx=1&sn=04d54633f1d91d27be6580eda8b503b2",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI数据研发",
+      "Harness Engineering",
+      "电商数据分析",
+      "自动化数据工程",
+      "可追溯AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-023",
+    "title": "数据研发Multi-Agent架构的Harness工程实践",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561511&idx=1&sn=0561f27f340cd19d280dc5543780965b",
+    "category": "数据工程与AI架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "数据研发",
+      "Multi-Agent",
+      "Harness",
+      "工程实践",
+      "数据流水线",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-024",
+    "title": "从超级个体到超级组织：1688 数据中心 Multi-Agent 研发小队实录",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561481&idx=1&sn=fc2b915c55510ec99e9cf609720e378f",
+    "category": "人工智能应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "Multi-Agent系统",
+      "数据中心",
+      "超级个体",
+      "超级组织",
+      "AI协作",
+      "自动化研发"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-025",
+    "title": "Qwen-Audio-3.0-Realtime 如何让语音交互“懂倾听，更聪明”？",
+    "source": "rss-4ebee6222ae08705b8aabc9116f0defbcb6b17c6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501704&idx=1&sn=f312d9c2f14027c2c696707ef5a93629",
+    "category": "人工智能/语音技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音交互",
+      "实时处理",
+      "情感计算",
+      "多模态AI",
+      "自然语言处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-026",
+    "title": "2026WAIC倒计时，邀您与蚂蚁共见智能未来",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537582&idx=1&sn=e4df89d58e0a12fd542704b1b364778b",
+    "category": "品牌营销与活动推广",
+    "relevance_score": 0.7,
+    "tags": [
+      "WAIC",
+      "蚂蚁集团",
+      "人工智能",
+      "倒计时",
+      "品牌推广",
+      "智能未来"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-027",
+    "title": "论文秀 Live#42 | ICML 2026 论文解读",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537575&idx=1&sn=f058f04bd61fe4681485ab73e69ae7b0",
+    "category": "学术交流与技术解读",
+    "relevance_score": 0.7,
+    "tags": [
+      "机器学习",
+      "ICML",
+      "论文解读",
+      "学术分享",
+      "前沿技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-028",
+    "title": "决战世界杯！ModelScope AgentID 助力智能体驰骋 DojoZero 竞技场",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510746&idx=1&sn=4f91aa7f2027419d144d887970689b40",
+    "category": "智能体技术与身份认证",
+    "relevance_score": 0.85,
+    "tags": [
+      "AgentID",
+      "数字身份",
+      "智能体竞技场",
+      "跨平台认证",
+      "安全凭证",
+      "公平激励"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-029",
+    "title": "Wan-Dancer开源：分层解耦框架，突破分钟级舞蹈生成瓶颈",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510662&idx=1&sn=b53b0fdab79f6091583e816da7bfa8fc",
+    "category": "AI生成与计算机视觉",
+    "relevance_score": 0.85,
+    "tags": [
+      "舞蹈生成",
+      "开源框架",
+      "LoRA定制",
+      "分层解耦",
+      "长视频生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-030",
+    "title": "上线后差点“挤爆”服务器，Marvis凭什么让用户追着6只小马“上班”？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802628&idx=1&sn=e187a512c344ea924c370abb91b8962f",
+    "category": "科技产品",
+    "relevance_score": 0.85,
+    "tags": [
+      "社交应用",
+      "用户增长",
+      "服务器扩容",
+      "爆款产品",
+      "互动设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-031",
+    "title": "极致量化，近三千亿参数 Hy3 单卡即可部署",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498028&idx=1&sn=9b6f4f0d9eff9d2a6925f3860eb63665",
+    "category": "模型优化与部署",
+    "relevance_score": 0.85,
+    "tags": [
+      "模型量化",
+      "大模型部署",
+      "单卡推理",
+      "模型压缩"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-032",
+    "title": "AI原生游戏，体验和玩法变了什么?｜行业圆桌01期",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998028&idx=1&sn=d99c07ed22e030ccae494840722f8dcb",
+    "category": "游戏技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI原生游戏",
+      "游戏设计",
+      "智能NPC",
+      "动态叙事",
+      "个性化体验",
+      "跨界人才"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-033",
+    "title": "AI与职业这三年：震荡、规律与职业群像",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998016&idx=1&sn=8a1bc6994d6bd3f336945ed5829e1628",
+    "category": "技术与社会分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "职业演化",
+      "技术冲击",
+      "就业市场",
+      "数据分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-034",
+    "title": "如何将本地CodeBuddy/Cursor嵌入在线应用",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696401&idx=1&sn=d7ae12fb6298a719d8b17f3855124707",
+    "category": "AI工程化",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程助手",
+      "代码补全",
+      "在线IDE",
+      "模型嵌入",
+      "实时协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-035",
+    "title": "Cube Sandbox GitHub Star 突破 10K！",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696401&idx=2&sn=f6c96e94fbf2edfedfbf2451a22b2068",
+    "category": "开源项目动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "开源",
+      "GitHub",
+      "沙盒",
+      "开发者工具",
+      "社区认可"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-036",
+    "title": "让 Token 消费看得见、管得住、省得下 - AI 网关成本治理能力解析",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506866&idx=1&sn=1e5b0c773b7501ddc7bb37eac9fa4268",
+    "category": "云计算/AI基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI网关",
+      "成本治理",
+      "Token监控",
+      "腾讯云",
+      "模型优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-037",
+    "title": "Oxygen AIIC：京东首发面向百亿商品的工业级大模型商品中心全解析",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502399&idx=1&sn=a7cff3eeed5b4860c4eed1436dadb78c",
+    "category": "电商与零售技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "商品知识图谱",
+      "电商AI",
+      "工业级应用",
+      "多模态"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-038",
+    "title": "小米开源 Xiaomi-Robotics-U0：让具身数据进入大规模生成时代",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520052&idx=1&sn=1f9b67443f733cf2ad60feabf3908948",
+    "category": "具身智能与机器人",
+    "relevance_score": 0.9,
+    "tags": [
+      "具身智能",
+      "数据生成",
+      "机器人",
+      "开源",
+      "小米",
+      "自动化",
+      "人工智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-039",
+    "title": "小米机器人“实习”新岗位：解锁汽车工厂柔性操作与多机协同",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247519884&idx=1&sn=cf1524795368c11a24248a5a2e7e3983",
+    "category": "机器人技术与工业应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "小米机器人",
+      "汽车工厂",
+      "柔性操作",
+      "多机协同",
+      "智能制造",
+      "工业自动化",
+      "机器人实习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-040",
+    "title": "“十大”之一，稀罕物！",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669525&idx=1&sn=391e223d710bd4cf6f5ddddd924d0718",
+    "category": "人工智能产品发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "百度搭子",
+      "WAIC 2026",
+      "通用智能体",
+      "人工智能",
+      "企业版",
+      "智能体联盟"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-041",
+    "title": "好消息：项目翻3倍🤩！坏消息：时间不够了🫠",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669477&idx=1&sn=038278e719dd27ac1d3d84c6e56f2f61",
+    "category": "项目管理与执行",
+    "relevance_score": 0.7,
+    "tags": [
+      "项目管理",
+      "时间管理",
+      "范围蔓延",
+      "资源分配",
+      "风险控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-042",
+    "title": "从&#34;机械应答&#34;到&#34;服务伙伴&#34;：得物高可控智能客服的 Agent 工程实践｜AICon 演讲整理",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546029&idx=1&sn=bfd40c235e8c5bdbab9acac15aea8bcf",
+    "category": "人工智能与对话系统",
+    "relevance_score": 0.9,
+    "tags": [
+      "智能客服",
+      "Agent架构",
+      "数据飞轮",
+      "强化学习",
+      "多轮对话",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-043",
+    "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
+    "category": "AI工程化",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM评估",
+      "性能优化",
+      "自动化测试",
+      "迭代效率",
+      "分布式计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-044",
+    "title": "“我现在干得还行，但劝你别进来！”AI 蜜月期要结束了：打工人变成“快乐的行尸走肉”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=1&sn=996fdd641760c8025a97a1ef664afc06",
+    "category": "职场与AI伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI职场影响",
+      "技术依赖",
+      "职业倦怠",
+      "生产力悖论",
+      "数字化转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-045",
+    "title": "WAIC 最热闹的时刻，我们帮你筛掉噪音",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288872&idx=2&sn=f0c93fcda445044e79e56f6ae7ac93c1",
+    "category": "技术分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "WAIC",
+      "人工智能",
+      "信息过滤",
+      "深度思考",
+      "问题导向"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-046",
+    "title": "10000小时人类数据，练出全球首个全身移动操作隐式世界动作模型",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044420&idx=1&sn=011101891539d31a417d203360357b6d",
+    "category": "机器人技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "人形机器人",
+      "世界模型",
+      "隐式动作模型",
+      "全身移动操作",
+      "人类数据"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-16-047",
+    "title": "视频通用模型来了！DeepMind 再证「生成即理解」，何恺明参与",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044420&idx=2&sn=a3a01083258cc80a1c1c78fc4c3446c0",
+    "category": "计算机视觉",
+    "relevance_score": 0.85,
+    "tags": [
+      "视频生成",
+      "视频理解",
+      "DeepMind",
+      "生成即理解",
+      "何恺明",
+      "通用模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-16T02:51:16.006Z"
   }
 ]

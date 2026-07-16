@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-037",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502399&idx=1&sn=a7cff3eeed5b4860c4eed1436dadb78c",
+  "title": "Oxygen AIIC：京东首发面向百亿商品的工业级大模型商品中心全解析",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502399&idx=1&sn=a7cff3eeed5b4860c4eed1436dadb78c",
+  "summary": "京东推出Oxygen AIIC，一个基于LLMs/VLMs的工业级商品知识生产与服务平台，旨在解决行业长期存在的商品信息管理痛点。该系统面向百亿级商品规模，通过大模型技术自动化生成、管理和优化商品知识，提升数据准确性和运营效率。其核心价值在于降低人工成本、加速商品上架流程，并支持多模态内容理解与生成，为电商行业提供可落地的智能化商品中心解决方案。",
+  "tags": [
+    "大模型",
+    "商品知识图谱",
+    "电商AI",
+    "工业级应用",
+    "多模态"
+  ],
+  "relevance_score": 0.85,
+  "category": "电商与零售技术",
+  "key_insight": "以LLMs/VLMs重构商品知识体系，实现百亿级商品的自动化、智能化管理，是工业级AI在电商核心场景的一次重大突破。"
+}

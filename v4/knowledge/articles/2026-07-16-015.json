@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-015",
+  "source_id": "https://huggingface.co/blog/real-world-voiceeq",
+  "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/real-world-voiceeq",
+  "summary": "该项目提出了“Real World VoiceEQ”概念，旨在量化评估语音AI的“人类质量”。传统语音质量指标（如MOS）侧重清晰度，而VoiceEQ通过分析自然度、情感表达、韵律变化等维度，建立更贴近人类真实对话体验的评估体系。该方法利用大规模用户反馈和声学特征提取，生成可解释的评分，帮助开发者优化语音模型，使其更自然、富有情感。项目已通过实验验证，在多个语音合成系统中显示出与人类感知的高度一致性。",
+  "tags": [
+    "语音AI",
+    "语音质量评估",
+    "自然语言处理",
+    "情感计算",
+    "人机交互"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI技术评估",
+  "key_insight": "VoiceEQ通过多维声学特征与人类感知的映射，将语音AI的“人性化”程度转化为可量化指标。"
+}

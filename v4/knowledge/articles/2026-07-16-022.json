@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510241&idx=1&sn=04d54633f1d91d27be6580eda8b503b2",
+  "title": "从 Coder 到 Designer ：电商团队数据研发的 Harness Engineering 实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510241&idx=1&sn=04d54633f1d91d27be6580eda8b503b2",
+  "summary": "该项目探讨电商团队如何通过Harness Engineering实践，使AI具备资深数据研发人员的思维能力，同时比人类更稳定、可追溯且准确性持续提升。核心在于将数据研发流程工程化，利用AI自动完成数据清洗、特征工程、模型调优等任务，并确保每一步都可审计与复现。通过持续学习与反馈机制，AI能不断优化自身表现，最终实现从传统编码到智能设计的跨越，提升电商数据分析的效率和可靠性。",
+  "tags": [
+    "AI数据研发",
+    "Harness Engineering",
+    "电商数据分析",
+    "自动化数据工程",
+    "可追溯AI"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "通过Harness Engineering，AI不仅复制资深数研的思维模式，更在稳定性和可追溯性上超越人类，实现越用越准的自我进化。"
+}

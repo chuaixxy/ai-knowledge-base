@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-001",
+  "source_id": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+  "title": "AI Data Centers and the Concentration of Wealth",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+  "summary": "该项目讨论AI数据中心建设与财富集中的关联性，指出大型科技公司通过建设高性能计算中心进一步巩固市场主导地位，导致资本和技术资源向少数企业集中，加剧社会经济不平等。文章可能引用Lobste.rs社区评论，分析技术基础设施对财富分配的影响。",
+  "tags": [
+    "AI数据中心",
+    "财富集中",
+    "科技垄断",
+    "社会经济不平等",
+    "基础设施"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术与社会经济分析",
+  "key_insight": "AI数据中心不仅是技术竞争的工具，更是财富和权力集中的催化剂，可能加剧数字鸿沟和结构性不平等。"
+}

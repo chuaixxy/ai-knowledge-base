@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510248&idx=1&sn=bf7c5cc932df692cbf3ba61e3bfc973e",
+  "title": "阿里荣膺 ACL 2026 最佳资源论文 | HSCodeComp 揭开智能体「分层规则应用」的能力鸿沟",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510248&idx=1&sn=bf7c5cc932df692cbf3ba61e3bfc973e",
+  "summary": "阿里在ACL 2026上获得最佳资源论文奖，其研究项目HSCodeComp聚焦于智能体在分层规则应用方面的能力评估。该项目通过构建评测基准，揭示了现有AI Agent在处理复杂、分层规则时的能力边界与显著鸿沟，为开发更可靠、专业的AI系统提供了科学评测标准。HSCodeComp不仅指出了当前智能体的局限性，还推动了可解释、可验证AI系统的发展。",
+  "tags": [
+    "ACL 2026",
+    "HSCodeComp",
+    "智能体评估",
+    "分层规则",
+    "资源论文",
+    "阿里"
+  ],
+  "relevance_score": 0.9,
+  "category": "人工智能研究",
+  "key_insight": "HSCodeComp通过评测基准揭示了智能体在分层规则应用上的能力鸿沟，为构建可靠专业AI提供了关键标杆。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-004",
+  "source_id": "https://arxiv.org/abs/2607.11888",
+  "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.11888",
+  "summary": "本文为永续期货市场中的做市商提供了一个严格的理论框架，假设零挂单费。通过随机最优控制理论，将做市问题建模为滤波概率空间上的自适应买卖价差和跨交易所库存对冲决策。主要贡献包括：收益分解定理（将利润分为价差收入、逆向选择损失、库存持有成本、对冲摩擦和资金费率风险）；基于CARA效用的HJB方程及验证定理；通过五个无量纲参数刻画盈利区域的高收益制度定理及主APY公式；零费经济分析及最优入场/退出阈值；以及跨交易所最优对冲策略。",
+  "tags": [
+    "市场做市",
+    "永续合约",
+    "随机最优控制",
+    "流动性提供",
+    "DeFi"
+  ],
+  "relevance_score": 0.75,
+  "category": "金融工程/去中心化金融",
+  "key_insight": "揭示了在零挂单费的永续市场中，做市商可通过五个关键参数优化价差和跨所对冲实现高APY，其中资金费率风险是传统做市模型未考虑的核心变量。"
+}

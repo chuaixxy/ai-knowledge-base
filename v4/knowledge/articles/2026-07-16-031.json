@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-16-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498028&idx=1&sn=9b6f4f0d9eff9d2a6925f3860eb63665",
+  "title": "极致量化，近三千亿参数 Hy3 单卡即可部署",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498028&idx=1&sn=9b6f4f0d9eff9d2a6925f3860eb63665",
+  "summary": "该项目介绍了一种名为“极致量化”的技术，声称能够将近三千亿参数的Hy3模型压缩到单张显卡即可部署运行。这通常涉及模型量化、蒸馏或稀疏化等优化技术，显著降低显存占用和计算需求，使超大模型在消费级硬件上可用。此举可能大幅降低AI推理成本，推动大模型在边缘设备或中小企业的应用。",
+  "tags": [
+    "模型量化",
+    "大模型部署",
+    "单卡推理",
+    "模型压缩"
+  ],
+  "relevance_score": 0.85,
+  "category": "模型优化与部署",
+  "key_insight": "通过极致量化技术，实现超大规模模型在单卡上的高效部署，降低了AI应用门槛。"
+}

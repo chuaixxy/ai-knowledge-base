@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-012",
+  "source_id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "title": "What building Shippy taught us about building agents",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "summary": "本文探讨了构建AI代理（Agent）系统时从Shippy项目中获得的经验教训。核心观点是，构建可靠的代理系统不仅需要强大的基础模型，更需要精心设计的架构、稳健的工程实践和细致的错误处理机制。文章强调了“简单性”的重要性，指出复杂的工作流往往不如简单的循环加良好设计的工具链可靠。同时，它揭示了代理系统中“状态管理”和“可观测性”的关键作用，以及如何通过设计“守卫”和“校验”来提升系统的鲁棒性。最终，文章认为成功的代理构建应回归工程本质，而非过度迷恋模型能力。",
+  "tags": [
+    "AI Agent",
+    "架构设计",
+    "工程实践",
+    "可靠性",
+    "状态管理"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术经验总结",
+  "key_insight": "构建可靠的AI代理系统，关键在于简单的架构、稳健的工程设计和可观测性，而非依赖模型的复杂能力。"
+}

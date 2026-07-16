@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506866&idx=1&sn=1e5b0c773b7501ddc7bb37eac9fa4268",
+  "title": "让 Token 消费看得见、管得住、省得下 - AI 网关成本治理能力解析",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506866&idx=1&sn=1e5b0c773b7501ddc7bb37eac9fa4268",
+  "summary": "腾讯云AI网关推出成本治理能力，解决企业使用AI模型时Token消费不透明、成本失控的痛点。通过可视化仪表盘实时展示Token消耗、费用明细和调用趋势，支持按项目、模型、用户等多维度分析。内置预算预警和限流策略，防止费用超支。提供模型路由和缓存优化，自动选择性价比高的模型或复用结果，降低Token浪费。帮助企业实现AI成本的精细化管控，让每一分钱都花得明白。",
+  "tags": [
+    "AI网关",
+    "成本治理",
+    "Token监控",
+    "腾讯云",
+    "模型优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "云计算/AI基础设施",
+  "key_insight": "通过可视化监控、预算控制和模型优化三位一体的策略，将AI Token消费从黑盒变为可审计、可管控的透明成本项。"
+}

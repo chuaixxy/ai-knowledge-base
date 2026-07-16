@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-018",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+  "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+  "summary": "据报道，AI音乐生成器Suno在一次黑客事件中泄露的数据显示，其训练数据集包含从YouTube Music、Deezer和Genius等在线音频平台抓取的数百万首歌曲和歌词。此前Suno一直未公开训练数据的来源和获取方式，此次泄露罕见地揭示了其训练材料的规模与来源，引发了关于版权和AI训练数据合规性的争议。",
+  "tags": [
+    "AI音乐生成",
+    "数据泄露",
+    "版权争议",
+    "训练数据",
+    "Suno",
+    "网络爬虫"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI伦理与法律",
+  "key_insight": "Suno通过大规模抓取受版权保护的音乐数据训练AI模型，其隐秘操作被黑客事件曝光，凸显了AI行业在数据获取和版权合规上的灰色地带。"
+}

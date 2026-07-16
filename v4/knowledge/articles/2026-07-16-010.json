@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-010",
+  "source_id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "title": "How to manage AI investments in the agentic era",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "summary": "该项目探讨了在智能体时代如何管理企业AI投资，核心是通过度量每美元产生的有用工作（useful work per dollar）来评估投资回报，提升AI系统的效率，并规模化高价值的工作流程。文章强调了从传统指标向“有用工作”导向转变的重要性，以优化资源分配、避免低效投入，并推动AI在业务中的落地与扩展。",
+  "tags": [
+    "AI投资",
+    "智能体时代",
+    "效率优化",
+    "工作流程规模化",
+    "投资回报率"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI战略与管理",
+  "key_insight": "企业需转向以“每美元有用工作”为核心的度量方式，才能理性管理AI投资并实现规模化价值。"
+}

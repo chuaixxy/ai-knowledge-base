@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-047",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044420&idx=2&sn=a3a01083258cc80a1c1c78fc4c3446c0",
+  "title": "视频通用模型来了！DeepMind 再证「生成即理解」，何恺明参与",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044420&idx=2&sn=a3a01083258cc80a1c1c78fc4c3446c0",
+  "summary": "DeepMind 提出视频通用模型，由何恺明参与的研究表明，通过视频生成任务可以统一实现视频理解能力，即‘生成即理解’。该模型在视频预测、生成和理解任务上取得突破，验证了生成式预训练在视频领域的通用性，可能推动视频AI的范式转变。",
+  "tags": [
+    "视频生成",
+    "视频理解",
+    "DeepMind",
+    "生成即理解",
+    "何恺明",
+    "通用模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机视觉",
+  "key_insight": "通过统一视频生成任务，模型能同时实现高质量生成与深度理解，验证了生成式预训练在视频领域的通用性。"
+}

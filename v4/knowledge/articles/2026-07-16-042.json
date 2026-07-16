@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-042",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546029&idx=1&sn=bfd40c235e8c5bdbab9acac15aea8bcf",
+  "title": "从&#34;机械应答&#34;到&#34;服务伙伴&#34;：得物高可控智能客服的 Agent 工程实践｜AICon 演讲整理",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546029&idx=1&sn=bfd40c235e8c5bdbab9acac15aea8bcf",
+  "summary": "本文介绍了得物智能客服从机械应答向高可控服务伙伴的演进路径，重点阐述了客服Agent的架构设计（从Single-Agent到Multi-Agent再到Harness模式）、高可控性数据飞轮（通过PE自动化和DPO训练实现）、RL策略训练与人工经验对齐，以及多轮半双工消息流控制等核心技术实践。这些技术有效提升了客服系统的可控性、智能性和用户体验。",
+  "tags": [
+    "智能客服",
+    "Agent架构",
+    "数据飞轮",
+    "强化学习",
+    "多轮对话",
+    "人机协作"
+  ],
+  "relevance_score": 0.9,
+  "category": "人工智能与对话系统",
+  "key_insight": "通过Multi-Agent架构与数据飞轮结合，实现了客服系统从规则驱动到强化学习对齐的高可控智能升级。"
+}

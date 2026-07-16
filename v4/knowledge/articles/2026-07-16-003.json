@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-003",
+  "source_id": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "title": "Verifiable AI inference",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "summary": "该项目聚焦于可验证的AI推理，旨在确保AI模型输出结果的真实性和完整性，防止篡改或欺骗。通过引入密码学证明或零知识证明等技术，使得第三方能够验证推理过程是否按照既定模型正确执行，而无需重新运行整个计算。这对于提高AI在金融、医疗、司法等高风险领域的可信度至关重要。项目可能涉及将推理过程转化为可验证的电路或使用可信执行环境，以平衡性能与安全性。当前社区讨论热烈，反映了对AI透明度和问责制的迫切需求。",
+  "tags": [
+    "AI推理",
+    "可验证计算",
+    "零知识证明",
+    "可信执行环境",
+    "密码学",
+    "模型完整性"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能与安全",
+  "key_insight": "通过密码学手段将AI推理过程变为可审计的黑盒，从而在不暴露模型细节的前提下保证输出结果的真实性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-043",
+  "source_id": "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
+  "title": "From weeks to a day: how we made LLM evaluation fast enough to iterate on",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4?source=rss----53c7c27702d5---4",
+  "summary": "该项目介绍了一种将大语言模型评估时间从数周缩短至一天的方法。通过优化评估流程、采用并行计算和自动化测试，团队显著提升了迭代速度。核心改进包括设计高效的评估指标、利用分布式系统处理大量测试用例，以及建立快速反馈循环。这种方法使开发者能更频繁地测试模型修改，加速了模型优化和部署周期，特别适用于需要快速迭代的LLM应用场景。",
+  "tags": [
+    "LLM评估",
+    "性能优化",
+    "自动化测试",
+    "迭代效率",
+    "分布式计算"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化",
+  "key_insight": "通过并行化和自动化评估流程，将LLM迭代周期从周级压缩到天级，大幅提升模型开发效率。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501704&idx=1&sn=f312d9c2f14027c2c696707ef5a93629",
+  "title": "Qwen-Audio-3.0-Realtime 如何让语音交互“懂倾听，更聪明”？",
+  "source": "rss-4ebee6222ae08705b8aabc9116f0defbcb6b17c6",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501704&idx=1&sn=f312d9c2f14027c2c696707ef5a93629",
+  "summary": "Qwen-Audio-3.0-Realtime 是一个专注于实时语音交互的AI项目，旨在通过提升语音识别的精准度、情感理解能力和响应速度，让AI在对话中“懂倾听”并“更聪明”。项目强调“脑子快”（快速处理复杂请求）、“情商高”（捕捉语气、情感与语境）和“耳朵灵”（低延迟、高保真语音输入）。它可能融合了多模态感知与流式处理技术，使语音助手能实时调整回应策略，适用于客服、教育、智能家居等场景，提升人机交互的自然度与体验。",
+  "tags": [
+    "语音交互",
+    "实时处理",
+    "情感计算",
+    "多模态AI",
+    "自然语言处理"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能/语音技术",
+  "key_insight": "通过融合高精度语音识别与上下文情感理解，实现低延迟、高情商的实时对话能力。"
+}

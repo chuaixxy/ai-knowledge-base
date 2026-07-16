@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-16-034",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696401&idx=1&sn=d7ae12fb6298a719d8b17f3855124707",
+  "title": "如何将本地CodeBuddy/Cursor嵌入在线应用",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696401&idx=1&sn=d7ae12fb6298a719d8b17f3855124707",
+  "summary": "该项目探讨如何将本地AI编程助手（如CodeBuddy、Cursor）的功能嵌入在线应用，实现代码补全、错误检测、智能重构等能力。核心挑战包括：本地模型与云端的协同、实时响应性能、数据隐私保护。解决方案可能涉及WebSocket通信、模型轻量化部署、以及沙盒化执行环境。",
+  "tags": [
+    "AI编程助手",
+    "代码补全",
+    "在线IDE",
+    "模型嵌入",
+    "实时协作"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化",
+  "key_insight": "将本地AI编程能力嵌入在线应用需平衡实时性与隐私，核心在于模型轻量化与通信架构优化。"
+}

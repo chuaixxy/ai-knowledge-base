@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510746&idx=1&sn=4f91aa7f2027419d144d887970689b40",
+  "title": "决战世界杯！ModelScope AgentID 助力智能体驰骋 DojoZero 竞技场",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510746&idx=1&sn=4f91aa7f2027419d144d887970689b40",
+  "summary": "该项目由ModelScope与AgentScope联合推出AgentID服务，旨在为外部智能体提供可验证的数字身份，解决跨平台归属认证、安全凭证管理及公平激励等问题。首个落地场景为DojoZero世界杯智能体竞技场，通过数字身份技术确保智能体在竞技场中的身份唯一性、安全性及激励公平性，推动智能体生态的规范化发展。",
+  "tags": [
+    "AgentID",
+    "数字身份",
+    "智能体竞技场",
+    "跨平台认证",
+    "安全凭证",
+    "公平激励"
+  ],
+  "relevance_score": 0.85,
+  "category": "智能体技术与身份认证",
+  "key_insight": "通过为智能体提供可验证数字身份，解决跨平台协作中的信任与激励难题，是智能体生态基础设施的关键创新。"
+}

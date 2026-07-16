@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-16-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561481&idx=1&sn=fc2b915c55510ec99e9cf609720e378f",
+  "title": "从超级个体到超级组织：1688 数据中心 Multi-Agent 研发小队实录",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561481&idx=1&sn=fc2b915c55510ec99e9cf609720e378f",
+  "summary": "本文介绍了1688数据中心如何利用Multi-Agent系统，将超级个体（如数据科学家、工程师）的协作效率提升至超级组织层面。通过构建多个AI代理（Agent）协同工作的研发小队，实现了数据处理、模型训练和决策优化的自动化与智能化。该项目强调Agent间的分工协作、知识共享与任务调度，显著提升了研发效率和数据中心运营能力。",
+  "tags": [
+    "Multi-Agent系统",
+    "数据中心",
+    "超级个体",
+    "超级组织",
+    "AI协作",
+    "自动化研发"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能应用",
+  "key_insight": "Multi-Agent系统通过模拟人类团队协作，将个体智能放大为组织级智能，是提升研发效率的关键。"
+}
