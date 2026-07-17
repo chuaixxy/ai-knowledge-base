@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-17-007",
+  "source_id": "https://openai.com/index/cars24",
+  "title": "How Cars24 scales conversations and builds faster with OpenAI",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/cars24",
+  "summary": "Cars24 利用 OpenAI 驱动的语音和聊天代理，每月处理超过 100 万分钟的对话，成功挽回 12% 的流失线索。该公司将代理工作流引入公司各个团队，提升了沟通效率和客户转化率。该案例展示了 AI 在二手车交易领域的大规模应用，尤其是通过自然语言处理实现自动化客户互动。",
+  "tags": [
+    "OpenAI",
+    "语音代理",
+    "聊天机器人",
+    "线索转化",
+    "自动化工作流",
+    "汽车行业"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用案例",
+  "key_insight": "AI代理工作流可显著提升大规模客户沟通效率和线索挽回率。"
+}

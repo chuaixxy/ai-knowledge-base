@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-17-010",
+  "source_id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "summary": "NVIDIA的Nemotron 3嵌入模型在RTEB基准测试中综合排名第一，显著提升了智能体检索（Agentic Retrieval）性能。该模型通过优化嵌入质量和检索效率，在多项任务中超越现有方法，标志着NVIDIA在AI检索技术领域取得重要突破，为复杂查询和知识密集型应用提供了更强大的基础能力。",
+  "tags": [
+    "NVIDIA",
+    "Nemotron 3",
+    "嵌入模型",
+    "RTEB基准",
+    "智能体检索",
+    "AI检索",
+    "基准测试",
+    "自然语言处理"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型与基准",
+  "key_insight": "Nemotron 3嵌入模型通过改进检索质量，推动了智能体检索的前沿，确立了NVIDIA在嵌入技术领域的领先地位。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-17-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520930&idx=1&sn=bd7a4aa7ed7ce2d4ca65e807f53392f6",
+  "title": "从 Data Lake 到 State Lake：面向 Agent 时代的存储基础设施重构",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520930&idx=1&sn=bd7a4aa7ed7ce2d4ca65e807f53392f6",
+  "summary": "该项目提出从传统Data Lake向State Lake的存储基础设施重构，旨在应对AI Agent时代对实时状态管理与数据一致性的需求。State Lake通过融合事件驱动架构、状态化数据存储与流处理，实现Agent间共享状态的低延迟读写与持久化。相比Data Lake侧重批量分析，State Lake强调动态状态追踪、分布式事务支持及与Agent工作流的原生集成，为智能体协作提供统一存储底座。该方案可显著提升Agent系统的响应速度与可靠性，是存储层适应AI原生应用的关键演进方向。",
+  "tags": [
+    "State Lake",
+    "Data Lake",
+    "Agent存储",
+    "状态管理",
+    "流处理",
+    "基础设施重构",
+    "AI原生"
+  ],
+  "relevance_score": 0.85,
+  "category": "存储架构",
+  "key_insight": "State Lake通过将状态化数据与流处理深度整合，填补了Data Lake在Agent实时协作场景下的状态管理空白，是存储层从分析型向交互型演进的核心范式转变。"
+}

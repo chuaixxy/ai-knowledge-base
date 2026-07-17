@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-17-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561530&idx=1&sn=27ecc399bc4f778f0eeb5be5f49bac01",
+  "title": "淘宝闪购-爆品团精排Scaling Up迭代实践",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561530&idx=1&sn=27ecc399bc4f778f0eeb5be5f49bac01",
+  "summary": "该项目聚焦淘宝闪购业务中爆品团的精排模型Scaling Up迭代实践。通过引入大规模特征工程、模型结构升级（如DIN/DIEN/DLRM等）及分布式训练优化，显著提升精排模型在爆品场景下的点击率与转化率预估精度。同时，针对爆品团高并发、短时窗口特点，设计实时特征更新与冷启动策略，最终实现业务GMV与用户转化效率的显著增长，并沉淀了适用于电商秒杀场景的通用精排迭代方法论。",
+  "tags": [
+    "推荐系统",
+    "精排模型",
+    "Scaling Up",
+    "淘宝闪购",
+    "爆品团",
+    "特征工程",
+    "深度学习"
+  ],
+  "relevance_score": 0.9,
+  "category": "电商推荐系统",
+  "key_insight": "通过精排模型的大规模扩展与实时优化，有效破解爆品场景下用户行为稀疏与高并发预估的挑战，验证了Scaling Up在电商短时爆发场景中的巨大价值。"
+}

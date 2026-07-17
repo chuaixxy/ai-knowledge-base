@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-003",
+  "source_id": "https://arxiv.org/abs/2607.13037",
+  "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.13037",
+  "summary": "该论文提出了OriginBlame (ob)，一个记录级和令牌级的数据溯源系统，用于AI训练数据集。它解决了现有文件或数据集级溯源系统在数据贡献者请求删除时导致过度删除的问题。ob通过数据处理管道传播作者身份，并利用确定性查询将撤销请求解析为精确的遗忘集。在219,555个维基百科页面上的评估显示，记录级溯源可将数据集级过度删除从101倍降至1.3倍，同时引入的吞吐量开销较低（HuggingFace上1.3-4.0%，Datatrove上2.1-19.0%）。在1.7B模型上，基于溯源的遗忘集比随机基线提升了42%的遗忘效果。",
+  "tags": [
+    "数据溯源",
+    "遗忘学习",
+    "数据删除",
+    "AI训练数据集",
+    "隐私保护"
+  ],
+  "relevance_score": 0.85,
+  "category": "机器学习系统与隐私",
+  "key_insight": "通过记录级和令牌级精确溯源，解决了AI训练数据删除中的过度删除问题，显著提升遗忘学习效果。"
+}

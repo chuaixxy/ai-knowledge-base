@@ -3791,5 +3791,597 @@
     ],
     "status": "published",
     "collected_at": "2026-07-16T02:51:16.006Z"
+  },
+  {
+    "id": "2026-07-17-001",
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "category": "算法与AI",
+    "relevance_score": 0.85,
+    "tags": [
+      "Scrabble引擎",
+      "概率模型",
+      "人工智能",
+      "游戏算法",
+      "锦标赛级别"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-002",
+    "title": "Why ML/OCaml are good for writing compilers (1998)",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+    "category": "编程语言与编译技术",
+    "relevance_score": 0.7,
+    "tags": [
+      "编译器",
+      "ML语言",
+      "OCaml",
+      "函数式编程",
+      "类型系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-003",
+    "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.13037",
+    "category": "机器学习系统与隐私",
+    "relevance_score": 0.85,
+    "tags": [
+      "数据溯源",
+      "遗忘学习",
+      "数据删除",
+      "AI训练数据集",
+      "隐私保护"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-004",
+    "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.13049",
+    "category": "机器人学与人工智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "机器人部署",
+      "多智能体系统",
+      "具身智能",
+      "自动调试",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-005",
+    "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.13069",
+    "category": "AI推理可解释性",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "链式思维",
+      "前提依赖性",
+      "黑盒审计",
+      "演绎推理",
+      "谓词替换"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-006",
+    "title": "Why teens deserve access to safe AI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "category": "AI伦理与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "青少年保护",
+      "OpenAI",
+      "ChatGPT",
+      "家长控制",
+      "教育工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-007",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/cars24",
+    "category": "AI应用案例",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "语音代理",
+      "聊天机器人",
+      "线索转化",
+      "自动化工作流",
+      "汽车行业"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-008",
+    "title": "Connect more of your apps to Search",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "category": "人工智能与搜索技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI搜索",
+      "应用集成",
+      "服务交互",
+      "用户体验",
+      "安全链接"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-009",
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "category": "AI应用与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI视频生成",
+      "Google Vids",
+      "Gemini Omni",
+      "虚拟形象",
+      "自然语言处理",
+      "视频编辑",
+      "内容创作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-010",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "category": "AI模型与基准",
+    "relevance_score": 0.9,
+    "tags": [
+      "NVIDIA",
+      "Nemotron 3",
+      "嵌入模型",
+      "RTEB基准",
+      "智能体检索",
+      "AI检索",
+      "基准测试",
+      "自然语言处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-011",
+    "title": "Newer Models, Same Advantage",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "category": "人工智能与机器学习",
+    "relevance_score": 0.75,
+    "tags": [
+      "模型比较",
+      "技术继承",
+      "性能分析",
+      "深度学习",
+      "算法优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-012",
+    "title": "Security incident disclosure — July 2026",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/security-incident-july-2026",
+    "category": "安全公告",
+    "relevance_score": 0.7,
+    "tags": [
+      "安全事件",
+      "披露",
+      "2026年7月",
+      "网络安全",
+      "事件响应"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-013",
+    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+    "category": "AI政策与政府应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI治理",
+      "政府效率",
+      "政策分析",
+      "纽约州",
+      "监管改革"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-014",
+    "title": "Google is renaming NotebookLM to Gemini Notebook",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+    "category": "科技产品动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "谷歌",
+      "NotebookLM",
+      "Gemini Notebook",
+      "AI笔记",
+      "品牌更名",
+      "产品整合"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-015",
+    "title": "Claude can now use your 1Password credentials for you",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "category": "AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "密码管理",
+      "浏览器集成",
+      "自动化",
+      "Claude"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-016",
+    "title": "从 Data Lake 到 State Lake：面向 Agent 时代的存储基础设施重构",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520930&idx=1&sn=bd7a4aa7ed7ce2d4ca65e807f53392f6",
+    "category": "存储架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "State Lake",
+      "Data Lake",
+      "Agent存储",
+      "状态管理",
+      "流处理",
+      "基础设施重构",
+      "AI原生"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-017",
+    "title": "9.9 元/月，用 AgentPlan + OpenViking 给销售团队配一个不会忘事的 AI 助手",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520930&idx=2&sn=d28d61e9a893bc39fdbe6797404755cb",
+    "category": "AI应用/销售赋能",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI助手",
+      "销售效率",
+      "AgentPlan",
+      "OpenViking",
+      "低成本",
+      "任务管理",
+      "客户跟进"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-018",
+    "title": "淘宝闪购-爆品团精排Scaling Up迭代实践",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561530&idx=1&sn=27ecc399bc4f778f0eeb5be5f49bac01",
+    "category": "电商推荐系统",
+    "relevance_score": 0.9,
+    "tags": [
+      "推荐系统",
+      "精排模型",
+      "Scaling Up",
+      "淘宝闪购",
+      "爆品团",
+      "特征工程",
+      "深度学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-019",
+    "title": "蚂蚁灵波全栈大脑2.0亮相WAIC，“镇馆之宝”智慧药房验证“一脑多机”",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537597&idx=1&sn=9fbcd24948c8bb953137d15848094ec6",
+    "category": "人工智能与机器人",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI全栈大脑",
+      "机器人协同",
+      "智慧药房",
+      "一脑多机",
+      "WAIC"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-020",
+    "title": "AI+∞ 开发者创作大赛正式启动！第一期：运营人，动手造自己的工具！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510760&idx=1&sn=eb78af2313bdbc510010ea4f50a3f2e6",
+    "category": "技术竞赛",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI大赛",
+      "开发者工具",
+      "运营自动化",
+      "魔搭社区"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-021",
+    "title": "Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=1&sn=8c2b4c6e4501a69632fe05b2e6e8e3b0",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI治理",
+      "LLM安全",
+      "Agent框架",
+      "Hook机制",
+      "模型可控性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-022",
+    "title": "腾讯PCG联合深圳河套学院：在全双工语音大模型领域取得重要突破，获 ACL 2026 杰出论文奖",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=2&sn=d7eb836cbf1c5d47f8d6c2ea645375d8",
+    "category": "人工智能/语音技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "全双工语音",
+      "大语言模型",
+      "语音交互",
+      "ACL 2026",
+      "腾讯PCG",
+      "实时对话"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-023",
+    "title": "上线一周，Hy3 总调用量增长超 68 倍",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498035&idx=1&sn=7e80221469f42b44e02fa454ea4cac98",
+    "category": "AI应用与市场表现",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI模型",
+      "用户增长",
+      "调用量",
+      "WorkBuddy",
+      "Hy3"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-024",
+    "title": "杨斌：To B/To C 已经过时，“To A”的新时代来了",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998041&idx=1&sn=ab8880a0bbadf86d2d2afbe663b8dae9",
+    "category": "商业战略",
+    "relevance_score": 0.75,
+    "tags": [
+      "商业模式",
+      "数字化转型",
+      "用户生态",
+      "新零售",
+      "战略创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-025",
+    "title": "AI时代企业何以制胜？需重构AI组织变革的操作系统",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998041&idx=2&sn=a052713d6d9c5054a5cd5a5c2657a8de",
+    "category": "企业战略与管理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI组织变革",
+      "CEO领导力",
+      "企业转型",
+      "战略管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-026",
+    "title": "一文讲透Skill",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696407&idx=1&sn=99394049f6a8ab40966f9116cf56c0e2",
+    "category": "个人成长与学习",
+    "relevance_score": 0.75,
+    "tags": [
+      "技能",
+      "个人成长",
+      "学习方法",
+      "职场发展",
+      "刻意练习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-027",
+    "title": "10万小时训出“开箱即用”机器人基座模型：Xiaomi-Robotics-1 探索具身智能 Scaling 效应",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520148&idx=1&sn=5a3d53dd0f4152ddbb220690f040a9de",
+    "category": "人工智能/机器人",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "机器人基座模型",
+      "Scaling效应",
+      "大规模训练",
+      "小米"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-028",
+    "title": "小米科学家再获重磅荣誉！Daniel Povey 当选 ISCA Fellow",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520148&idx=2&sn=05b2ac43ad39114acc0e862d77a0b7f5",
+    "category": "企业荣誉与技术突破",
+    "relevance_score": 0.6,
+    "tags": [
+      "小米",
+      "语音识别",
+      "ISCA Fellow",
+      "Daniel Povey",
+      "AI荣誉"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-029",
+    "title": "清华&滴滴自动驾驶新作｜FAST：加速强化学习训练的并行计算框架",
+    "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575403&idx=1&sn=44455954ad82b835c609857e1f90a134",
+    "category": "AI算法与框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "自动驾驶",
+      "强化学习",
+      "并行计算",
+      "FAST框架",
+      "训练加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-030",
+    "title": "Kimi K3：智能的新前沿",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488658&idx=1&sn=a4fd7ead31c1b49357b29535c0dea4fe",
+    "category": "人工智能技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "大模型",
+      "智能升级",
+      "Kimi"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-031",
+    "title": "“要么Fork，要么走人”！Linus怒怼AI反对派：Linux不搞“反AI”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=1&sn=991e9edb8c1638e1621d53036b467bb3",
+    "category": "科技行业动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "Linus Torvalds",
+      "Linux内核",
+      "AI",
+      "开源社区",
+      "技术争议"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-032",
+    "title": "从「构建 AI」，到「驾驭 AI」 | QCon 全球软件开发大会·2026（上海站）正式启动",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=2&sn=ebff60fa9813c26226178d0d82ebf983",
+    "category": "技术会议与行业趋势",
+    "relevance_score": 0.85,
+    "tags": [
+      "QCon",
+      "AI",
+      "软件工程",
+      "系统集成",
+      "技术大会"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-033",
+    "title": "AI人才战最疯的一年：HR盯论文抢人，秋招大幅提前，顶级毕业生第一站该去哪儿？",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044730&idx=1&sn=de462f6e542a9cb263625ec21e8a4eb4",
+    "category": "行业趋势",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI招聘",
+      "人才战",
+      "秋招提前",
+      "顶级毕业生",
+      "事业选择"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
+  },
+  {
+    "id": "2026-07-17-034",
+    "title": "7月18日，150位全球AI顶流青年齐聚张江AI小镇，这场派对只发「船票」不发「门票」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651044730&idx=2&sn=437545ebc327dc179e7ad0709e902732",
+    "category": "行业活动",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI青年",
+      "张江AI小镇",
+      "云帆",
+      "精英聚会",
+      "前沿AI",
+      "创新社区"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-17T02:52:17.125Z"
   }
 ]

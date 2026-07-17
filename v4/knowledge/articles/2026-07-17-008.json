@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-008",
+  "source_id": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+  "title": "Connect more of your apps to Search",
+  "source": "rss-google-ai-blog",
+  "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+  "summary": "该项目旨在将更多应用与AI搜索模式连接，使用户能够直接在搜索界面中安全地链接并交互其常用服务，无需切换应用。通过增强搜索的集成能力，提升信息获取与任务执行的效率，同时强调安全性。这标志着AI搜索从被动信息检索向主动服务交互的演进。",
+  "tags": [
+    "AI搜索",
+    "应用集成",
+    "服务交互",
+    "用户体验",
+    "安全链接"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能与搜索技术",
+  "key_insight": "将搜索从信息查询点升级为应用服务的中枢，实现‘搜索即操作’的闭环体验。"
+}

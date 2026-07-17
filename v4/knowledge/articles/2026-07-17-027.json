@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520148&idx=1&sn=5a3d53dd0f4152ddbb220690f040a9de",
+  "title": "10万小时训出“开箱即用”机器人基座模型：Xiaomi-Robotics-1 探索具身智能 Scaling 效应",
+  "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520148&idx=1&sn=5a3d53dd0f4152ddbb220690f040a9de",
+  "summary": "该项目由小米发布，通过10万小时机器人训练数据，构建了名为Xiaomi-Robotics-1的机器人基座模型。研究重点在于探索具身智能领域的Scaling效应，即随着训练数据量和模型规模的增加，机器人能否像大语言模型一样展现出“开箱即用”的泛化能力。实验结果表明，在多种操作任务中，模型性能与训练数据量呈正相关，验证了具身智能中的Scaling定律。该工作为机器人基础模型的规模化训练提供了重要参考。",
+  "tags": [
+    "具身智能",
+    "机器人基座模型",
+    "Scaling效应",
+    "大规模训练",
+    "小米"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能/机器人",
+  "key_insight": "首次在机器人领域系统验证了类似大语言模型的Scaling定律，10万小时数据训练出泛化能力强的基座模型。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-17-005",
+  "source_id": "https://arxiv.org/abs/2607.13069",
+  "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.13069",
+  "summary": "该论文提出了一种黑盒、步骤级别的干预性基础审计方法，用于测试大语言模型链式思维推理中的前提依赖性。通过用新符号替换单个前提中的目标谓词，重新运行模型并检查推理步骤结论是否变化，来检测模型是否真正依赖前提。在ProntoQA多跳演绎推理基准上，对GPT-4o进行测试，该方法在检测证明树依赖性上F1=0.806，显著优于自一致性基线（F1=0.343）。此外，发现66%的正确解题中仍存在前提依赖性问题。",
+  "tags": [
+    "大语言模型",
+    "链式思维",
+    "前提依赖性",
+    "黑盒审计",
+    "演绎推理",
+    "谓词替换"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI推理可解释性",
+  "key_insight": "通过谓词替换的干预审计能有效揭示LLM推理中看似合理实则不依赖前提的虚假逻辑链条。"
+}

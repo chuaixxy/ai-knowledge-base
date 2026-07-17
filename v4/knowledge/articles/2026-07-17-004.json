@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-004",
+  "source_id": "https://arxiv.org/abs/2607.13049",
+  "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.13049",
+  "summary": "SPINE是一个基于智能体AI的框架，旨在弥合机器人在仿真智能与物理部署之间的鸿沟。它通过两个多智能体工作流（配置文件构建器和调试器）自动进行机器人校准和调试，从而降低对专家经验的依赖。实验表明，即便是机器人新手使用SPINE，在操作成功率和效率上也优于使用常规工具（如Claude Code）的专家。",
+  "tags": [
+    "机器人部署",
+    "多智能体系统",
+    "具身智能",
+    "自动调试",
+    "人机协作"
+  ],
+  "relevance_score": 0.85,
+  "category": "机器人学与人工智能",
+  "key_insight": "SPINE通过结构化的多智能体工作流，将机器人部署从专家驱动的繁琐过程转变为新手可操作的自动化流程，显著提升操作成功率。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=1&sn=8c2b4c6e4501a69632fe05b2e6e8e3b0",
+  "title": "Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=1&sn=8c2b4c6e4501a69632fe05b2e6e8e3b0",
+  "summary": "该项目提出一种基于Hook机制的Agent治理框架，用于解决大语言模型在自主任务中的偷懒、越权与失忆问题。核心思路是在LLM的执行流程中插入可编程的Hook点，对模型行为进行实时监控、约束与修正，弥补传统Prompt工程在安全性和可靠性上的不足。通过框架层级的治理，实现更可控、更合规的AI Agent应用。",
+  "tags": [
+    "AI治理",
+    "LLM安全",
+    "Agent框架",
+    "Hook机制",
+    "模型可控性"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与治理",
+  "key_insight": "用框架层的Hook机制替代不可靠的Prompt约束，从执行流程上根治LLM的行为失控问题。"
+}

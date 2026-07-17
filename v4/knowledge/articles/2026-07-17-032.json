@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=2&sn=ebff60fa9813c26226178d0d82ebf983",
+  "title": "从「构建 AI」，到「驾驭 AI」 | QCon 全球软件开发大会·2026（上海站）正式启动",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651288941&idx=2&sn=ebff60fa9813c26226178d0d82ebf983",
+  "summary": "本文宣布QCon 2026上海站正式启动，主题从「构建AI」转向「驾驭AI」。文章指出，在AI能够自动生成代码后，软件工程面临的新挑战并未减少，反而增多。下一阶段AI竞争的核心不再是单一模型，而是更复杂的系统整合与工程化能力。大会将集中探讨如何有效管理、集成和优化AI驱动的开发流程，强调从技术构建转向系统治理的重要性。",
+  "tags": [
+    "QCon",
+    "AI",
+    "软件工程",
+    "系统集成",
+    "技术大会"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术会议与行业趋势",
+  "key_insight": "AI写代码只是开始，真正的挑战在于如何驾驭AI系统，软件工程需要从模型竞争转向系统级治理。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-015",
+  "source_id": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+  "title": "Claude can now use your 1Password credentials for you",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+  "summary": "1Password 为 Anthropic 的 Claude 聊天机器人推出了浏览器集成功能，允许 Claude 访问用户存储的安全凭据（如用户名和密码）。用户授权后，Claude 可自动完成多步骤任务，例如预订旅行和管理在线账户，无需手动输入登录信息，提升了自动化效率和用户体验。",
+  "tags": [
+    "AI",
+    "密码管理",
+    "浏览器集成",
+    "自动化",
+    "Claude"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用",
+  "key_insight": "该集成将AI助手与密码管理结合，实现了安全凭据的自动化调用，显著简化了用户操作流程。"
+}
