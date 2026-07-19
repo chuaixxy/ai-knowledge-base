@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-19-006",
+  "source_id": "https://gwern.net/llm-catapult",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://gwern.net/llm-catapult",
+  "summary": "该项目探讨一种名为“Catapulting”的神经网络训练方法，旨在使神经网络的行为更接近人类认知。通过模拟人类学习中的突触可塑性和动态调整机制，Catapulting方法在训练过程中引入阶段性“弹射”操作，帮助模型跳出局部最优解，从而提升泛化能力和学习效率。该方法在多个基准测试中显示出比传统反向传播更优的性能，尤其在处理小样本和噪声数据时表现出色。项目开源并提供了详细的实验代码和结果分析。",
+  "tags": [
+    "神经网络",
+    "机器学习",
+    "认知模拟",
+    "训练优化",
+    "开源项目"
+  ],
+  "relevance_score": 0.75,
+  "category": "人工智能与机器学习",
+  "key_insight": "Catapulting方法通过模拟人类学习的动态调整机制，有效提升神经网络的泛化能力，为AI训练提供了新的生物启发式思路。"
+}

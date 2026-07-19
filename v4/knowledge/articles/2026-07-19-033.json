@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-19-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289108&idx=1&sn=64e22b21af7d871928d702fa1e13336f",
+  "title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289108&idx=1&sn=64e22b21af7d871928d702fa1e13336f",
+  "summary": "星环科技创始人孙元浩提出将数据库迁移到GPU上运行，类比为“移民火星”，旨在利用GPU的高并行计算能力大幅提升数据处理速度和效率。该项目聚焦于突破传统CPU架构瓶颈，通过软硬件协同优化实现数据库的GPU原生支持，适用于实时分析、AI训练等高性能计算场景。孙元浩认为，GPU数据库将重塑数据基础设施，成为下一代数据处理的核心技术。",
+  "tags": [
+    "GPU数据库",
+    "星环科技",
+    "孙元浩",
+    "高性能计算",
+    "数据库迁移"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据库技术",
+  "key_insight": "GPU数据库通过硬件加速突破传统CPU瓶颈，可能成为数据密集型应用的新标准。"
+}

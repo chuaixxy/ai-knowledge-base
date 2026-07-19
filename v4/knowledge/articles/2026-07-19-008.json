@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-19-008",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+  "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+  "summary": "该项目揭露了Google DeepMind赞助的Kaggle竞赛“衡量AGI进展”中，获奖作品存在严重质量问题。作者指出，获奖方案是一个无意义的数字生成器，并包含大量未经证实的声明。该方案本意是测试LLM在面临其他LLM不同观点时的反应，但最终提交的内容混乱、冗长，远超规定格式，且评审似乎未进行仔细审查。这引发了关于AI研究评审标准和竞赛公正性的质疑。",
+  "tags": [
+    "AI竞赛",
+    "评审问题",
+    "AGI",
+    "Kaggle",
+    "DeepMind",
+    "研究质量"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI研究与伦理",
+  "key_insight": "该事件揭示了当前AI竞赛中评审机制可能存在的漏洞，即形式主义和质量控制不足，导致低质量研究获得高额奖励。"
+}

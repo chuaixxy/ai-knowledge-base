@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-19-005",
+  "source_id": "https://stateofopensource.ai/",
+  "title": "The state of open source AI",
+  "source": "rss-hacker-news-best",
+  "url": "https://stateofopensource.ai/",
+  "summary": "本文分析了开源人工智能的现状，指出虽然开源AI模型（如Meta的Llama、Mistral等）在快速进步，但在透明度、许可限制和社区治理方面仍存在挑战。文章强调，真正的开源AI应允许自由使用、修改和分发，而许多声称开源的模型实际上带有使用限制，这可能阻碍创新和民主化。作者呼吁社区和监管机构明确开源定义，以促进AI的健康发展。",
+  "tags": [
+    "开源AI",
+    "人工智能",
+    "透明度",
+    "许可限制",
+    "社区治理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI行业分析",
+  "key_insight": "开源AI的透明度与许可限制是决定其能否真正促进创新的关键。"
+}

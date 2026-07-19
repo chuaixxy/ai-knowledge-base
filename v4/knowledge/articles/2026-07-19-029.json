@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-19-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277430&idx=1&sn=0f4acc64013874e88684d2a8bd75478d",
+  "title": "AI专栏 | Demo 跑通了，上线就翻车？Java Agent 生产的那些坑，我们帮你填了",
+  "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277430&idx=1&sn=0f4acc64013874e88684d2a8bd75478d",
+  "summary": "本文探讨了 Java Agent 在生产环境中从 Demo 到实际部署时常见的问题与挑战，包括兼容性、性能、稳定性、调试难度等。文章通过实际案例分析了 Java Agent 在生产中“翻车”的典型原因，如字节码增强冲突、类加载顺序异常、内存泄漏、监控数据丢失等，并提出了系统化的解决方法与最佳实践。此外，文章介绍了一个名为 Harness 的工具或框架，旨在帮助开发者更高效地将 Java Agent 从原型阶段平滑迁移到生产环境，降低风险与维护成本，提升可观测性与故障排查能力。",
+  "tags": [
+    "Java Agent",
+    "生产环境",
+    "字节码增强",
+    "性能优化",
+    "稳定性",
+    "Harness",
+    "最佳实践",
+    "可观测性"
+  ],
+  "relevance_score": 0.85,
+  "category": "Java 技术实践",
+  "key_insight": "Java Agent 从 Demo 到生产的关键在于解决字节码冲突、类加载与内存泄漏问题，Harness 提供了一条系统化的平滑迁移路径。"
+}

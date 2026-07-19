@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-19-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561535&idx=1&sn=49b536f842ef9b433f56cb0d8c2c5bac",
+  "title": "PagePilot — PC端AI测试Skill设计与实战",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561535&idx=1&sn=49b536f842ef9b433f56cb0d8c2c5bac",
+  "summary": "该项目名为PagePilot，专注于PC端AI测试技能（Skill）的设计与实战。其核心在于利用人工智能技术，针对PC软件或网页的图形用户界面（GUI）进行自动化测试。项目可能涉及如何设计智能的测试代理（Agent），使其能够理解页面元素、模拟用户操作（如点击、输入）、识别异常状态，并生成测试报告。通过实战案例，展示AI如何提升测试效率、覆盖率和准确性，降低人工维护成本。项目强调从理论设计到实际落地的完整流程，适用于软件质量保障领域。",
+  "tags": [
+    "AI测试",
+    "PC端自动化",
+    "测试技能设计",
+    "GUI测试",
+    "智能代理",
+    "软件质量保障"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI与软件测试",
+  "key_insight": "通过AI驱动的测试技能设计，实现PC端GUI测试的智能化与自动化，显著提升测试效率与可靠性。"
+}

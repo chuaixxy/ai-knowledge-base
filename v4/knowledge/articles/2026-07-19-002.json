@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-19-002",
+  "source_id": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "title": "What AI did to stackoverflow in a graph",
+  "source": "rss-hacker-news-best",
+  "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "summary": "该项目通过数据可视化展示了AI技术（如ChatGPT）对Stack Overflow问答社区的影响。数据显示，自AI工具普及后，Stack Overflow的问题提交量和新回答量显著下降，尤其是2023年初以来，用户更倾向于直接使用AI获取答案而非在社区提问。同时，低质量或重复性问题减少，但高质量回答比例变化不大。这一趋势反映了AI正在改变开发者获取信息的方式，可能对传统社区生态产生长期冲击，社区需适应或转型。",
+  "tags": [
+    "Stack Overflow",
+    "AI影响",
+    "数据可视化",
+    "社区分析",
+    "ChatGPT"
+  ],
+  "relevance_score": 0.95,
+  "category": "技术趋势分析",
+  "key_insight": "AI工具导致Stack Overflow问答量骤降，开发者行为从社区求助转向AI即时解答。"
+}

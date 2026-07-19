@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-19-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510380&idx=1&sn=f7d2327132fef5bdb38d1639cb652337",
+  "title": "真武 AI 芯片 T-Head SAIL® 软件栈正式开源开放",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510380&idx=1&sn=f7d2327132fef5bdb38d1639cb652337",
+  "summary": "平头哥宣布其真武AI芯片T-Head SAIL®软件栈正式开源开放，同时开发者社区网站已上线。此举旨在降低AI芯片开发门槛，推动RISC-V生态在AI领域的应用。开源软件栈提供完整工具链、驱动及算法库，支持多种AI框架，助力开发者快速部署边缘计算与端侧AI应用。真武芯片作为高性能AI处理器，结合开源软件栈，有望加速国产AI芯片在物联网、智能终端等场景的落地。开发者社区则提供技术文档、案例分享与社区互动，形成从芯片到应用的开源闭环。",
+  "tags": [
+    "AI芯片",
+    "开源",
+    "RISC-V",
+    "平头哥",
+    "软件栈",
+    "边缘计算"
+  ],
+  "relevance_score": 0.85,
+  "category": "芯片与硬件",
+  "key_insight": "通过开源软件栈降低AI芯片开发门槛，平头哥正以开放生态策略加速RISC-V在AI领域的商业化落地。"
+}

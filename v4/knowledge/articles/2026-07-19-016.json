@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-19-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510370&idx=1&sn=495a768ea1114242651ff29b211e2c98",
+  "title": "面向复杂业务场景的智能分析 Skills 架构设计与演进实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510370&idx=1&sn=495a768ea1114242651ff29b211e2c98",
+  "summary": "本文针对复杂业务场景下智能分析Skills架构的设计与演进，重点解决Prompt过长导致效果衰减的问题。提出通过领域知识密集型Skill的模块化、分层化设计，结合知识图谱与动态上下文管理，优化模型调用效率与响应质量。实践表明，该架构能有效降低Prompt复杂度，提升技能复用性与可维护性，为大型语言模型在专业领域的应用提供可落地的架构演进路径。",
+  "tags": [
+    "智能分析",
+    "Skills架构",
+    "Prompt工程",
+    "领域知识",
+    "架构演进",
+    "大模型应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI架构设计",
+  "key_insight": "通过领域知识模块化与动态上下文管理，可打破Prompt长度与效果的反比关系，实现复杂业务场景下智能Skill的高效演进。"
+}

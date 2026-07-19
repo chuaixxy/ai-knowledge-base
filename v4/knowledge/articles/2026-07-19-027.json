@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-19-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502407&idx=1&sn=fce6e0b3d5eb3c89c105ff5bcf5d75de",
+  "title": "SIGIR 2026｜OxygenSearch 之生成式检索偏好对齐 RAD-DPO 技术解析",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502407&idx=1&sn=fce6e0b3d5eb3c89c105ff5bcf5d75de",
+  "summary": "针对生成式检索在电商搜索中的偏好对齐难题，本文提出鲁棒自适应去噪偏好优化（RAD-DPO）方案。该方案通过session级多标签全局对比，解决多正例概率挤压问题；采用Token级梯度阻断，避免公共前缀误伤；引入动态奖励加权，降低伪负例噪声影响。实验表明，RAD-DPO显著提升了主站搜索生成式检索的效果与鲁棒性，为电商场景下的偏好对齐提供了有效技术路径。",
+  "tags": [
+    "生成式检索",
+    "偏好对齐",
+    "偏好优化",
+    "去噪",
+    "电商搜索",
+    "DPO"
+  ],
+  "relevance_score": 0.85,
+  "category": "信息检索与推荐系统",
+  "key_insight": "通过多粒度去噪与动态加权，RAD-DPO有效解决了生成式检索中多正例、公共前缀和伪负例的偏好对齐难题。"
+}

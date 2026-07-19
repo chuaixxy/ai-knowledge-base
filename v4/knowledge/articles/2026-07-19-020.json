@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-19-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510803&idx=1&sn=e19f77f4bcb83b96c28e818f163473b9",
+  "title": "平头哥真武AI芯片 T-Head SAIL® 软件栈正式开源开放！",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510803&idx=1&sn=e19f77f4bcb83b96c28e818f163473b9",
+  "summary": "平头哥（T-Head）正式开源其SAIL®软件栈，这是一套拥有完整自主知识产权的AI算力基础设施核心软件，面向全球开发者开放。该软件栈旨在全面兼容主流AI生态，降低AI芯片开发门槛，推动国产AI芯片生态建设。SAIL软件栈的开源将有助于开发者更高效地利用平头哥真武AI芯片进行AI应用开发，促进国产AI芯片在深度学习、计算机视觉、自然语言处理等领域的广泛应用，增强我国在AI芯片领域的自主可控能力。",
+  "tags": [
+    "AI芯片",
+    "开源",
+    "平头哥",
+    "SAIL",
+    "软件栈",
+    "AI生态",
+    "自主知识产权"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI芯片与软件",
+  "key_insight": "平头哥开源SAIL软件栈，通过开放自主知识产权的AI基础设施核心能力，旨在打破生态壁垒，加速国产AI芯片的广泛应用与生态建设。"
+}

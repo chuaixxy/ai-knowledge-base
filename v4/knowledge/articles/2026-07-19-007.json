@@ -1,0 +1,16 @@
+{
+  "id": "2026-07-19-007",
+  "source_id": "https://pangram.substack.com/p/how-does-pangram-work",
+  "title": "How does Pangram work?",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://pangram.substack.com/p/how-does-pangram-work",
+  "summary": "该项目通过分析Lobste.rs上的讨论，探讨了Pangram（一个可能为拼写或语言相关工具）的工作原理。用户评论中可能涉及算法、数据处理或应用逻辑，但具体细节需从原始链接中获取。摘要基于描述推断其技术属性。",
+  "tags": [
+    "拼写检查",
+    "语言工具",
+    "算法分析"
+  ],
+  "relevance_score": 0.6,
+  "category": "语言技术",
+  "key_insight": "Pangram的工作原理可能围绕字符串处理或拼写验证，但缺乏具体实现细节。"
+}

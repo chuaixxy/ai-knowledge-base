@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-19-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802660&idx=1&sn=2b36909c6f4a6d563addd1f7f8c9f266",
+  "title": "驾驭AI Coding：一份面向团队的Harness Engineering落地规范",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802660&idx=1&sn=2b36909c6f4a6d563addd1f7f8c9f266",
+  "summary": "该项目提出一种名为“Harness Engineering”的团队实践规范，旨在将“好代码”的标准（如架构约束、编码规范、安全规则等）系统化地定义并注入到AI辅助开发流程中。核心思想是让AI在明确的约束框架下自主生成、修改代码，从而在提升开发效率的同时，保证代码质量、一致性和可维护性。这类似于为AI设置“护栏”或“缰绳”，使其在人类预设的边界内发挥创造力，解决AI编码结果不可控、质量参差不齐的痛点。",
+  "tags": [
+    "AI编码",
+    "团队规范",
+    "代码质量",
+    "工程实践",
+    "AI治理",
+    "软件开发流程"
+  ],
+  "relevance_score": 0.85,
+  "category": "软件开发方法论",
+  "key_insight": "通过将编码标准转化为AI可执行的硬约束，实现从‘人监督AI写代码’到‘规则监督AI写代码’的范式升级，平衡效率与可控性。"
+}
