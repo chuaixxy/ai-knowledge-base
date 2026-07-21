@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520980&idx=1&sn=3473de7e69a0d88739c1684a4abfff7e",
+  "title": "Storage Agent Family: Agent 时代，重构云存储的“人机交互”",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520980&idx=1&sn=3473de7e69a0d88739c1684a4abfff7e",
+  "summary": "该项目提出在云存储中引入Agent（智能代理）概念，旨在重构云存储的人机交互模式。通过Agent Family，用户能以更自然、智能的方式与存储系统交互，例如通过对话指令管理文件、自动化数据备份与检索、智能分类与权限控制。该技术核心在于利用AI代理理解用户意图，替代传统图形界面操作，提升存储效率与用户体验，可能涉及自然语言处理、自动化工作流与分布式存储的深度整合。",
+  "tags": [
+    "云存储",
+    "AI代理",
+    "人机交互",
+    "自动化",
+    "智能存储"
+  ],
+  "relevance_score": 0.85,
+  "category": "云存储与AI交互",
+  "key_insight": "用AI代理替代传统GUI，让用户用自然语言指挥云存储，实现从‘手动操作’到‘意图驱动’的交互革命。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-21-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510869&idx=1&sn=4502e4939460f1045e7249289b1dfe6f",
+  "title": "通识为体、专业为用：Intern-S2-Preview-397B开启科学智能体基座时代 | WAIC 2026",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510869&idx=1&sn=4502e4939460f1045e7249289b1dfe6f",
+  "summary": "上海AI实验室在WAIC 2026发布Intern-S2-Preview-397B，这是一款397B参数的科学基座模型。其核心创新在于Memory Decoder和Mobius架构，通过解耦知识存储与逻辑推理，在分子设计、材料生成等科学任务上达到万亿参数模型水平。同时推出的「书生·端砚」科学发现平台，旨在降低科学AI应用门槛，开启科学智能体基座时代。",
+  "tags": [
+    "AI",
+    "大模型",
+    "科学智能",
+    "分子设计",
+    "材料生成",
+    "上海AI实验室"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型发布",
+  "key_insight": "通过架构创新（解耦知识存储与推理），用更小参数实现万亿模型性能，是科学AI领域的重要突破。"
+}

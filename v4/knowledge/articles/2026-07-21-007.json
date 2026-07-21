@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-007",
+  "source_id": "https://arxiv.org/abs/2607.15281",
+  "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.15281",
+  "summary": "该论文提出了一种显式且可审计的因果推理框架，用于基于干预的问答任务。与依赖隐式端到端预测的现有大语言模型方法不同，该方法通过四个模块化阶段构建显式因果图进行结构化推理。其关键创新在于目标感知的因果图构建策略，将目标变量作为图扩展的核心约束，有效抑制无关变量和虚假关联，从而提升推理的可解释性、可验证性和鲁棒性。",
+  "tags": [
+    "因果推理",
+    "大语言模型",
+    "可解释性",
+    "因果图",
+    "干预问答"
+  ],
+  "relevance_score": 0.85,
+  "category": "自然语言处理/因果推理",
+  "key_insight": "通过目标感知的显式因果图构建，将隐式因果推理转化为可审计的结构化推理过程。"
+}

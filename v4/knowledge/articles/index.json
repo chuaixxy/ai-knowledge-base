@@ -5015,5 +5015,554 @@
     ],
     "status": "published",
     "collected_at": "2026-07-19T02:57:21.718Z"
+  },
+  {
+    "id": "2026-07-21-001",
+    "title": "China’s open-weights AI strategy is winning",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "category": "AI产业分析",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源AI",
+      "中国AI战略",
+      "DeepSeek",
+      "美国AI",
+      "闭源模式",
+      "全球竞争",
+      "开放权重",
+      "Hacker News"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-002",
+    "title": "AI advice made people less accurate but more confident – sudy",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "category": "人工智能与社会影响",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "批判性思维",
+      "决策偏差",
+      "过度依赖",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-003",
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "Moonshot AI",
+      "Kimi K3",
+      "订阅暂停",
+      "AI需求",
+      "基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-004",
+    "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://soteria-tools.com/blog/meta-garbage-collection",
+    "category": "编程语言与运行时",
+    "relevance_score": 0.7,
+    "tags": [
+      "垃圾回收",
+      "OCaml",
+      "Rust",
+      "跨语言互操作",
+      "内存管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-005",
+    "title": "Triton language for Alibaba SAIL",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://github.com/t-head/triton-for-sail",
+    "category": "AI基础设施与工具",
+    "relevance_score": 0.7,
+    "tags": [
+      "Triton",
+      "阿里巴巴",
+      "GPU编程",
+      "AI加速",
+      "编译器"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-006",
+    "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.15280",
+    "category": "人工智能与医疗",
+    "relevance_score": 0.85,
+    "tags": [
+      "顺序诊断",
+      "多智能体框架",
+      "知识图谱",
+      "成本感知",
+      "大型语言模型",
+      "医学诊断"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-007",
+    "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.15281",
+    "category": "自然语言处理/因果推理",
+    "relevance_score": 0.85,
+    "tags": [
+      "因果推理",
+      "大语言模型",
+      "可解释性",
+      "因果图",
+      "干预问答"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-008",
+    "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.15314",
+    "category": "人工智能/医疗AI",
+    "relevance_score": 0.85,
+    "tags": [
+      "医疗AI",
+      "大型语言模型",
+      "自我进化",
+      "临床推理",
+      "电子健康记录",
+      "交互式诊断",
+      "数据混合优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-009",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "对齐问题",
+      "长期模型",
+      "迭代部署",
+      "风险管控"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-010",
+    "title": "Introducing Cosmos 3 Edge",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "category": "人工智能与边缘计算",
+    "relevance_score": 0.85,
+    "tags": [
+      "边缘计算",
+      "AI推理",
+      "轻量级平台",
+      "物联网",
+      "能效优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-011",
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "category": "AI法律与版权",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI音乐生成",
+      "版权侵权",
+      "索尼音乐",
+      "Udio",
+      "法律诉讼",
+      "训练数据合规"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-012",
+    "title": "SpaceX in your index fund, explained",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+    "category": "投资分析与评论",
+    "relevance_score": 0.75,
+    "tags": [
+      "指数基金",
+      "纳斯达克-100",
+      "SpaceX",
+      "投资风险",
+      "被动投资",
+      "市场效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-013",
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "category": "AI应用与产品",
+    "relevance_score": 0.8,
+    "tags": [
+      "Adobe",
+      "生成式AI",
+      "iPhone摄影",
+      "相机应用",
+      "AI工具",
+      "Project Indigo"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-014",
+    "title": "Storage Agent Family: Agent 时代，重构云存储的“人机交互”",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520980&idx=1&sn=3473de7e69a0d88739c1684a4abfff7e",
+    "category": "云存储与AI交互",
+    "relevance_score": 0.85,
+    "tags": [
+      "云存储",
+      "AI代理",
+      "人机交互",
+      "自动化",
+      "智能存储"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-015",
+    "title": "从“会说”走向“会创作”｜Seed Audio 1.0 音频创作模型发布",
+    "source": "rss-seed",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494117&idx=1&sn=479ffb4e9fc90fa66d5bf531a84376a7",
+    "category": "AI音频生成",
+    "relevance_score": 0.8,
+    "tags": [
+      "音频生成",
+      "多模态",
+      "统一建模",
+      "AI创作",
+      "音频合成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-016",
+    "title": "Copilot 需求交付 Skill 如何实现数据需求24h交付",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544862&idx=1&sn=b5c1cf77e03d40451874a0b4f98580c5",
+    "category": "数据工程与AI自动化",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "数据交付",
+      "自动化工作流",
+      "需求管理",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-017",
+    "title": "从 Prompt 到 Harness：企业级 Agent 工程的完整演进之路",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561689&idx=1&sn=bb7d379ffd983081f81048e4813d524b",
+    "category": "AI工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "工程化",
+      "企业级架构",
+      "多智能体系统",
+      "Prompt工程",
+      "LLM",
+      "Harness框架",
+      "可观测性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-018",
+    "title": "Qwen3.8抢先体验！正式版即将发布并开源！",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561683&idx=1&sn=91c6c87422eb6e7aebdeeb9b3b623f9f",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "Qwen",
+      "阿里云",
+      "AI技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-019",
+    "title": "从“能说话”到“会表达”：Qwen-Audio-3.0-TTS 发布",
+    "source": "rss-4ebee6222ae08705b8aabc9116f0defbcb6b17c6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501821&idx=1&sn=48ad8d176a6373940bf5c60b2cbb6b7a",
+    "category": "人工智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音合成",
+      "TTS",
+      "情感表达",
+      "阿里云",
+      "Qwen-Audio",
+      "深度学习",
+      "人机交互"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-020",
+    "title": "蚂蚁携手20余家伙伴共建ASL生态，推动智能体可信互联",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537640&idx=1&sn=62cf565cc38326371c3cc051c2c67417",
+    "category": "AI生态与标准",
+    "relevance_score": 0.85,
+    "tags": [
+      "蚂蚁集团",
+      "ASL生态",
+      "智能体",
+      "可信互联",
+      "AI协作",
+      "服务层标准",
+      "多智能体系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-021",
+    "title": "让智能体拥有原生语言，蚂蚁密算WAIC发布HOP 3.0",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537640&idx=2&sn=702b23c156aab66e029253ab299bc1aa",
+    "category": "AI基础设施与协议",
+    "relevance_score": 0.85,
+    "tags": [
+      "智能体",
+      "原生语言",
+      "蚂蚁密算",
+      "WAIC",
+      "HOP 3.0",
+      "多智能体协作",
+      "去中心化",
+      "隐私计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-022",
+    "title": "通识为体、专业为用：Intern-S2-Preview-397B开启科学智能体基座时代 | WAIC 2026",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510869&idx=1&sn=4502e4939460f1045e7249289b1dfe6f",
+    "category": "AI模型发布",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "大模型",
+      "科学智能",
+      "分子设计",
+      "材料生成",
+      "上海AI实验室"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-023",
+    "title": "500万奖金池！GOAI 世界人工智能开源大赛全球报名正式开启",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510819&idx=1&sn=977d3ff6076bcd75394de5e556c5cc94",
+    "category": "技术竞赛与开源社区",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "开源大赛",
+      "智能体",
+      "奖金池",
+      "技术竞赛"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-024",
+    "title": "AI代码生成率94%：我们用一个 Skill 跑通需求开发全流程",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802727&idx=1&sn=631188a7c6711314ff2febbe5cb721e5",
+    "category": "AI辅助软件开发",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代码生成",
+      "需求开发自动化",
+      "Skill工具",
+      "全流程AI化",
+      "软件开发效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-025",
+    "title": "司晓：打造智能经济新形态，我国的综合优势与重点部署",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998069&idx=1&sn=db55a61c628ee463290ade6ce98ca74d",
+    "category": "经济与科技政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "智能经济",
+      "人工智能",
+      "产业融合",
+      "政策支持",
+      "技术创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-026",
+    "title": "打破“人月神话”，Agent 重塑风控场景产运研职能",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501047&idx=1&sn=5e6e1f72417182658e0df8fbb46fa512",
+    "category": "人工智能与风险管理",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "Agent",
+      "风控",
+      "组织转型",
+      "人月神话"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-027",
+    "title": "致 Kimi 用户：关于算力紧缺与会员暂停开放的说明",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488698&idx=1&sn=8d175d462881fecc850a579553fedcb2",
+    "category": "AI服务运营",
+    "relevance_score": 0.7,
+    "tags": [
+      "Kimi",
+      "算力紧缺",
+      "会员暂停",
+      "大模型服务",
+      "资源瓶颈"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-028",
+    "title": "所有Harness终将长成“龙虾”，但最后活下来的只有几只",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=1&sn=80c7d1829f5cd8aa93fdb9a16d15b6ef",
+    "category": "AI技术趋势",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI助手",
+      "Agent终局",
+      "Harness",
+      "Claw",
+      "Mastra",
+      "技术趋势",
+      "行业洗牌"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-029",
+    "title": "行业迎来大洗牌！4万 Agent 挤进一个机柜，AI Infra 要如何构建？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=2&sn=e7c3da089fdc4b7bce2ac72b038097f1",
+    "category": "AI基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "基础设施",
+      "算力调度",
+      "规模化部署",
+      "技术变革"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-030",
+    "title": "WAIC画风最独特展台：不秀后空翻，只想做机器人界的「安卓」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045435&idx=1&sn=87e4632cd03583c94e44d603857b918f",
+    "category": "机器人技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "机器人操作系统",
+      "平台化",
+      "WAIC",
+      "开源生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-21-031",
+    "title": "WAIC惊现全球最小微型无框力矩电机！",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045435&idx=2&sn=e503ba0c7da94a01291b5fe075686937",
+    "category": "硬件/驱动技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "无框力矩电机",
+      "微型电机",
+      "高转矩密度",
+      "轻量化",
+      "机器人驱动"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-21T02:54:11.670Z"
   }
 ]

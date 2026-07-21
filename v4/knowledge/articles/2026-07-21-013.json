@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-21-013",
+  "source_id": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+  "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+  "summary": "Adobe的实验性相机应用Project Indigo最初旨在为iPhone摄影提供更自然的单反相机效果，现在却转向集成生成式AI工具。这一更新不依赖Adobe自家的Firefly模型，而是采用其他AI技术。该应用融合了AI功能，可能改变手机摄影的创作方式，但仍保持“自然外观”的初衷。",
+  "tags": [
+    "Adobe",
+    "生成式AI",
+    "iPhone摄影",
+    "相机应用",
+    "AI工具",
+    "Project Indigo"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI应用与产品",
+  "key_insight": "Adobe将生成式AI融入相机应用，但未使用自家模型，显示其在AI策略上的开放性和对第三方技术的依赖。"
+}

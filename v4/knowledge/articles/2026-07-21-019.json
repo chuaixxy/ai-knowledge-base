@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-21-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501821&idx=1&sn=48ad8d176a6373940bf5c60b2cbb6b7a",
+  "title": "从“能说话”到“会表达”：Qwen-Audio-3.0-TTS 发布",
+  "source": "rss-4ebee6222ae08705b8aabc9116f0defbcb6b17c6",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA==&mid=2247501821&idx=1&sn=48ad8d176a6373940bf5c60b2cbb6b7a",
+  "summary": "Qwen-Audio-3.0-TTS是阿里云推出的新一代语音合成技术，标志着语音合成从简单的“能说话”阶段进化到“会表达”的高级阶段。该技术不仅关注语音的清晰度和自然度，更强调情感、语调、节奏和语气的精准表达，使合成语音具备更丰富的情感色彩和表现力。通过深度学习模型和大量语料训练，Qwen-Audio-3.0-TTS能够根据文本内容自动调整语音的抑扬顿挫，模拟真人说话时的情感变化，显著提升人机交互的沉浸感和用户体验。该技术可广泛应用于智能客服、有声读物、语音助手、虚拟主播等场景，推动语音交互从功能性向情感化、个性化方向演进。",
+  "tags": [
+    "语音合成",
+    "TTS",
+    "情感表达",
+    "阿里云",
+    "Qwen-Audio",
+    "深度学习",
+    "人机交互"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能",
+  "key_insight": "Qwen-Audio-3.0-TTS通过情感化语音合成，让机器从机械朗读转变为有温度的表达，是语音交互从功能主义向人文主义跨越的关键一步。"
+}

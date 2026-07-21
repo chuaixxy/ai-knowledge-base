@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-010",
+  "source_id": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "title": "Introducing Cosmos 3 Edge",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "summary": "Cosmos 3 Edge 是一个面向边缘计算场景的轻量级AI平台，旨在通过优化模型推理、降低延迟和提升能效，使智能应用在资源受限的边缘设备上高效运行。它支持多种硬件加速器，并提供统一的开发接口，简化了从云端到边缘的部署流程。该平台特别适用于物联网、智能制造和自动驾驶等领域，能够实时处理数据并做出决策，同时保持较低的功耗和成本。通过模块化设计和自适应资源管理，Cosmos 3 Edge 在保证性能的同时，显著提升了边缘设备的智能化水平。",
+  "tags": [
+    "边缘计算",
+    "AI推理",
+    "轻量级平台",
+    "物联网",
+    "能效优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能与边缘计算",
+  "key_insight": "Cosmos 3 Edge 通过软硬件协同优化，将AI能力高效下沉至边缘设备，解决了实时性与资源约束的核心矛盾。"
+}

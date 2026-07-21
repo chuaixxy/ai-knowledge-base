@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-21-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561689&idx=1&sn=bb7d379ffd983081f81048e4813d524b",
+  "title": "从 Prompt 到 Harness：企业级 Agent 工程的完整演进之路",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561689&idx=1&sn=bb7d379ffd983081f81048e4813d524b",
+  "summary": "该项目系统阐述了企业级AI Agent从简单的Prompt工程到成熟Harness（即工程化框架与工具链）的演进路径。它揭示了早期仅依赖Prompt调优的局限性，并提出了一个包含多智能体协同、记忆管理、工具集成、安全护栏及可观测性等核心模块的完整工程化架构。通过实际案例，展示了如何将零散的AI能力构建为稳定、可扩展且符合企业治理要求的智能系统，最终实现从实验性Demo到生产级解决方案的跨越。",
+  "tags": [
+    "AI Agent",
+    "工程化",
+    "企业级架构",
+    "多智能体系统",
+    "Prompt工程",
+    "LLM",
+    "Harness框架",
+    "可观测性"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程实践",
+  "key_insight": "企业级AI Agent的成功关键在于从‘提示优化’转向‘系统工程’，通过Harness框架将智能能力与安全、治理、可观测性等企业需求深度耦合。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494117&idx=1&sn=479ffb4e9fc90fa66d5bf531a84376a7",
+  "title": "从“会说”走向“会创作”｜Seed Audio 1.0 音频创作模型发布",
+  "source": "rss-seed",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494117&idx=1&sn=479ffb4e9fc90fa66d5bf531a84376a7",
+  "summary": "该项目发布了Seed Audio 1.0音频创作模型，核心创新在于统一框架下联合建模人声、音效和环境声等音频要素，实现从简单语音生成向复杂音频创作的跨越。模型能够理解和生成包含多要素的音频内容，提升音频创作的自动化和智能化水平，适用于影视、游戏、虚拟现实等领域的音频制作。",
+  "tags": [
+    "音频生成",
+    "多模态",
+    "统一建模",
+    "AI创作",
+    "音频合成"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI音频生成",
+  "key_insight": "通过统一框架联合建模多种音频要素，实现从‘会说’到‘会创作’的质变，推动AI音频生成进入多要素协同创作阶段。"
+}

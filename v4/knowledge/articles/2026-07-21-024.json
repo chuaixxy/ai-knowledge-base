@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802727&idx=1&sn=631188a7c6711314ff2febbe5cb721e5",
+  "title": "AI代码生成率94%：我们用一个 Skill 跑通需求开发全流程",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802727&idx=1&sn=631188a7c6711314ff2febbe5cb721e5",
+  "summary": "该项目提出利用一个名为'Skill'的AI工具，将需求开发全流程自动化，声称AI代码生成率达到94%。通过整合需求分析、设计、编码、测试等环节，该Skill旨在降低人工干预，提升开发效率。核心在于将传统流水线式开发转变为AI驱动，实现从需求到代码的端到端智能生成，显著缩短交付周期并减少人为错误。",
+  "tags": [
+    "AI代码生成",
+    "需求开发自动化",
+    "Skill工具",
+    "全流程AI化",
+    "软件开发效率"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI辅助软件开发",
+  "key_insight": "用一个统一的AI Skill打通需求开发全流程，实现94%代码自动生成，核心在于将开发流水线高度AI化以提升效率。"
+}

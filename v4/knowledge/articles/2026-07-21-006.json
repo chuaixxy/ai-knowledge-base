@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-21-006",
+  "source_id": "https://arxiv.org/abs/2607.15280",
+  "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.15280",
+  "summary": "GraphDx是一个面向顺序诊断的、成本感知的知识增强多智能体框架。现有大型语言模型（LLM）虽具备大量医学知识，但在成本约束下难以系统推理，常导致过度检查。该框架提出了两项核心创新：一是自动化流水线，利用LLM构建医学诊断知识图谱（MDKG），包含量化典型性、动作中心拓扑和兼顾诊断相关性与成本敏感性的双目标属性；二是引入三个协作智能体（感知、推理和决策），其中感知和决策智能体处理语言理解与生成，推理智能体执行确定性证据评分和成本感知规划，从而在迭代信息收集中平衡诊断准确性与资源成本。",
+  "tags": [
+    "顺序诊断",
+    "多智能体框架",
+    "知识图谱",
+    "成本感知",
+    "大型语言模型",
+    "医学诊断"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能与医疗",
+  "key_insight": "通过构建具有成本感知属性的医学诊断知识图谱和协作智能体，GraphDx解决了LLM在顺序诊断中因缺乏系统性成本推理而过度测试的问题。"
+}

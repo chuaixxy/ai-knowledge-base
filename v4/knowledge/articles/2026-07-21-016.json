@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544862&idx=1&sn=b5c1cf77e03d40451874a0b4f98580c5",
+  "title": "Copilot 需求交付 Skill 如何实现数据需求24h交付",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544862&idx=1&sn=b5c1cf77e03d40451874a0b4f98580c5",
+  "summary": "该项目通过AI Agent技术重构数据需求交付流程，将传统串行人工排期模式转变为Agent自动执行、人工按优先级介入的并行交付模式。核心目标是实现数据需求24小时内交付，提升效率与响应速度。技术栈可能包括自然语言处理、自动化工作流引擎、优先级调度算法等，适用于数据仓库、BI分析等场景。",
+  "tags": [
+    "AI Agent",
+    "数据交付",
+    "自动化工作流",
+    "需求管理",
+    "效率提升"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据工程与AI自动化",
+  "key_insight": "通过Agent并行执行替代人工串行，将数据需求交付周期从数天缩短至24小时"
+}

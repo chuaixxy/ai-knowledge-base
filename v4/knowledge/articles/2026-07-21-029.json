@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=2&sn=e7c3da089fdc4b7bce2ac72b038097f1",
+  "title": "行业迎来大洗牌！4万 Agent 挤进一个机柜，AI Infra 要如何构建？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289128&idx=2&sn=e7c3da089fdc4b7bce2ac72b038097f1",
+  "summary": "文章探讨了随着AI Agent（智能代理）数量激增，尤其是4万个Agent可被集成到一个机柜中，传统AI基础设施面临重大变革。核心问题在于如何为大规模Agent集群构建高效、可扩展的Infra（基础设施）。文章分析了算力调度、网络通信、存储及资源管理等方面的挑战，并提出了针对Agent工作负载的新架构思路，旨在解决规模化部署后的成本、延迟与可靠性问题，预示着AI基础设施领域即将迎来技术洗牌。",
+  "tags": [
+    "AI Agent",
+    "基础设施",
+    "算力调度",
+    "规模化部署",
+    "技术变革"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施",
+  "key_insight": "大规模Agent集群正倒逼AI基础设施从以模型为中心转向以Agent工作流为中心，机柜级集成是硬件密度与软件编排协同的必然趋势。"
+}

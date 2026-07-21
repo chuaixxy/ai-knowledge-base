@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-21-004",
+  "source_id": "https://soteria-tools.com/blog/meta-garbage-collection",
+  "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+  "summary": "该项目探讨了一种创新方法，即利用OCaml语言的垃圾回收（GC）机制来管理Rust代码中的内存。由于Rust本身没有内置的GC，而是依赖所有权和生命周期系统，这种“元垃圾回收”技术通过跨语言桥接，在OCaml运行时中运行Rust代码，并借助OCaml的GC自动回收Rust对象。这旨在简化Rust与OCaml混合编程中的内存管理，减少手动管理风险，但可能引入性能开销和复杂性。",
+  "tags": [
+    "垃圾回收",
+    "OCaml",
+    "Rust",
+    "跨语言互操作",
+    "内存管理"
+  ],
+  "relevance_score": 0.7,
+  "category": "编程语言与运行时",
+  "key_insight": "通过借用OCaml的GC，Rust代码可以在不放弃内存安全的前提下，获得自动垃圾回收的便利性，但代价是引入运行时耦合和性能权衡。"
+}

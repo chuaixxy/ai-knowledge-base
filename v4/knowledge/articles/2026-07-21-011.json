@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-21-011",
+  "source_id": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+  "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+  "summary": "索尼音乐娱乐对AI音乐生成公司Udio提起新诉讼，指控其未经授权使用超过3万首索尼旗下歌曲（从猫王的《Hound Dog》到碧昂丝的《Say My Name》及哈里·斯泰尔斯的《As It Was》）训练AI模型，构成大规模版权侵权。此案于纽约法院提交，凸显AI音乐生成领域版权合规的核心矛盾——AI训练数据是否需取得版权方许可。",
+  "tags": [
+    "AI音乐生成",
+    "版权侵权",
+    "索尼音乐",
+    "Udio",
+    "法律诉讼",
+    "训练数据合规"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI法律与版权",
+  "key_insight": "该案是AI音乐生成规模化商业应用面临的首个重大版权挑战，其判决结果将定义AI训练使用受版权保护音乐作品的合法边界。"
+}
