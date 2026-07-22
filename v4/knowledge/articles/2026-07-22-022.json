@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-22-022",
+  "source_id": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
+  "title": "Analyzing the evidence that helps businesses win “product not received” disputes",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
+  "summary": "该项目通过分析16周内100万起争议的证据包，研究影响商家在“未收到商品”争议中胜诉率的因素。数据揭示了关键证据类型及其对胜诉率的影响，为商家提供了减少争议损失的具体策略，例如优化物流追踪和客户沟通证据。",
+  "tags": [
+    "争议分析",
+    "电商风控",
+    "证据管理",
+    "数据驱动"
+  ],
+  "relevance_score": 0.85,
+  "category": "电商与争议解决",
+  "key_insight": "物流追踪证据和及时沟通是提高商家胜诉率的核心因素。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-22-012",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521013&idx=1&sn=aab9641bb58a22244ce76d02dfda5156",
+  "title": "从生成到交付，音视频 Agent 要有生产级开发套件",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521013&idx=1&sn=aab9641bb58a22244ce76d02dfda5156",
+  "summary": "该技术项目聚焦于构建面向音视频Agent的生产级开发套件，旨在打通从内容生成到最终交付的全流程。它强调提供标准化工具链、API接口和运行时环境，降低开发者构建音视频AI应用的门槛，确保高可用性、实时性和可扩展性。核心价值在于将实验室阶段的音视频AI能力（如语音合成、视频生成）转化为稳定、可商用的生产系统，覆盖采集、处理、渲染、分发等环节，支持多模态交互和端到端优化。",
+  "tags": [
+    "音视频Agent",
+    "生产级开发套件",
+    "多模态AI",
+    "实时处理",
+    "工具链"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具与平台",
+  "key_insight": "将音视频AI从Demo推向工业级应用，核心在于提供标准化、高可用的开发套件，实现生成与交付的无缝衔接。"
+}

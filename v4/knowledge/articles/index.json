@@ -5564,5 +5564,453 @@
     ],
     "status": "published",
     "collected_at": "2026-07-21T02:54:11.670Z"
+  },
+  {
+    "id": "2026-07-22-001",
+    "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.16195",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.85,
+    "tags": [
+      "RLHF",
+      "标注偏差",
+      "AI安全",
+      "偏好数据",
+      "审计框架"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-002",
+    "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.16196",
+    "category": "人机交互与情感计算",
+    "relevance_score": 0.85,
+    "tags": [
+      "轻量级1D CNN",
+      "情感触摸识别",
+      "软体交互伴侣",
+      "社交辅助技术",
+      "开源数据集",
+      "MATLAB框架"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-003",
+    "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.16197",
+    "category": "人工智能行为分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "风险态度",
+      "决策一致性",
+      "跨领域",
+      "人工智能安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-004",
+    "title": "Introducing the ChatGPT for small business program",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "category": "AI应用与商业化",
+    "relevance_score": 0.9,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "小企业",
+      "AI技能",
+      "工作自动化",
+      "业务增长",
+      "企业计划"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-005",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "模型评估",
+      "供应链攻击",
+      "OpenAI",
+      "Hugging Face",
+      "网络安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-006",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "category": "企业治理与战略",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "董事会",
+      "治理",
+      "金融科技",
+      "商业化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-007",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "category": "技术综述",
+    "relevance_score": 0.9,
+    "tags": [
+      "物理AI",
+      "仿真",
+      "机器人",
+      "自动驾驶",
+      "Sim-to-Real",
+      "物理引擎",
+      "数据生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-008",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/grabette",
+    "category": "机器人数据系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "机器人",
+      "数据采集",
+      "开源系统",
+      "操作记录"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.414Z"
+  },
+  {
+    "id": "2026-07-22-009",
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "category": "科技与艺术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI电影",
+      "尼尔·布洛姆坎普",
+      "短片",
+      "AI艺术",
+      "技术争议"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-010",
+    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "category": "AI安全与伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "OpenAI",
+      "Hugging Face",
+      "沙盒逃逸",
+      "意外攻击"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-011",
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "category": "AI工具应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI检测",
+      "内容审核",
+      "Substack",
+      "透明度",
+      "AI写作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-012",
+    "title": "从生成到交付，音视频 Agent 要有生产级开发套件",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521013&idx=1&sn=aab9641bb58a22244ce76d02dfda5156",
+    "category": "AI开发工具与平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "音视频Agent",
+      "生产级开发套件",
+      "多模态AI",
+      "实时处理",
+      "工具链"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-013",
+    "title": "30 分钟搞定个人情报站：Viking AI 搜索让前沿资讯实时推到面前",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521013&idx=2&sn=5b131b80fc41bb583e9fc227484fbfe6",
+    "category": "技术应用与效率工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI搜索",
+      "信息聚合",
+      "个人情报站",
+      "实时推送",
+      "效率工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-014",
+    "title": "NL2SQL 在超大规模数仓场景的架构突破与工程实践",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510392&idx=1&sn=cd9903f9a3a898baa1070dfd011b7556",
+    "category": "AI工程与架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "NL2SQL",
+      "数仓",
+      "Agent Skill",
+      "大语言模型",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-015",
+    "title": "端到端交付2.0：像工业流水线一样的生产和交付需求",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561690&idx=1&sn=7ad0c558471ab5669a63f949a552f412",
+    "category": "软件工程与交付流程优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "端到端交付",
+      "工业流水线",
+      "自动化",
+      "CI/CD",
+      "模块化",
+      "智能调度",
+      "需求管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-016",
+    "title": "从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802812&idx=1&sn=732df4944b3cb1543cc4cfe666e6f47a",
+    "category": "工程实践指南",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI辅助编程",
+      "工程实践",
+      "研发团队",
+      "代码质量"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-017",
+    "title": "Hyra发布：一个简单有效的科学发现智能体",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498106&idx=1&sn=11af44966adc5645567380e8cd7a062c",
+    "category": "AI应用/科学研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "科学发现",
+      "智能体",
+      "自动化科研",
+      "AI辅助",
+      "数据分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-018",
+    "title": "放心与放大：智能向善的双重纬度",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998080&idx=1&sn=96e2e38a420f801254d4b766aed4de30",
+    "category": "AI伦理与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能伦理",
+      "人机关系",
+      "科技向善",
+      "AI治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-019",
+    "title": "删掉80%的Skill，Agent反而更听话了",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696426&idx=1&sn=e0376dfaa3494b7c06f3e6d9fb8840e7",
+    "category": "AI系统优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agent系统",
+      "技能优化",
+      "指令遵循",
+      "决策简化",
+      "AI效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-020",
+    "title": "京东JoyAI模型矩阵亮相WAIC，加速建设全球最大物理世界运营中心",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502412&idx=1&sn=9ebee942487a0cef711d21cb3eb8914b",
+    "category": "AI技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI模型矩阵",
+      "物理世界运营",
+      "开源数据集",
+      "智能家居",
+      "WAIC 2026"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-021",
+    "title": "Personalizing Airbnb search by learning from the guest journey",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4",
+    "category": "个性化推荐与搜索",
+    "relevance_score": 0.9,
+    "tags": [
+      "个性化搜索",
+      "用户旅程建模",
+      "深度学习",
+      "推荐系统",
+      "序列行为分析",
+      "Airbnb"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-022",
+    "title": "Analyzing the evidence that helps businesses win “product not received” disputes",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes",
+    "category": "电商与争议解决",
+    "relevance_score": 0.85,
+    "tags": [
+      "争议分析",
+      "电商风控",
+      "证据管理",
+      "数据驱动"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-023",
+    "title": "营收破百亿后，平头哥把目光投向芯片之外",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=1&sn=67f32cc3a51a03669072425c4101bcd0",
+    "category": "行业趋势",
+    "relevance_score": 0.85,
+    "tags": [
+      "芯片",
+      "软件生态",
+      "开发者生态",
+      "战略转型",
+      "平头哥"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-024",
+    "title": "OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=2&sn=e2fd84dc9c169ef2fbe8098d88ef0377",
+    "category": "可穿戴AI系统",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源AI眼镜",
+      "端侧AI",
+      "全双工交互",
+      "持续感知",
+      "可穿戴设备",
+      "语音打断"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-025",
+    "title": "经得起观众「刁难」，扛得住宁德「检验」：WAIC后重新认识苏度",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045760&idx=1&sn=35283d00e29d19f1352d941eed20e263",
+    "category": "机器人技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "WAIC",
+      "宁德时代",
+      "工业机器人",
+      "AI落地"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-22-026",
+    "title": "为什么让 AI 理解世界的前提是读懂因果？",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045760&idx=2&sn=e221a58a04367573bee37784e530c8c1",
+    "category": "AI前沿理论",
+    "relevance_score": 0.85,
+    "tags": [
+      "因果推理",
+      "AI系统",
+      "通用人工智能",
+      "深度学习",
+      "反事实推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-22T02:52:47.415Z"
   }
 ]

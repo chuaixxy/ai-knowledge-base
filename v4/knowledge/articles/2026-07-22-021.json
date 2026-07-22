@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-22-021",
+  "source_id": "https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4",
+  "title": "Personalizing Airbnb search by learning from the guest journey",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624?source=rss----53c7c27702d5---4",
+  "summary": "该项目聚焦于Airbnb搜索个性化，通过学习用户的完整旅程（包括浏览、点击、收藏、预订等行为）来优化搜索结果排序。传统方法仅依赖最终预订信号，而该方法利用多阶段行为数据建模用户实时意图与偏好，提升搜索相关性与转化率。核心创新在于将用户旅程中的隐式反馈（如停留时间、交互序列）纳入深度学习模型，实现动态个性化重排序。实验表明，该方法在点击率与预订率上显著优于基线模型。",
+  "tags": [
+    "个性化搜索",
+    "用户旅程建模",
+    "深度学习",
+    "推荐系统",
+    "序列行为分析",
+    "Airbnb"
+  ],
+  "relevance_score": 0.9,
+  "category": "个性化推荐与搜索",
+  "key_insight": "通过整合用户旅程中的多阶段行为信号，而非仅依赖最终预订，大幅提升搜索排序的个性化精准度。"
+}

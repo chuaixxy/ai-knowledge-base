@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-22-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510392&idx=1&sn=cd9903f9a3a898baa1070dfd011b7556",
+  "title": "NL2SQL 在超大规模数仓场景的架构突破与工程实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510392&idx=1&sn=cd9903f9a3a898baa1070dfd011b7556",
+  "summary": "本文探讨了在超大规模数仓场景下构建NL2SQL系统的架构突破与工程实践。针对企业数仓中NL2SQL面临的领域知识复杂、查询逻辑繁琐等挑战，提出了一种基于Agent Skill架构的解决方案。该架构通过模块化技能设计，将领域知识、查询模板和业务逻辑封装为可复用的技能单元，结合大语言模型的推理能力，实现高效、精准的SQL生成。实践表明，该方法显著提升了NL2SQL在复杂业务场景下的准确率和鲁棒性，为企业数据查询智能化提供了可复用的工程经验。",
+  "tags": [
+    "NL2SQL",
+    "数仓",
+    "Agent Skill",
+    "大语言模型",
+    "工程实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程与架构",
+  "key_insight": "通过Agent Skill架构封装领域知识，解决了NL2SQL在超大规模数仓中需大量专家经验的问题，实现了智能化查询的工程突破。"
+}

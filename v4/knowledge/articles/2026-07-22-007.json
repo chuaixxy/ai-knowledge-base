@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-22-007",
+  "source_id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "summary": "本文概述了物理AI仿真技术的现状，探讨了仿真在机器人、自动驾驶等物理AI系统训练与测试中的关键作用。文章分析了当前主流仿真平台（如MuJoCo、Isaac Sim）的进展、物理精确性挑战、现实差距（Sim-to-Real Gap）以及数据生成方法。重点讨论了高保真物理模拟、传感器仿真、场景随机化及大规模分布式训练等技术，并指出未来趋势包括更逼真的物理模型、与真实世界数据的融合以及实时交互能力。研究强调，仿真作为物理AI发展的核心基础设施，其进步将加速智能系统从实验室到实际应用的部署。",
+  "tags": [
+    "物理AI",
+    "仿真",
+    "机器人",
+    "自动驾驶",
+    "Sim-to-Real",
+    "物理引擎",
+    "数据生成"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术综述",
+  "key_insight": "仿真技术的保真度和现实差距是物理AI落地的核心瓶颈，未来需通过更精确的物理模型与真实数据融合来突破。"
+}

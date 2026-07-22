@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-22-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696426&idx=1&sn=e0376dfaa3494b7c06f3e6d9fb8840e7",
+  "title": "删掉80%的Skill，Agent反而更听话了",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696426&idx=1&sn=e0376dfaa3494b7c06f3e6d9fb8840e7",
+  "summary": "该项目探讨了在Agent系统中精简技能（Skill）数量对提升指令遵循能力的影响。研究发现，移除约80%的冗余或低质量技能后，Agent在关键任务上的表现反而显著提升，减少了因技能冲突或选择错误导致的“不听话”行为。核心在于通过技能筛选和优化，聚焦于高相关性、高质量的技能库，从而降低Agent的决策复杂度，提高响应准确性和稳定性。这一发现挑战了“技能越多越好”的传统认知，为Agent系统设计提供了新的优化思路。",
+  "tags": [
+    "Agent系统",
+    "技能优化",
+    "指令遵循",
+    "决策简化",
+    "AI效率"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI系统优化",
+  "key_insight": "精简技能库可减少Agent决策噪音，提升核心任务指令遵循率，颠覆了技能数量与性能正相关的传统假设。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-22-011",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+  "title": "Substack adds an AI detector to help spot blogs written by no one",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+  "summary": "Substack平台推出AI检测工具，帮助用户识别内容是否由AI生成。该工具可扫描文章、笔记、回复及评论，评估文本中AI生成或辅助写作的比例。此举旨在提升内容透明度，应对AI写作泛滥问题，但检测准确性可能受限于技术边界。",
+  "tags": [
+    "AI检测",
+    "内容审核",
+    "Substack",
+    "透明度",
+    "AI写作"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI工具应用",
+  "key_insight": "Substack通过AI检测工具平衡内容创作自由与真实性，但技术局限性可能引发误判争议。"
+}

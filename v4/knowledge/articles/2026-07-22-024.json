@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-22-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=2&sn=e2fd84dc9c169ef2fbe8098d88ef0377",
+  "title": "OpenSQZ Glass：让端侧全双工全模态模型进入第一视角的可穿戴世界",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289278&idx=2&sn=e2fd84dc9c169ef2fbe8098d88ef0377",
+  "summary": "OpenSQZ Glass 是一个面向研究者与开发者的开源AI眼镜系统，专注于端侧部署、持续感知、语音打断和主动交互。它通过第一视角的可穿戴设备，实现全双工全模态模型在端侧的运行，支持实时环境感知与语音交互，允许用户随时打断AI输出并切换话题。该系统开源，旨在推动可穿戴AI技术的发展，为开发者提供灵活的实验平台，探索人机交互的新范式。",
+  "tags": [
+    "开源AI眼镜",
+    "端侧AI",
+    "全双工交互",
+    "持续感知",
+    "可穿戴设备",
+    "语音打断"
+  ],
+  "relevance_score": 0.9,
+  "category": "可穿戴AI系统",
+  "key_insight": "通过开源端侧全双工全模态AI眼镜，实现第一视角的持续感知与主动交互，突破传统语音助手的单向对话限制。"
+}

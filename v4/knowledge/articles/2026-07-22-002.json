@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-22-002",
+  "source_id": "https://arxiv.org/abs/2607.16196",
+  "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.16196",
+  "summary": "本研究针对软性触觉交互伴侣中的情感触摸识别问题，提出并验证了一个轻量级1D CNN模型。论文首先公开了一个包含1326个标注手势序列、来自25名不同年龄段参与者的FAIR兼容数据集。通过系统架构和超参数搜索（共468个CNN模型），发现紧凑的扩张一维卷积神经网络（1D CNN）最为有效，其中13.2k参数模型在准确性和效率间取得最佳平衡。该工作为社交辅助机器人中的情感触觉识别提供了开源MATLAB框架和基准数据集。",
+  "tags": [
+    "轻量级1D CNN",
+    "情感触摸识别",
+    "软体交互伴侣",
+    "社交辅助技术",
+    "开源数据集",
+    "MATLAB框架"
+  ],
+  "relevance_score": 0.85,
+  "category": "人机交互与情感计算",
+  "key_insight": "通过系统架构搜索，证明13.2k参数的扩张1D CNN能在软体伴侣的多通道触觉信号中高效识别人类情感触摸，为资源受限的社交机器人提供轻量级解决方案。"
+}

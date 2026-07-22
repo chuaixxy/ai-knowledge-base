@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-22-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802812&idx=1&sn=732df4944b3cb1543cc4cfe666e6f47a",
+  "title": "从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802812&idx=1&sn=732df4944b3cb1543cc4cfe666e6f47a",
+  "summary": "该项目探讨了如何将AI辅助编程（Vibe Coding）从个人实验场景迁移至企业级真实业务中。它提出了一套工程实践方法论，强调需要组建AI原生研发团队，通过标准化流程、代码审查、安全合规等机制解决AI生成代码在可靠性、可维护性和业务适配上的挑战，实现AI在复杂工程环境中的落地。",
+  "tags": [
+    "AI辅助编程",
+    "工程实践",
+    "研发团队",
+    "代码质量"
+  ],
+  "relevance_score": 0.85,
+  "category": "工程实践指南",
+  "key_insight": "AI写代码的瓶颈不在生成能力，而在如何用工程规范将玩具代码转化为生产级资产。"
+}
