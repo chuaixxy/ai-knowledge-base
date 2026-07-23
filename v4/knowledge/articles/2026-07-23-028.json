@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-23-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546214&idx=1&sn=1ea66a2621a684b57f05339341dde10f",
+  "title": "RAG 核心概念与原理：Chunking、Embedding、相似度、HNSW 与多路召回｜得物技术",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546214&idx=1&sn=1ea66a2621a684b57f05339341dde10f",
+  "summary": "本文深入解析RAG系统的核心技术要点，强调决定问答效果的关键并非大模型本身，而是文本切块、查询改写、多路召回与精排等检索流程。合理切块能有效组织知识库内容，向量匹配与BM25关键词匹配互补提升召回准确性。通过优化用户提问、快速召回相关文档，再经精排模型精细筛选，整套检索流程配合到位可显著提升问答准确度。",
+  "tags": [
+    "RAG",
+    "文本切块",
+    "向量匹配",
+    "BM25",
+    "多路召回",
+    "精排"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术原理",
+  "key_insight": "RAG效果提升的关键在于检索流程的精细设计，而非大模型本身。"
+}

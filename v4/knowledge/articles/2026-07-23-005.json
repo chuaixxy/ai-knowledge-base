@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-005",
+  "source_id": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "summary": "Notion 在两年内将其向量搜索系统扩展了10倍规模，同时将成本降低至原来的十分之一。文章分享了他们从零构建向量搜索的历程，包括技术选型、索引优化、查询性能提升等关键经验，展示了如何通过工程创新实现规模与成本的双重优化。",
+  "tags": [
+    "向量搜索",
+    "Notion",
+    "规模扩展",
+    "成本优化",
+    "系统设计"
+  ],
+  "relevance_score": 0.9,
+  "category": "系统架构与性能优化",
+  "key_insight": "通过自研向量搜索方案，Notion 在扩展10倍规模的同时将成本降至1/10，证明了系统设计与工程创新在规模化中的关键作用。"
+}

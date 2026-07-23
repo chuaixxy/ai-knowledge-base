@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-008",
+  "source_id": "https://arxiv.org/abs/2607.18241",
+  "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.18241",
+  "summary": "BatchDAG是一个利用大语言模型（LLM）生成类型化有向无环图（DAG）操作的系统，用于处理企业级数据集上的跨实体分析问题。它通过SQL查询、语义搜索、内存转换、并行扇出和单次分析等操作，由确定性引擎以拓扑波并行和结构化JSON数据流执行。关键优化是实体感知批处理，将行按逻辑实体分组后再扇出，将LLM调用减少高达47倍。BatchDAG不是主要提高准确性，而是一个通用编排层，用单一系统替代多个手工工程工作流，生成可扩展的执行图。",
+  "tags": [
+    "LLM",
+    "执行图",
+    "企业数据分析",
+    "并行计算",
+    "实体感知批处理"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据工程与编排",
+  "key_insight": "BatchDAG通过LLM生成DAG和实体感知批处理，显著降低LLM调用次数，实现企业级跨实体分析的可扩展编排。"
+}

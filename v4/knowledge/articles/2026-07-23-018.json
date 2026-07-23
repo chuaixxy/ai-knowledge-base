@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561726&idx=1&sn=50147a9760380a36c86650bb835577ff",
+  "title": "让 Agent 越用越准、成本越来越低：AgentLoop 的 Agent 经验自进化闭环",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561726&idx=1&sn=50147a9760380a36c86650bb835577ff",
+  "summary": "AgentLoop提出了一种Agent经验自进化闭环机制，使AI Agent在使用过程中通过自我学习和反馈循环，持续优化决策准确性和执行效率，同时降低计算成本。核心在于构建一个闭环系统，Agent在每次任务执行后自动记录经验、分析错误、更新策略，形成从经验积累到策略优化的正向循环，从而实现越用越准、成本递减的效果。该方案适用于需要长期运行的自动化Agent场景，可显著提升智能体的自适应能力和经济性。",
+  "tags": [
+    "AI Agent",
+    "自我进化",
+    "成本优化",
+    "强化学习",
+    "自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent技术",
+  "key_insight": "通过经验自进化闭环，让Agent在使用中自动优化策略，实现准确率提升与成本下降的同步演进。"
+}

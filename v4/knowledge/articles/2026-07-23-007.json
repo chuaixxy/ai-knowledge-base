@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-23-007",
+  "source_id": "https://arxiv.org/abs/2607.18240",
+  "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.18240",
+  "summary": "该研究提出证据链评估（ECE）框架，解决大语言模型在事实核查中因证据不足而做出强制二元决策的可靠性问题。ECE允许模型在证据薄弱、稀疏或矛盾时选择“不确定”而放弃判断，通过工具（网络搜索、学术搜索、可执行检查）收集证据，返回结构化裁决（含置信度和元数据）。在ECE-Bench上，标准准确率91.6%，覆盖率93.7%，选择性准确率97.8%，但整体校准指标（如预期校准误差、Brier分数、AURC）未超越最强检索基线。",
+  "tags": [
+    "大语言模型",
+    "事实核查",
+    "选择性分类",
+    "证据链评估",
+    "校准",
+    "不确定性"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI安全与可靠性",
+  "key_insight": "通过允许模型在证据不足时主动弃权，显著提升了事实核查在不确定场景下的可靠性，但校准性能仍有提升空间。"
+}

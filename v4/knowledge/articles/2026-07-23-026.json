@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-23-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669663&idx=1&sn=7c7f7d10db2deef0f67fe5ff43364dc2",
+  "title": "能帮你做更多事的Agent，登顶全球！",
+  "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669663&idx=1&sn=7c7f7d10db2deef0f67fe5ff43364dc2",
+  "summary": "百度文心助手的任务Agent（Orion Mission Mode）在PinchBench v2榜单中以94.6%成功率和94.4%平均分登顶，基于148项真实企业任务测试，覆盖创意、写作、数据分析、代码运维等场景。其优势在于工具调用、多步骤规划与长程执行能力，已应用于百度APP和文心助手。该Agent依托百度搜索技术积累与猎户座AI引擎的多智能体框架，实现国产化底层模型。百度AI搜索团队已在GitHub开源此模式，标志着国产AI在工程智能体领域取得领先地位。",
+  "tags": [
+    "百度文心",
+    "AI Agent",
+    "PinchBench",
+    "智能体",
+    "开源",
+    "多智能体框架",
+    "国产化"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能",
+  "key_insight": "百度文心助手Agent凭借多步骤自主规划和长程执行能力，在真实企业自动化任务中取得领先，体现了国产AI在工程智能体领域的突破。"
+}

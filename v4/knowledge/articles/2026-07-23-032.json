@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046034&idx=2&sn=28d08b24db4deb725bd70d2f6b20d1da",
+  "title": "GPT-6要来了？还没发布，就先「入侵」了Hugging Face",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046034&idx=2&sn=28d08b24db4deb725bd70d2f6b20d1da",
+  "summary": "文章报道了GPT-6尚未正式发布，但已出现相关模型在Hugging Face平台被上传的事件，引发社区关注。同时，OpenAI CEO Altman前往华盛顿进行发布前简报，暗示新模型可能涉及政策与安全合规。此事反映了AI前沿模型发布前的技术泄露风险与政企沟通趋势。",
+  "tags": [
+    "GPT-6",
+    "Hugging Face",
+    "AI安全",
+    "模型泄露",
+    "OpenAI"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI行业动态",
+  "key_insight": "GPT-6未发先泄，体现前沿AI模型在发布前面临的技术与政策双重博弈。"
+}

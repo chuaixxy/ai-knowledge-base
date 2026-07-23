@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-23-004",
+  "source_id": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+  "title": "Taking OCaml and Eio for a spin",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+  "summary": "该项目是关于尝试使用OCaml语言和Eio并发库的实践体验。OCaml是一种功能强大的函数式编程语言，而Eio是OCaml生态中一个新兴的、基于效果（effects）的高性能I/O库，旨在简化并发和异步编程。文章或代码示例展示了如何利用Eio进行高效的I/O操作，包括文件读写、网络通信等，并讨论了其相较于传统OCaml并发模型（如Lwt或Async）的优势，如更简洁的语法和更好的资源管理。通过实际代码运行，作者评估了Eio的性能、易用性和生态成熟度，为OCaml开发者提供了一种新的并发编程选择。",
+  "tags": [
+    "OCaml",
+    "Eio",
+    "函数式编程",
+    "并发编程",
+    "I/O库",
+    "性能评估"
+  ],
+  "relevance_score": 0.7,
+  "category": "编程语言实践",
+  "key_insight": "Eio通过OCaml的效果系统实现了简洁且高性能的并发I/O，可能成为OCaml异步编程的新标准。"
+}

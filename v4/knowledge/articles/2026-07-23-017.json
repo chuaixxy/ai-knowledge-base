@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-23-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544921&idx=1&sn=3610b416e98ac67bcff96a0c3a3ea7aa",
+  "title": "TMAP平台图生视频推理加速实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544921&idx=1&sn=3610b416e98ac67bcff96a0c3a3ea7aa",
+  "summary": "TMAP平台实现了图生视频推理加速，通过优化算法和架构设计，将推理速度提升4.87倍，同时将成本控制在0.15元/秒以内，且保证视频生成质量无损。该技术降低了图生视频的应用门槛，适用于短视频、广告和内容创作等场景。",
+  "tags": [
+    "图生视频",
+    "推理加速",
+    "成本优化",
+    "AI视频生成"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI视频生成与推理加速",
+  "key_insight": "通过4.87倍加速和低成本策略，TMAP平台显著提升图生视频的实用性与商业可行性。"
+}

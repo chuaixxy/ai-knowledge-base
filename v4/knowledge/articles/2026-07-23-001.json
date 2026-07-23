@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-001",
+  "source_id": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+  "title": "Are AI Labs Pelicanmaxxing?",
+  "source": "rss-hacker-news-best",
+  "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+  "summary": "本文探讨了AI实验室是否过度追求模型规模扩展（即“Pelicanmaxxing”现象），通过分析Hacker News上的讨论（410分、158条评论），指出当前AI研究社区在资源分配、研究方向和实际应用之间存在失衡。作者认为，盲目扩大模型参数和计算量可能导致边际效益递减，而忽视更高效、更可持续的AI发展路径。文章呼吁重新评估研究优先级，平衡规模扩展与创新方法论。",
+  "tags": [
+    "AI实验室",
+    "模型规模",
+    "资源分配",
+    "研究效率",
+    "Hacker News讨论"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI研究与趋势分析",
+  "key_insight": "AI实验室的‘规模至上’策略可能陷入收益递减陷阱，需转向更可持续的创新模式。"
+}

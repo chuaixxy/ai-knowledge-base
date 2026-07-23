@@ -6012,5 +6012,566 @@
     ],
     "status": "published",
     "collected_at": "2026-07-22T02:52:47.415Z"
+  },
+  {
+    "id": "2026-07-23-001",
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "category": "AI研究与趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI实验室",
+      "模型规模",
+      "资源分配",
+      "研究效率",
+      "Hacker News讨论"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-002",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "category": "开发者工具与协作平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "Jack Dorsey",
+      "Buzz",
+      "团队聊天",
+      "AI代理",
+      "Git托管",
+      "开发者工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-003",
+    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+    "category": "科技金融",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI投资",
+      "科技巨头",
+      "隐性债务",
+      "财务风险",
+      "透明度"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-004",
+    "title": "Taking OCaml and Eio for a spin",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "category": "编程语言实践",
+    "relevance_score": 0.7,
+    "tags": [
+      "OCaml",
+      "Eio",
+      "函数式编程",
+      "并发编程",
+      "I/O库",
+      "性能评估"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-005",
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "category": "系统架构与性能优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "向量搜索",
+      "Notion",
+      "规模扩展",
+      "成本优化",
+      "系统设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-006",
+    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.18239",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "权力寻求",
+      "基准测试",
+      "失控风险",
+      "语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-007",
+    "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.18240",
+    "category": "AI安全与可靠性",
+    "relevance_score": 0.9,
+    "tags": [
+      "大语言模型",
+      "事实核查",
+      "选择性分类",
+      "证据链评估",
+      "校准",
+      "不确定性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-008",
+    "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.18241",
+    "category": "数据工程与编排",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "执行图",
+      "企业数据分析",
+      "并行计算",
+      "实体感知批处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-009",
+    "title": "Happy openreview refresh day to all those who celebrate [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1v3enzq/happy_openreview_refresh_day_to_all_those_who/",
+    "category": "学术社区动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "NeurIPS",
+      "审稿机制",
+      "OpenReview",
+      "领域主席",
+      "激励措施"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-010",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "category": "AI基础设施与社区发展",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI基础设施",
+      "社区投资",
+      "负责任能源",
+      "就业创造",
+      "Codex访问",
+      "OpenAI",
+      "Effingham County"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-011",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "category": "行业应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI新闻",
+      "媒体技术",
+      "新闻业转型",
+      "OpenAI应用",
+      "内容生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-012",
+    "title": "Advancing the next era of national science",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "category": "技术与政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "科学研究",
+      "政府合作",
+      "OpenAI",
+      "能源部"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-013",
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "category": "科技新闻",
+    "relevance_score": 0.7,
+    "tags": [
+      "谷歌",
+      "三星",
+      "Galaxy Unpacked",
+      "折叠屏",
+      "智能手表",
+      "智能眼镜",
+      "生产力",
+      "AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-014",
+    "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+    "category": "消费电子",
+    "relevance_score": 0.75,
+    "tags": [
+      "三星",
+      "智能眼镜",
+      "可穿戴设备",
+      "谷歌",
+      "AR",
+      "电池续航"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-015",
+    "title": "AMD commits up to $5 billion to Anthropic",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "category": "AI行业投资与合作",
+    "relevance_score": 0.85,
+    "tags": [
+      "AMD",
+      "Anthropic",
+      "AI投资",
+      "GPU部署",
+      "计算能力"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-016",
+    "title": "Meta made its own AI detection system. It should have just used Google’s",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "category": "AI伦理与治理",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI检测",
+      "水印技术",
+      "Meta",
+      "内容治理",
+      "生成式AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-017",
+    "title": "TMAP平台图生视频推理加速实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544921&idx=1&sn=3610b416e98ac67bcff96a0c3a3ea7aa",
+    "category": "AI视频生成与推理加速",
+    "relevance_score": 0.85,
+    "tags": [
+      "图生视频",
+      "推理加速",
+      "成本优化",
+      "AI视频生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-018",
+    "title": "让 Agent 越用越准、成本越来越低：AgentLoop 的 Agent 经验自进化闭环",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561726&idx=1&sn=50147a9760380a36c86650bb835577ff",
+    "category": "AI Agent技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "自我进化",
+      "成本优化",
+      "强化学习",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-019",
+    "title": "原力灵机开源新一代原生具身基础模型DM0.5：真机基准 SOTA！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510947&idx=1&sn=fb75672503ad721e28de168132315249",
+    "category": "具身智能/机器人基础模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "具身智能",
+      "VLA架构",
+      "开源模型",
+      "基准测试SOTA",
+      "机器人"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-020",
+    "title": "Inkling 开源：比肩GLM 5.2！975B MoE，激活 41B，原生多模态与百万上下文",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510924&idx=1&sn=fc5fe47aa163da3fb20e3cfd571a9053",
+    "category": "多模态基础模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源模型",
+      "多模态",
+      "MoE架构",
+      "百万上下文",
+      "推理能力",
+      "AI竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-021",
+    "title": "AI改代码的那几分钟，你在做什么？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802917&idx=1&sn=dd6d58f349f4058ccc2ea90468092566",
+    "category": "开发者体验与行为研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "开发者体验",
+      "人机协作",
+      "效率分析",
+      "行为模式"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-022",
+    "title": "Agent 跌跌撞撞进入世界",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998100&idx=1&sn=1a182a46bf86037225163b3b4a767533",
+    "category": "AI伦理与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI伦理",
+      "自主决策",
+      "责任归因",
+      "价值对齐",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-023",
+    "title": "AI时代最贵的岗位FDE，其实一个人用WorkBuddy就能干",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696478&idx=1&sn=3fef9506455305b5350e42b5ca0c43dc",
+    "category": "AI应用与工具",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI替代",
+      "全栈开发",
+      "生产力工具",
+      "降本增效",
+      "WorkBuddy"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-024",
+    "title": "7 月 25 日｜杭州·腾讯 AI 公开课走进书博会！现场玩转 AI 阅读新体验",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696478&idx=2&sn=d8291e96103d217573507c554bc460db",
+    "category": "技术活动与教育",
+    "relevance_score": 0.85,
+    "tags": [
+      "腾讯AI",
+      "AI公开课",
+      "书博会",
+      "AI阅读",
+      "杭州",
+      "阅读体验"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-025",
+    "title": "快手2027届快Star顶尖技术人才计划持续热招",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501057&idx=1&sn=947ae9c352b0854a357caff89a136682",
+    "category": "招聘与人才发展",
+    "relevance_score": 0.7,
+    "tags": [
+      "快手",
+      "技术人才招聘",
+      "2027届",
+      "AI",
+      "算法",
+      "顶尖人才计划"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-026",
+    "title": "能帮你做更多事的Agent，登顶全球！",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669663&idx=1&sn=7c7f7d10db2deef0f67fe5ff43364dc2",
+    "category": "人工智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "百度文心",
+      "AI Agent",
+      "PinchBench",
+      "智能体",
+      "开源",
+      "多智能体框架",
+      "国产化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-027",
+    "title": "大模型训练到底在做什么：一份写给普通技术团队的入门说明",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518430&idx=1&sn=11b301d9c1d142e895e2b3a4aa1f23a2",
+    "category": "技术科普",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "训练原理",
+      "技术入门",
+      "预训练",
+      "微调"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-028",
+    "title": "RAG 核心概念与原理：Chunking、Embedding、相似度、HNSW 与多路召回｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546214&idx=1&sn=1ea66a2621a684b57f05339341dde10f",
+    "category": "技术原理",
+    "relevance_score": 0.9,
+    "tags": [
+      "RAG",
+      "文本切块",
+      "向量匹配",
+      "BM25",
+      "多路召回",
+      "精排"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-029",
+    "title": "30+ 家企业组团参展 WAIC，张江 AI 小镇藏不住了",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=1&sn=5e5ba052ec6b8d1695291b8e3f4e56fe",
+    "category": "产业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "WAIC",
+      "张江AI小镇",
+      "产业集群",
+      "人工智能",
+      "展会"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-030",
+    "title": "智谱的算力野望浮出水面！自建1GW机房、数亿收购中科系Infra企业、布局自研芯片，加速去“英伟达化”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289339&idx=2&sn=30533d73e8aaeefea3546f53d61e83e7",
+    "category": "AI基础设施与算力",
+    "relevance_score": 0.85,
+    "tags": [
+      "智谱",
+      "算力",
+      "自研芯片",
+      "去英伟达化",
+      "AI基础设施",
+      "国产替代",
+      "数据中心"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-031",
+    "title": "WAIC现场，这家公司让一群不同的机器人共用一个大脑",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046034&idx=1&sn=662a7f71bb742a13ab9dbb7e817ce257",
+    "category": "人工智能与机器人",
+    "relevance_score": 0.85,
+    "tags": [
+      "WAIC",
+      "机器人",
+      "通用智能",
+      "智能复用",
+      "多机器人系统",
+      "AI控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-23-032",
+    "title": "GPT-6要来了？还没发布，就先「入侵」了Hugging Face",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046034&idx=2&sn=28d08b24db4deb725bd70d2f6b20d1da",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "GPT-6",
+      "Hugging Face",
+      "AI安全",
+      "模型泄露",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-23T02:58:48.683Z"
   }
 ]

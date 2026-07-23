@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-016",
+  "source_id": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+  "title": "Meta made its own AI detection system. It should have just used Google’s",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+  "summary": "Meta于7月推出了名为Content Seal的隐形水印技术，用于标记其AI模型生成的图像，以应对平台上生成式AI欺骗性内容的传播。该技术是对其监督委员会3月呼吁的回应，但文章认为Meta本可以直接采用谷歌已有的类似检测系统。",
+  "tags": [
+    "AI检测",
+    "水印技术",
+    "Meta",
+    "内容治理",
+    "生成式AI"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI伦理与治理",
+  "key_insight": "Meta自研水印技术而非采用现成解决方案，反映了科技巨头在AI内容治理上的竞争与重复投入。"
+}

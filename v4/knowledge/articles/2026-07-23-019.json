@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510947&idx=1&sn=fb75672503ad721e28de168132315249",
+  "title": "原力灵机开源新一代原生具身基础模型DM0.5：真机基准 SOTA！",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510947&idx=1&sn=fb75672503ad721e28de168132315249",
+  "summary": "原力灵机开源了新一代具身基础模型DM0.5，该模型基于VLA（视觉-语言-动作）架构，在真实机器人及仿真环境的多项基准测试中均取得了最先进的性能（SOTA）。项目全面开放了模型权重、源代码及评测流程，极大降低了开发者进行微调和部署的门槛，有望推动具身智能领域的开源生态发展。",
+  "tags": [
+    "具身智能",
+    "VLA架构",
+    "开源模型",
+    "基准测试SOTA",
+    "机器人"
+  ],
+  "relevance_score": 0.9,
+  "category": "具身智能/机器人基础模型",
+  "key_insight": "通过开源VLA架构的SOTA模型，原力灵机降低了具身智能研究的门槛，加速了从仿真到真机的技术落地。"
+}

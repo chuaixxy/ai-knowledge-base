@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-23-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510924&idx=1&sn=fc5fe47aa163da3fb20e3cfd571a9053",
+  "title": "Inkling 开源：比肩GLM 5.2！975B MoE，激活 41B，原生多模态与百万上下文",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247510924&idx=1&sn=fc5fe47aa163da3fb20e3cfd571a9053",
+  "summary": "前OpenAI CTO Mira Murati创立的Thinking Machines Lab发布了首个开源多模态基础模型Inkling，总参数975B（激活41B），支持百万级上下文窗口，覆盖文本、图像、音频全模态。该模型在推理、代码生成和工具调用等任务上性能比肩GLM 5.2等主流模型，展现了MoE架构在高效激活与强大能力间的平衡。开源策略有望推动多模态AI的民主化，降低行业应用门槛。",
+  "tags": [
+    "开源模型",
+    "多模态",
+    "MoE架构",
+    "百万上下文",
+    "推理能力",
+    "AI竞争"
+  ],
+  "relevance_score": 0.9,
+  "category": "多模态基础模型",
+  "key_insight": "Inkling以975B MoE（41B激活）与百万级上下文实现多模态性能比肩GLM 5.2，彰显开源模型在高效参数利用与全模态支持上的突破。"
+}
