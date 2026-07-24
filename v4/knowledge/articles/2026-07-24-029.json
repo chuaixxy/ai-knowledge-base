@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-24-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=1&sn=2a9691c529d6555758618465536fdf20",
+  "title": "“围攻” Ralph Loop 之父？一场关于 Loops 的激辩：代码照样垃圾，只会失败得更加难看",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=1&sn=2a9691c529d6555758618465536fdf20",
+  "summary": "该项目围绕编程中Loops（循环）的争议展开，指出核心分歧并非循环本身优劣，而是当前技术环境下是否应使用循环。作者批评某些代码质量低下，即便使用循环也会导致失败，强调技术选择需结合实践条件而非理论之争。",
+  "tags": [
+    "编程争议",
+    "循环",
+    "代码质量",
+    "技术讨论"
+  ],
+  "relevance_score": 0.7,
+  "category": "技术观点",
+  "key_insight": "技术争论应聚焦于实际可行性而非抽象优劣。"
+}

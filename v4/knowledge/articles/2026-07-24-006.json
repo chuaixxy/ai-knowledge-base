@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-24-006",
+  "source_id": "https://www.oranlooney.com/post/rose-petals/",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.oranlooney.com/post/rose-petals/",
+  "summary": "该文通过玫瑰花瓣的排列规律，探讨了数学归纳法的本质与应用。作者以斐波那契数列在自然界中的体现为例，说明归纳法不仅是形式证明工具，更是揭示自然模式与逻辑一致性的思维方法。文章指出，归纳法的核心在于从有限观察中提炼通用规律，并强调其与数学结构、自然现象的深刻关联。",
+  "tags": [
+    "数学归纳法",
+    "斐波那契数列",
+    "自然模式",
+    "逻辑推理",
+    "数学哲学"
+  ],
+  "relevance_score": 0.6,
+  "category": "数学与哲学",
+  "key_insight": "归纳法揭示了自然模式与数学逻辑的内在统一性，其价值超越形式证明，成为理解世界结构的钥匙。"
+}

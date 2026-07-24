@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-24-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501059&idx=1&sn=19ce193339c07925e3f9a95aeb789b7b",
+  "title": "复杂业务场景下 RCA Agent 的探索实践",
+  "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501059&idx=1&sn=19ce193339c07925e3f9a95aeb789b7b",
+  "summary": "该项目探索了在复杂业务场景下，利用RCA（根因分析）Agent进行自动化故障定位与诊断的实践。传统方法依赖固定规则或历史模式，难以适应动态变化的业务环境。项目通过引入AI Agent，结合多源数据（日志、指标、调用链等），实现自适应、可解释的根因分析，解决了“旧地图找不到新大陆”的困境。实践表明，该Agent能显著提升故障排查效率，降低MTTR，并支持跨系统、跨层级的因果推理。",
+  "tags": [
+    "RCA",
+    "根因分析",
+    "AI Agent",
+    "故障诊断",
+    "复杂业务",
+    "自动化运维"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI运维与故障诊断",
+  "key_insight": "传统RCA依赖静态规则，无法适应复杂业务动态变化；AI Agent通过自适应学习与多源数据融合，成为破解故障定位难题的新路径。"
+}

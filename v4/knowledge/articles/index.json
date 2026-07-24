@@ -6573,5 +6573,562 @@
     ],
     "status": "published",
     "collected_at": "2026-07-23T02:58:48.683Z"
+  },
+  {
+    "id": "2026-07-24-001",
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "category": "科技政策与AI治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "开源模型",
+      "中美科技竞争",
+      "初创企业",
+      "政策影响"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-002",
+    "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+    "category": "科技财经",
+    "relevance_score": 0.9,
+    "tags": [
+      "Alphabet",
+      "AI投资",
+      "现金流",
+      "科技巨头",
+      "财务风险"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-003",
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "category": "AI行业风险分析",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI公司财务",
+      "债务隐藏",
+      "表外融资",
+      "金融风险",
+      "监管挑战"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-004",
+    "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+    "category": "AI行业动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "开放权重",
+      "商业竞争",
+      "OpenAI",
+      "Anthropic",
+      "开源AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-005",
+    "title": "Not just development, distribution of software may change as well",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://antirez.com/news/170",
+    "category": "技术趋势分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "软件分发",
+      "云原生",
+      "容器化",
+      "WebAssembly",
+      "DevOps",
+      "技术趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-006",
+    "title": "What Rose Petals Teach Us about Induction",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.oranlooney.com/post/rose-petals/",
+    "category": "数学与哲学",
+    "relevance_score": 0.6,
+    "tags": [
+      "数学归纳法",
+      "斐波那契数列",
+      "自然模式",
+      "逻辑推理",
+      "数学哲学"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-007",
+    "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.19349",
+    "category": "系统与性能优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM服务",
+      "工作负载分析",
+      "数据集",
+      "系统优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-008",
+    "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.19350",
+    "category": "金融科技与AI安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "金融欺诈检测",
+      "LSTM",
+      "图神经网络",
+      "图拓扑特征",
+      "Focal Loss",
+      "动态阈值",
+      "PaySim数据集",
+      "反洗钱"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-009",
+    "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.19351",
+    "category": "AI安全与防御",
+    "relevance_score": 0.85,
+    "tags": [
+      "多智能体系统",
+      "持续学习",
+      "对抗防御",
+      "大语言模型安全",
+      "概念漂移"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-010",
+    "title": "Launching Health in ChatGPT",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/health-in-chatgpt",
+    "category": "医疗健康AI",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI健康",
+      "ChatGPT",
+      "Apple Health",
+      "医疗数据整合",
+      "个性化健康洞察",
+      "数据安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-011",
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nunchaku-diffusers",
+    "category": "模型优化与部署",
+    "relevance_score": 0.85,
+    "tags": [
+      "4-bit量化",
+      "扩散模型",
+      "Diffusers",
+      "模型压缩",
+      "高效推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-012",
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "category": "智能家居技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "亚马逊",
+      "Alexa Plus",
+      "AI更新",
+      "智能家居",
+      "设备互联"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-013",
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "category": "AI产品更新",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音模式",
+      "Anthropic",
+      "Claude",
+      "AI模型",
+      "应用集成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-014",
+    "title": "Patreon is laying off 20 percent of workers",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "category": "科技裁员",
+    "relevance_score": 0.75,
+    "tags": [
+      "Patreon",
+      "裁员",
+      "AI影响",
+      "科技行业",
+      "创作者经济"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-015",
+    "title": "Seed STEM 科学家计划正式启动",
+    "source": "rss-seed",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494170&idx=1&sn=2123f89369ea40d9c6d8b3aeb8500fc2",
+    "category": "科研项目",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI加速科学",
+      "STEM",
+      "科学家计划",
+      "科研创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-016",
+    "title": "阿里开源 skill-up：让 Agent Skill 可评测可回归",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510426&idx=1&sn=77717225ccb946c19752a93e9681d8d1",
+    "category": "AI开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agent",
+      "评测框架",
+      "开源",
+      "阿里",
+      "回归测试",
+      "命令行工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-017",
+    "title": "【重要公告】焕新启航！“阿里云开发者”正式更名为“千问AI平台”",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561745&idx=1&sn=d24cb979b15bbd2fa0df9f08f476dbb7",
+    "category": "企业战略与产品更新",
+    "relevance_score": 0.9,
+    "tags": [
+      "阿里云",
+      "千问AI",
+      "平台更名",
+      "AI生态",
+      "开发者",
+      "大模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-018",
+    "title": "WAIC 2026 AGI 基础设施与普惠实践论坛：开源生态、优化工程与具身智能的范式重构",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537655&idx=1&sn=71a0d96268f609a59a778db42b20d4ed",
+    "category": "人工智能论坛",
+    "relevance_score": 0.85,
+    "tags": [
+      "AGI",
+      "开源生态",
+      "优化工程",
+      "具身智能",
+      "普惠AI",
+      "基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-019",
+    "title": "鹅厂员工都碰到过哪些Token刺客？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802928&idx=1&sn=98b6bc4e64f5936316f262d627453c38",
+    "category": "技术安全与运维",
+    "relevance_score": 0.75,
+    "tags": [
+      "Token管理",
+      "安全漏洞",
+      "腾讯内部系统",
+      "技术故障",
+      "权限控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-020",
+    "title": "协同进化：2026年人工智能十大趋势研判",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998109&idx=1&sn=12d15b69113b1a3cc45a451da877efec",
+    "category": "技术趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "协同进化",
+      "趋势研判",
+      "2026",
+      "技术预测"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-021",
+    "title": "一文讲透Agent三件套：MCP、Skill、Hook如何给大模型装上护栏",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696507&idx=1&sn=03d92475ccf4209d8b1409ec42ca404b",
+    "category": "AI技术架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型",
+      "AI安全",
+      "MCP协议",
+      "Skill",
+      "Hook",
+      "护栏机制",
+      "AI架构"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-022",
+    "title": "TDMQ RocketMQ 轻量主题 Lite Topic 是怎么把百万通道做 “轻” 的 - 下篇",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506895&idx=1&sn=4783ca1d72a5c131035bcf129c83d818",
+    "category": "技术架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "TDMQ RocketMQ",
+      "轻量主题",
+      "百万通道",
+      "消息队列",
+      "云原生",
+      "AI原生应用",
+      "性能优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-023",
+    "title": "测开的困局与突破：AI让迟到已久的理想有了可能",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502421&idx=1&sn=1b873304851722c2c36789f8b38eac48",
+    "category": "软件工程与质量",
+    "relevance_score": 0.9,
+    "tags": [
+      "测试开发",
+      "AI",
+      "质量保障",
+      "自动化测试",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-024",
+    "title": "从真实问题出发，他们如何成长为全球开源社区核心成员？",
+    "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575506&idx=1&sn=79203aaf729b082187f9d06ccc281365",
+    "category": "技术社区与成长",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源",
+      "技术成长",
+      "社区贡献",
+      "实践指南"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-025",
+    "title": "复杂业务场景下 RCA Agent 的探索实践",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501059&idx=1&sn=19ce193339c07925e3f9a95aeb789b7b",
+    "category": "AI运维与故障诊断",
+    "relevance_score": 0.85,
+    "tags": [
+      "RCA",
+      "根因分析",
+      "AI Agent",
+      "故障诊断",
+      "复杂业务",
+      "自动化运维"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-026",
+    "title": "AI专栏 | 别再手动造数据了！LLM 与 CTGAN 组合拳破解测试数据难题",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277485&idx=1&sn=3ad1900be0f157698a8ecce9242eea3e",
+    "category": "数据科学",
+    "relevance_score": 0.9,
+    "tags": [
+      "合成数据",
+      "LLM",
+      "CTGAN",
+      "测试数据",
+      "数据增强",
+      "生成对抗网络",
+      "大语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-027",
+    "title": "AI主持的剧本杀，会更好玩吗",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669691&idx=1&sn=53eb9058b01af079ba249343e9542763",
+    "category": "AI+娱乐",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI应用",
+      "剧本杀",
+      "游戏设计",
+      "自然语言处理",
+      "互动娱乐"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-028",
+    "title": "得物技术部最近出现了几起“越界”事件……",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546215&idx=1&sn=836eac2e716d594a4c4d52a5ffd5ff30",
+    "category": "服务创新",
+    "relevance_score": 0.85,
+    "tags": [
+      "用户服务",
+      "问题前置",
+      "无边界管理",
+      "客服优化",
+      "体验提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-029",
+    "title": "“围攻” Ralph Loop 之父？一场关于 Loops 的激辩：代码照样垃圾，只会失败得更加难看",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=1&sn=2a9691c529d6555758618465536fdf20",
+    "category": "技术观点",
+    "relevance_score": 0.7,
+    "tags": [
+      "编程争议",
+      "循环",
+      "代码质量",
+      "技术讨论"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-030",
+    "title": "打造自进化的编码伙伴：Qoder 记忆系统落地实践",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289360&idx=2&sn=d1425813888583e86a4ddcf6b9854e0c",
+    "category": "软件开发与知识工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "知识管理",
+      "编码协作",
+      "组织学习",
+      "AI辅助开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-031",
+    "title": "独立AI原生的办公助手，治好了我的打工焦虑",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046305&idx=1&sn=b6b47065aaf25369dbb227e418e220d1",
+    "category": "AI应用/办公效率",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI办公助手",
+      "原生智能体",
+      "项目记忆",
+      "办公自动化",
+      "生产力工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-24-032",
+    "title": "把动作「画」给视频世界模型，跨本体双向推演，李飞飞参与",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046305&idx=2&sn=88e71062ffb92b1721e020b4a87b9b6d",
+    "category": "计算机视觉与多模态AI",
+    "relevance_score": 0.95,
+    "tags": [
+      "视频世界模型",
+      "动作理解",
+      "跨本体学习",
+      "双向推演",
+      "李飞飞",
+      "视觉动作表示",
+      "无监督学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-24T02:53:55.704Z"
   }
 ]

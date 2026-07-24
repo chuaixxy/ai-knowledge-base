@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-24-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277485&idx=1&sn=3ad1900be0f157698a8ecce9242eea3e",
+  "title": "AI专栏 | 别再手动造数据了！LLM 与 CTGAN 组合拳破解测试数据难题",
+  "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277485&idx=1&sn=3ad1900be0f157698a8ecce9242eea3e",
+  "summary": "该项目提出一种结合LLM（大语言模型）与CTGAN（条件表格生成对抗网络）的合成数据生成新范式。CTGAN擅长生成大规模结构化表格数据，保证数据数量与分布多样性；LLM则利用其语义理解与生成能力，对数据进行质量优化，如添加合理业务逻辑、修正异常值及生成自然语言描述。两者组合可有效解决传统手动造数据耗时、场景覆盖不全的问题，适用于金融、医疗等对数据隐私与多样性要求高的领域。该方案在提升数据合成效率与真实性的同时，降低了人工成本。",
+  "tags": [
+    "合成数据",
+    "LLM",
+    "CTGAN",
+    "测试数据",
+    "数据增强",
+    "生成对抗网络",
+    "大语言模型"
+  ],
+  "relevance_score": 0.9,
+  "category": "数据科学",
+  "key_insight": "CTGAN保障数据规模与分布，LLM提升语义质量，二者互补实现高效、真实的测试数据自动生成。"
+}

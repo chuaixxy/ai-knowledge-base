@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-24-010",
+  "source_id": "https://openai.com/index/health-in-chatgpt",
+  "title": "Launching Health in ChatGPT",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/health-in-chatgpt",
+  "summary": "该项目允许符合条件的美国用户将医疗记录和Apple Health数据安全连接到ChatGPT，以便获取更个性化的健康洞察和更好地理解自身健康状况。这标志着AI在医疗健康领域的应用进一步拓展，通过整合用户个人健康数据，ChatGPT可以提供定制化的健康建议和分析，但同时也强调了数据安全和隐私保护的重要性。",
+  "tags": [
+    "AI健康",
+    "ChatGPT",
+    "Apple Health",
+    "医疗数据整合",
+    "个性化健康洞察",
+    "数据安全"
+  ],
+  "relevance_score": 0.85,
+  "category": "医疗健康AI",
+  "key_insight": "ChatGPT通过整合用户医疗和健康数据，从通用AI助手转向个性化健康伴侣，但数据隐私是核心挑战。"
+}

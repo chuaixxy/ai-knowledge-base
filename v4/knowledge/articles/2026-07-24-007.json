@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-24-007",
+  "source_id": "https://arxiv.org/abs/2607.19349",
+  "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.19349",
+  "summary": "该论文提出了FineServe，一个从全球商业市场收集的多模型LLM服务负载数据集，用于细粒度分析真实世界中的服务动态。通过对不同模型架构、规模和任务意图的到达动态和令牌行为进行综合分析，揭示了根本不同的波动模式。基于这些洞察，开发了FineServe负载生成器，以支持高效的LLM服务系统优化。",
+  "tags": [
+    "LLM服务",
+    "工作负载分析",
+    "数据集",
+    "系统优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "系统与性能优化",
+  "key_insight": "真实多模型LLM服务负载呈现异构波动模式，细粒度数据集是优化服务效率的关键。"
+}

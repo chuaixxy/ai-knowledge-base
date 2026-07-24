@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-24-005",
+  "source_id": "https://antirez.com/news/170",
+  "title": "Not just development, distribution of software may change as well",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://antirez.com/news/170",
+  "summary": "该项目讨论了软件开发和分发方式的潜在变革。文章指出，除了开发流程（如敏捷、DevOps）的演进外，软件的分发模式也可能发生根本性变化。例如，从传统安装包转向容器化、云原生应用、WebAssembly或边缘计算等新型分发方式。这种变化将影响软件更新、依赖管理、安全性和用户体验。评论中进一步探讨了这些趋势对开发者、企业和最终用户的实际影响，强调分发策略需要适应新的技术环境。",
+  "tags": [
+    "软件分发",
+    "云原生",
+    "容器化",
+    "WebAssembly",
+    "DevOps",
+    "技术趋势"
+  ],
+  "relevance_score": 0.8,
+  "category": "技术趋势分析",
+  "key_insight": "软件分发模式的变革可能比开发流程的改进更深远，需关注容器化和云原生带来的新分发范式。"
+}

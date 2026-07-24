@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-24-008",
+  "source_id": "https://arxiv.org/abs/2607.19350",
+  "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.19350",
+  "summary": "该研究提出FraudShield AI混合框架，结合LSTM网络与手工图拓扑特征（如PageRank中心性、入度动态和自定义流量比），用于检测金融欺诈中的洗钱模式（如smurfing和layering）。通过将孤立交易分析转向网络级取证，并采用Focal Loss处理极端数据不平衡（欺诈率0.13%），以及动态阈值机制增强对低价值攻击的鲁棒性。在PaySim数据集上实验表明，该混合模型性能显著优于Logistic回归等基线方法。",
+  "tags": [
+    "金融欺诈检测",
+    "LSTM",
+    "图神经网络",
+    "图拓扑特征",
+    "Focal Loss",
+    "动态阈值",
+    "PaySim数据集",
+    "反洗钱"
+  ],
+  "relevance_score": 0.85,
+  "category": "金融科技与AI安全",
+  "key_insight": "通过融合时序LSTM与图拓扑特征，将交易分析提升至网络级取证，有效对抗数据不平衡和对抗性规避攻击。"
+}

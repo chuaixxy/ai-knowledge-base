@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-24-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510426&idx=1&sn=77717225ccb946c19752a93e9681d8d1",
+  "title": "阿里开源 skill-up：让 Agent Skill 可评测可回归",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510426&idx=1&sn=77717225ccb946c19752a93e9681d8d1",
+  "summary": "阿里开源项目skill-up是一个面向Agent Skill开发者的命令行评测框架，旨在解决Agent技能开发中缺乏标准化评测和回归测试的问题。该框架提供统一的评测接口和自动化回归能力，支持开发者对Agent的各项技能进行可重复、可量化的评估，从而提升Agent开发的效率和可靠性。通过skill-up，开发者可以轻松定义测试用例、运行评测并获取详细报告，确保每次技能迭代不会引入退化。项目采用轻量级命令行工具设计，易于集成到现有开发流程中，适用于各类基于大语言模型的Agent应用场景。",
+  "tags": [
+    "Agent",
+    "评测框架",
+    "开源",
+    "阿里",
+    "回归测试",
+    "命令行工具"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具",
+  "key_insight": "为Agent技能开发提供标准化的评测与回归验证，弥补了Agent工程化中测试环节的缺失。"
+}

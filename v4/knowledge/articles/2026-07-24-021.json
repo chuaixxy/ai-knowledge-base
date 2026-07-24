@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-24-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696507&idx=1&sn=03d92475ccf4209d8b1409ec42ca404b",
+  "title": "一文讲透Agent三件套：MCP、Skill、Hook如何给大模型装上护栏",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696507&idx=1&sn=03d92475ccf4209d8b1409ec42ca404b",
+  "summary": "本文深入解析了MCP、Skill、Hook三大组件如何协同工作，为大模型构建安全可控的“护栏”。MCP（模型控制协议）负责定义交互规范，Skill封装特定能力并限制模型调用范围，Hook则实现执行前后的拦截与校验。三者形成从输入到输出的全链路管控，有效防止大模型产生有害、越权或偏离业务逻辑的行为，是保障AI应用可靠性的关键架构设计。",
+  "tags": [
+    "大模型",
+    "AI安全",
+    "MCP协议",
+    "Skill",
+    "Hook",
+    "护栏机制",
+    "AI架构"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI技术架构",
+  "key_insight": "MCP、Skill、Hook通过分层管控机制，为大模型构建了从协议定义到能力封装再到执行拦截的完整安全护栏，解决了大模型应用中的可控性与安全性核心难题。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-24-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802928&idx=1&sn=98b6bc4e64f5936316f262d627453c38",
+  "title": "鹅厂员工都碰到过哪些Token刺客？",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802928&idx=1&sn=98b6bc4e64f5936316f262d627453c38",
+  "summary": "该项目以幽默方式探讨腾讯员工在内部系统或工作中遇到的Token（如认证令牌、访问令牌）相关问题，可能涉及安全漏洞、权限管理或技术故障。通过‘刺客’比喻突出其突然性和困扰性，强调实际工作中Token管理的重要性与潜在风险。",
+  "tags": [
+    "Token管理",
+    "安全漏洞",
+    "腾讯内部系统",
+    "技术故障",
+    "权限控制"
+  ],
+  "relevance_score": 0.75,
+  "category": "技术安全与运维",
+  "key_insight": "Token管理问题常被忽视，但可能成为系统安全的‘隐形刺客’，需加强监控与自动化处理。"
+}

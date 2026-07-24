@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-24-009",
+  "source_id": "https://arxiv.org/abs/2607.19351",
+  "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.19351",
+  "summary": "该论文提出OpenEvoShield，一种用于LLM多智能体系统的共进化持续防御框架。针对攻击者不断优化注入策略和正常智能体行为漂移的双重动态威胁，框架通过非对称速率控制器解耦攻击侧与正常侧的学习速率，利用正常边界更新器维持动态行为边界，并采用EWC正则化的策略集成实现快速适应而不遗忘。最后，基于能量的多粒度检测机制进一步提升防御鲁棒性。实验表明，该方法在开放世界攻击下显著优于现有闭世界防御方案。",
+  "tags": [
+    "多智能体系统",
+    "持续学习",
+    "对抗防御",
+    "大语言模型安全",
+    "概念漂移"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与防御",
+  "key_insight": "通过解耦攻击和正常行为的学习速率，实现了对双动态漂移的鲁棒持续防御。"
+}

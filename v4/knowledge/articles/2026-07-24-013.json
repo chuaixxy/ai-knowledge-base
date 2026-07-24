@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-24-013",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+  "title": "Claude’s voice mode is now available for Opus and Sonnet",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+  "summary": "Anthropic宣布，其语音模式现已在Opus和Sonnet模型上可用，此前仅支持较快的Haiku模型。同时，该功能扩展至Gmail、Slack和Canva等应用。Anthropic去年推出语音模式时主要侧重于提供基础交互体验，此次更新显著提升了可用模型的性能和应用集成范围。",
+  "tags": [
+    "语音模式",
+    "Anthropic",
+    "Claude",
+    "AI模型",
+    "应用集成"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI产品更新",
+  "key_insight": "Anthropic将语音模式从低性能模型扩展到旗舰模型并集成主流应用，标志着其语音交互能力的重要提升和商业化加速。"
+}

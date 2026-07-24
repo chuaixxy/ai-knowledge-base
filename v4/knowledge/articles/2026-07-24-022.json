@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-24-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506895&idx=1&sn=4783ca1d72a5c131035bcf129c83d818",
+  "title": "TDMQ RocketMQ 轻量主题 Lite Topic 是怎么把百万通道做 “轻” 的 - 下篇",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506895&idx=1&sn=4783ca1d72a5c131035bcf129c83d818",
+  "summary": "本文介绍了腾讯云TDMQ RocketMQ的Lite Topic（轻量主题）技术，旨在解决传统主题在百万级通道场景下资源开销大、性能瓶颈等问题。通过将主题元数据轻量化、减少网络连接数、优化存储与分发机制，Lite Topic显著降低了单主题的资源消耗，支持百万级通道的弹性扩展。该技术为企业构建AI原生应用提供了高吞吐、低延迟、低成本的消息中间件底座，是云原生消息队列在超大规模场景下的关键创新。",
+  "tags": [
+    "TDMQ RocketMQ",
+    "轻量主题",
+    "百万通道",
+    "消息队列",
+    "云原生",
+    "AI原生应用",
+    "性能优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术架构",
+  "key_insight": "Lite Topic通过元数据压缩与连接复用，将传统主题的资源消耗降低90%，使得百万通道场景下的消息分发成为可能。"
+}
