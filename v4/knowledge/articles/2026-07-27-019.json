@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-27-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518434&idx=1&sn=4c946e731f0c009e4f6fdca883c8265f",
+  "title": "奇舞周刊第592期：Agent 工程思考：从 ReAct 到 Agent Harness",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518434&idx=1&sn=4c946e731f0c009e4f6fdca883c8265f",
+  "summary": "本文围绕AI Agent工程实践展开深度思考，从经典的ReAct模式出发，探讨其在实际应用中面临的状态管理、工具调用及扩展性挑战。作者提出Agent Harness架构，旨在通过标准化流程、可插拔工具和更鲁棒的逻辑控制，解决Agent在复杂任务中的路径规划与推理问题。文章分析了ReAct模式在简单场景下的有效性及其在长链任务中的局限性，并对比了Agent Harness在模块化、错误处理及人机协作方面的改进。最终强调，优秀的Agent工程需要平衡灵活性、稳定性和可调试性，为构建更可靠的智能体系统提供新思路。",
+  "tags": [
+    "AI Agent",
+    "ReAct",
+    "Agent Harness",
+    "工程架构",
+    "工具调用",
+    "状态管理",
+    "智能体"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "Agent工程正从简单的ReAct模式向更模块化、鲁棒的Agent Harness架构演进，以解决复杂任务中的状态管理与路径规划难题。"
+}

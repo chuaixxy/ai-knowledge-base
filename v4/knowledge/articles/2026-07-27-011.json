@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-27-011",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511077&idx=1&sn=fff2144d46f01d82628f4a36d70ec19b",
+  "title": "Nanbeige4.2-3B：探索通用Agent小模型",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511077&idx=1&sn=fff2144d46f01d82628f4a36d70ec19b",
+  "summary": "Nanbeige4.2-3B项目旨在突破3B参数限制，构建一个多功能通用Agent小模型。该模型需同时掌握代码智能体、办公智能体、复杂工具调用及通用推理能力，强调在极小参数量下实现多任务整合与高效执行，探索小模型在AI Agent领域的实用性与潜力。",
+  "tags": [
+    "小模型",
+    "通用Agent",
+    "代码智能体",
+    "办公智能体",
+    "工具调用",
+    "推理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型与Agent",
+  "key_insight": "在3B参数下实现多Agent能力融合，挑战小模型通用性与效率极限。"
+}

@@ -7130,5 +7130,427 @@
     ],
     "status": "published",
     "collected_at": "2026-07-24T02:53:55.704Z"
+  },
+  {
+    "id": "2026-07-27-001",
+    "title": "Xavier Leroy on programming, languages and formal verification",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+    "category": "编程语言与形式化方法",
+    "relevance_score": 0.85,
+    "tags": [
+      "形式化验证",
+      "OCaml",
+      "编程语言设计",
+      "软件可靠性",
+      "CompCert",
+      "类型系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-002",
+    "title": "Languages as designed latent spaces",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "category": "编程语言理论",
+    "relevance_score": 0.8,
+    "tags": [
+      "编程语言设计",
+      "潜在空间",
+      "认知模型",
+      "抽象机制",
+      "类型系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-003",
+    "title": "Open Weights and American AI Leadership",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "category": "AI政策与战略",
+    "relevance_score": 0.8,
+    "tags": [
+      "开放权重",
+      "AI领导力",
+      "开源模型",
+      "美国AI政策",
+      "创新与安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-004",
+    "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
+    "category": "学术社区讨论",
+    "relevance_score": 0.7,
+    "tags": [
+      "Neurips 2026",
+      "理论论文",
+      "评审分数",
+      "机器学习",
+      "学术讨论"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-005",
+    "title": "Midjourney bought the astrology app Co-Star",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+    "category": "科技并购",
+    "relevance_score": 0.8,
+    "tags": [
+      "Midjourney",
+      "Co-Star",
+      "收购",
+      "AI",
+      "占星",
+      "个性化应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-006",
+    "title": "You can’t ignore Google Zero anymore",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+    "category": "技术趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "谷歌",
+      "搜索引擎",
+      "网站流量",
+      "内容生态",
+      "垄断"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-007",
+    "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "Anthropic",
+      "Opus 5",
+      "AI模型",
+      "Claude",
+      "技术竞争",
+      "安全事件"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-008",
+    "title": "下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
+    "category": "AI基础设施与评测",
+    "relevance_score": 0.9,
+    "tags": [
+      "搜索智能体",
+      "评测基准",
+      "知识图谱",
+      "AI评估",
+      "美团开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-009",
+    "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+    "category": "AI评测与基准",
+    "relevance_score": 0.95,
+    "tags": [
+      "多模态大模型",
+      "评测基准",
+      "开放世界",
+      "长程规划",
+      "能力断层",
+      "MineExplorer",
+      "AI鲁棒性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-010",
+    "title": "分解一座冰山：后端系统「AI 知识库体系」建设实践（长文干货）",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510536&idx=1&sn=ac2faaa2e060546ce38e96c56d773aae",
+    "category": "技术架构",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI知识库",
+      "后端架构",
+      "系统设计",
+      "知识图谱",
+      "实践指南"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-011",
+    "title": "Nanbeige4.2-3B：探索通用Agent小模型",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511077&idx=1&sn=fff2144d46f01d82628f4a36d70ec19b",
+    "category": "AI模型与Agent",
+    "relevance_score": 0.85,
+    "tags": [
+      "小模型",
+      "通用Agent",
+      "代码智能体",
+      "办公智能体",
+      "工具调用",
+      "推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-012",
+    "title": "Poolside 开源 Laguna S 2.1：118B MoE / 8B 激活，1M 上下文，SWE-Bench Multilingual 78.5%",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511074&idx=1&sn=78c48e5ce23a0794b0d0b898c14787a7",
+    "category": "AI基础模型",
+    "relevance_score": 0.95,
+    "tags": [
+      "开源模型",
+      "MoE",
+      "Agentic Coding",
+      "SWE-Bench",
+      "1M上下文",
+      "高效推理",
+      "编程智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-013",
+    "title": "腾讯WorkBuddy实践：如何把Agent做成可用产品",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802931&idx=1&sn=d1a09a7e393f439886c13f84ea8dcde4",
+    "category": "AI产品设计",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agent",
+      "上下文管理",
+      "运行机制",
+      "产品化",
+      "人机协作",
+      "腾讯WorkBuddy"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-014",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998135&idx=1&sn=6572ae88f28e4ec1f9b3e23367854955",
+    "category": "行业报告与趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI动态",
+      "关键词",
+      "每周盘点",
+      "腾讯研究院",
+      "行业趋势",
+      "技术热点"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-015",
+    "title": "袁晓辉：AI让每个人都变强了，但为什么公司没跑得更快？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998134&idx=1&sn=a63b3ed8448b1e27593296efa0710b5d",
+    "category": "AI应用与组织管理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI效率悖论",
+      "组织变革",
+      "企业数字化转型",
+      "生产力瓶颈"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-016",
+    "title": "Token降本50%：Harness工作流的成本优化实践",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696537&idx=1&sn=ef936fe6264b635df4423ea8cc60614b",
+    "category": "AI成本优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "Token优化",
+      "成本控制",
+      "工作流",
+      "Harness",
+      "API优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-017",
+    "title": "CVPR 2026 Highlight 丨 用“几何感知”把扩散 Transformer 采样做成免训练加速器",
+    "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504344&idx=1&sn=4deb91cf0de578e325800e05b3c6944c",
+    "category": "生成模型加速",
+    "relevance_score": 0.85,
+    "tags": [
+      "扩散模型",
+      "Transformer",
+      "采样加速",
+      "几何感知",
+      "免训练",
+      "特征流形",
+      "CVPR"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-018",
+    "title": "让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501060&idx=1&sn=7ec6a54d23f29986b41c53dc40afc1cf",
+    "category": "运维与工程效率",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI运维",
+      "Feature Flag",
+      "全生命周期治理",
+      "自动化",
+      "系统自我维护"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-019",
+    "title": "奇舞周刊第592期：Agent 工程思考：从 ReAct 到 Agent Harness",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518434&idx=1&sn=4c946e731f0c009e4f6fdca883c8265f",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "ReAct",
+      "Agent Harness",
+      "工程架构",
+      "工具调用",
+      "状态管理",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-020",
+    "title": "喜报｜得物算法团队：国际顶会论文录用&荣获AICon明星讲师！",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546220&idx=1&sn=c02ce8a9963f69ae631c14b5faa4d276",
+    "category": "技术荣誉与学术成果",
+    "relevance_score": 0.9,
+    "tags": [
+      "推荐系统",
+      "RecSys",
+      "AICon",
+      "学术论文",
+      "技术影响力"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-021",
+    "title": "梅西投了李飞飞，她转身买下了一家机器人“训练场”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289475&idx=1&sn=e5d0db4027e2da606d114f6e6aef1a89",
+    "category": "科技投资",
+    "relevance_score": 0.8,
+    "tags": [
+      "机器人",
+      "AI训练",
+      "李飞飞",
+      "梅西投资",
+      "数据驱动"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-022",
+    "title": "腾讯开源三大具身基座模型，首席科学家张正友详解“三层脑”如何破解机器人反应慢",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289475&idx=2&sn=d82f5dfa31bcbf1d9ad578643fe701f9",
+    "category": "人工智能",
+    "relevance_score": 0.9,
+    "tags": [
+      "腾讯",
+      "具身智能",
+      "开源模型",
+      "机器人",
+      "分层架构"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-023",
+    "title": "用3万小时触觉数据补齐具身智能「手感」，新智具身联合复旦大学统一触觉「方言」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046706&idx=1&sn=4a09f2999e1f18e03cdb92c5a8019cdb",
+    "category": "具身智能与机器人",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "触觉感知",
+      "多模态数据",
+      "复旦大学",
+      "机器人",
+      "Scaling Law"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-27-024",
+    "title": "从视觉压缩，到视觉记忆：MonkeyOCRv2以重建保留文档页面证据",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046706&idx=2&sn=e898955a97f8121989a03245d944e18f",
+    "category": "计算机视觉与文档分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "OCR",
+      "视觉重建",
+      "文档分析",
+      "视觉记忆",
+      "深度学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-27T03:26:22.999Z"
   }
 ]

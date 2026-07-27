@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-27-004",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
+  "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
+  "summary": "该帖子是Reddit上关于Neurips 2026主赛道理论论文的讨论串，用户分享了自己的论文初始评审分数（4/3/3，置信度3/3/3），并观察到理论论文的初始分数通常比其他领域更保守，且今年整体分数似乎偏低。作者邀请其他理论论文作者分享分数和置信度，以验证是否存在模式。",
+  "tags": [
+    "Neurips 2026",
+    "理论论文",
+    "评审分数",
+    "机器学习",
+    "学术讨论"
+  ],
+  "relevance_score": 0.7,
+  "category": "学术社区讨论",
+  "key_insight": "理论论文在Neurips评审中可能面临更保守的初始评分，且今年整体分数趋势偏低，但需要更多数据验证。"
+}

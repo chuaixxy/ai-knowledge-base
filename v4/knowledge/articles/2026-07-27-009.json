@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-27-009",
+  "source_id": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+  "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+  "summary": "美团LongCat团队推出MineExplorer，这是首个在开放世界中实现分钟级长程任务的评测基准，旨在系统评估多模态大模型在复杂、动态环境下的真实能力。该基准聚焦于需要长程规划且包含隐藏前置条件的任务，揭示了当前顶级多模态大模型的能力断层，即它们在离开静态、封闭的测试环境后，难以应对开放世界中的动态变化、长期依赖和隐性约束。MineExplorer通过模拟真实世界的复杂性，为多模态AI从实验室走向实际应用提供了关键性评测工具，推动该领域向更鲁棒、更智能的方向发展。",
+  "tags": [
+    "多模态大模型",
+    "评测基准",
+    "开放世界",
+    "长程规划",
+    "能力断层",
+    "MineExplorer",
+    "AI鲁棒性"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI评测与基准",
+  "key_insight": "MineExplorer通过开放世界分钟级长程任务，揭示了多模态大模型在动态环境中规划与执行能力的严重不足，这是其从实验室走向实际应用的关键瓶颈。"
+}

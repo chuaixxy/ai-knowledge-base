@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-27-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501060&idx=1&sn=7ec6a54d23f29986b41c53dc40afc1cf",
+  "title": "让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理",
+  "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501060&idx=1&sn=7ec6a54d23f29986b41c53dc40afc1cf",
+  "summary": "本项目提出一种基于AI的Feature Flag全生命周期治理方案，旨在通过自动化手段消除手动管理开关的负担，实现开关的自我消亡。系统利用AI监控、预测和优化Feature Flag的创建、启用、废弃等环节，确保系统自我维护，减少技术债务和运维成本，最终达到治理被遗忘的理想状态。",
+  "tags": [
+    "AI运维",
+    "Feature Flag",
+    "全生命周期治理",
+    "自动化",
+    "系统自我维护"
+  ],
+  "relevance_score": 0.85,
+  "category": "运维与工程效率",
+  "key_insight": "通过AI实现Feature Flag的自动化治理，让系统自我照顾，从而让治理本身被遗忘。"
+}

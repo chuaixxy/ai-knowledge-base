@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-27-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504344&idx=1&sn=4deb91cf0de578e325800e05b3c6944c",
+  "title": "CVPR 2026 Highlight 丨 用“几何感知”把扩散 Transformer 采样做成免训练加速器",
+  "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504344&idx=1&sn=4deb91cf0de578e325800e05b3c6944c",
+  "summary": "该项目提出一种免训练的几何感知加速器，用于加速扩散Transformer的采样过程。核心思想是：扩散采样并非在欧几里得空间沿直线前进，而是在模型学到的弯曲特征流形上移动。通过利用这种几何结构，该方法在不需额外训练的前提下，显著减少采样步数并保持生成质量，实现高效推理。相关工作发表于CVPR 2026 Highlight。",
+  "tags": [
+    "扩散模型",
+    "Transformer",
+    "采样加速",
+    "几何感知",
+    "免训练",
+    "特征流形",
+    "CVPR"
+  ],
+  "relevance_score": 0.85,
+  "category": "生成模型加速",
+  "key_insight": "利用扩散过程的几何流形结构实现免训练采样加速，突破传统平直空间假设。"
+}

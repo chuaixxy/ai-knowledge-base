@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-27-006",
+  "source_id": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+  "title": "You can’t ignore Google Zero anymore",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+  "summary": "文章指出，谷歌与网站之间曾经存在的“数据换流量”默契已经破裂。过去，谷歌通过抓取网页数据来提供搜索服务，作为回报，它会向网站输送大量流量。但如今，随着谷歌搜索算法越来越倾向于优先展示自己的内容（如直接答案、知识面板）或付费广告，网站获得的自然流量大幅下降。这种变化导致网站对谷歌的依赖减弱，也引发了关于搜索生态垄断和内容价值重估的讨论。文章强调，网站不能再将谷歌视为可靠的流量来源，需要探索新的流量获取方式。",
+  "tags": [
+    "谷歌",
+    "搜索引擎",
+    "网站流量",
+    "内容生态",
+    "垄断"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术趋势分析",
+  "key_insight": "谷歌与网站间的传统流量契约已失效，网站需摆脱对搜索巨头的流量依赖。"
+}

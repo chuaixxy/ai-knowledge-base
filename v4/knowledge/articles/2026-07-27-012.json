@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-27-012",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511074&idx=1&sn=78c48e5ce23a0794b0d0b898c14787a7",
+  "title": "Poolside 开源 Laguna S 2.1：118B MoE / 8B 激活，1M 上下文，SWE-Bench Multilingual 78.5%",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511074&idx=1&sn=78c48e5ce23a0794b0d0b898c14787a7",
+  "summary": "Poolside 开源了新一代 Agentic Coding 模型 Laguna S 2.1，采用 118B 参数的 MoE 架构（仅 8B 激活），支持 1M 上下文窗口。该模型在 SWE-Bench Multilingual 等多项 Agent 编码基准上，以极小的激活参数全面超越参数量数倍于己的竞品。实战能力惊人，能从空目录构建渲染引擎，独立重推 Erdős 数学问题。Laguna S 2.1 的发布标志着高效、小激活参数模型在复杂编程任务上的重大突破，为 Agentic Coding 领域提供了开源新选择。",
+  "tags": [
+    "开源模型",
+    "MoE",
+    "Agentic Coding",
+    "SWE-Bench",
+    "1M上下文",
+    "高效推理",
+    "编程智能体"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI基础模型",
+  "key_insight": "以 8B 激活参数实现超越大模型编码能力，证明 MoE 架构和长上下文是 Agentic Coding 高效落地的关键路径。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-27-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802931&idx=1&sn=d1a09a7e393f439886c13f84ea8dcde4",
+  "title": "腾讯WorkBuddy实践：如何把Agent做成可用产品",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802931&idx=1&sn=d1a09a7e393f439886c13f84ea8dcde4",
+  "summary": "该项目由腾讯WorkBuddy团队分享，聚焦于如何将Agent从概念转化为可用产品。核心探讨了Agent的上下文设计（如多轮对话、任务记忆、环境感知）与运行机制（如任务调度、错误恢复、人机协作），强调通过结构化上下文管理和灵活的执行逻辑，提升Agent在复杂工作场景中的可靠性、连贯性与实用性，避免常见的技术落地陷阱。",
+  "tags": [
+    "Agent",
+    "上下文管理",
+    "运行机制",
+    "产品化",
+    "人机协作",
+    "腾讯WorkBuddy"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI产品设计",
+  "key_insight": "Agent产品化的关键在于设计可复用的上下文框架与容错运行机制，而非单纯追求模型能力。"
+}

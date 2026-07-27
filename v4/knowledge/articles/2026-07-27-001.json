@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-27-001",
+  "source_id": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+  "title": "Xavier Leroy on programming, languages and formal verification",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+  "summary": "该项目是基于Xavier Leroy（OCaml语言创始人、形式化验证专家）的访谈或讨论，涉及编程语言设计与形式化验证。内容涵盖Leroy在OCaml开发中的核心思想、形式化验证在软件可靠性中的应用（如CompCert编译器验证），以及编程语言理论对实际工程的影响。项目强调通过数学证明来保证软件正确性，探讨了语言特性（如类型系统）如何辅助验证，并反思了形式化方法在工业界的挑战与前景。",
+  "tags": [
+    "形式化验证",
+    "OCaml",
+    "编程语言设计",
+    "软件可靠性",
+    "CompCert",
+    "类型系统"
+  ],
+  "relevance_score": 0.85,
+  "category": "编程语言与形式化方法",
+  "key_insight": "Xavier Leroy的工作展示了形式化验证如何从理论走向实用，通过构建证明正确的编译器（CompCert）来弥合编程语言理论与高可靠性软件工程之间的鸿沟。"
+}

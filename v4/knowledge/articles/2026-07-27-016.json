@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-27-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696537&idx=1&sn=ef936fe6264b635df4423ea8cc60614b",
+  "title": "Token降本50%：Harness工作流的成本优化实践",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696537&idx=1&sn=ef936fe6264b635df4423ea8cc60614b",
+  "summary": "该项目介绍了Harness工作流中通过优化Token使用实现成本降低50%的实践方法。核心策略包括减少不必要的API调用、合并请求、缓存Token以及调整过期时间，从而在保证功能完整性的前提下大幅减少Token消耗，适用于高频率调用AI服务的场景。",
+  "tags": [
+    "Token优化",
+    "成本控制",
+    "工作流",
+    "Harness",
+    "API优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI成本优化",
+  "key_insight": "通过请求合并与缓存复用，将Token消耗减半，实现显著成本节约。"
+}
