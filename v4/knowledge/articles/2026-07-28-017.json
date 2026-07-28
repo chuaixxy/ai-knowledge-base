@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-28-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289545&idx=1&sn=46fccfe9218eb96dad04a81fd49c9d21",
+  "title": "老黄首推引爆开源论战：Anthropic 员工催 CUDA 开源，吴恩达反击：你可以不开源，但别阻止别人",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289545&idx=1&sn=46fccfe9218eb96dad04a81fd49c9d21",
+  "summary": "英伟达CEO黄仁勋首次在X平台发帖，引发关于AI开放权重的激烈辩论。Anthropic员工呼吁英伟达开源CUDA，但吴恩达反驳称，企业有权选择不开源，但不应阻止他人开源。这场争论迅速波及微软等科技巨头，凸显AI行业在开源与闭源路线上的深刻分歧。",
+  "tags": [
+    "AI开源",
+    "CUDA",
+    "吴恩达",
+    "Anthropic",
+    "英伟达",
+    "开放权重",
+    "技术辩论"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI行业动态",
+  "key_insight": "开源与闭源之争不仅是技术选择，更关乎AI生态控制权与创新路径的博弈。"
+}

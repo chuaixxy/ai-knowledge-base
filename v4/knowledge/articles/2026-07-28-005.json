@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-28-005",
+  "source_id": "https://arxiv.org/abs/2607.21597",
+  "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.21597",
+  "summary": "该论文指出，使用F1分数或IoU等标准机器学习指标评估野火风险系统存在根本缺陷，因为这些指标衡量的是事件预测准确性，而非连续风险信号的操作一致性。作者提出了一种新颖的单调评估框架，用于测量预测风险分数的增加是否与观测到的操作负荷（如火灾数量、干预时间和部署资源）的增加一致。研究在法国阿尔卑斯-滨海省比较了三种方法：基于专家经验的DFE指数、基于GRU的预测模型以及结合预测AI与LLM推理的混合多智能体系统FARS。实验结果显示，尽管DFE分类指标较差，但其在整个风险等级上表现出最均衡的单调行为；GRU模型实现了强局部单调性，但未能产生良好的整体效果。",
+  "tags": [
+    "野火风险",
+    "单调评估框架",
+    "操作负荷",
+    "机器学习指标",
+    "GRU",
+    "混合多智能体系统",
+    "DFE指数"
+  ],
+  "relevance_score": 0.85,
+  "category": "风险评估与机器学习",
+  "key_insight": "传统分类指标不足以评估操作风险信号，单调性框架更能反映风险信号的实际操作一致性。"
+}

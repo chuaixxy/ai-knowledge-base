@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-28-011",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86",
+  "title": "百亿补贴 C 端 AI Coding 实战：基于 SDD 的服务端 AI Coding 实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86",
+  "summary": "该项目介绍百亿补贴场景下，利用SDD（结构化需求文档）与自进化记忆技术，实现服务端AI Coding的实战经验。核心在于开发者通过精准的需求结构化描述和AI记忆能力，完全由AI生成代码，实现零手写代码、高质量交付。项目展示了AI在复杂业务逻辑开发中的深度应用，强调开发者对AI的驾驭能力而非替代。",
+  "tags": [
+    "SDD",
+    "AI Coding",
+    "自进化记忆",
+    "服务端开发",
+    "零代码",
+    "百亿补贴",
+    "AI实践",
+    "高质量交付"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Coding实践",
+  "key_insight": "通过SDD和自进化记忆，开发者可完全依赖AI生成高质量代码，实现0手写代码交付。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-28-004",
+  "source_id": "https://arxiv.org/abs/2607.21596",
+  "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.21596",
+  "summary": "FlowEvo提出一种无需额外训练的框架，通过将执行过程中产生的成功工作流转化为可复用的技能记录（skill records），并存储在技能库（skill bank）中，以支持智能体在未来的推理中调用。该框架包含三个核心机制：工作流到技能的编译、技能到工作流的反馈，以及技能记录的准入检查（接口、回放和安全）。这种方法旨在解决当前大语言模型智能体在执行复杂任务时，临时发现的有效流程无法被系统化保留和复用的问题，从而提升智能体的持续进化能力。",
+  "tags": [
+    "大语言模型",
+    "智能体",
+    "工作流",
+    "技能复用",
+    "持续学习",
+    "推理优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent与持续学习",
+  "key_insight": "通过将成功执行的工作流编译为可复用的技能记录并建立反馈机制，实现智能体在推理过程中的自我进化，而无需额外训练。"
+}

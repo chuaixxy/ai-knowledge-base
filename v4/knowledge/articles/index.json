@@ -7552,5 +7552,361 @@
     ],
     "status": "published",
     "collected_at": "2026-07-27T03:26:22.999Z"
+  },
+  {
+    "id": "2026-07-28-001",
+    "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+    "category": "科技评论",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI泡沫",
+      "苹果",
+      "市场风险",
+      "技术投资",
+      "科技行业"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-002",
+    "title": "AI companies spend record sums on Washington lobbying",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+    "category": "科技政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "游说",
+      "华盛顿",
+      "政策影响",
+      "监管"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-003",
+    "title": "AI companies are shredding rare books",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+    "category": "AI伦理与法律",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI训练数据",
+      "版权争议",
+      "文化遗产",
+      "数据伦理",
+      "知识产权"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-004",
+    "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.21596",
+    "category": "AI Agent与持续学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "智能体",
+      "工作流",
+      "技能复用",
+      "持续学习",
+      "推理优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-005",
+    "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.21597",
+    "category": "风险评估与机器学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "野火风险",
+      "单调评估框架",
+      "操作负荷",
+      "机器学习指标",
+      "GRU",
+      "混合多智能体系统",
+      "DFE指数"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-006",
+    "title": "Securing Multimodal AI through Internal Information Decomposition",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.21600",
+    "category": "AI安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态大模型",
+      "安全性",
+      "跨模态一致性",
+      "对抗攻击检测",
+      "信息分解",
+      "FlowGuard",
+      "推理时防御"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-007",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "category": "医疗机器人",
+    "relevance_score": 0.9,
+    "tags": [
+      "手术机器人",
+      "实时仿真",
+      "生成式AI",
+      "NVIDIA Cosmos",
+      "机器人训练",
+      "物理仿真"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-008",
+    "title": "Why China is giving away its best AI models",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "category": "科技竞争",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI模型",
+      "中美竞争",
+      "低成本高性能",
+      "Kimi K3",
+      "Moonshot AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-009",
+    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "开源",
+      "联盟",
+      "英伟达",
+      "微软",
+      "SpaceX",
+      "IBM"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-010",
+    "title": "顶会入选 | COVERT —— 面向视觉语言模型的隐私保护推理框架入选 ECCV 2026",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521026&idx=1&sn=aa0d13c8287fcf8df9fadbd91dca07da",
+    "category": "计算机视觉与隐私安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "隐私保护",
+      "视觉语言模型",
+      "推理框架",
+      "ECCV 2026",
+      "加密",
+      "边缘计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-011",
+    "title": "百亿补贴 C 端 AI Coding 实战：基于 SDD 的服务端 AI Coding 实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650544975&idx=1&sn=d700955597169348c9c16b0c9ca4ef86",
+    "category": "AI Coding实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "SDD",
+      "AI Coding",
+      "自进化记忆",
+      "服务端开发",
+      "零代码",
+      "百亿补贴",
+      "AI实践",
+      "高质量交付"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-012",
+    "title": "LLaDA2.2-flash 开源：100B MoE 扩散语言模型引入增删编辑，7 项 Agent 基准逼近自回归、解码吞吐 1.64 倍",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511116&idx=1&sn=ce3a8d8d8828ff120d2d5c378b4adefe",
+    "category": "大语言模型与Agent",
+    "relevance_score": 0.85,
+    "tags": [
+      "扩散语言模型",
+      "MoE",
+      "Agent",
+      "解码吞吐",
+      "开源",
+      "100B参数"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-013",
+    "title": "Agent开始“自我进化”：会出题、会反思，还会自己长出新技能",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802932&idx=1&sn=7d3d0536a3433b8848942c2a58b945ca",
+    "category": "AI前沿技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "自我进化",
+      "自主学习",
+      "技能生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-014",
+    "title": "腾讯微证券早报上线混元 AI 播客，支持边听边互动",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498117&idx=1&sn=146edef78401adaaa26f8b8d402eb8eb",
+    "category": "金融科技",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI播客",
+      "金融科技",
+      "语音交互",
+      "腾讯微证券",
+      "混元AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-015",
+    "title": "技术与叙事：一部关于狂热者与反思者的历史",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998148&idx=1&sn=9465babc9d332bc41f8c447fbaf95555",
+    "category": "技术哲学与人文反思",
+    "relevance_score": 0.85,
+    "tags": [
+      "技术哲学",
+      "社会批判",
+      "文明反思",
+      "科技伦理",
+      "历史叙事"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-016",
+    "title": "推荐系统体验的数字化突破：得物自动化评测平台的技术实践｜AICon 文章整理",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546265&idx=1&sn=46de88c503a39ae3a77bd1ab36b85aff",
+    "category": "工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "推荐系统",
+      "自动化评测",
+      "大模型",
+      "人机协作",
+      "分布式任务调度"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-017",
+    "title": "老黄首推引爆开源论战：Anthropic 员工催 CUDA 开源，吴恩达反击：你可以不开源，但别阻止别人",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289545&idx=1&sn=46fccfe9218eb96dad04a81fd49c9d21",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI开源",
+      "CUDA",
+      "吴恩达",
+      "Anthropic",
+      "英伟达",
+      "开放权重",
+      "技术辩论"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-018",
+    "title": "体系战胜巨星：从世界杯决赛看无单点故障的平台化组织战略",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289545&idx=2&sn=bd99f38bfc197476b7808012d59df325",
+    "category": "战略管理",
+    "relevance_score": 0.8,
+    "tags": [
+      "组织战略",
+      "平台化",
+      "无单点故障",
+      "体系化",
+      "体育管理",
+      "案例分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-019",
+    "title": "机器人需要一个「思考系统」：τ0-VLA让具身智能迈向长程任务时代",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046849&idx=1&sn=1b2181ec19053f45ef78944a2041baa9",
+    "category": "人工智能与机器人",
+    "relevance_score": 0.9,
+    "tags": [
+      "具身智能",
+      "长程任务",
+      "机器人思考系统",
+      "任务规划",
+      "τ0-VLA"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-28-020",
+    "title": "拿到DeepMind、Meta等多家Offer后，她把机器学习求职面试的真相写了出来",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046849&idx=2&sn=3f00a958155975765e5ced2d9a4e5f3c",
+    "category": "求职经验分享",
+    "relevance_score": 0.85,
+    "tags": [
+      "机器学习",
+      "求职面试",
+      "研究科学家",
+      "DeepMind",
+      "Meta",
+      "博士就业"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-28T02:44:56.291Z"
   }
 ]

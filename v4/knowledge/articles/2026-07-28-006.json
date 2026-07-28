@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-28-006",
+  "source_id": "https://arxiv.org/abs/2607.21600",
+  "title": "Securing Multimodal AI through Internal Information Decomposition",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.21600",
+  "summary": "该项目针对多模态大语言模型的安全漏洞提出检测方法。传统单模态安全措施无法防御跨模态的恶意攻击，而现有防御手段（如检查原始输入或输出）计算成本高且脆弱。研究者发现，良性输入会使得文本和视觉推理行为在融合时保持一致性，而对抗性操纵会破坏这种内部一致性。基于此，他们提出了FlowGuard，一种轻量级推理时框架，通过监测内部多模态一致性来检测有害输入。FlowGuard使用部分信息分解思想推导出FlowVectors，避免了依赖标量置信度指标的局限性。该方法旨在提升多模态AI系统的安全性和鲁棒性。",
+  "tags": [
+    "多模态大模型",
+    "安全性",
+    "跨模态一致性",
+    "对抗攻击检测",
+    "信息分解",
+    "FlowGuard",
+    "推理时防御"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全",
+  "key_insight": "利用多模态融合时内部信息的一致性作为检测信号，比单纯检查输入输出更有效且高效。"
+}

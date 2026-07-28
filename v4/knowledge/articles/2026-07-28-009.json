@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-28-009",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+  "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+  "summary": "英伟达与微软、SpaceX、IBM等科技公司联合成立“开放安全AI联盟”，旨在共同构建和共享开源AI安全工具。该联盟认为，面对前沿模型的攻击威胁，开源工具是有效防御的必要条件。此举是对日益增长的AI安全担忧的直接回应，但值得注意的是，OpenAI、Google和Anthropic并未参与其中，可能反映了行业内部在安全策略上的分歧。",
+  "tags": [
+    "AI安全",
+    "开源",
+    "联盟",
+    "英伟达",
+    "微软",
+    "SpaceX",
+    "IBM"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI行业动态",
+  "key_insight": "开源AI安全联盟的成立凸显了行业在应对前沿模型威胁时的协作趋势，但主要玩家的缺席暗示了安全策略路径的潜在分化。"
+}

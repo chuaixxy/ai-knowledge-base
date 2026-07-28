@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-28-010",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521026&idx=1&sn=aa0d13c8287fcf8df9fadbd91dca07da",
+  "title": "顶会入选 | COVERT —— 面向视觉语言模型的隐私保护推理框架入选 ECCV 2026",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521026&idx=1&sn=aa0d13c8287fcf8df9fadbd91dca07da",
+  "summary": "COVERT是一个面向视觉语言模型（VLM）的隐私保护推理框架，成功入选ECCV 2026。该框架旨在解决VLM在推理过程中可能泄露用户隐私的问题，通过创新的加密和混淆技术，在保证模型推理准确性的同时，有效保护输入图像和文本数据的隐私。COVERT采用了轻量级的隐私保护机制，适用于云端和边缘设备，为VLM的隐私安全部署提供了可行方案。",
+  "tags": [
+    "隐私保护",
+    "视觉语言模型",
+    "推理框架",
+    "ECCV 2026",
+    "加密",
+    "边缘计算"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机视觉与隐私安全",
+  "key_insight": "COVERT通过轻量级隐私保护机制，在不牺牲VLM推理性能的前提下，实现了对用户数据的端到端隐私保护。"
+}

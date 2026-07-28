@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-28-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802932&idx=1&sn=7d3d0536a3433b8848942c2a58b945ca",
+  "title": "Agent开始“自我进化”：会出题、会反思，还会自己长出新技能",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802932&idx=1&sn=7d3d0536a3433b8848942c2a58b945ca",
+  "summary": "该项目探讨了AI Agent实现自我进化的能力，包括自主出题、反思和生成新技能。这意味着Agent不再依赖固定程序，而是通过自我学习与调整，持续提升能力边界。这种自我进化机制有望让AI在复杂环境中更灵活地适应和解决问题，但同时也带来对可控性和安全性的新挑战。",
+  "tags": [
+    "AI Agent",
+    "自我进化",
+    "自主学习",
+    "技能生成"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI前沿技术",
+  "key_insight": "Agent通过自我出题和反思实现动态能力扩展，标志着AI从被动执行向主动成长的转变。"
+}

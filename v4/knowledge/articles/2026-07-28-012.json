@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-28-012",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511116&idx=1&sn=ce3a8d8d8828ff120d2d5c378b4adefe",
+  "title": "LLaDA2.2-flash 开源：100B MoE 扩散语言模型引入增删编辑，7 项 Agent 基准逼近自回归、解码吞吐 1.64 倍",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511116&idx=1&sn=ce3a8d8d8828ff120d2d5c378b4adefe",
+  "summary": "LLaDA2.2-flash 是一个基于扩散语言模型的100B MoE架构开源项目，首次将“边写边改”的文本生成能力扩展到“边行动边纠错”的Agent场景。它通过引入增删编辑机制，在7项Agent基准测试中逼近自回归模型性能，同时解码吞吐量提升1.64倍，打破了自回归模型在智能体领域的垄断。该项目展示了扩散模型在实时交互和错误修正方面的潜力，为Agent系统提供了更高效、灵活的替代方案。",
+  "tags": [
+    "扩散语言模型",
+    "MoE",
+    "Agent",
+    "解码吞吐",
+    "开源",
+    "100B参数"
+  ],
+  "relevance_score": 0.85,
+  "category": "大语言模型与Agent",
+  "key_insight": "扩散语言模型通过增删编辑机制实现实时纠错，首次在Agent场景中超越自回归模型的性能瓶颈，开辟了高效交互的新路径。"
+}
