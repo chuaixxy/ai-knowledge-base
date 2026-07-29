@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510586&idx=1&sn=2131d6e991d3db144d3d06b636093e59",
+  "title": "当理解成为瓶颈：AI 编程时代的认知债与意图债",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510586&idx=1&sn=2131d6e991d3db144d3d06b636093e59",
+  "summary": "该项目探讨AI编程工具（如Copilot）普及后，开发者面临的新型认知挑战。传统编程瓶颈从“实现能力”转向“理解与意图表达”。认知债指开发者因快速生成代码而缺乏深入理解，导致调试与维护困难；意图债指用户难以精准描述需求，AI生成结果与预期偏差。项目呼吁重新审视人机协作中的思维模式与教育方法。",
+  "tags": [
+    "AI编程",
+    "认知负荷",
+    "人机协作",
+    "软件工程",
+    "开发者体验"
+  ],
+  "relevance_score": 0.85,
+  "category": "人机交互与认知科学",
+  "key_insight": "AI编程时代，真正的瓶颈不是写代码，而是清晰表达意图与维护理解深度。"
+}

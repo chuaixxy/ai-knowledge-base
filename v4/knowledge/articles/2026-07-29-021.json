@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-29-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511189&idx=1&sn=f5faeac3363bba379b93c823efc32f70",
+  "title": "Kimi K3 开源：2.8T 参数全球首个开放 3T 级模型，原生视觉 + 百万上下文",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511189&idx=1&sn=f5faeac3363bba379b93c823efc32f70",
+  "summary": "月之暗面开源了全球首个参数规模达2.8万亿（2.8T）的模型Kimi K3，这是目前最大规模的开源模型。该模型具备原生视觉能力，支持百万token的上下文长度，拥有顶尖的长程编码和智能体（Agent）能力。这一开源举措将极大推动大模型在长文本理解、多模态融合和复杂任务自动化等领域的应用发展，为全球AI研究和工程实践提供了强大的基础设施。",
+  "tags": [
+    "大语言模型",
+    "开源",
+    "多模态",
+    "长上下文",
+    "Agent",
+    "月之暗面"
+  ],
+  "relevance_score": 0.95,
+  "category": "大模型与人工智能",
+  "key_insight": "Kimi K3以2.8T参数成为全球首个开放3T级模型，标志着开源大模型在规模和能力上迈入新纪元，其原生视觉与百万上下文能力将重塑长文本和多模态AI应用格局。"
+}

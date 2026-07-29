@@ -7908,5 +7908,592 @@
     ],
     "status": "published",
     "collected_at": "2026-07-28T02:44:56.291Z"
+  },
+  {
+    "id": "2026-07-29-001",
+    "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.22544",
+    "category": "计算机视觉与可解释AI",
+    "relevance_score": 0.85,
+    "tags": [
+      "扩散模型",
+      "反事实解释",
+      "概念瓶颈",
+      "可解释AI",
+      "视觉模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.169Z"
+  },
+  {
+    "id": "2026-07-29-002",
+    "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.22548",
+    "category": "AI基础模型与系统监控",
+    "relevance_score": 0.85,
+    "tags": [
+      "HPC",
+      "遥测数据",
+      "时间序列",
+      "扩散模型",
+      "语义基础模型",
+      "数字孪生",
+      "零样本"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.169Z"
+  },
+  {
+    "id": "2026-07-29-003",
+    "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.22549",
+    "category": "量子计算与生物信息学交叉",
+    "relevance_score": 0.85,
+    "tags": [
+      "蛋白质结构预测",
+      "量子优化",
+      "多智能体系统",
+      "变分量子本征求解器",
+      "晶格模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.169Z"
+  },
+  {
+    "id": "2026-07-29-004",
+    "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+    "category": "学术伦理与审稿实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI论文检测",
+      "审稿伦理",
+      "学术诚信",
+      "LLM生成内容",
+      "NeurIPS"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.169Z"
+  },
+  {
+    "id": "2026-07-29-005",
+    "title": "Scientific computing in the age of agentic AI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/scientific-computing-agentic-ai",
+    "category": "人工智能与科研",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编码代理",
+      "科学计算",
+      "基因组学",
+      "软件自动化",
+      "科研效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.169Z"
+  },
+  {
+    "id": "2026-07-29-006",
+    "title": "How AI is expanding what people do at work",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "category": "AI与社会影响",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "工作变革",
+      "ChatGPT",
+      "职业边界",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-007",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "category": "AI平台与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "Gemini API",
+      "Managed Agents",
+      "3.6 Flash",
+      "hooks",
+      "AI代理",
+      "谷歌",
+      "生产级应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-008",
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "category": "技术应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "搜索引擎",
+      "用户体验",
+      "生活优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-009",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "category": "生活科技",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "晚宴策划",
+      "Google搜索",
+      "活动规划"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-010",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "category": "地理空间智能平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "地理空间AI",
+      "卫星图像分析",
+      "行星尺度推理",
+      "环境监测",
+      "分布式计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-011",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "category": "模型架构优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "长上下文推理",
+      "CPU推理优化",
+      "混合注意力机制",
+      "Transformer加速",
+      "轻量级架构"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-012",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "category": "安全分析",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "入侵分析",
+      "代理系统",
+      "网络安全",
+      "事件响应"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-013",
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "category": "AI政策与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI治理",
+      "政策倡导",
+      "前沿AI",
+      "安全风险",
+      "全球协调",
+      "科技公司"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-014",
+    "title": "AI’s finally expensive enough to make Wall Street nervous",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "category": "科技财经",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI投资",
+      "资本支出",
+      "谷歌",
+      "华尔街",
+      "盈利担忧"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-015",
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "category": "AI应用与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "本地AI",
+      "Windows",
+      "Perplexity",
+      "个人电脑",
+      "数字工作者"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-016",
+    "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+    "category": "AI Agent平台",
+    "relevance_score": 0.9,
+    "tags": [
+      "美团",
+      "AI Agent",
+      "LongCat 2.0",
+      "企业智能化",
+      "智能工作台",
+      "Agent开发平台"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-017",
+    "title": "当理解成为瓶颈：AI 编程时代的认知债与意图债",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510586&idx=1&sn=2131d6e991d3db144d3d06b636093e59",
+    "category": "人机交互与认知科学",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "认知负荷",
+      "人机协作",
+      "软件工程",
+      "开发者体验"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-018",
+    "title": "灵骏真武M890超节点实例 Day0 适配 Kimi K3",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510586&idx=2&sn=e5e4e61dcdd7afe0315c7653c524f0d4",
+    "category": "基础设施适配",
+    "relevance_score": 0.85,
+    "tags": [
+      "超节点实例",
+      "Day0适配",
+      "Kimi K3",
+      "兼容性",
+      "AI训练",
+      "硬件优化",
+      "分布式系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-019",
+    "title": "最新！Kimi K3上线阿里千问AI平台",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561792&idx=1&sn=45ffc0171cf9ef44b5790f711ecba375",
+    "category": "AI产品动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI",
+      "Kimi K3",
+      "阿里千问",
+      "模型部署",
+      "平台合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-020",
+    "title": "LLaDA2.2 正式发布：Levenshtein 编辑让扩散语言模型「边行动边纠错」",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537689&idx=1&sn=26474b2e575d0b4d46d84cfc94f83396",
+    "category": "大语言模型技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "扩散语言模型",
+      "Levenshtein编辑",
+      "非自回归生成",
+      "文本纠错",
+      "大语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-021",
+    "title": "Kimi K3 开源：2.8T 参数全球首个开放 3T 级模型，原生视觉 + 百万上下文",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511189&idx=1&sn=f5faeac3363bba379b93c823efc32f70",
+    "category": "大模型与人工智能",
+    "relevance_score": 0.95,
+    "tags": [
+      "大语言模型",
+      "开源",
+      "多模态",
+      "长上下文",
+      "Agent",
+      "月之暗面"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-022",
+    "title": "Loop Engineering 已死？ 一文带你了解Graph Engineering",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802937&idx=1&sn=3ecdb58a929806962d1b2455575d6b4a",
+    "category": "技术趋势与工程方法",
+    "relevance_score": 0.85,
+    "tags": [
+      "工程方法",
+      "图工程",
+      "系统建模",
+      "技术演进"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-023",
+    "title": "卖 Token还是卖结果：AI 商业模式的几个悖论",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998156&idx=1&sn=1d7e4189e1dcd1e5f935b71e246d6fa6",
+    "category": "商业分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI商业模式",
+      "商品化",
+      "利润悖论",
+      "Token经济",
+      "行业应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-024",
+    "title": "欠了两年的文档债，我让WorkBuddy用30分钟还清了",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696600&idx=1&sn=8c63c56d0936656877b02fba7c713bfe",
+    "category": "AI工具应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI文档生成",
+      "知识管理",
+      "自然语言处理",
+      "自动化工具",
+      "团队协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-025",
+    "title": "Cube Sandbox v0.6.0：K8s 部署、Volume 框架领衔，六大能力全面走向生产",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696600&idx=2&sn=3dd5b52b59bde9158821c014f7d442dd",
+    "category": "云原生基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "Kubernetes",
+      "Volume框架",
+      "云原生",
+      "生产部署",
+      "稳定性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-026",
+    "title": "征稿启动！快手举办FRecSys 2026，聚焦下一代推荐系统基础架构",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501067&idx=1&sn=9cba2be98f0cd38fdf135af72d2b0607",
+    "category": "技术会议与征稿",
+    "relevance_score": 0.85,
+    "tags": [
+      "推荐系统",
+      "基础架构",
+      "快手",
+      "技术会议",
+      "分布式系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-027",
+    "title": "Kimi 全球大使计划现已开启",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488733&idx=1&sn=ad2c9f0d46c9a720400d91edee158a58",
+    "category": "产品运营",
+    "relevance_score": 0.75,
+    "tags": [
+      "Kimi",
+      "大使计划",
+      "全球推广",
+      "用户激励",
+      "社区运营"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-028",
+    "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0NDU1MDkyNg==&mid=2247488726&idx=1&sn=d7b86ca1f232eaca03876fc8823e4a2c",
+    "category": "AI模型与基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源",
+      "大模型",
+      "技术开放",
+      "Kimi K3",
+      "Infra"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-029",
+    "title": "Token 压缩：从“删减文本”走向大模型上下文治理",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518439&idx=1&sn=81e9d796086d37fbeca08e0cd6418258",
+    "category": "AI模型优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "上下文治理",
+      "Token压缩",
+      "效率优化",
+      "语义保留"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-030",
+    "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
+    "category": "AI开发方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "生成式AI",
+      "评估驱动开发",
+      "规模化评估",
+      "模型质量",
+      "AI安全",
+      "迭代开发",
+      "性能监控"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-031",
+    "title": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289582&idx=1&sn=6fd20a0e60e38331404b2907990bb97d",
+    "category": "AI行业动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源",
+      "K3模型",
+      "月之暗面",
+      "Anthropic",
+      "AI行业"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-032",
+    "title": "OpenSandbox：重新思考 Agent 时代的 Runtime",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289582&idx=2&sn=a87531ce1aca0cca867484d527d4cb92",
+    "category": "AI基础设施与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "执行环境",
+      "沙箱技术",
+      "运行时",
+      "基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-033",
+    "title": "阿里技术人的夏日副本：人机对决、AIGX上新、双城开聊",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047068&idx=1&sn=e0937a894d1d3b49938e50c0b52da9d2",
+    "category": "技术活动",
+    "relevance_score": 0.8,
+    "tags": [
+      "人机对决",
+      "AIGC",
+      "技术交流",
+      "阿里",
+      "AI应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-29-034",
+    "title": "世界模型新比赛！北大、清华、北航、上交、中科大联合发布首个三视角具身世界模型榜单，新评测标准来了",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047068&idx=2&sn=b85c05653e0df460509291f8d8a2755d",
+    "category": "具身智能/世界模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "世界模型",
+      "具身智能",
+      "三视角评测",
+      "联合发布",
+      "AI比赛"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-29T02:51:52.170Z"
   }
 ]

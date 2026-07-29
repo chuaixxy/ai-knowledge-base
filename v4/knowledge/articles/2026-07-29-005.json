@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-005",
+  "source_id": "https://openai.com/index/scientific-computing-agentic-ai",
+  "title": "Scientific computing in the age of agentic AI",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/scientific-computing-agentic-ai",
+  "summary": "该报告探讨了在智能体AI时代，科学家如何利用AI编码代理（coding agents）来现代化科学计算。这些智能体能够自动化代码生成、调试和优化，显著加速了基因组学及其他科学领域的软件开发与发现过程。报告通过具体案例展示了AI如何帮助研究人员从繁琐的编程任务中解放出来，更专注于科学问题本身，从而提升研究效率并推动创新。",
+  "tags": [
+    "AI编码代理",
+    "科学计算",
+    "基因组学",
+    "软件自动化",
+    "科研效率"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能与科研",
+  "key_insight": "AI编码代理通过自动化编程任务，正在成为科学计算现代化的关键驱动力，大幅缩短了从研究想法到实验验证的周期。"
+}

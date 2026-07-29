@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289582&idx=2&sn=a87531ce1aca0cca867484d527d4cb92",
+  "title": "OpenSandbox：重新思考 Agent 时代的 Runtime",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289582&idx=2&sn=a87531ce1aca0cca867484d527d4cb92",
+  "summary": "OpenSandbox项目提出在Agent时代重新定义执行环境（Runtime），认为其不再是底层基础设施，而是决定AI Agent能力上限的关键组件。通过构建更灵活、安全的沙箱环境，项目旨在支持Agent高效执行代码、调用工具和访问资源，从而突破传统运行时限制，实现更复杂、自主的智能行为。这标志着Runtime从被动执行者向主动能力平台转变。",
+  "tags": [
+    "AI Agent",
+    "执行环境",
+    "沙箱技术",
+    "运行时",
+    "基础设施"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与工具",
+  "key_insight": "Runtime是Agent能力的核心瓶颈，OpenSandbox通过重新设计执行环境来解锁AI系统的上限。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289582&idx=1&sn=6fd20a0e60e38331404b2907990bb97d",
+  "title": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289582&idx=1&sn=6fd20a0e60e38331404b2907990bb97d",
+  "summary": "月之暗面于7月27日开源了其K3模型，包括权重、技术报告和基础设施技术。文章指出，对于普通用户而言，运行K3模型的门槛较高，而Anthropic则微妙表态称，从未主张禁止开放权重模型，暗示了对开源态度的某种调整。这一事件反映了AI行业在模型开源与闭源之间的持续博弈。",
+  "tags": [
+    "开源",
+    "K3模型",
+    "月之暗面",
+    "Anthropic",
+    "AI行业"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI行业动态",
+  "key_insight": "K3开源凸显了AI模型的高门槛，而Anthropic的微妙表态则揭示了行业对开源态度的复杂变化。"
+}

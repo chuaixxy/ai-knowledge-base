@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537689&idx=1&sn=26474b2e575d0b4d46d84cfc94f83396",
+  "title": "LLaDA2.2 正式发布：Levenshtein 编辑让扩散语言模型「边行动边纠错」",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537689&idx=1&sn=26474b2e575d0b4d46d84cfc94f83396",
+  "summary": "LLaDA2.2项目发布了基于Levenshtein编辑的扩散语言模型，创新性地实现了在生成过程中“边行动边纠错”。与传统自回归模型逐步生成不同，该模型通过扩散过程从噪声中恢复文本，并利用编辑操作动态调整输出，提升了生成质量和灵活性。这标志着扩散模型在语言建模领域取得突破，挑战了AR架构的垄断地位，为高效、可控的文本生成开辟新路径。",
+  "tags": [
+    "扩散语言模型",
+    "Levenshtein编辑",
+    "非自回归生成",
+    "文本纠错",
+    "大语言模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "大语言模型技术",
+  "key_insight": "LLaDA2.2通过编辑操作实现生成与纠错同步，打破了自回归模型的序列生成限制。"
+}

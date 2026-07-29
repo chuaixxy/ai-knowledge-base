@@ -1,0 +1,17 @@
+{
+  "id": "2026-07-29-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802937&idx=1&sn=3ecdb58a929806962d1b2455575d6b4a",
+  "title": "Loop Engineering 已死？ 一文带你了解Graph Engineering",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802937&idx=1&sn=3ecdb58a929806962d1b2455575d6b4a",
+  "summary": "本文探讨了Loop Engineering的现状与发展趋势，重点介绍了Graph Engineering作为其替代或演进方向。文章深度解析了从传统循环工程到图工程的转变，包括核心概念、技术优势及实际应用案例，指出图工程在复杂系统建模、数据关联分析和可扩展性方面更具潜力，并认为Loop Engineering的局限性推动了这一技术演进。",
+  "tags": [
+    "工程方法",
+    "图工程",
+    "系统建模",
+    "技术演进"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术趋势与工程方法",
+  "key_insight": "Graph Engineering通过图结构替代循环逻辑，解决了复杂系统的建模与扩展瓶颈。"
+}

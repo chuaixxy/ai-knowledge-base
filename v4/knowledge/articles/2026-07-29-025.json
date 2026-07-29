@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696600&idx=2&sn=3dd5b52b59bde9158821c014f7d442dd",
+  "title": "Cube Sandbox v0.6.0：K8s 部署、Volume 框架领衔，六大能力全面走向生产",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696600&idx=2&sn=3dd5b52b59bde9158821c014f7d442dd",
+  "summary": "Cube Sandbox v0.6.0 版本重点增强了Kubernetes部署支持和Volume框架，同时全面提升了稳定性、容错、运维和监控能力，推动项目从实验性走向生产环境。该版本通过六大关键能力升级，包括更健壮的容器编排、持久化存储管理、自动故障恢复、性能监控集成等，显著降低了生产部署的复杂度和风险，为云原生应用提供了更可靠的沙箱环境。",
+  "tags": [
+    "Kubernetes",
+    "Volume框架",
+    "云原生",
+    "生产部署",
+    "稳定性"
+  ],
+  "relevance_score": 0.85,
+  "category": "云原生基础设施",
+  "key_insight": "v0.6.0通过K8s部署和Volume框架的核心增强，标志着Cube Sandbox从实验阶段正式迈入生产就绪阶段。"
+}

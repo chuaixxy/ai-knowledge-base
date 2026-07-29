@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-29-015",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+  "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+  "summary": "Perplexity推出Windows版“个人电脑”工具，将Windows PC转变为本地运行的AI代理系统。该工具类似其四月发布的Mac版本，能作为“通用数字工作者”，访问本地文件和应用程序来执行任务。这标志着AI代理从云端向本地化、跨平台发展的重要一步，扩大了Perplexity在AI助手领域的应用场景。",
+  "tags": [
+    "AI代理",
+    "本地AI",
+    "Windows",
+    "Perplexity",
+    "个人电脑",
+    "数字工作者"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用与工具",
+  "key_insight": "Perplexity将AI代理能力从云端下沉到本地操作系统，使Windows PC成为能自主操作文件和应用的数字工作者，推动AI从问答工具向执行工具进化。"
+}

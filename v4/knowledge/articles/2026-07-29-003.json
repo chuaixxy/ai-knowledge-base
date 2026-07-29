@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-003",
+  "source_id": "https://arxiv.org/abs/2607.22549",
+  "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.22549",
+  "summary": "该论文提出了一种名为QFoldAgent的闭环多智能体框架，用于5残基四面体晶格上的蛋白质结构预测。框架包含一个设计智能体（提出序列条件惩罚项）、一个基于VQE的量子-经典管道（在Qiskit Aer噪声下优化哈密顿量）和一个反馈智能体（利用能量景观诊断和MolProbity验证信号改进惩罚项）。在QDockBank基准测试中，该方法将中位RMSD从3.64 Å降低。框架在已知结构和未知序列上均进行了评估，且未向智能体暴露真实结构指标。",
+  "tags": [
+    "蛋白质结构预测",
+    "量子优化",
+    "多智能体系统",
+    "变分量子本征求解器",
+    "晶格模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "量子计算与生物信息学交叉",
+  "key_insight": "通过多智能体闭环框架自动优化哈密顿量惩罚权重，显著提升了量子-经典混合方法在蛋白质结构预测中的精度。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-29-030",
+  "source_id": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
+  "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788?source=rss----53c7c27702d5---4",
+  "summary": "本文探讨了在规模化评估生成式AI（GenAI）时采用“评估驱动开发”（Eval-driven development）的方法论。作者基于实践经验，强调了系统化评估在确保GenAI模型质量、安全性和可靠性中的关键作用。文章指出，传统开发流程需适配GenAI的随机性和复杂性，通过构建多层次评估体系（如自动化测试、人工评审和用户反馈），团队能更早发现问题、迭代模型，并建立信任。核心教训包括：评估标准需与业务目标对齐，评估工具应可扩展且透明，以及持续监控性能变化的重要性。该方法有助于应对GenAI部署中的不确定性，提升产品稳定性和用户体验。",
+  "tags": [
+    "生成式AI",
+    "评估驱动开发",
+    "规模化评估",
+    "模型质量",
+    "AI安全",
+    "迭代开发",
+    "性能监控"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发方法论",
+  "key_insight": "评估驱动开发通过系统化、多层次的评估体系，将模型质量与业务目标对齐，是规模化部署生成式AI的关键保障。"
+}

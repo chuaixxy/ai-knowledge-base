@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518439&idx=1&sn=81e9d796086d37fbeca08e0cd6418258",
+  "title": "Token 压缩：从“删减文本”走向大模型上下文治理",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518439&idx=1&sn=81e9d796086d37fbeca08e0cd6418258",
+  "summary": "该项目从大模型早期简单问答场景出发，提出Token压缩不应仅停留在删减文本，而应升级为系统的上下文治理策略。通过动态管理输入长度、保留关键语义、优化序列结构，在保证模型输出质量的同时显著降低计算成本与延迟。其核心在于平衡信息密度与模型理解能力，为长上下文应用提供高效、可扩展的解决方案。",
+  "tags": [
+    "大模型",
+    "上下文治理",
+    "Token压缩",
+    "效率优化",
+    "语义保留"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型优化",
+  "key_insight": "Token压缩的本质是从被动删减转向主动治理，通过智能筛选与结构优化实现低成本、高质量的长上下文交互。"
+}

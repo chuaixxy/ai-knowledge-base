@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-29-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510586&idx=2&sn=e5e4e61dcdd7afe0315c7653c524f0d4",
+  "title": "灵骏真武M890超节点实例 Day0 适配 Kimi K3",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510586&idx=2&sn=e5e4e61dcdd7afe0315c7653c524f0d4",
+  "summary": "该项目旨在将‘灵骏真武M890超节点实例’与‘Kimi K3’系统进行适配，重点解决Day0（即部署或初始化阶段）的兼容性问题。通过适配，确保M890超节点实例能够无缝集成Kimi K3，提升系统在AI训练或推理场景中的性能与稳定性。项目涉及硬件驱动优化、软件栈配置及接口调试，以降低延迟并提高资源利用率。这一适配工作对于大规模AI集群的快速部署和高效运行至关重要，尤其适用于需要高算力和低通信延迟的分布式训练环境。",
+  "tags": [
+    "超节点实例",
+    "Day0适配",
+    "Kimi K3",
+    "兼容性",
+    "AI训练",
+    "硬件优化",
+    "分布式系统"
+  ],
+  "relevance_score": 0.85,
+  "category": "基础设施适配",
+  "key_insight": "通过Day0适配，灵骏真武M890超节点实例可快速集成Kimi K3，消除部署瓶颈，为大规模AI训练提供即插即用的高性能计算能力。"
+}

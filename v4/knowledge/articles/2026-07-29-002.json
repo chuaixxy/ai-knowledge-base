@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-29-002",
+  "source_id": "https://arxiv.org/abs/2607.22548",
+  "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.22548",
+  "summary": "SeT-Diff是一种面向高性能计算（HPC）遥测数据和时间序列的语义基础模型。传统方法依赖固定传感器变量，难以适应任务或传感器变化。该模型基于扩散机制，通过每个传感器的语义描述来调节生成过程，从而将系统动态与数据集结构解耦。在真实超算数据集上，重建任务的平均绝对误差（MAE）仅为0.0470。SeT-Diff展现出零样本排列稳定性，在传感器变化时仍能保持高精度，为构建灵活的数字孪生提供了新途径。",
+  "tags": [
+    "HPC",
+    "遥测数据",
+    "时间序列",
+    "扩散模型",
+    "语义基础模型",
+    "数字孪生",
+    "零样本"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础模型与系统监控",
+  "key_insight": "SeT-Diff通过语义描述解耦系统动态与数据结构，实现了对传感器变化的零样本适应，突破了传统HPC遥测模型的静态局限。"
+}

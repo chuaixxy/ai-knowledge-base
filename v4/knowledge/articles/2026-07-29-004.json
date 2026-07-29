@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-29-004",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+  "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+  "summary": "一位 NeurIPS 2026 审稿人抱怨其审阅的论文和 rebuttal 明显由 AI（如 Claude）生成，虽作者在 checklist 中承认使用 AI 辅助写作，但审稿人认为 AI 风格的文本难以解析、缺乏努力，且对完全由 AI 生成的内容缺乏重视，感到沮丧并寻求应对建议。",
+  "tags": [
+    "AI论文检测",
+    "审稿伦理",
+    "学术诚信",
+    "LLM生成内容",
+    "NeurIPS"
+  ],
+  "relevance_score": 0.85,
+  "category": "学术伦理与审稿实践",
+  "key_insight": "AI生成内容在学术评审中引发信任危机，审稿人面临客观判断与个人价值观的冲突。"
+}
