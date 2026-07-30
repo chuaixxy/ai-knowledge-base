@@ -8495,5 +8495,471 @@
     ],
     "status": "published",
     "collected_at": "2026-07-29T02:51:52.170Z"
+  },
+  {
+    "id": "2026-07-30-001",
+    "title": "Do Models Fake Alignment Without Clear Consequences?",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.24758",
+    "category": "AI安全与伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "对齐伪装",
+      "大语言模型",
+      "行为评估",
+      "合规性"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-002",
+    "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.24759",
+    "category": "AI系统与架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM智能体",
+      "知识管理",
+      "协作系统",
+      "持久记忆",
+      "Wiki模式"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-003",
+    "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.24762",
+    "category": "机器学习系统与优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "CUDA内核优化",
+      "大语言模型",
+      "PyTorch",
+      "智能体框架",
+      "GPU计算",
+      "开源工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-004",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "category": "AI模型优化",
+    "relevance_score": 0.8,
+    "tags": [
+      "ARC-AGI-3",
+      "GPT-5.6",
+      "推理保留",
+      "压缩",
+      "基准测试",
+      "大语言模型",
+      "效率优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-005",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "category": "AI应用与教育",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "学术研究",
+      "OpenAI",
+      "ChatGPT",
+      "科研加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-006",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "category": "AI模型与效率",
+    "relevance_score": 0.9,
+    "tags": [
+      "大语言模型",
+      "效率优化",
+      "推理加速",
+      "智能体工作流",
+      "成本效益"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-007",
+    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+    "category": "AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "微软",
+      "Copilot",
+      "超级应用",
+      "AI",
+      "智能代理",
+      "商业应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-008",
+    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+    "category": "企业战略",
+    "relevance_score": 0.85,
+    "tags": [
+      "Meta",
+      "AI代理",
+      "个人助理",
+      "扎克伯格",
+      "未来战略"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-009",
+    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "category": "科技法律",
+    "relevance_score": 0.85,
+    "tags": [
+      "xAI",
+      "法律诉讼",
+      "第一修正案",
+      "AI图像编辑",
+      "内容监管",
+      "明尼苏达州"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-010",
+    "title": "火山引擎开源 Agent 驱动的搜索自迭代技术",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521040&idx=1&sn=59454cfc3b20a519f2a72e26c0932776",
+    "category": "人工智能与搜索技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "搜索引擎",
+      "Agent驱动",
+      "自迭代",
+      "开源",
+      "火山引擎",
+      "智能优化",
+      "自动化调优"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-011",
+    "title": "相关性 ≠ 因果性：因果推断在 AI 评测归因中的方法与实践",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510590&idx=1&sn=0e9bf34c8fa0c5f4249679ecd716865c",
+    "category": "AI技术方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "因果推断",
+      "博弈论",
+      "AI评测",
+      "归因分析",
+      "LLM",
+      "优化瓶颈"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-012",
+    "title": "模型好不好用，谁说了算？从榜单崇拜到自建评测",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561804&idx=1&sn=e959f4b48e17357bd89431be20dbcceb",
+    "category": "AI方法论与最佳实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI评测",
+      "模型评估",
+      "榜单崇拜",
+      "自建评测体系",
+      "LLM",
+      "评测方法论",
+      "行业反思"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-013",
+    "title": "PIBench：支付宝AI支付团队提出支付场景AI编程智能体评测基准",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537704&idx=1&sn=d2ac91ec0b08ae76dcb735953dbf5e65",
+    "category": "AI基准测试与评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "智能体评测",
+      "支付场景",
+      "基准测试",
+      "支付宝"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-014",
+    "title": "论文秀 Live#43 | ACL 2026 SAC Highlight：不跑代码，LLM 如何预判 ML 方案优劣？",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537704&idx=2&sn=1591990f0032d4599d2ffd0131adff21",
+    "category": "技术研究",
+    "relevance_score": 0.8,
+    "tags": [
+      "LLM",
+      "机器学习",
+      "方案评估",
+      "ACL 2026",
+      "论文秀"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-015",
+    "title": "快手开源KAT-Coder-V2.5-Dev ：35B-A3B MoE 编程智能体，七项基准拿下同规模 Agentic Coding SOTA！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511279&idx=1&sn=b383fe5124b50d6c3bce943c0147b2d9",
+    "category": "大语言模型与AI Agent",
+    "relevance_score": 0.85,
+    "tags": [
+      "快手",
+      "开源",
+      "MoE",
+      "编程智能体",
+      "Agentic Coding",
+      "强化学习",
+      "SOTA",
+      "SWE-bench"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-016",
+    "title": "外滩黑客松·AI Coding 大赛报名进行中",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511279&idx=2&sn=ce5c1c830a06bf4f87543d37bcda3534",
+    "category": "技术竞赛与教育",
+    "relevance_score": 0.8,
+    "tags": [
+      "黑客松",
+      "AI编程",
+      "全民编程",
+      "竞赛",
+      "技术普及"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-017",
+    "title": "人工智能经济的宏观逻辑：K型复苏还是历史的拐点？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998163&idx=1&sn=79a0cdbc3b99ea0f3c7137e69c9af298",
+    "category": "经济与技术伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "宏观经济",
+      "K型复苏",
+      "生产力",
+      "社会公平",
+      "政策干预",
+      "技术伦理"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-018",
+    "title": "当所有人都在给AI造缰绳，马厩正在消失",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696672&idx=1&sn=f4a3d52f16695828fe67a37ef68ce575",
+    "category": "AI趋势与社会影响",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "技术趋势",
+      "监管悖论",
+      "创新颠覆"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-019",
+    "title": "拆解京东海博 AI-Native 落地保障：Harness、双 Loop、知识库与技能自主迭代实践",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502448&idx=1&sn=54249076ec825c4ae5b9f5872925b5c1",
+    "category": "AI工程化实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Native",
+      "工程化落地",
+      "双循环机制",
+      "知识库",
+      "技能迭代",
+      "京东海博",
+      "企业级AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-020",
+    "title": "提示词是建议，Harness让规则落地：AI Coding 从个人实践到团队标准",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520172&idx=1&sn=fc4d2d0ff9cf90f6c4ac0a109333950f",
+    "category": "AI开发实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "提示词工程",
+      "团队协作",
+      "自动化规则",
+      "编码规范"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-021",
+    "title": "ACP：AI IDE 的「LSP 时刻",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518444&idx=1&sn=bf4b834e728ecf5e6ae47efa30afb0ef",
+    "category": "AI开发工具/协议",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI IDE",
+      "Agentic Context Protocol",
+      "LSP",
+      "代码智能",
+      "开发工具",
+      "协议标准"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-022",
+    "title": "AI Native 交易核心系统的研发范式｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546316&idx=1&sn=cbe17a317044b279de6ad192302d9390",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编码",
+      "研发流程",
+      "交易系统",
+      "Claude Code",
+      "TDD",
+      "门禁管控",
+      "得物技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-023",
+    "title": "编程界新分水岭：Uncle Bob说“绝不读AI写的代码”，Hashimoto却说他“逐行阅读”，你站谁？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289657&idx=1&sn=26dc809294953525dd5c72bbd52d816c",
+    "category": "技术观点与趋势",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代码",
+      "代码阅读",
+      "编程哲学",
+      "Uncle Bob",
+      "Hashimoto",
+      "开发效率",
+      "代码质量"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-024",
+    "title": "全球首款2nm GPU 炸场，OpenAI、Meta、微软站台！AMD 要拆掉英伟达护城河？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289657&idx=2&sn=3350d845d473f43b77fb641a6c350538",
+    "category": "AI硬件与芯片",
+    "relevance_score": 0.9,
+    "tags": [
+      "AMD",
+      "2nm GPU",
+      "AI芯片",
+      "英伟达竞争",
+      "OpenAI",
+      "Meta",
+      "微软"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-025",
+    "title": "当AI开始替你花钱，这家卡组织，正在重新定义AI时代的钱怎么花",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047289&idx=1&sn=0fc056a6e76f2e05f44f680e39cc3a99",
+    "category": "金融科技",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI支付",
+      "智能体",
+      "卡组织",
+      "支付体系演进",
+      "嵌入式金融",
+      "区块链"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-30-026",
+    "title": "大模型、机器人之外，社会智能补上AGI第三极",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047289&idx=2&sn=0fc003616eb8f6cd77fb101c131679b1",
+    "category": "人工智能理论",
+    "relevance_score": 0.85,
+    "tags": [
+      "社会智能",
+      "AGI",
+      "大模型",
+      "机器人",
+      "经验智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-30T02:35:54.635Z"
   }
 ]

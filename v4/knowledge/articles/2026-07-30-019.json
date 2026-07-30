@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-30-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502448&idx=1&sn=54249076ec825c4ae5b9f5872925b5c1",
+  "title": "拆解京东海博 AI-Native 落地保障：Harness、双 Loop、知识库与技能自主迭代实践",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502448&idx=1&sn=54249076ec825c4ae5b9f5872925b5c1",
+  "summary": "京东海博提出AI-Native研发落地框架，核心包含Harness（工程化管控）、双Loop（执行与反馈闭环）、知识库与技能自主迭代四大机制，旨在解决传统对话AI的随机性、低复用与难管控问题。该方案通过将流程、规范与知识体系原生适配AI自主执行，构建了可沉淀、可迭代的企业级AI工程化协作伙伴，为规模化落地AI原生研发提供完整路径。",
+  "tags": [
+    "AI Native",
+    "工程化落地",
+    "双循环机制",
+    "知识库",
+    "技能迭代",
+    "京东海博",
+    "企业级AI"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化实践",
+  "key_insight": "AI-Native落地的核心不是技术本身，而是通过Harness、双Loop等机制将随机AI转化为可管控、可迭代的工程化系统。"
+}

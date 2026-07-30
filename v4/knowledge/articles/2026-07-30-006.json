@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-30-006",
+  "source_id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+  "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+  "summary": "GPT-5.6通过优化模型架构、推理过程及智能体工作流，在保持前沿智能水平的同时显著提升效率，从而降低每美元成本下的智能产出，实现更经济的AI应用。",
+  "tags": [
+    "大语言模型",
+    "效率优化",
+    "推理加速",
+    "智能体工作流",
+    "成本效益"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型与效率",
+  "key_insight": "GPT-5.6的核心创新在于将前沿智能与高效推理融合，通过系统性优化实现智能与成本的双赢。"
+}

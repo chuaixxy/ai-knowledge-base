@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-30-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520172&idx=1&sn=fc4d2d0ff9cf90f6c4ac0a109333950f",
+  "title": "提示词是建议，Harness让规则落地：AI Coding 从个人实践到团队标准",
+  "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520172&idx=1&sn=fc4d2d0ff9cf90f6c4ac0a109333950f",
+  "summary": "该项目探讨了在AI编程中，提示词（Prompt）仅作为建议，而通过Harness等工具将规则落地，实现从个人实践到团队标准的转变。核心在于建立可执行的编码规范、自动化流程和最佳实践，确保AI辅助开发的一致性和可靠性，从而提升团队效率与代码质量。",
+  "tags": [
+    "AI编程",
+    "提示词工程",
+    "团队协作",
+    "自动化规则",
+    "编码规范"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发实践",
+  "key_insight": "将AI提示从松散建议转化为可执行的团队规则，是规模化AI编码的关键。"
+}

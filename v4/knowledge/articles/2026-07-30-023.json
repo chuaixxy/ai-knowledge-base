@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-30-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289657&idx=1&sn=26dc809294953525dd5c72bbd52d816c",
+  "title": "编程界新分水岭：Uncle Bob说“绝不读AI写的代码”，Hashimoto却说他“逐行阅读”，你站谁？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289657&idx=1&sn=26dc809294953525dd5c72bbd52d816c",
+  "summary": "本文探讨了两位编程界大师关于是否应该阅读AI生成代码的截然不同观点。Uncle Bob（Robert C. Martin）坚决反对阅读AI代码，认为这违背了编程的核心原则，主张开发者应仅关注需求和测试，而非实现细节。而Hashimoto则主张逐行阅读AI代码，以理解其逻辑、发现潜在问题并确保代码质量。这场争论反映了AI辅助编程时代，开发者角色与习惯面临的深刻变革，核心在于信任、理解与控制权的权衡。",
+  "tags": [
+    "AI代码",
+    "代码阅读",
+    "编程哲学",
+    "Uncle Bob",
+    "Hashimoto",
+    "开发效率",
+    "代码质量"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术观点与趋势",
+  "key_insight": "AI代码阅读之争本质是开发者对代码理解与控制权的哲学分歧，而非简单的方法优劣。"
+}

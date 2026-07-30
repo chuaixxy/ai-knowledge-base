@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-30-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537704&idx=2&sn=1591990f0032d4599d2ffd0131adff21",
+  "title": "论文秀 Live#43 | ACL 2026 SAC Highlight：不跑代码，LLM 如何预判 ML 方案优劣？",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537704&idx=2&sn=1591990f0032d4599d2ffd0131adff21",
+  "summary": "该项目探讨了在不运行代码的情况下，利用大型语言模型（LLM）预判机器学习方案优劣的方法。研究基于ACL 2026 SAC Highlight论文，旨在通过LLM的推理能力，从方案描述、模型架构或实验设计等文本信息中直接评估其潜在性能，从而节省计算资源并加速研究迭代。",
+  "tags": [
+    "LLM",
+    "机器学习",
+    "方案评估",
+    "ACL 2026",
+    "论文秀"
+  ],
+  "relevance_score": 0.8,
+  "category": "技术研究",
+  "key_insight": "LLM可通过文本分析预判ML方案优劣，无需实际运行代码，有望改变传统实验验证范式。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-30-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537704&idx=1&sn=d2ac91ec0b08ae76dcb735953dbf5e65",
+  "title": "PIBench：支付宝AI支付团队提出支付场景AI编程智能体评测基准",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537704&idx=1&sn=d2ac91ec0b08ae76dcb735953dbf5e65",
+  "summary": "PIBench是支付宝AI支付团队提出的针对支付场景的AI编程智能体评测基准。该项目旨在通过统一的标准，定义和衡量AI Agent在支付领域的编程能力，包括安全性、准确性、效率和可靠性等关键指标。它为行业提供了一个标尺，以评估和比较不同AI编程智能体在复杂支付任务中的表现，推动支付场景下AI应用从实验走向成熟可靠。PIBench的推出有助于促进支付行业的技术标准化和协作，加速智能支付解决方案的落地。",
+  "tags": [
+    "AI编程",
+    "智能体评测",
+    "支付场景",
+    "基准测试",
+    "支付宝"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基准测试与评估",
+  "key_insight": "PIBench通过统一评测标准，为支付场景AI编程智能体的可靠性和成熟度提供了行业级标尺。"
+}

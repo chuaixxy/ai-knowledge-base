@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-30-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511279&idx=1&sn=b383fe5124b50d6c3bce943c0147b2d9",
+  "title": "快手开源KAT-Coder-V2.5-Dev ：35B-A3B MoE 编程智能体，七项基准拿下同规模 Agentic Coding SOTA！",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511279&idx=1&sn=b383fe5124b50d6c3bce943c0147b2d9",
+  "summary": "快手开源了KAT-Coder-V2.5-Dev，这是一个35B参数、激活3B参数的MoE架构编程智能体。该模型采用Apache-2.0协议全面开源，在SWE-bench系列等七项Agentic Coding基准测试中均取得了同规模最佳成绩。其核心创新在于通过强化学习中的分层奖励设计，将异常工具调用率从9.34%大幅降低至0.28%，显著提升了模型在真实工程环境中的稳定性和可用性，实现了高分与稳定性的兼顾。",
+  "tags": [
+    "快手",
+    "开源",
+    "MoE",
+    "编程智能体",
+    "Agentic Coding",
+    "强化学习",
+    "SOTA",
+    "SWE-bench"
+  ],
+  "relevance_score": 0.85,
+  "category": "大语言模型与AI Agent",
+  "key_insight": "通过强化学习分层奖励机制，在保持顶级编程能力的同时，将异常工具调用率压至0.28%，解决了大模型在工程应用中的稳定性痛点。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-07-30-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546316&idx=1&sn=cbe17a317044b279de6ad192302d9390",
+  "title": "AI Native 交易核心系统的研发范式｜得物技术",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546316&idx=1&sn=cbe17a317044b279de6ad192302d9390",
+  "summary": "本文提出了一种针对交易核心系统研发流程的AI原生改造范式。作者指出传统研发流程难以适配AI编码，因此提出了五道标准化关口治理思路：需求澄清、方案设计、TDD落地、门禁管控与埋点监控。通过依托Claude Code Spec-Driven插件，构建了带人工确认门控的完整工作流。整体架构采用五层自底向上的设计，旨在实现AI编码的规范化落地，提升研发效率与质量，尤其适用于对稳定性要求极高的交易系统。",
+  "tags": [
+    "AI编码",
+    "研发流程",
+    "交易系统",
+    "Claude Code",
+    "TDD",
+    "门禁管控",
+    "得物技术"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "通过五道标准化关口和人工确认门控，将AI编码从零散辅助工具升级为可治理、可落地的系统级研发范式。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-30-002",
+  "source_id": "https://arxiv.org/abs/2607.24759",
+  "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.24759",
+  "summary": "该论文提出一种名为llm-wiki-memory-template的模板化架构，用于解决协作知识工作中信息丢失的问题。通过引入LLM维护的互连Wiki作为原始资源与智能体之间的中介，实现跨会话的持久记忆。该架构支持多人类、多AI智能体、多领域三个维度的异构协作，每个维度由独立的架构元素支撑，旨在避免重复失败并累积知识。",
+  "tags": [
+    "LLM智能体",
+    "知识管理",
+    "协作系统",
+    "持久记忆",
+    "Wiki模式"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI系统与架构",
+  "key_insight": "通过LLM维护的Wiki模式，将临时交互转化为可复用的结构化知识，解决智能体与人类协作中的记忆断层问题。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-30-011",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510590&idx=1&sn=0e9bf34c8fa0c5f4249679ecd716865c",
+  "title": "相关性 ≠ 因果性：因果推断在 AI 评测归因中的方法与实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510590&idx=1&sn=0e9bf34c8fa0c5f4249679ecd716865c",
+  "summary": "该项目针对AI系统评测中常见的“相关性不等于因果性”问题，提出利用因果推断与博弈论方法（如Shapley值、反事实推理）来量化各因素（如模型架构、运行环境、工具调用）对最终输出结果的真实贡献度。通过构建因果图与干预实验，该方法能精准识别LLM、Runtime Env、Tools等组件中的优化瓶颈，避免被表面相关性误导。实践案例显示，该方法在复杂多组件AI系统中可有效提升评测归因的准确性与可解释性，为系统迭代提供科学依据。",
+  "tags": [
+    "因果推断",
+    "博弈论",
+    "AI评测",
+    "归因分析",
+    "LLM",
+    "优化瓶颈"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI技术方法论",
+  "key_insight": "用因果推断打破AI黑箱中的伪相关，精准定位系统瓶颈，实现从“相关”到“因果”的评测范式升级。"
+}

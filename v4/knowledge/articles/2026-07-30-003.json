@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-30-003",
+  "source_id": "https://arxiv.org/abs/2607.24762",
+  "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.24762",
+  "summary": "Kernel Forge是一个开源、端到端的智能体框架，用于基于大语言模型（LLM）生成和优化CUDA内核。它可以直接接受未修改的PyTorch模型，支持视觉、扩散和LLM工作负载，使用蒙特卡洛方法进行调优。相比现有工具仅评估随机张量和孤立内核、生成需手动整合的独立CUDA代码、主要针对LLM PyTorch模型且调试支持有限，Kernel Forge提供了完整的优化管道，减少人工干预，旨在降低延迟和成本。",
+  "tags": [
+    "CUDA内核优化",
+    "大语言模型",
+    "PyTorch",
+    "智能体框架",
+    "GPU计算",
+    "开源工具"
+  ],
+  "relevance_score": 0.9,
+  "category": "机器学习系统与优化",
+  "key_insight": "Kernel Forge通过端到端智能体框架，让LLM直接优化实际模型中的CUDA内核，无需手动整合和随机张量测试，大幅降低优化门槛。"
+}

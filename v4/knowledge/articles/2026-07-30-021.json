@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-30-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518444&idx=1&sn=bf4b834e728ecf5e6ae47efa30afb0ef",
+  "title": "ACP：AI IDE 的「LSP 时刻",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518444&idx=1&sn=bf4b834e728ecf5e6ae47efa30afb0ef",
+  "summary": "ACP（Agentic Context Protocol）旨在成为 AI IDE 领域的“LSP 时刻”，即通过标准化协议，为 AI 编程助手提供更深层的上下文理解能力。它类似于语言服务器协议（LSP）对编辑器智能化的革命性影响，ACP 试图解决当前 AI 工具对项目结构、代码依赖和开发者意图理解不足的问题，使 AI 能更精准地生成、补全和重构代码，从而显著提升开发效率。该项目聚焦于定义 AI 与 IDE 之间高效交互的接口规范。",
+  "tags": [
+    "AI IDE",
+    "Agentic Context Protocol",
+    "LSP",
+    "代码智能",
+    "开发工具",
+    "协议标准"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具/协议",
+  "key_insight": "ACP 试图通过标准化上下文协议，让 AI 编程助手从“补全代码”进化到“理解项目”，可能引发 AI 辅助编程的效率革命。"
+}
