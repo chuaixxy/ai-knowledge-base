@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-31-001",
+  "source_id": "https://arxiv.org/abs/2607.26119",
+  "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.26119",
+  "summary": "本研究探讨了通过强化学习（RL）训练的大型推理模型相较于监督微调（SFT）模型在数学推理任务上表现更优的机制基础。研究发现，RL模型在隐藏状态上训练的线性探针预测答案正确性的准确率更高，表明其表征更具线性可分性和结构化。此外，平均消融实验显示，RL模型形成了层级化架构，深层网络更为关键，而SFT模型在所有层上均匀分布重要性。这些发现表明，RL训练从根本上重塑了模型对推理过程的表征方式，从而提升了性能。",
+  "tags": [
+    "强化学习",
+    "监督微调",
+    "数学推理",
+    "表征分析",
+    "线性探针",
+    "消融研究"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI 可解释性与机制研究",
+  "key_insight": "RL训练使模型在深层形成更结构化、层级化的表征，而SFT则均匀分布，这解释了RL在数学推理上的优势。"
+}

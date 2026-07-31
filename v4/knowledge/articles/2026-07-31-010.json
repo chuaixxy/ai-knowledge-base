@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-31-010",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+  "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+  "summary": "领英推出了一项新功能，允许用户将帖子标记为“看起来像AI生成的内容”，以减少平台上AI生成的低质量内容。这是其一系列更新的一部分，旨在清理信息流，提升内容质量。该按钮为用户提供了一种直接反馈机制，帮助平台识别和过滤疑似AI生成的帖子。此举反映了社交平台对AI内容泛滥的应对，并可能影响内容创作者和营销策略。",
+  "tags": [
+    "AI内容检测",
+    "社交平台",
+    "领英",
+    "内容审核",
+    "用户反馈"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用与社会影响",
+  "key_insight": "领英通过用户众包标记AI内容，展示了平台在应对AI生成内容泛滥时转向社区驱动治理的趋势。"
+}

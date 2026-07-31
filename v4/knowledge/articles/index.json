@@ -8961,5 +8961,411 @@
     ],
     "status": "published",
     "collected_at": "2026-07-30T02:35:54.635Z"
+  },
+  {
+    "id": "2026-07-31-001",
+    "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.26119",
+    "category": "AI 可解释性与机制研究",
+    "relevance_score": 0.9,
+    "tags": [
+      "强化学习",
+      "监督微调",
+      "数学推理",
+      "表征分析",
+      "线性探针",
+      "消融研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-002",
+    "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.26120",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.9,
+    "tags": [
+      "多智能体系统",
+      "目标错位",
+      "LLM",
+      "混合动机",
+      "狼人杀",
+      "廉价交谈",
+      "对抗性环境"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-003",
+    "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.26155",
+    "category": "AI基准测试与评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "临床数据科学",
+      "多模态",
+      "基准测试",
+      "纵向分析",
+      "编码代理",
+      "MIMIC",
+      "长时序推理",
+      "可审计分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-004",
+    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+    "category": "社区运营",
+    "relevance_score": 0.6,
+    "tags": [
+      "招聘",
+      "求职",
+      "机器学习",
+      "社区",
+      "月度汇总"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-005",
+    "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
+    "category": "学术科研",
+    "relevance_score": 0.7,
+    "tags": [
+      "学术评审",
+      "人才流失",
+      "博士生培养",
+      "同行评议",
+      "科研文化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-006",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "category": "AI模型与商业化",
+    "relevance_score": 0.8,
+    "tags": [
+      "GPT-5.6",
+      "成本优化",
+      "企业AI",
+      "模型效率",
+      "定价策略"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-007",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/avatarin",
+    "category": "AI应用案例",
+    "relevance_score": 0.95,
+    "tags": [
+      "GPT-Realtime",
+      "零售",
+      "客户服务",
+      "多语言",
+      "AI智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-008",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "category": "基础设施与运维",
+    "relevance_score": 0.85,
+    "tags": [
+      "GPU调度",
+      "资源管理",
+      "算力优化",
+      "AI基础设施",
+      "成本控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-009",
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "category": "科技商业",
+    "relevance_score": 0.85,
+    "tags": [
+      "苹果",
+      "iCloud Plus",
+      "AI",
+      "订阅服务",
+      "商业化"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-010",
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "category": "AI应用与社会影响",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI内容检测",
+      "社交平台",
+      "领英",
+      "内容审核",
+      "用户反馈"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-011",
+    "title": "面向监控场景的无订阅异常发现：问题、思路与边界",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510834&idx=1&sn=9e785f8e33b7a2e4f0f53e52671023dd",
+    "category": "技术分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "异常检测",
+      "监控指标",
+      "无监督学习",
+      "自适应",
+      "时序数据"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-012",
+    "title": "前端 Skill 驱动的团队 AI Coding 实践：从个人提效到整体赋能",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510834&idx=2&sn=5a5b4047a438b8499f36792f06686618",
+    "category": "技术实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "前端开发",
+      "AI Coding",
+      "团队协作",
+      "技能包",
+      "研发效能"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-013",
+    "title": "混元开源AngelSpec：支持投机解码训练及部署，推理加速最高2.4倍",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511396&idx=1&sn=32c2d4766d4179994ea3943752ea31a3",
+    "category": "大模型推理优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "投机解码",
+      "推理加速",
+      "腾讯混元",
+      "开源框架",
+      "大模型部署"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-014",
+    "title": "“中国云谷·高校训练营”Xbotics 具身智能暑期训练营杭州站开放报名（公益免费）",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511396&idx=2&sn=81dc382d490284a43f37c32354c81adc",
+    "category": "教育培训",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "机器人",
+      "高校训练营",
+      "免费活动",
+      "真机实战",
+      "杭州"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-015",
+    "title": "AI Coding的下一站，不是更会写代码，而是更懂团队",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802960&idx=1&sn=c62698da543f3bd37ba36b617bc92b80",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编码",
+      "团队协作",
+      "工程实践",
+      "QQ浏览器",
+      "上下文感知",
+      "研发效能"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-016",
+    "title": "腾讯混元开源 AngelSpec：支持投机解码训练及部署，推理加速最高2.4倍",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498136&idx=1&sn=f77b7950ad68442c45ef739f0bcf8e1b",
+    "category": "AI推理优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "腾讯混元",
+      "AngelSpec",
+      "投机解码",
+      "推理加速",
+      "大模型",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-017",
+    "title": "AI产业演化的时间尺度：所处阶段与未来节奏｜基于两个经典框架的探索性分析",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998187&idx=1&sn=7ea5f0e21a3642e76c99df87c22575d3",
+    "category": "行业分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI产业",
+      "技术成熟度曲线",
+      "产业生命周期",
+      "趋势分析",
+      "战略规划"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-018",
+    "title": "对Loop Engineering的思考",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696703&idx=1&sn=cb00711eb63b1969763dff76b0e51729",
+    "category": "技术方法论",
+    "relevance_score": 0.7,
+    "tags": [
+      "Loop Engineering",
+      "系统思维",
+      "迭代设计",
+      "反馈机制",
+      "工程方法论"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-019",
+    "title": "KDD 2026，我们来济州岛啦🥳",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669749&idx=1&sn=5b758d5f48a8a325f8f50e49e642c121",
+    "category": "会议活动",
+    "relevance_score": 0.9,
+    "tags": [
+      "KDD2026",
+      "百度",
+      "数据挖掘",
+      "AI",
+      "文心",
+      "学术会议",
+      "招聘"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-020",
+    "title": "深度访谈｜第二次权力转移：当Agent拿走数据库的行动权",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289778&idx=1&sn=d119d2898d62fc0705b88468cc56572d",
+    "category": "技术趋势分析",
+    "relevance_score": 0.92,
+    "tags": [
+      "AI Agent",
+      "数据库",
+      "权力转移",
+      "架构重构",
+      "安全边界",
+      "自然语言交互",
+      "自主决策",
+      "基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-021",
+    "title": "Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289778&idx=2&sn=44a078b873718b0ab07315e64dd92b73",
+    "category": "技术趋势",
+    "relevance_score": 0.8,
+    "tags": [
+      "谷歌",
+      "AI代理",
+      "Kubernetes",
+      "Agent Substrate",
+      "GKE"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-022",
+    "title": "这家中国公司站上国际顶会SIGGRAPH的C位",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047451&idx=1&sn=274e2733c0b51bffa02aeed28256404c",
+    "category": "AI图形学",
+    "relevance_score": 0.85,
+    "tags": [
+      "SIGGRAPH",
+      "3D生成",
+      "AI图形学",
+      "中国AI",
+      "学术影响力"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-07-31-023",
+    "title": "终于，徒步的时候也能上班了！他用ChatGPT语音4小时干了8小时的活儿",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047451&idx=2&sn=6c3eedb4d04899ad178a6b10aa78d3a0",
+    "category": "效率工具/工作方式创新",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI语音助手",
+      "远程办公",
+      "工作生活平衡",
+      "效率提升",
+      "ChatGPT应用",
+      "移动办公"
+    ],
+    "status": "published",
+    "collected_at": "2026-07-31T03:03:02.120Z"
   }
 ]

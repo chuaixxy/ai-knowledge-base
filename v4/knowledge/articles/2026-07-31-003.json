@@ -1,0 +1,21 @@
+{
+  "id": "2026-07-31-003",
+  "source_id": "https://arxiv.org/abs/2607.26155",
+  "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.26155",
+  "summary": "CLINLENS是一个面向纵向多模态临床数据科学的基准测试，包含200个可执行任务，覆盖结构化电子健康记录、笔记、心电图、胸片和超声心动图等五种MIMIC资源。任务通过4x5分类法交叉四种患者时间范围与五种分析能力，采用程序优先的反向合成方法生成带私有参考工作流的半原始数据包，并验证工件、队列/时间语义及最终答案。在固定126任务套件中，最强模型配置仅达56.3%的严格通过率（执行成功率100%），而单独配置的编码代理可解决83/126任务，凸显现有模型在长时序临床推理上的显著不足。",
+  "tags": [
+    "临床数据科学",
+    "多模态",
+    "基准测试",
+    "纵向分析",
+    "编码代理",
+    "MIMIC",
+    "长时序推理",
+    "可审计分析"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基准测试与评估",
+  "key_insight": "CLINLENS揭示当前最强编码代理在长时序多模态临床任务中执行成功但推理严格通过率极低，说明模型缺乏跨模态时间语义的深层审计能力。"
+}

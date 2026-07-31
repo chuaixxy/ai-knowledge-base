@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-31-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511396&idx=1&sn=32c2d4766d4179994ea3943752ea31a3",
+  "title": "混元开源AngelSpec：支持投机解码训练及部署，推理加速最高2.4倍",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511396&idx=1&sn=32c2d4766d4179994ea3943752ea31a3",
+  "summary": "腾讯混元开源了AngelSpec，一个全链路投机解码框架，以及新一代drafter模型DFly的权重。该框架支持从训练到部署的端到端推理加速，最高可将推理速度提升2.4倍。投机解码通过使用一个轻量级草稿模型快速生成候选token，再由目标模型验证，从而减少解码步骤。AngelSpec的独特性在于其覆盖了训练和部署两个阶段，优化了drafter的训练效率和推理时的协同性，降低了延迟并提高了吞吐量。该开源项目旨在帮助开发者轻松集成投机解码技术，提升大模型在实际应用中的性能，尤其适用于对响应速度要求高的场景。",
+  "tags": [
+    "投机解码",
+    "推理加速",
+    "腾讯混元",
+    "开源框架",
+    "大模型部署"
+  ],
+  "relevance_score": 0.9,
+  "category": "大模型推理优化",
+  "key_insight": "AngelSpec通过全链路优化投机解码，将推理加速提升至2.4倍，解决了传统解码效率瓶颈。"
+}

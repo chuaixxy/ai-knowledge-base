@@ -1,0 +1,19 @@
+{
+  "id": "2026-07-31-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498136&idx=1&sn=f77b7950ad68442c45ef739f0bcf8e1b",
+  "title": "腾讯混元开源 AngelSpec：支持投机解码训练及部署，推理加速最高2.4倍",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498136&idx=1&sn=f77b7950ad68442c45ef739f0bcf8e1b",
+  "summary": "腾讯混元团队开源了 AngelSpec，这是一个支持投机解码训练与部署的技术方案，旨在加速大模型推理。通过引入辅助模型或草稿模型进行预测，再由目标模型验证，AngelSpec 能显著减少推理步骤，最高实现 2.4 倍的推理加速。该方案可能结合了训练阶段的优化，使草稿模型与目标模型更协同，从而在保持生成质量的同时提升效率。该开源项目对 LLM 推理性能优化具有重要意义，尤其适用于高吞吐、低延迟场景。",
+  "tags": [
+    "腾讯混元",
+    "AngelSpec",
+    "投机解码",
+    "推理加速",
+    "大模型",
+    "开源"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI推理优化",
+  "key_insight": "AngelSpec 通过统一投机解码的训练与部署流程，将推理加速提升至 2.4 倍，为 LLM 高效部署提供了新范式。"
+}

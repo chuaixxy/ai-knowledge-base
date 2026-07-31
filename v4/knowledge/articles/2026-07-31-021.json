@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-31-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289778&idx=2&sn=44a078b873718b0ab07315e64dd92b73",
+  "title": "Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289778&idx=2&sn=44a078b873718b0ab07315e64dd92b73",
+  "summary": "谷歌于2026年5月推出GKE Agent Sandbox，并预告了Agent Substrate项目，旨在将Kubernetes在容器时代的主导地位延伸至AI代理时代。Agent Substrate可能提供一个基础架构层，用于部署、编排和管理AI代理，类似于Kubernetes对容器的管理。该项目可能统一代理的运行时、通信和安全，成为下一代AI应用的操作系统。",
+  "tags": [
+    "谷歌",
+    "AI代理",
+    "Kubernetes",
+    "Agent Substrate",
+    "GKE"
+  ],
+  "relevance_score": 0.8,
+  "category": "技术趋势",
+  "key_insight": "Agent Substrate有望成为AI代理时代的Kubernetes，重新定义云原生基础设施。"
+}
