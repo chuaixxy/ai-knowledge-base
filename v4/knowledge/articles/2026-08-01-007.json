@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-01-007",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494218&idx=1&sn=97f04a7a0200a366db2aeb1f4b38b3ae",
+  "title": "一镜成片，随心参考｜Seedance 2.5 正式发布",
+  "source": "rss-seed",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494218&idx=1&sn=97f04a7a0200a366db2aeb1f4b38b3ae",
+  "summary": "Seedance 2.5 是一个视频生成模型，主打“一镜成片”，支持长达30秒的长叙事视频生成，无需剪辑即可获得完整镜头。其核心升级在于多模态参考能力和编辑能力：用户可通过图像、文本等多种模态作为参考，精确控制视频内容、风格和细节，并支持对生成结果进行局部编辑和调整，提升创作灵活性和效率。该工具面向影视制作、广告、短视频等创意领域，降低视频创作门槛，加速内容生产流程。",
+  "tags": [
+    "视频生成",
+    "多模态",
+    "长叙事",
+    "AI编辑",
+    "创意工具"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI视频生成",
+  "key_insight": "Seedance 2.5 通过多模态参考和编辑能力的升级，实现了从‘生成片段’到‘生成完整成片’的跨越，重新定义了AI视频创作的效率与可控性。"
+}

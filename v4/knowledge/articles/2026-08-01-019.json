@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-01-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289805&idx=1&sn=beabd56c2e970f366e8f30d56c95594e",
+  "title": "Claude Code之父：每半年清空一次claude.md、skills和hooks，模型自己会想办法",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289805&idx=1&sn=beabd56c2e970f366e8f30d56c95594e",
+  "summary": "该项目提出一种激进的技术管理理念：每半年清空Claude Code的配置文件（claude.md）、skills和hooks，让模型自主重新生成和适应。核心观点是，在快速迭代的AI环境中，静态配置和预设技能会迅速过时，而模型自身具备更强的适应能力。通过定期归零，可以避免依赖过时的上下文，促使模型基于最新能力重构工作流，从而保持系统的灵活性和效率。这种做法的本质是信任模型的自组织能力，将维护成本从人工转向模型，同时强调动态稳定性优于静态固化。项目反映了对AI原生开发范式的探索，即减少人工预设，增加模型自主性，但也面临配置丢失和兼容性风险。",
+  "tags": [
+    "AI开发",
+    "Claude Code",
+    "配置管理",
+    "自适应系统",
+    "技术理念"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "在快速过期的AI环境中，稳定的来源不是静态配置，而是模型持续适应变化的能力。"
+}

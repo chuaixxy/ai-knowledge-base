@@ -9367,5 +9367,385 @@
     ],
     "status": "published",
     "collected_at": "2026-07-31T03:03:02.120Z"
+  },
+  {
+    "id": "2026-08-01-001",
+    "title": "Advancing responsible AI across Europe",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "category": "AI治理与政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "负责任AI",
+      "欧盟AI法案",
+      "透明度",
+      "安全治理",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-002",
+    "title": "Building abundant intelligence",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/building-abundant-intelligence",
+    "category": "AI基础设施与平台",
+    "relevance_score": 0.8,
+    "tags": [
+      "全栈AI",
+      "成本优化",
+      "AI普及",
+      "系统级设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-003",
+    "title": "Univé builds an AI-ready workforce",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/unive",
+    "category": "企业 AI 转型案例",
+    "relevance_score": 0.9,
+    "tags": [
+      "ChatGPT Enterprise",
+      "AI 素养",
+      "劳动力转型",
+      "负责任治理",
+      "员工创新",
+      "企业培训",
+      "数字化变革"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-004",
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "category": "AI伦理与监管",
+    "relevance_score": 0.8,
+    "tags": [
+      "Google",
+      "AI",
+      "Deepfake",
+      "卫星图像",
+      "伦理",
+      "内容审核"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-005",
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "category": "AI伦理与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI图像生成",
+      "谷歌地球",
+      "虚假信息",
+      "伦理风险",
+      "技术滥用",
+      "地理数据"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-006",
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "category": "AI政策与产业",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI音乐",
+      "音乐产业",
+      "版权政策",
+      "榜单规则",
+      "AI监管"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-007",
+    "title": "一镜成片，随心参考｜Seedance 2.5 正式发布",
+    "source": "rss-seed",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494218&idx=1&sn=97f04a7a0200a366db2aeb1f4b38b3ae",
+    "category": "AI视频生成",
+    "relevance_score": 0.75,
+    "tags": [
+      "视频生成",
+      "多模态",
+      "长叙事",
+      "AI编辑",
+      "创意工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-008",
+    "title": "【手猫研发提效随笔】七句话搞定一年AB实验下线：CodingAgent的魔法时刻",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545306&idx=1&sn=02261a574a93c569106843e6160a6281",
+    "category": "研发效能工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AB实验",
+      "CodingAgent",
+      "自动化",
+      "研发提效",
+      "AI辅助开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-009",
+    "title": "从 Spec 驱动转向环境与验证驱动——我对 AI Coding 的一点思考",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510868&idx=1&sn=42f0a3414a57983b491bca0c68f3d171",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "研发提效",
+      "环境驱动",
+      "验证驱动",
+      "软件开发方法论"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-010",
+    "title": "开发者观察 | 7月开源模型盘点：Kimi K3 强势领跑，具身智能迎来爆发期",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511465&idx=1&sn=ed9804a9eed34db5b7ff7043296f90e3",
+    "category": "技术趋势分析",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源模型",
+      "Kimi K3",
+      "具身智能",
+      "多模态",
+      "Agent",
+      "技术盘点"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-011",
+    "title": "Hyra 攻克加法组合学 50 年未解难题",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498145&idx=1&sn=6968b330e01b1f306db418dc19ae4843",
+    "category": "数学研究",
+    "relevance_score": 0.7,
+    "tags": [
+      "数学",
+      "加法组合学",
+      "未解难题",
+      "突破"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-012",
+    "title": "辨析AI对经济增长与生产率的影响",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998206&idx=1&sn=d283aa405b9541589cd0e4e0316dc160",
+    "category": "经济与技术分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "经济增长",
+      "生产率",
+      "技术影响",
+      "政策分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-013",
+    "title": "一个鹅厂程序员，用AI给自己造了10个&#34;外挂&#34;",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696719&idx=1&sn=f406837b72765fac8c52a276811d382e",
+    "category": "个人效率工具/技术实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI工具",
+      "效率提升",
+      "程序员",
+      "自动化",
+      "个性化开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-014",
+    "title": "雷军：小米昆仑技术架构重磅发布，小米澎程 N90 Max、N70 Max 开启预售",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520174&idx=1&sn=0f650a74a0120e5a3a1fe49583b233ac",
+    "category": "智能汽车",
+    "relevance_score": 0.85,
+    "tags": [
+      "小米",
+      "昆仑架构",
+      "智能SUV",
+      "新能源",
+      "大空间",
+      "预售"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-015",
+    "title": "哔哩哔哩B-UP顶尖技术人才项目火热招募中！",
+    "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504366&idx=1&sn=1046f6d0d86e86bf7b98ba308e57036b",
+    "category": "招聘/人才项目",
+    "relevance_score": 0.7,
+    "tags": [
+      "招聘",
+      "技术人才",
+      "哔哩哔哩",
+      "视频平台",
+      "AI应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-016",
+    "title": "快手万擎大模型推理成本和性能优化实践",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501108&idx=1&sn=dcfa39b97ebc65349c684b7bc183cd5c",
+    "category": "系统优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型推理",
+      "性能优化",
+      "PD分离",
+      "KV cache",
+      "投机解码",
+      "调度系统",
+      "并行策略",
+      "成本优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-017",
+    "title": "IDC正式发布《DAA研究报告》，智能经济时代的价值新标尺来了",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669775&idx=1&sn=62220525994790046d02b23e921cbfcd",
+    "category": "行业研究",
+    "relevance_score": 0.75,
+    "tags": [
+      "IDC",
+      "DAA",
+      "数据资产",
+      "智能经济",
+      "价值评估"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-018",
+    "title": "奇舞周刊第593期：当理解成为瓶颈：AI 编程时代的认知债与意图债",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518449&idx=1&sn=36289684fae995403463fc19a9ada130",
+    "category": "技术趋势与开发实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI编程",
+      "认知负荷",
+      "软件开发",
+      "人机协作",
+      "技术债务"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-019",
+    "title": "Claude Code之父：每半年清空一次claude.md、skills和hooks，模型自己会想办法",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289805&idx=1&sn=beabd56c2e970f366e8f30d56c95594e",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI开发",
+      "Claude Code",
+      "配置管理",
+      "自适应系统",
+      "技术理念"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-020",
+    "title": "给 Agent 装上方向盘和刹车，Harness 时代的工程新范式",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289805&idx=2&sn=ec71abd50421c8306c65dabd1d0f0e0c",
+    "category": "AI基础设施与工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "工程化",
+      "安全控制",
+      "自主系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-021",
+    "title": "李飞飞SimFoundry很酷，但Real2Sim有更多办法",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047571&idx=1&sn=6495a253edb8987a4b26ec66390e8960",
+    "category": "AI与机器人技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "Real2Sim",
+      "数字孪生",
+      "具身智能",
+      "仿真",
+      "李飞飞"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-01-022",
+    "title": "「0 人公司」能赚钱吗？他们让GPT自己经营，24小时亏损447美元",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047571&idx=2&sn=9ae40b52aec4acbe4566b3262b6d6a83",
+    "category": "AI应用实验",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI创业",
+      "GPT实验",
+      "自动化商业",
+      "技术局限性",
+      "亏损案例"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-01T03:04:41.123Z"
   }
 ]

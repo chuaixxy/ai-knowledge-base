@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-01-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047571&idx=1&sn=6495a253edb8987a4b26ec66390e8960",
+  "title": "李飞飞SimFoundry很酷，但Real2Sim有更多办法",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047571&idx=1&sn=6495a253edb8987a4b26ec66390e8960",
+  "summary": "该项目关注于“Real2Sim”方法，即直接从真实空间构建虚拟世界模型，以弥补SimFoundry等模拟平台的不足。李飞飞的SimFoundry虽具创新性，但Real2Sim提供了更多途径，通过真实数据采集和重建，实现更精准的物理模拟和场景生成。该技术有望降低仿真成本，提升机器人和AI在真实环境中的泛化能力，推动数字孪生和具身智能的发展。",
+  "tags": [
+    "Real2Sim",
+    "数字孪生",
+    "具身智能",
+    "仿真",
+    "李飞飞"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI与机器人技术",
+  "key_insight": "Real2Sim通过真实数据驱动仿真构建，比纯模拟更高效，是连接物理世界与虚拟世界的核心桥梁。"
+}

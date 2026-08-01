@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-01-004",
+  "source_id": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+  "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+  "summary": "谷歌在周四推出了谷歌地球的一项新功能，允许用户通过文本提示使用AI编辑卫星图像，本质上是用AI生成真实世界的深度伪造图像。该功能上线仅一天后就被关闭。例如，数字挖掘专家Henk van Ess故意生成添加了墨西哥边境附近难民的图像，引发了对该工具可能被滥用的担忧。谷歌未明确说明关闭原因，但推测与伦理风险、内容滥用和公众批评有关。此举反映了科技公司在部署生成式AI工具时面临的监管和道德挑战。",
+  "tags": [
+    "Google",
+    "AI",
+    "Deepfake",
+    "卫星图像",
+    "伦理",
+    "内容审核"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI伦理与监管",
+  "key_insight": "该事件凸显了生成式AI在现实世界应用中的高风险，即使功能创新，也可能因潜在的滥用风险而迅速被撤回。"
+}

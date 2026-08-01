@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-01-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289805&idx=2&sn=ec71abd50421c8306c65dabd1d0f0e0c",
+  "title": "给 Agent 装上方向盘和刹车，Harness 时代的工程新范式",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289805&idx=2&sn=ec71abd50421c8306c65dabd1d0f0e0c",
+  "summary": "该项目提出将Agent能力嵌入工程体系，强调通过'方向盘'（目标导向）和'刹车'（安全控制）机制，解决自主智能体在复杂场景中的可控性与可靠性问题。它倡导从单一模型能力转向Harness（工程框架）时代，通过约束、监控和反馈循环，使Agent在真实业务中安全落地，避免失控风险。",
+  "tags": [
+    "AI Agent",
+    "工程化",
+    "安全控制",
+    "自主系统"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与工程实践",
+  "key_insight": "Agent的实用价值不在模型本身，而在外部工程约束如何赋予其方向感与安全边界。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-01-001",
+  "source_id": "https://openai.com/index/advancing-responsible-ai-across-europe",
+  "title": "Advancing responsible AI across Europe",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+  "summary": "该项目是OpenAI在欧洲推进负责任AI的实践总结，涵盖安全、安保、透明度和来源追溯四大方面，以支持欧盟AI法案的实施。项目强调通过技术措施（如模型卡、数字水印）和政策参与，确保AI系统在欧盟监管框架下合规且可信。OpenAI承诺随EU AI Act的推进持续迭代其治理策略，并与欧洲利益相关方合作，促进创新与风险管理的平衡。项目体现了全球AI公司对区域监管的主动适应，以及负责任AI从原则到落地的具体路径。",
+  "tags": [
+    "负责任AI",
+    "欧盟AI法案",
+    "透明度",
+    "安全治理",
+    "OpenAI"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI治理与政策",
+  "key_insight": "OpenAI通过将安全实践与欧盟法规对齐，展示了科技公司如何将监管要求转化为可操作的治理框架，成为AI合规的先行范例。"
+}

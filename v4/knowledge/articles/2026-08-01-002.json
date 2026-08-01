@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-01-002",
+  "source_id": "https://openai.com/index/building-abundant-intelligence",
+  "title": "Building abundant intelligence",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/building-abundant-intelligence",
+  "summary": "该项目提出了一种全栈式方法来提升先进AI的能力、降低成本并扩大其应用范围。其核心理念是通过系统级优化，而非单一算法改进，来实现AI的普及化。可能涉及硬件、软件、数据、模型和部署的协同设计，旨在使高级AI更高效、更易获取。",
+  "tags": [
+    "全栈AI",
+    "成本优化",
+    "AI普及",
+    "系统级设计"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI基础设施与平台",
+  "key_insight": "强调通过全栈协同优化而非单一技术突破，是降低AI门槛、实现广泛智能的关键。"
+}

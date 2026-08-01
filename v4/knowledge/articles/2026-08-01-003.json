@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-01-003",
+  "source_id": "https://openai.com/index/unive",
+  "title": "Univé builds an AI-ready workforce",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/unive",
+  "summary": "Univé 是一家荷兰保险公司，通过部署 ChatGPT Enterprise，构建了一支具备 AI 素养的劳动力队伍。该项目强调领导层支持、负责任治理和员工驱动的创新三者的结合，以推动工作方式的大规模转型。Univé 通过自上而下的战略引导和自下而上的员工创意，实现了 AI 工具在内部流程中的广泛应用，提高了员工效率和工作满意度，同时确保了数据安全和合规性。该案例展示了传统企业如何系统性地拥抱生成式 AI，为其他组织的数字化转型提供了可复制的模式。",
+  "tags": [
+    "ChatGPT Enterprise",
+    "AI 素养",
+    "劳动力转型",
+    "负责任治理",
+    "员工创新",
+    "企业培训",
+    "数字化变革"
+  ],
+  "relevance_score": 0.9,
+  "category": "企业 AI 转型案例",
+  "key_insight": "AI 转型的成功关键在于建立‘领导支持+治理框架+员工驱动’三位一体的机制，而非单纯的技术部署。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-01-008",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545306&idx=1&sn=02261a574a93c569106843e6160a6281",
+  "title": "【手猫研发提效随笔】七句话搞定一年AB实验下线：CodingAgent的魔法时刻",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545306&idx=1&sn=02261a574a93c569106843e6160a6281",
+  "summary": "该项目由手猫研发团队分享，展示了使用CodingAgent通过七步指令自动化清理已运行一年的AB实验。传统上，AB实验下线涉及代码检查、数据核对、配置移除等繁琐步骤，耗时且易出错。通过定义清晰的指令序列，CodingAgent能够自动识别实验状态、清理相关代码、更新配置并生成报告，显著提升研发效率。文章强调自然语言指令驱动AI代理完成复杂研发任务的潜力，体现了AI在软件工程中的实际应用价值。",
+  "tags": [
+    "AB实验",
+    "CodingAgent",
+    "自动化",
+    "研发提效",
+    "AI辅助开发"
+  ],
+  "relevance_score": 0.85,
+  "category": "研发效能工具",
+  "key_insight": "通过结构化指令，CodingAgent将重复性研发操作自动化，大幅降低人工干预成本，是AI辅助研发的典型实践。"
+}
