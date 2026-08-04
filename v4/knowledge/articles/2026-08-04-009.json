@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-04-009",
+  "source_id": "https://arxiv.org/abs/2607.28632",
+  "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.28632",
+  "summary": "该项目提出了一种三阶段流水线，用于自动发现重大数学猜想。第一阶段通过局部证据模块进行区域搜索，生成候选猜想；第二阶段进行反思性验证，评估其基础性、新颖性和潜在重要性；第三阶段使用Lean 4和Mathlib进行形式化验证。实验在20个候选上显示，所有候选均通过Lean解析和类型检查，且未被现有自动化工具直接吸收。目标是发现具有高“问题品味”的数学问题，其证明可能重组研究领域的语言，为人类数学研究提供持久帮助。",
+  "tags": [
+    "数学猜想发现",
+    "大语言模型",
+    "形式化验证",
+    "Lean 4",
+    "自动推理",
+    "AI for Math"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI for Science",
+  "key_insight": "通过结合LLM的生成与形式化验证，构建了从自然语言到可验证数学猜想的自动化发现流程，有望加速数学研究范式变革。"
+}

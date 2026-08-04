@@ -1,0 +1,22 @@
+{
+  "id": "2026-08-04-007",
+  "source_id": "https://arxiv.org/abs/2607.28629",
+  "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.28629",
+  "summary": "本文提出了一种分层的Agentic AI架构，将系统划分为推理、编排和执行层，以支持从反应式LLM向持久、目标驱动的自主智能体的演进。作者以OpenClaw和Ollama作为全栈实现案例，其中Ollama负责LLM推理，OpenClaw负责运行时编排，集成推理、工具使用和动作执行。原型实验验证了该架构在持久执行等能力上的有效性，并强调了统一框架在设计和评估全栈智能体系统中的重要性。",
+  "tags": [
+    "Agentic AI",
+    "LLM",
+    "自主智能体",
+    "分层架构",
+    "OpenClaw",
+    "Ollama",
+    "推理层",
+    "编排层",
+    "执行层"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI架构与系统",
+  "key_insight": "将推理、编排和执行分离的分层架构，是实现从反应式LLM到自主智能体可扩展性的关键。"
+}

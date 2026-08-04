@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-04-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048040&idx=2&sn=f88e97101d317ecee24af1681fb30b30",
+  "title": "两个小时，10美元，Karpathy做了一个《指环王》3D游戏",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048040&idx=2&sn=f88e97101d317ecee24af1681fb30b30",
+  "summary": "该项目展示了利用AI技术，在极短时间和极低成本下，将文本小说自动转化为可玩的3D游戏。核心流程包括：使用LLM解析小说文本，提取角色、场景、事件等关键元素，并通过程序化生成和3D引擎（如Three.js）构建游戏世界。项目由Andrej Karpathy演示，强调了AI辅助内容生成的效率革命，但游戏复杂度有限，更多是概念验证。",
+  "tags": [
+    "AI游戏生成",
+    "文本转3D",
+    "LLM应用",
+    "程序化生成",
+    "快速原型",
+    "低成本开发"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI应用与内容生成",
+  "key_insight": "AI能将叙事文本直接转化为可交互的3D体验，预示着内容创作从手动建模转向语义驱动，极大降低游戏开发门槛。"
+}

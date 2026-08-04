@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-04-003",
+  "source_id": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+  "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+  "source": "rss-hacker-news-best",
+  "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+  "summary": "该项目揭露了OpenAI支持的超级政治行动委员会（Super PAC）资助一家AI生成新闻网站，该网站发布内容攻击行业批评者，以推动OpenAI的政治议程。文章指出，该网站名为Model Republic，其文章由AI机器人撰写，内容针对OpenAI的反对者，如学者、记者和监管者，试图影响公众舆论和政治决策。此举引发了对AI在政治宣传中滥用的担忧，以及AI生成内容透明度和伦理问题的讨论。Hacker News上的评论讨论了AI新闻的可靠性、政治游说的边界以及OpenAI的公众形象风险。",
+  "tags": [
+    "AI生成内容",
+    "政治宣传",
+    "OpenAI",
+    "超级PAC",
+    "新闻伦理",
+    "信息操纵"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI伦理与政策",
+  "key_insight": "AI技术被用于政治游说，通过生成看似中立的新闻内容来攻击批评者，凸显了AI在信息生态中潜在的操纵风险。"
+}

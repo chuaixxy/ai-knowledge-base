@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-04-008",
+  "source_id": "https://arxiv.org/abs/2607.28631",
+  "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2607.28631",
+  "summary": "本研究提出并实施了一种基于自动化同行评审的基准测试协议，利用前沿大语言模型（GPT-5.4、Gemini、Claude）从原创性、严谨性、清晰度和重要性四个维度评估AI科学家系统生成的论文。作者评估了四个主流AI研究框架（Sakana AI v1/v2、CycleResearcher、Data-to-Paper），每个框架在15个研究提案上运行，生成60篇论文，并与15篇FARS基准论文对比。结果显示，FARS基准论文在所有维度上显著优于其他框架生成的论文，表明当前AI科学家系统在自主研究质量上仍有差距。该研究为AI科研系统的评估提供了可复现的标准化方法，并揭示了不同框架在科研能力上的差异。",
+  "tags": [
+    "AI科学家",
+    "自动化评估",
+    "大语言模型",
+    "同行评审",
+    "科研自动化"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI评估与基准测试",
+  "key_insight": "利用多模型LLM评审可有效区分AI科研系统质量，但现有框架生成的论文仍显著落后于商业基准，凸显自主科研的瓶颈。"
+}

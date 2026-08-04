@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-04-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537722&idx=1&sn=6d1c933785e824c3f4ad68a0844b3467",
+  "title": "KDD 2026新鲜出炉！WSADBench：弱监督异常检测统一基准 | AFAC技术物语",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537722&idx=1&sn=6d1c933785e824c3f4ad68a0844b3467",
+  "summary": "该文解读了KDD 2026上发表的WSADBench，一个针对弱监督异常检测（WSAD）的统一基准。WSADBench整合了多种弱监督形式（如点级、区间级、标签比例和混合监督），提供标准化数据集、评估协议和多种基线算法，旨在解决现有基准不统一、评估不一致的问题，推动WSAD领域的研究发展。",
+  "tags": [
+    "弱监督异常检测",
+    "基准测试",
+    "KDD 2026",
+    "统一评估",
+    "异常检测"
+  ],
+  "relevance_score": 0.85,
+  "category": "学术论文解读",
+  "key_insight": "WSADBench通过统一弱监督异常检测的基准和评估，填补了该领域缺乏标准化比较的空白，有望成为WSAD研究的新参照标准。"
+}

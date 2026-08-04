@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-04-001",
+  "source_id": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "title": "SQLite Critical CVEs or LLM Slop?",
+  "source": "rss-hacker-news-best",
+  "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+  "summary": "JFrog 研究团队对 SQLite 的 CVE 报告进行了深入分析，指出许多被标记为“严重”的漏洞（如 CVE-2023-7104 等）在实际应用中影响有限，部分漏洞描述存在夸大或误导，甚至可能是由 LLM 生成的“垃圾”报告。文章强调，安全社区需警惕 AI 生成的漏洞报告，避免误判，并建议开发者基于实际使用场景评估风险。",
+  "tags": [
+    "SQLite",
+    "CVE",
+    "漏洞分析",
+    "AI安全",
+    "LLM",
+    "安全报告"
+  ],
+  "relevance_score": 0.85,
+  "category": "安全研究",
+  "key_insight": "AI 生成的漏洞报告可能夸大风险，需结合真实场景评估，避免被“LLM 垃圾”误导。"
+}

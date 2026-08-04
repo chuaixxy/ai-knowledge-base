@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-04-011",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
+  "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
+  "summary": "本文作者作为 NeurIPS 等三大会议的审稿人，发现今年审阅的 12 篇论文中仅 1 篇提供完整可复现代码，4 篇提供部分代码，7 篇完全无代码。在提供代码的论文中，3 篇存在明显 bug 导致结果无效。作者指出根本问题在于激励缺失：审稿阶段隐藏代码几乎没有成本，而公开代码反而增加被拒风险。因此呼吁期刊和会议应直接拒稿不提供可复现代码的论文，以提升机器学习研究的可复现性和质量。",
+  "tags": [
+    "可复现性",
+    "代码共享",
+    "学术审稿",
+    "机器学习",
+    "科研激励"
+  ],
+  "relevance_score": 0.9,
+  "category": "科研政策与学术规范",
+  "key_insight": "缺乏强制代码公开的激励导致机器学习论文可复现性危机，需通过拒稿政策扭转现状。"
+}

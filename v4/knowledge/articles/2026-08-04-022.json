@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-04-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511538&idx=1&sn=3b346ce8996d4e9efdd2f2d953bae7fc",
+  "title": "MiniMax H3 开源：通用多模态生成模型，2K 分辨率、原生立体声、最长 15 秒视频",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511538&idx=1&sn=3b346ce8996d4e9efdd2f2d953bae7fc",
+  "summary": "MiniMax H3 正式开源，这是一个通用多模态生成模型，支持 2K 分辨率图像生成、原生立体声音频合成和最长 15 秒的视频生成。该模型在指令遵循能力和成本控制上表现突出，能够处理跨模态的复杂生成任务，适合内容创作、广告、影视预演等场景。开源策略有助于开发者二次开发和社区生态建设，降低多模态应用的门槛。",
+  "tags": [
+    "多模态",
+    "开源模型",
+    "视频生成",
+    "图像生成",
+    "音频生成",
+    "2K分辨率",
+    "立体声",
+    "成本优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型/多模态生成",
+  "key_insight": "MiniMax H3 以开源方式提供高性能多模态生成能力，平衡了质量与成本，可能推动多模态AI应用的普及。"
+}

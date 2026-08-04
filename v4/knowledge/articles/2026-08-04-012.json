@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-04-012",
+  "source_id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "title": "How we built a realtime system for responsive voice AI in six months",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+  "summary": "该项目介绍了一个名为GPT-Live的实时语音AI系统，在六个月内构建完成。该系统采用无轮次语音模型和低延迟架构，实现了与AI的连续语音交互，使对话更加快速自然。核心创新在于消除了传统语音交互中的逐个回合等待，通过流式处理和优化网络传输，显著降低了响应时间，提升了用户体验。项目展示了如何整合语音识别、语言生成和语音合成技术，构建端到端的实时系统，并处理了并发、同步和资源调度等工程挑战。",
+  "tags": [
+    "语音AI",
+    "实时系统",
+    "低延迟",
+    "无轮次模型",
+    "对话交互"
+  ],
+  "relevance_score": 0.85,
+  "category": "实时语音交互系统",
+  "key_insight": "通过无轮次模型和低延迟架构，打破了传统语音对话的等待限制，实现了更自然流畅的连续对话体验。"
+}

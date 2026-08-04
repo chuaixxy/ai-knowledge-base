@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-04-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518",
+  "title": "百亿补贴 C 端 AI Coding 实战：端到端 CodingAgent 设计与实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518",
+  "summary": "该项目介绍百亿补贴团队自研AI Coding Agent，实现从需求到代码的端到端自动化交付。Agent通过任务拆解、代码生成、测试验证和迭代修复，显著提升开发效率，减少人工编码负担。项目强调工程化落地，包括上下文管理、工具调用和反馈闭环，展示了AI在真实业务场景中的生产力价值。",
+  "tags": [
+    "AI Coding",
+    "Agent",
+    "端到端开发",
+    "效率提升",
+    "工程实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "将AI Agent深度嵌入开发流程，实现代码交付自动化，是AI提升研发效能的关键路径。"
+}

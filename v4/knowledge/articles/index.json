@@ -9747,5 +9747,584 @@
     ],
     "status": "published",
     "collected_at": "2026-08-01T03:04:41.123Z"
+  },
+  {
+    "id": "2026-08-04-001",
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "category": "安全研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "SQLite",
+      "CVE",
+      "漏洞分析",
+      "AI安全",
+      "LLM",
+      "安全报告"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-002",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "category": "软件开发实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM编程",
+      "认知债务",
+      "代码质量",
+      "人工重输",
+      "开发者习惯"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-003",
+    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "category": "AI伦理与政策",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI生成内容",
+      "政治宣传",
+      "OpenAI",
+      "超级PAC",
+      "新闻伦理",
+      "信息操纵"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-004",
+    "title": "Categorization with NLP",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/",
+    "category": "技术教程/分享",
+    "relevance_score": 0.8,
+    "tags": [
+      "NLP",
+      "文本分类",
+      "机器学习",
+      "自然语言处理",
+      "算法"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-005",
+    "title": "Why Do Cognitive Scientists Hate LLMs? (2023)",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/",
+    "category": "认知科学与AI交叉",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLMs",
+      "认知科学",
+      "AI批评",
+      "心智模型",
+      "跨学科"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-006",
+    "title": "Categorization with NLP",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+    "category": "自然语言处理",
+    "relevance_score": 0.6,
+    "tags": [
+      "NLP",
+      "文本分类",
+      "机器学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-007",
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.28629",
+    "category": "AI架构与系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agentic AI",
+      "LLM",
+      "自主智能体",
+      "分层架构",
+      "OpenClaw",
+      "Ollama",
+      "推理层",
+      "编排层",
+      "执行层"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-008",
+    "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.28631",
+    "category": "AI评估与基准测试",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI科学家",
+      "自动化评估",
+      "大语言模型",
+      "同行评审",
+      "科研自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-009",
+    "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2607.28632",
+    "category": "AI for Science",
+    "relevance_score": 0.85,
+    "tags": [
+      "数学猜想发现",
+      "大语言模型",
+      "形式化验证",
+      "Lean 4",
+      "自动推理",
+      "AI for Math"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-010",
+    "title": "[D] Self-Promotion Thread",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
+    "category": "社区运营",
+    "relevance_score": 0.6,
+    "tags": [
+      "社区管理",
+      "自我推广",
+      "Reddit",
+      "机器学习",
+      "内容治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-011",
+    "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
+    "category": "科研政策与学术规范",
+    "relevance_score": 0.9,
+    "tags": [
+      "可复现性",
+      "代码共享",
+      "学术审稿",
+      "机器学习",
+      "科研激励"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-012",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "category": "实时语音交互系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音AI",
+      "实时系统",
+      "低延迟",
+      "无轮次模型",
+      "对话交互"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-013",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/circles",
+    "category": "AI行业应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "OpenAI",
+      "电信",
+      "个性化",
+      "ARPU提升",
+      "客户留存",
+      "Codex",
+      "AI原生"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-014",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/ten-advances-in-mathematics",
+    "category": "基础理论研究",
+    "relevance_score": 0.9,
+    "tags": [
+      "数学",
+      "理论计算机科学",
+      "几何",
+      "密码学",
+      "计算复杂性",
+      "OpenAI",
+      "基础研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-015",
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "category": "政策法规",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI监管",
+      "透明度",
+      "欧盟",
+      "深度伪造",
+      "AI法案"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-016",
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "category": "科技竞争",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI模型",
+      "阿里巴巴",
+      "Qwen",
+      "中美竞争",
+      "大模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-017",
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "category": "行业动态与公关事件",
+    "relevance_score": 0.75,
+    "tags": [
+      "Fender",
+      "AI音乐",
+      "公关危机",
+      "Telecaster",
+      "乐器行业"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-018",
+    "title": "字节跳动2027校招正式启动！",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521059&idx=1&sn=3473116140a8c13351c998c519ca93a1",
+    "category": "招聘/人才招聘",
+    "relevance_score": 0.6,
+    "tags": [
+      "校园招聘",
+      "字节跳动",
+      "2027届",
+      "人才招聘",
+      "技术挑战",
+      "雇主品牌"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-019",
+    "title": "百亿补贴 C 端 AI Coding 实战：端到端 CodingAgent 设计与实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545319&idx=1&sn=c3ab874dd2d19f5706fe41fc6e589518",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Coding",
+      "Agent",
+      "端到端开发",
+      "效率提升",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-020",
+    "title": "Qwen3.8-Max首发上线阿里千问AI平台，API服务与Token Plan同步开放",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561812&idx=1&sn=a864f8ca207e730d072bc1d2beab2c19",
+    "category": "AI模型发布",
+    "relevance_score": 0.95,
+    "tags": [
+      "大模型",
+      "阿里云",
+      "API服务",
+      "AI平台",
+      "Token计费"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-021",
+    "title": "KDD 2026新鲜出炉！WSADBench：弱监督异常检测统一基准 | AFAC技术物语",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537722&idx=1&sn=6d1c933785e824c3f4ad68a0844b3467",
+    "category": "学术论文解读",
+    "relevance_score": 0.85,
+    "tags": [
+      "弱监督异常检测",
+      "基准测试",
+      "KDD 2026",
+      "统一评估",
+      "异常检测"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-022",
+    "title": "MiniMax H3 开源：通用多模态生成模型，2K 分辨率、原生立体声、最长 15 秒视频",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511538&idx=1&sn=3b346ce8996d4e9efdd2f2d953bae7fc",
+    "category": "AI模型/多模态生成",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态",
+      "开源模型",
+      "视频生成",
+      "图像生成",
+      "音频生成",
+      "2K分辨率",
+      "立体声",
+      "成本优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-023",
+    "title": "魔搭社区模型速递（7.26-8.1）",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511484&idx=1&sn=d873d818886679dc644164a4fa7885d4",
+    "category": "社区动态",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI模型",
+      "数据集",
+      "创新应用",
+      "开源社区",
+      "生态发展"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-024",
+    "title": "腾讯Omega：下一代“AI BI”的答案？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802990&idx=1&sn=dc5352efb04594f6eb0bf8644be49cad",
+    "category": "AI应用/商业智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI BI",
+      "腾讯Omega",
+      "数据看板",
+      "自然语言处理",
+      "智能分析",
+      "商业智能",
+      "数据可视化",
+      "低代码"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-025",
+    "title": "鹅厂员工有哪些小众的 AI 玩法？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802968&idx=1&sn=2d2ebd6412b2698bc6e5cb18446a13b9",
+    "category": "技术应用观察",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI应用",
+      "职场效率",
+      "创意玩法",
+      "腾讯",
+      "趣味技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-026",
+    "title": "AI 不自动带来超级组织",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998217&idx=1&sn=9ddcbcadbc9db6d3ecd312b3ceb56559",
+    "category": "未来学/组织行为学",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI",
+      "组织理论",
+      "未来工作",
+      "去中心化",
+      "社会影响"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-027",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998208&idx=1&sn=c53adc63f463d4fa48d60767858af027",
+    "category": "行业洞察",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI动态",
+      "关键词监控",
+      "行业报告",
+      "趋势分析",
+      "腾讯研究院"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-028",
+    "title": "报名中！2026架构师峰会倒计时14天｜潮起潮落，你我仍在",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696746&idx=1&sn=b8b216e9b7f36ce5cf51befe98f73060",
+    "category": "技术会议/活动",
+    "relevance_score": 0.7,
+    "tags": [
+      "架构师",
+      "技术峰会",
+      "腾讯云",
+      "报名",
+      "2026"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-029",
+    "title": "P人的“病”，也不是一定得治",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669791&idx=1&sn=79626b762e391388e03cc5d64a5141c8",
+    "category": "AI产品/智能体",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI智能体",
+      "任务管理",
+      "文心助手",
+      "效率工具",
+      "生活规划",
+      "百度"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-030",
+    "title": "DevOps之父：发几个Claude Code账号就叫AI转型？Agent用不好是公司的锅",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289986&idx=1&sn=c711114338d69a62613e684d6f7388b7",
+    "category": "技术管理与方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI转型",
+      "DevOps",
+      "AI Agent",
+      "软件开发",
+      "组织变革"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-031",
+    "title": "自构建智能体：一项 LangChain4j 实验",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289986&idx=2&sn=9ddd5b4595e46ea7f853e30b1053986d",
+    "category": "AI开发与实验",
+    "relevance_score": 0.9,
+    "tags": [
+      "LangChain4j",
+      "元实验",
+      "AI智能体",
+      "代码生成",
+      "自我构建"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-032",
+    "title": "AI首次拿下IMO官方满分金牌，背后藏着一套自我纠错机制",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048040&idx=1&sn=9a66e6d6348ad9582d83d14d6ff74aa7",
+    "category": "人工智能技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "数学推理",
+      "IMO",
+      "自我纠错",
+      "人工智能突破"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-04-033",
+    "title": "两个小时，10美元，Karpathy做了一个《指环王》3D游戏",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048040&idx=2&sn=f88e97101d317ecee24af1681fb30b30",
+    "category": "AI应用与内容生成",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI游戏生成",
+      "文本转3D",
+      "LLM应用",
+      "程序化生成",
+      "快速原型",
+      "低成本开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-04T02:49:53.875Z"
   }
 ]

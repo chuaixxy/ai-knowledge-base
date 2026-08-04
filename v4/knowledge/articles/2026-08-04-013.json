@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-04-013",
+  "source_id": "https://openai.com/index/circles",
+  "title": "Circles powers telco personalization with OpenAI technology",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/circles",
+  "summary": "Circles是一家电信行业的技术公司，利用OpenAI的API和Codex工具，打造AI原生的电信体验。通过个性化服务，Circles成功将每用户平均收入（ARPU）提升了22%，客户流失率降低了9%，并显著提高了开发效率。该项目展示了AI在传统电信行业的落地潜力，通过自动化开发和智能交互，优化了用户服务和运营流程。",
+  "tags": [
+    "OpenAI",
+    "电信",
+    "个性化",
+    "ARPU提升",
+    "客户留存",
+    "Codex",
+    "AI原生"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI行业应用",
+  "key_insight": "AI不仅能提升用户体验，还能直接驱动商业指标（如ARPU和流失率），并通过Codex加速开发，实现技术商业双赢。"
+}

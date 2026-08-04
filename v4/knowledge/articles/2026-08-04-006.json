@@ -1,0 +1,16 @@
+{
+  "id": "2026-08-04-006",
+  "source_id": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+  "title": "Categorization with NLP",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+  "summary": "该项目名为“Categorization with NLP”，讨论如何利用自然语言处理技术进行文本分类。项目内容可能涉及使用机器学习模型（如BERT、LSTM等）对文本数据自动分类，应用于新闻分类、邮件过滤、情感分析等场景。摘要需基于实际内容，但当前描述仅包含一个链接，无法提取更多细节，故概括为NLP分类技术的应用与讨论。",
+  "tags": [
+    "NLP",
+    "文本分类",
+    "机器学习"
+  ],
+  "relevance_score": 0.6,
+  "category": "自然语言处理",
+  "key_insight": "利用NLP实现高效文本分类，可自动化处理海量文本数据。"
+}

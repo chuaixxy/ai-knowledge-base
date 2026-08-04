@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-04-030",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289986&idx=1&sn=c711114338d69a62613e684d6f7388b7",
+  "title": "DevOps之父：发几个Claude Code账号就叫AI转型？Agent用不好是公司的锅",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651289986&idx=1&sn=c711114338d69a62613e684d6f7388b7",
+  "summary": "该项目由DevOps之父提出，批评企业仅通过发放Claude Code账号来宣称AI转型，认为这是对AI能力的误解。他主张，如果Agent（AI编程助手）产出的代码质量不佳，不应直接修复代码，而应修复产生代码的系统——即开发流程、工具链、规范和文化。核心观点是，AI转型需要系统性改造，包括重新设计工作流、明确Agent的角色与边界、建立反馈机制，并提升团队对AI的理解和协作能力。否则，企业只会陷入低效的“人机互修”循环。",
+  "tags": [
+    "AI转型",
+    "DevOps",
+    "AI Agent",
+    "软件开发",
+    "组织变革"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术管理与方法论",
+  "key_insight": "AI转型的关键在于重构系统而非修补输出，否则Agent只会放大低效流程。"
+}
