@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-05-010",
+  "source_id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "summary": "该项目介绍如何利用LFM2.5-2.6B模型在本地部署智能代理（agents），强调轻量级、高效和隐私保护。LFM2.5-2.6B是一个约26亿参数的语言模型，适合在边缘设备或本地服务器上运行，无需依赖云端。项目可能提供部署指南、代码示例和优化技巧，使开发者能够快速构建自主执行任务的本地代理，如自动化工作流、信息检索或对话系统。其优势在于降低延迟、节省成本、增强数据安全，并支持离线运行。该方案适用于资源受限环境，推动AI民主化，让更多开发者能基于开源模型创建个性化智能体。",
+  "tags": [
+    "本地部署",
+    "智能代理",
+    "轻量级模型",
+    "隐私保护",
+    "边缘计算",
+    "开源模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI部署与智能代理",
+  "key_insight": "LFM2.5-2.6B通过轻量级设计，使本地代理部署成为可能，平衡了性能与资源消耗，是边缘AI落地的重要实践。"
+}

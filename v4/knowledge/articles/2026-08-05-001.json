@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-05-001",
+  "source_id": "https://arxiv.org/abs/2608.00001",
+  "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.00001",
+  "summary": "本研究笔记通过守恒一致编码（CCE）框架重新审视莱布尼茨磨坊、图灵模仿游戏和塞尔中文房间这三个经典思想实验。作者构建了一个玩具符号环境，其中行为成功与否由任务表现（W_causal,T）衡量，而操作意识（κ_T）则衡量保留的内部结构支持该行为的效率。在该设定下，一个未压缩的查找系统和一个紧凑的生成系统原则上可以达到相当的行为成功，但κ_T值差异显著：前者依赖不断扩展的未重用映射存储，后者则重用紧凑的内部结构。因此，该笔记通过区分外在表现与其支撑组织，重新构建了关于理解的经典争论，并阐明了这一区分对后续AI安全分析的重要性。",
+  "tags": [
+    "意识测量",
+    "AI安全",
+    "思想实验",
+    "CCE框架",
+    "行为与结构"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与意识理论",
+  "key_insight": "行为成功与内部结构效率（操作意识）可分离，为AI安全评估提供了新的度量维度。"
+}

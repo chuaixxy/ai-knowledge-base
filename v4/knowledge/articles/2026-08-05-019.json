@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-05-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+  "title": "Hy ASR 3.0 preview发布：真正懂上下文的语音识别",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+  "summary": "Hy ASR 3.0 preview发布，主打上下文理解的语音识别，强调对语境的深度感知能力，以提升识别准确率和自然交互体验。元宝已接入该技术，意味着其语音服务将获得更智能的语义理解支持，可能用于办公、客服或内容创作场景。该版本为预览版，后续或进一步优化模型性能与多场景适配。",
+  "tags": [
+    "语音识别",
+    "上下文理解",
+    "ASR",
+    "AI应用",
+    "元宝"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI技术产品",
+  "key_insight": "上下文感知是语音识别从‘听清’到‘听懂’的关键升级，元宝接入将推动实用化落地。"
+}

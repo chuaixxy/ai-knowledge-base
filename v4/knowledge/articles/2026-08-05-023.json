@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-05-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506912&idx=1&sn=c0f7935c8107f4d065c7c47e9812d48a",
+  "title": "TDMQ 亮相 Community Over Code Asia 2026",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506912&idx=1&sn=c0f7935c8107f4d065c7c47e9812d48a",
+  "summary": "腾讯云 TDMQ 消息队列团队将在 Community Over Code Asia 2026（8月7-9日，北京）带来三场技术演讲，主题涵盖 TDMQ for Apache Pulsar 的多模态存储与延迟消息、腾讯云 MQTT 的 AI 接入层 AI Link，以及 Apache RocketMQ 的低延迟优化。这些演讲反映了消息队列在云原生 Serverless、物联网和实时数据领域的核心作用，并展示了 Apache 生态中多个消息项目的活跃发展。活动旨在促进消息技术交流，探讨事件驱动架构和事件流技术的规模化落地。",
+  "tags": [
+    "消息队列",
+    "Apache Pulsar",
+    "Apache RocketMQ",
+    "MQTT",
+    "云原生",
+    "Serverless",
+    "物联网",
+    "事件驱动"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术会议与演讲",
+  "key_insight": "腾讯云 TDMQ 团队通过分享多模态存储、AI 接入和低延迟优化，凸显消息队列在云原生和智能时代的关键作用，并推动 Apache 生态的协同创新。"
+}

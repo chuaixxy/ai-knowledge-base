@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-05-030",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048208&idx=2&sn=bc63eb3cc25002794ef8b3131a48e7de",
+  "title": "16张B200才能跑的Kimi K3，8张AMD就装下了",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048208&idx=2&sn=bc63eb3cc25002794ef8b3131a48e7de",
+  "summary": "该项目聚焦于AI大模型训练中显存容量与算力需求的权衡，指出NVIDIA B200需要16张GPU才能运行的Kimi K3模型，而AMD的8张GPU即可装载，凸显了显存容量在高端AI计算中的关键地位。文章探讨了AMD在显存配置上的策略优势，分析其是否押对了技术路线，并讨论了这一趋势对硬件市场格局的潜在影响。",
+  "tags": [
+    "AI基础设施",
+    "GPU",
+    "显存",
+    "AMD",
+    "NVIDIA",
+    "大模型",
+    "硬件竞争"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI硬件与基础设施",
+  "key_insight": "显存容量成为AI算力瓶颈，AMD通过高显存配置可能获得差异化竞争优势。"
+}

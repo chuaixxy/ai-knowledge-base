@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-05-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696757&idx=1&sn=3e44206309c2d8da1499253fba663304",
+  "title": "Loop Engineering就凉了？一文看懂Graph Engineering的“新范式”",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696757&idx=1&sn=3e44206309c2d8da1499253fba663304",
+  "summary": "该项目文章探讨了Loop Engineering的局限性，并引入Graph Engineering作为新的技术范式。Loop Engineering主要依赖循环迭代来优化提示或流程，但在处理复杂、多分支或多代理任务时效率低下且难以扩展。Graph Engineering则通过将任务分解为节点（处理步骤）和边（数据流），构建有向无环图（DAG）来编排AI工作流。这种范式支持并行执行、条件路由、动态重试和更细粒度的控制，从而提升系统的鲁棒性和可维护性。文章强调，Graph Engineering是AI应用工程化的必然趋势，尤其适用于生产级系统，它让开发者从线性思维转向拓扑思维，实现更复杂、更可靠的AI解决方案。",
+  "tags": [
+    "Graph Engineering",
+    "AI工作流",
+    "DAG编排",
+    "Loop Engineering",
+    "提示工程",
+    "系统架构"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程化与工作流设计",
+  "key_insight": "Graph Engineering通过有向无环图（DAG）取代循环迭代，将AI工作流从线性执行升级为拓扑化编排，实现并行、条件路由和动态控制，是生产级AI系统的关键范式转变。"
+}

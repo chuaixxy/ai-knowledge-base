@@ -10326,5 +10326,538 @@
     ],
     "status": "published",
     "collected_at": "2026-08-04T02:49:53.875Z"
+  },
+  {
+    "id": "2026-08-05-001",
+    "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.00001",
+    "category": "AI安全与意识理论",
+    "relevance_score": 0.85,
+    "tags": [
+      "意识测量",
+      "AI安全",
+      "思想实验",
+      "CCE框架",
+      "行为与结构"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-002",
+    "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.00003",
+    "category": "科学计算与AI集成",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM Agent",
+      "OpenFOAM",
+      "CFD",
+      "自动机器学习",
+      "自然语言处理",
+      "仿真自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-003",
+    "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.00006",
+    "category": "AI应用与可靠性",
+    "relevance_score": 0.85,
+    "tags": [
+      "RAG",
+      "LLM",
+      "中小企业",
+      "幻觉缓解",
+      "错误信息",
+      "VectorRAG",
+      "GraphRAG"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-004",
+    "title": "Completely dead NeurIPS review period from both ends? [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vfm2k9/completely_dead_neurips_review_period_from_both/",
+    "category": "学术社区讨论",
+    "relevance_score": 0.9,
+    "tags": [
+      "学术审稿",
+      "审稿人沉默",
+      "作者不回应",
+      "论文撤回",
+      "NeurIPS"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-005",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "第三方评估",
+      "网络安全",
+      "OpenAI",
+      "模型测试"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-006",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "category": "教育AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "教育科技",
+      "AI辅助教学",
+      "ChatGPT",
+      "Codex",
+      "插件开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-007",
+    "title": "Apple is getting this wrong",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/apple-is-getting-this-wrong",
+    "category": "科技法律",
+    "relevance_score": 0.7,
+    "tags": [
+      "OpenAI",
+      "苹果",
+      "法律诉讼",
+      "科技纠纷",
+      "事实澄清"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-008",
+    "title": "The latest AI news we announced in July 2026",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "category": "科技新闻",
+    "relevance_score": 0.6,
+    "tags": [
+      "Google",
+      "AI更新",
+      "2026年7月",
+      "技术发布"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-009",
+    "title": "Inside our 353,000-person vibe coding course",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "category": "AI教育与培训",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI教育",
+      "AI智能体",
+      "Kaggle",
+      "Google",
+      "在线课程",
+      "大规模协作",
+      "实践教学"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-010",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "category": "AI部署与智能代理",
+    "relevance_score": 0.85,
+    "tags": [
+      "本地部署",
+      "智能代理",
+      "轻量级模型",
+      "隐私保护",
+      "边缘计算",
+      "开源模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-011",
+    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "category": "科技公司财报",
+    "relevance_score": 0.9,
+    "tags": [
+      "AMD",
+      "数据中心",
+      "AI",
+      "财报",
+      "游戏业务"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-012",
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "category": "商业/科技",
+    "relevance_score": 0.9,
+    "tags": [
+      "SpaceX",
+      "AI收入",
+      "云计算",
+      "航天科技",
+      "商业转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-013",
+    "title": "How an OpenAI influencer trip backfired",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "category": "科技公关分析",
+    "relevance_score": 0.7,
+    "tags": [
+      "OpenAI",
+      "品牌营销",
+      "影响者",
+      "公关危机",
+      "社交媒体"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-014",
+    "title": "为什么 AI 视频，需要“懂生成”的画质增强",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521103&idx=1&sn=464de2a00f29cfc21e3875a515d5fdbe",
+    "category": "计算机视觉/视频生成技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI视频生成",
+      "画质增强",
+      "生成式AI",
+      "超分辨率",
+      "视频修复"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-015",
+    "title": "文件上传即可检索｜实时多模态向量链路落地实践分享",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521103&idx=2&sn=e4de10f386f34f1620fadc40729e8ec4",
+    "category": "技术实践/机器学习工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态检索",
+      "向量数据库",
+      "实时索引",
+      "文件上传",
+      "AI基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-016",
+    "title": "面向生产力的 Qwen3.8、“千问办公”已同步上线",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510872&idx=1&sn=147d7bfeca0f79d93bb231fae1f0a74b",
+    "category": "AI模型发布",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型",
+      "Qwen3.8",
+      "办公自动化",
+      "AI应用",
+      "生产力工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-017",
+    "title": "理解归 AI，正确归引擎：从一句话到一条实时数据链路（0代码搭建实时任务）",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561813&idx=1&sn=ab456cb346cf6fcdf95aab7ffedfd524",
+    "category": "数据工程与AI结合",
+    "relevance_score": 0.85,
+    "tags": [
+      "零代码",
+      "实时数据",
+      "自然语言处理",
+      "数据管道",
+      "低代码平台",
+      "AI+引擎"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-018",
+    "title": "原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511583&idx=1&sn=38c168a0fb716ee9dc25622655a8efdc",
+    "category": "人工智能/多模态模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "多模态",
+      "图像生成",
+      "开源模型",
+      "商汤科技",
+      "4K图像",
+      "轻量级模型",
+      "视觉指令"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-019",
+    "title": "Hy ASR 3.0 preview发布：真正懂上下文的语音识别",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+    "category": "AI技术产品",
+    "relevance_score": 0.75,
+    "tags": [
+      "语音识别",
+      "上下文理解",
+      "ASR",
+      "AI应用",
+      "元宝"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-020",
+    "title": "E-Bench ：以腾讯产品为原型的 AI 智能体大考",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498208&idx=1&sn=3248204e418afd02031073a30ee449e2",
+    "category": "AI评测与基准",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI智能体",
+      "基准测试",
+      "腾讯",
+      "王者荣耀",
+      "QQ音乐",
+      "腾讯会议",
+      "多模态",
+      "应用落地"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-021",
+    "title": "AI不会取代出版，但会重新定义出版",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998231&idx=1&sn=474d71b5912852b2043b90efde4c79d4",
+    "category": "行业分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "出版业",
+      "技术变革",
+      "人文价值",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-022",
+    "title": "Loop Engineering就凉了？一文看懂Graph Engineering的“新范式”",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696757&idx=1&sn=3e44206309c2d8da1499253fba663304",
+    "category": "AI工程化与工作流设计",
+    "relevance_score": 0.9,
+    "tags": [
+      "Graph Engineering",
+      "AI工作流",
+      "DAG编排",
+      "Loop Engineering",
+      "提示工程",
+      "系统架构"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-023",
+    "title": "TDMQ 亮相 Community Over Code Asia 2026",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506912&idx=1&sn=c0f7935c8107f4d065c7c47e9812d48a",
+    "category": "技术会议与演讲",
+    "relevance_score": 0.9,
+    "tags": [
+      "消息队列",
+      "Apache Pulsar",
+      "Apache RocketMQ",
+      "MQTT",
+      "云原生",
+      "Serverless",
+      "物联网",
+      "事件驱动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-024",
+    "title": "从代码托管到 AI 能力底座：京东代码库的转型",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502469&idx=1&sn=f4f3a9ce97561612a1dbebe59ab3986a",
+    "category": "技术基础设施与AI平台",
+    "relevance_score": 0.9,
+    "tags": [
+      "代码托管",
+      "AI能力底座",
+      "代码知识图谱",
+      "API化",
+      "AI Agent",
+      "安全沙箱",
+      "开发者体验",
+      "京东技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-025",
+    "title": "哔哩哔哩2027届秋季校园招聘正式启动！",
+    "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504376&idx=1&sn=e21bed16a09f58b2aca10cea6ba59eda",
+    "category": "招聘信息",
+    "relevance_score": 0.6,
+    "tags": [
+      "校园招聘",
+      "哔哩哔哩",
+      "2027届",
+      "秋招",
+      "互联网"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-026",
+    "title": "AI 时代的学习方式：从愚昧山峰上不断跌落",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518463&idx=1&sn=d389e859d81129c1f63758685fe504bf",
+    "category": "教育科技",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI教育",
+      "认知升级",
+      "终身学习",
+      "知识管理",
+      "技术适应"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-027",
+    "title": "FDE 又不够了",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290027&idx=1&sn=3e40415ddca3d5a509d9946ba85c7d56",
+    "category": "技术管理与组织变革",
+    "relevance_score": 0.85,
+    "tags": [
+      "前线部署高管",
+      "FDX",
+      "技术管理",
+      "组织推动",
+      "数字化转型",
+      "项目交付"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-028",
+    "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290027&idx=2&sn=07c23274b552d4dba5d260eadde9ac34",
+    "category": "AI大模型",
+    "relevance_score": 0.8,
+    "tags": [
+      "全模态",
+      "多模态大模型",
+      "统一架构",
+      "跨模态对齐",
+      "联合训练",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-029",
+    "title": "无本体数据直达真机，深朴智能拔掉机器人后训练的「真机数据锚点」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048208&idx=1&sn=3336d943ba2c2d434435345f35a5bfdb",
+    "category": "机器人AI与数据效率",
+    "relevance_score": 0.9,
+    "tags": [
+      "机器人学习",
+      "无本体数据",
+      "迁移学习",
+      "后训练",
+      "数据锚点",
+      "仿真到真机"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-05-030",
+    "title": "16张B200才能跑的Kimi K3，8张AMD就装下了",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048208&idx=2&sn=bc63eb3cc25002794ef8b3131a48e7de",
+    "category": "AI硬件与基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI基础设施",
+      "GPU",
+      "显存",
+      "AMD",
+      "NVIDIA",
+      "大模型",
+      "硬件竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-05T02:45:15.029Z"
   }
 ]

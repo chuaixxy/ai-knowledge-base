@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-05-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511583&idx=1&sn=38c168a0fb716ee9dc25622655a8efdc",
+  "title": "原生统一多模态进阶！SenseNova U1.5-Lite-Preview开源，生成编辑能力再进化",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511583&idx=1&sn=38c168a0fb716ee9dc25622655a8efdc",
+  "summary": "商汤科技开源的SenseNova U1.5-Lite-Preview是基于原生统一多模态架构的轻量级模型，显著提升了4K高清图像生成、复杂视觉指令遵循和可持续迭代编辑能力。该模型在保持轻量高效的同时，实现了多模态理解和生成的无缝融合，特别适合边缘设备和实时应用场景。其创新点在于原生统一架构，避免了传统多模态模型需要拼接不同模块的弊端，增强了跨模态的一致性和编辑的连贯性。开源策略有助于推动多模态AI技术的普及和生态发展。",
+  "tags": [
+    "多模态",
+    "图像生成",
+    "开源模型",
+    "商汤科技",
+    "4K图像",
+    "轻量级模型",
+    "视觉指令"
+  ],
+  "relevance_score": 0.9,
+  "category": "人工智能/多模态模型",
+  "key_insight": "原生统一多模态架构是提升生成与编辑能力的关键，轻量级设计使其更易落地应用。"
+}

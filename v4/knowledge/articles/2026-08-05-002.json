@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-05-002",
+  "source_id": "https://arxiv.org/abs/2608.00003",
+  "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.00003",
+  "summary": "AutoFOAM 是一个基于大语言模型（LLM）的自主代理，旨在简化 OpenFOAM 计算流体力学（CFD）模拟的创建、评估、运行和迭代过程。它基于 Qwen-coder 2.5-14B 模型，在 252 个文本提示上微调，覆盖 7 个求解器、13 个参数化网格模板和 y+ 感知数值策略。核心是一个包含 7 个阶段的进化循环，通过 RAG 增强重试、字典级补丁和提示多样性改写三种机制防止模型退化。该代理仅需自然语言指令即可自动完成 CFD 仿真，大幅降低使用门槛。",
+  "tags": [
+    "LLM Agent",
+    "OpenFOAM",
+    "CFD",
+    "自动机器学习",
+    "自然语言处理",
+    "仿真自动化"
+  ],
+  "relevance_score": 0.9,
+  "category": "科学计算与AI集成",
+  "key_insight": "通过自我进化的 LLM 代理和抗退化策略，AutoFOAM 实现了从自然语言到完整 CFD 仿真流程的端到端自动化，显著降低专业软件使用门槛。"
+}

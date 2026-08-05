@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-05-003",
+  "source_id": "https://arxiv.org/abs/2608.00006",
+  "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.00006",
+  "summary": "本文针对中小企业采用大型语言模型时出现的幻觉和错误信息问题，提出基于检索增强生成（RAG）的两种建模方法：VectorRAG和GraphRAG。通过在LLaMA、Mistral和Qwen等多个先进LLM上进行实验，评估这些方法在生成有用响应、降低幻觉风险以及增强上下文相关性方面的效果。研究旨在为中小企业提供更可靠、可信的AI决策支持，减少错误信息传播。",
+  "tags": [
+    "RAG",
+    "LLM",
+    "中小企业",
+    "幻觉缓解",
+    "错误信息",
+    "VectorRAG",
+    "GraphRAG"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用与可靠性",
+  "key_insight": "通过对比向量检索和图检索的RAG变体，发现GraphRAG在复杂关系推理中更有效降低幻觉，而VectorRAG在快速响应场景中表现更优，为中小企业选择RAG架构提供了实证依据。"
+}

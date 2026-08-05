@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-05-005",
+  "source_id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+  "title": "Third-party cyber evaluations involving OpenAI models",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+  "summary": "OpenAI近期遭遇第三方网络安全评估事件，并对此进行说明，同时推出新的安全防护措施，以加强AI模型的测试与评估流程。此举旨在提升模型评估的透明度和安全性，防止评估过程中出现的安全漏洞或滥用风险。OpenAI强调了对第三方评估的监管和标准化，确保AI系统在发布前经过严格审查，以应对日益复杂的网络安全威胁。",
+  "tags": [
+    "AI安全",
+    "第三方评估",
+    "网络安全",
+    "OpenAI",
+    "模型测试"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI安全与治理",
+  "key_insight": "OpenAI通过强化第三方评估防护措施，凸显了AI安全评估标准化与监管的重要性。"
+}
