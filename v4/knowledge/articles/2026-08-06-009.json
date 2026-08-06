@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-009",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
+  "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
+  "summary": "该项目将经典动画《Bad Apple》压缩进一个约3MB的神经网络中。通过训练一个包含5层正弦激活函数（SIREN）的MLP，输入三维坐标（帧索引、像素位置），输出灰度值，从而隐式存储约27亿像素的视频。网络仅含79万参数，float32约3.2MB，float16约1.6MB。项目展示了神经隐式表示在视频压缩中的潜力，将传统视频编码转化为参数学习问题，实现了极高压缩比。",
+  "tags": [
+    "神经隐式表示",
+    "视频压缩",
+    "SIREN",
+    "MLP",
+    "Bad Apple"
+  ],
+  "relevance_score": 0.85,
+  "category": "神经网络/视频压缩",
+  "key_insight": "利用SIREN网络将视频编码为隐式函数，以参数形式存储，实现极低比特率的视频表示，挑战传统压缩算法的极限。"
+}

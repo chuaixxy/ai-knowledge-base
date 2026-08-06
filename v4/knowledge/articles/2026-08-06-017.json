@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-06-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511616&idx=1&sn=c77550ab447ff7e297d3fcb850b8399a",
+  "title": "当 1w+ LoRA 组成一个模型系统：DiffSynth-Studio 开源 MultiAlign、TreeAdapter 等 LoRA 分配研究",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511616&idx=1&sn=c77550ab447ff7e297d3fcb850b8399a",
+  "summary": "DiffSynth-Studio 开源了 MultiAlign 和 TreeAdapter 两种 LoRA 分配新范式，旨在解决大规模 LoRA 模块（超过 1 万个）在模型系统中的高效组织与调度问题。MultiAlign 按时间步（Timestep）、内容及数据维度对 LoRA 进行重组，而 TreeAdapter 则采用树形结构进行分层分配，从而显著提升指令遵循、文本渲染和稀有物种生成等能力，部分指标甚至超越闭源模型。该工作为多 LoRA 协同工作提供了可扩展的解决方案，推动了模型组合与微调的发展。",
+  "tags": [
+    "LoRA",
+    "模型组合",
+    "DiffSynth-Studio",
+    "MultiAlign",
+    "TreeAdapter",
+    "文本渲染",
+    "指令遵循"
+  ],
+  "relevance_score": 0.85,
+  "category": "大模型微调与组合",
+  "key_insight": "通过时间步和内容维度的动态重组，将海量 LoRA 从静态堆叠变为自适应调度，实现性能跃升。"
+}

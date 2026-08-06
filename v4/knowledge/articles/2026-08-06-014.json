@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-06-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b",
+  "title": "复杂业务团队的 AI Coding 交付实践：知识库、RD 流程和质量门禁",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b",
+  "summary": "该项目探讨在复杂业务场景下，如何通过构建知识库、优化研发流程和设置质量门禁，系统性地提升AI编程的交付质量。核心观点是，AI开发需先进行'打底'工作，即确保AI在正确的上下文（如业务知识、技术规范）中工作，以减少返工并提高效率。知识库为AI提供精准上下文，RD流程规范开发步骤，质量门禁则自动拦截低质量输出，三者协同形成闭环，保障复杂业务中AI生成代码的可靠性和可维护性。",
+  "tags": [
+    "AI Coding",
+    "知识库",
+    "研发流程",
+    "质量门禁",
+    "复杂业务",
+    "上下文工程",
+    "效率提升"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程实践",
+  "key_insight": "先建立上下文保障机制，再谈AI提效，是复杂业务AI落地的关键。"
+}

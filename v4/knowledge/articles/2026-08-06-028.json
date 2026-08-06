@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290057&idx=2&sn=38fbda3d9f67b7dccbfd45cfb92a85ab",
+  "title": "Agent 形态一天一个样，Infra 到底该为谁而建？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290057&idx=2&sn=38fbda3d9f67b7dccbfd45cfb92a85ab",
+  "summary": "本文探讨了Agent形态快速演变对基础设施（Infra）建设的挑战。随着Agent从单一工具调用向复杂多智能体协作演进，其需求（如动态编排、状态管理、安全边界）不断变化，导致Infra建设面临‘为谁而建’的困境——是服务通用模型还是特定Agent场景。文章指出，Infra应聚焦于提供稳定、可扩展的底层能力（如弹性计算、数据流、监控），而非过度绑定某一Agent范式，以适应形态的快速迭代。",
+  "tags": [
+    "Agent",
+    "基础设施",
+    "AI工程化",
+    "多智能体",
+    "架构演进"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与架构",
+  "key_insight": "Infra建设应追求‘不变应万变’，通过抽象通用能力而非绑定特定Agent形态，来应对快速迭代的挑战。"
+}

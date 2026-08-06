@@ -10859,5 +10859,541 @@
     ],
     "status": "published",
     "collected_at": "2026-08-05T02:45:15.029Z"
+  },
+  {
+    "id": "2026-08-06-001",
+    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "category": "AI伦理与安全",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI安全",
+      "内容审核",
+      "儿童保护",
+      "Meta",
+      "生成式AI滥用",
+      "平台责任"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-002",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "category": "网络安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "网络犯罪",
+      "非洲",
+      "深度伪造",
+      "诈骗",
+      "国际刑警组织"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-003",
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "category": "技术文化/内容创作",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI生成图片",
+      "博客写作",
+      "用户体验",
+      "内容质量",
+      "视觉设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-004",
+    "title": "Internet Archive to New York: Don’t Kill the Good Bots in the Fight Against Bad Bots | Internet Archive Blogs",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.archive.org/2026/08/04/internet-archive-to-new-york-dont-kill-the-good-bots-in-the-fight-against-bad-bots/",
+    "category": "技术政策与伦理",
+    "relevance_score": 0.7,
+    "tags": [
+      "互联网治理",
+      "自动化程序",
+      "立法监管",
+      "开放互联网",
+      "爬虫伦理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-005",
+    "title": "After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+    "category": "技术评论",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI趋势",
+      "技术评估",
+      "行业分析",
+      "机器学习",
+      "企业应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-006",
+    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.02604",
+    "category": "数据管理/人工智能",
+    "relevance_score": 0.8,
+    "tags": [
+      "语义增强",
+      "数据库",
+      "LLM代理",
+      "交互式系统",
+      "数据管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-007",
+    "title": "Self-Organising Digital Circuits",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.02606",
+    "category": "AI与硬件交叉研究",
+    "relevance_score": 0.95,
+    "tags": [
+      "自组织",
+      "容错计算",
+      "神经网络",
+      "元学习",
+      "电路设计",
+      "神经细胞自动机"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-008",
+    "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.02618",
+    "category": "AI生成多样性",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "多样性",
+      "同质化",
+      "温度缩放",
+      "人格锚定",
+      "采样策略"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-009",
+    "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
+    "category": "神经网络/视频压缩",
+    "relevance_score": 0.85,
+    "tags": [
+      "神经隐式表示",
+      "视频压缩",
+      "SIREN",
+      "MLP",
+      "Bad Apple"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-010",
+    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "category": "AI产品动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI生成内容",
+      "百科全书",
+      "Grokipedia",
+      "项目停滞",
+      "维基百科替代品"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-011",
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "category": "AI应用与工具",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI音乐生成",
+      "开源检测工具",
+      "音乐版权",
+      "Treblo",
+      "AI透明度"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-012",
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "category": "科技公司动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "谷歌",
+      "AI领导层",
+      "DeepMind",
+      "Alphabet",
+      "人事变动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-013",
+    "title": "SeedRealtime 音视频全双工大模型发布：走向全模态自然交互",
+    "source": "rss-seed",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494289&idx=1&sn=e1f4c54a9cebdbe23addd820b4909865",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "音视频全双工",
+      "大模型",
+      "多模态",
+      "自然交互",
+      "豆包App",
+      "实时对话",
+      "字节跳动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-014",
+    "title": "复杂业务团队的 AI Coding 交付实践：知识库、RD 流程和质量门禁",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545344&idx=1&sn=0e2f753e1e4796ea6634b18d1498ee9b",
+    "category": "AI工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Coding",
+      "知识库",
+      "研发流程",
+      "质量门禁",
+      "复杂业务",
+      "上下文工程",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-015",
+    "title": "从 Agent Flow 到 AI Native：为什么通用 Agent 是“饮鸩止渴”",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510883&idx=1&sn=1988e51340f0d9a22b2e6908fc60eddc",
+    "category": "技术评论/架构思考",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI Agent",
+      "Agent Flow",
+      "AI Native",
+      "软件工程",
+      "可靠性",
+      "研发视角"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-016",
+    "title": "Qwen-Image-3.0正式上线千问AI平台，权威榜单国内第一！",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561872&idx=1&sn=034e114b5f6cf6b3c2a58473042e0d91",
+    "category": "AI模型发布",
+    "relevance_score": 0.9,
+    "tags": [
+      "Qwen-Image-3.0",
+      "图像生成",
+      "AI模型",
+      "千问平台",
+      "阿里云",
+      "榜单第一"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-017",
+    "title": "当 1w+ LoRA 组成一个模型系统：DiffSynth-Studio 开源 MultiAlign、TreeAdapter 等 LoRA 分配研究",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511616&idx=1&sn=c77550ab447ff7e297d3fcb850b8399a",
+    "category": "大模型微调与组合",
+    "relevance_score": 0.85,
+    "tags": [
+      "LoRA",
+      "模型组合",
+      "DiffSynth-Studio",
+      "MultiAlign",
+      "TreeAdapter",
+      "文本渲染",
+      "指令遵循"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-018",
+    "title": "FDE来碰头！快来报名！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511616&idx=2&sn=adf2f4ecd05fd4e9bd88591da6ef68b5",
+    "category": "行业活动/社群",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI交付",
+      "商业化",
+      "闭门交流",
+      "产品化",
+      "生态合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-019",
+    "title": "AI Infra进阶：如何让大模型输出确定的结果",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803028&idx=1&sn=ec45ae12b64c5baf8a27a4f1121abe5d",
+    "category": "AI基础设施与工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Infra",
+      "大模型",
+      "确定性输出",
+      "推理优化",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-020",
+    "title": "前线共创，双向赋能：FDE 模式行业观察与实践报告",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998250&idx=1&sn=ee8faf42bb68c29124461f104aa2713c",
+    "category": "企业管理/行业报告",
+    "relevance_score": 0.75,
+    "tags": [
+      "FDE",
+      "前线共创",
+      "双向赋能",
+      "业务流程",
+      "行业观察",
+      "数字化转型",
+      "客户成功"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-021",
+    "title": "Claude Code神级技巧：让AI编程更省心",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696809&idx=1&sn=e7e00717c8a296b8e0d92558f032edf8",
+    "category": "AI开发工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI编程",
+      "Claude Code",
+      "提示词工程",
+      "开发效率",
+      "代码生成",
+      "工作流优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-022",
+    "title": "实现视频“边播边改”，京东开源JoyAI-Video-Edit模型，性能全球领先",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502474&idx=1&sn=4850f11082eedfd2ae2274582fe78b5a",
+    "category": "AI视频技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "视频编辑",
+      "实时交互",
+      "AI模型",
+      "开源",
+      "京东",
+      "物理世界模型",
+      "视频生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-023",
+    "title": "KDD 2026｜快手PlatformBid：从单广告主最优到平台全局共赢",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501169&idx=1&sn=18ce0afe68fcb9add98114cafac41f0f",
+    "category": "计算广告与机器学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "广告竞价",
+      "平台优化",
+      "机制设计",
+      "多目标优化",
+      "KDD2026",
+      "快手"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-024",
+    "title": "闪耀KDD 2026！快手25篇论文入选，3篇成果获Oral！",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501151&idx=1&sn=9f336c44672e1c97af3ad9d5f48d5cd3",
+    "category": "学术研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "KDD 2026",
+      "快手",
+      "学术论文",
+      "数据挖掘",
+      "推荐系统",
+      "图神经网络"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-025",
+    "title": "当你拥有一款排名第一的AI助手",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669809&idx=1&sn=719d2a25f96f2ce1931404e8fb9b9010",
+    "category": "产品宣传/技术评测",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI助手",
+      "文心助手",
+      "SuperCLUE",
+      "评测榜单",
+      "智能体",
+      "免费产品",
+      "百度",
+      "记忆能力",
+      "数据处理",
+      "内容创作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-026",
+    "title": "实战从零开始构建一个Coding Agent：Violin ｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546363&idx=1&sn=e497e41b6f529e7efb771672bc6864a0",
+    "category": "技术实践/AI工程",
+    "relevance_score": 0.9,
+    "tags": [
+      "Coding Agent",
+      "LLM",
+      "架构设计",
+      "自动化编程",
+      "得物技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-027",
+    "title": "AICon 深圳 2026 全日程揭晓｜聚焦 Agent 工程化，构建可靠智能的技术路径",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290057&idx=1&sn=f4885bd595c5898744d4afdacf423a83",
+    "category": "技术会议",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "工程化",
+      "大模型",
+      "技术大会",
+      "可靠性",
+      "智能系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-028",
+    "title": "Agent 形态一天一个样，Infra 到底该为谁而建？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290057&idx=2&sn=38fbda3d9f67b7dccbfd45cfb92a85ab",
+    "category": "AI基础设施与架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "Agent",
+      "基础设施",
+      "AI工程化",
+      "多智能体",
+      "架构演进"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-029",
+    "title": "Transformer开始构建三维世界：开源模型几张图片秒级生成可探索3D场景",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048476&idx=1&sn=127e2a16ce10145381b6136dcd07f414",
+    "category": "三维视觉与生成模型",
+    "relevance_score": 0.92,
+    "tags": [
+      "Transformer",
+      "3D生成",
+      "场景重建",
+      "多视角融合",
+      "AIGC"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-06-030",
+    "title": "离开OpenAI和Google后，两位大模型核心负责人决定卷下一代架构",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048476&idx=2&sn=84bb499062e9b73e5fad619b3b074df5",
+    "category": "AI前沿技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI架构",
+      "大模型",
+      "创业",
+      "Transformer替代",
+      "多模态",
+      "效率优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-06T02:47:06.653Z"
   }
 ]

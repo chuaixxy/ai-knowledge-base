@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-06-008",
+  "source_id": "https://arxiv.org/abs/2608.02618",
+  "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.02618",
+  "summary": "该论文针对大语言模型（LLM）中存在的“人工蜂群”效应，即模型在开放问题上趋于同质化共识、响应相似度高（约0.80-0.90）的问题，提出了一种缓解框架。该方法结合了元人格锚定与过滤温度缩放（FTS），采用两阶段生成：首先让模型自选独特人格作为起点，然后应用Top-p过滤保证语法有效性，再对幸存候选进行极端温度缩放（T≥4.0）以探索更广的概率分布。在INFINITY-CHAT数据集上的评估表明，该方法能显著增加生成多样性，同时保持文本质量。",
+  "tags": [
+    "LLM",
+    "多样性",
+    "同质化",
+    "温度缩放",
+    "人格锚定",
+    "采样策略"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI生成多样性",
+  "key_insight": "通过人格锚定和极端温度缩放的两阶段采样，可打破LLM的语义坍缩，显著提升生成多样性。"
+}

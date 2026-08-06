@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-006",
+  "source_id": "https://arxiv.org/abs/2608.02604",
+  "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.02604",
+  "summary": "ISEE是一个交互式语义增强系统，旨在解决数据库字段描述模糊或不完整的问题。该系统通过评分机制评估字段描述质量，收集用户领域知识，并与用户协作丰富语义信息。研究通过用户研究、自动化用户模拟、定量评估和案例研究，证明ISEE能显著降低认知负担，提升如实体链接等下游任务的性能。",
+  "tags": [
+    "语义增强",
+    "数据库",
+    "LLM代理",
+    "交互式系统",
+    "数据管理"
+  ],
+  "relevance_score": 0.8,
+  "category": "数据管理/人工智能",
+  "key_insight": "通过交互式收集用户领域知识，ISEE有效弥补了数据语义缺失，从而提升LLM代理在数据任务中的表现。"
+}

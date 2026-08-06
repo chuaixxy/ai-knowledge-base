@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-06-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510883&idx=1&sn=1988e51340f0d9a22b2e6908fc60eddc",
+  "title": "从 Agent Flow 到 AI Native：为什么通用 Agent 是“饮鸩止渴”",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247510883&idx=1&sn=1988e51340f0d9a22b2e6908fc60eddc",
+  "summary": "本文从一线研发视角出发，批判了通用Agent的过度炒作，指出其在实际工程中的局限性和风险。作者认为通用Agent看似全能，实则依赖复杂流程编排（Agent Flow），但在真实场景中缺乏可靠性、可解释性和可控性，容易导致“饮鸩止渴”——短期效率提升，长期系统脆弱和运维噩梦。文章强调应转向AI Native架构，即从底层设计上让AI原生融入系统，而非事后拼接，并主张聚焦垂直场景、人机协同和可验证的工程实践，而非追求万能Agent。",
+  "tags": [
+    "AI Agent",
+    "Agent Flow",
+    "AI Native",
+    "软件工程",
+    "可靠性",
+    "研发视角"
+  ],
+  "relevance_score": 0.75,
+  "category": "技术评论/架构思考",
+  "key_insight": "通用Agent的复杂流程编排掩盖了其本质脆弱性，AI Native的核心理念应是将AI作为系统原生组件，而非外部附加的万能工具。"
+}

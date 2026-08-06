@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048476&idx=1&sn=127e2a16ce10145381b6136dcd07f414",
+  "title": "Transformer开始构建三维世界：开源模型几张图片秒级生成可探索3D场景",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048476&idx=1&sn=127e2a16ce10145381b6136dcd07f414",
+  "summary": "该项目展示了Transformer模型在三维内容生成领域的突破性应用，能够从几张图片中秒级生成可探索的3D场景。这一技术标志着三维内容创作进入新阶段，通过深度学习自动构建空间结构，大幅降低3D建模门槛。其核心在于利用Transformer的注意力机制高效融合多视角图像信息，生成连贯且可交互的3D环境，为游戏、VR/AR、影视制作等领域提供高效解决方案，推动三维内容生产从手工走向智能化。",
+  "tags": [
+    "Transformer",
+    "3D生成",
+    "场景重建",
+    "多视角融合",
+    "AIGC"
+  ],
+  "relevance_score": 0.92,
+  "category": "三维视觉与生成模型",
+  "key_insight": "Transformer通过跨视角注意力机制实现了从稀疏图像到完整3D场景的端到端生成，开辟了三维内容创作的新范式。"
+}

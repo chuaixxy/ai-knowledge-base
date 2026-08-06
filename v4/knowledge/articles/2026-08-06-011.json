@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-011",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+  "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+  "summary": "该项目涉及AI音乐生成器Treblo及其开源检测工具Treblo AI Music Classifier。报道称，说唱歌手Fenix Flexin的歌曲《Rubberz》疑似由AI生成，音乐制作人Medasin认为具体使用了Treblo。随后，Treblo公司发布开源分类器，用于检测歌曲是否由Treblo生成，并似乎证实了这一猜测。该工具旨在提高AI生成音乐的透明度和可追溯性，对音乐行业版权和创作归属有重要影响。",
+  "tags": [
+    "AI音乐生成",
+    "开源检测工具",
+    "音乐版权",
+    "Treblo",
+    "AI透明度"
+  ],
+  "relevance_score": 0.7,
+  "category": "AI应用与工具",
+  "key_insight": "AI音乐生成的可检测性成为行业焦点，开源工具推动AI内容溯源。"
+}

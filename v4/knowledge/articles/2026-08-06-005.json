@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-005",
+  "source_id": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+  "title": "After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+  "summary": "本文是Richard Campbell在2026年对AI领域现状与未来的反思，指出AI炒作已过高峰，但技术本身仍在稳步发展。他区分了真实应用（如机器学习在预测、推荐中的成熟使用）与夸大宣传（如通用人工智能的近期实现），并预测未来AI将更注重与现有系统集成、可解释性和实际业务价值。文章强调企业应关注数据质量、模型维护和伦理问题，而非追逐热点。",
+  "tags": [
+    "AI趋势",
+    "技术评估",
+    "行业分析",
+    "机器学习",
+    "企业应用"
+  ],
+  "relevance_score": 0.7,
+  "category": "技术评论",
+  "key_insight": "AI的真正价值不在于通用智能，而在于解决具体问题的可靠性和可维护性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-004",
+  "source_id": "https://blog.archive.org/2026/08/04/internet-archive-to-new-york-dont-kill-the-good-bots-in-the-fight-against-bad-bots/",
+  "title": "Internet Archive to New York: Don’t Kill the Good Bots in the Fight Against Bad Bots | Internet Archive Blogs",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://blog.archive.org/2026/08/04/internet-archive-to-new-york-dont-kill-the-good-bots-in-the-fight-against-bad-bots/",
+  "summary": "本文是互联网档案馆（Internet Archive）针对纽约州拟议的立法发出的公开呼吁，该立法旨在打击恶意爬虫和自动化程序，但可能误伤诸如搜索引擎爬虫、学术研究工具、可访问性辅助程序等‘好机器人’。文章强调，在制定相关法规时，应区分善意与恶意的自动化行为，避免一刀切，保护开放互联网的公共利益和合法自动化应用。",
+  "tags": [
+    "互联网治理",
+    "自动化程序",
+    "立法监管",
+    "开放互联网",
+    "爬虫伦理"
+  ],
+  "relevance_score": 0.7,
+  "category": "技术政策与伦理",
+  "key_insight": "技术监管需精准区分恶意与善意自动化，避免因噎废食损害互联网开放生态。"
+}

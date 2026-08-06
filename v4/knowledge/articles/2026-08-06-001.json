@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-06-001",
+  "source_id": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+  "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+  "source": "rss-hacker-news-best",
+  "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+  "summary": "该报道揭露Meta在其广告系统中运行了包含AI生成儿童性虐待图像的广告，这暴露了平台内容审核机制的严重漏洞。这些图像由生成式AI工具制作，能够绕过传统检测系统，并在用户反馈后被短暂移除，但问题反复出现。报道指出，Meta的自动化审核系统未能有效识别合成性虐待内容，且缺乏针对AI生成内容的专门防护措施。该事件引发了对科技公司责任、AI滥用风险以及监管紧迫性的广泛讨论，尤其关注未成年人保护与平台安全政策的失效。评论中网友批评Meta的审核效率，并呼吁更严格的法律和技术干预。",
+  "tags": [
+    "AI安全",
+    "内容审核",
+    "儿童保护",
+    "Meta",
+    "生成式AI滥用",
+    "平台责任"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI伦理与安全",
+  "key_insight": "AI生成内容正系统性突破现有审核防线，科技公司需将AI安全设计前置，而非事后补救。"
+}

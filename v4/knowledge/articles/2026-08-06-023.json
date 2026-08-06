@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-06-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501169&idx=1&sn=18ce0afe68fcb9add98114cafac41f0f",
+  "title": "KDD 2026｜快手PlatformBid：从单广告主最优到平台全局共赢",
+  "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501169&idx=1&sn=18ce0afe68fcb9add98114cafac41f0f",
+  "summary": "该项目是快手在KDD 2026上提出的PlatformBid框架，旨在解决广告平台中单个广告主最优与平台全局最优不一致的问题。传统出价策略仅优化单个广告主的效用，可能导致平台整体收益或生态失衡。PlatformBid通过引入平台视角的全局优化机制，协调多个广告主的出价与分配，实现平台收入、用户体验和广告主满意度的多目标共赢。项目可能利用博弈论、机制设计或强化学习等方法，在真实场景中验证了其有效性，为广告系统提供了新的理论框架和实践指导。",
+  "tags": [
+    "广告竞价",
+    "平台优化",
+    "机制设计",
+    "多目标优化",
+    "KDD2026",
+    "快手"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算广告与机器学习",
+  "key_insight": "PlatformBid揭示了广告平台需从全局视角协调广告主出价，而非追求个体最优，从而实现平台生态的长期共赢。"
+}

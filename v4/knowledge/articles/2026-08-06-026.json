@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-06-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546363&idx=1&sn=e497e41b6f529e7efb771672bc6864a0",
+  "title": "实战从零开始构建一个Coding Agent：Violin ｜得物技术",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546363&idx=1&sn=e497e41b6f529e7efb771672bc6864a0",
+  "summary": "该项目从零开始构建一个名为 Violin 的 Coding Agent，旨在通过实践深入理解 Agent 的构建原理。文章详细介绍了 Agent 的核心组件，包括任务规划、工具调用、上下文管理和执行循环等，并展示了如何利用大语言模型实现代码生成、测试和调试。通过亲手实现，作者不仅揭示了 Coding Agent 的底层机制，还提供了可复用的架构思路，帮助读者掌握构建其他类型 Agent 的关键钥匙。",
+  "tags": [
+    "Coding Agent",
+    "LLM",
+    "架构设计",
+    "自动化编程",
+    "得物技术"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术实践/AI工程",
+  "key_insight": "Coding Agent 的本质是围绕 LLM 构建一个感知-规划-行动-反馈的闭环，掌握其核心循环即可举一反三。"
+}
