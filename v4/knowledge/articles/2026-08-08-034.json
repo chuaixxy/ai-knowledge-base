@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-034",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
+  "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
+  "summary": "该项目聚焦于办公Agent领域的竞争，指出表面上的功能比拼并非关键，真正的胜负手在于强化学习后训练的产品化能力。Pyromind提出将强化学习后训练作为核心产品，为Agent提供持续学习和优化能力，从而在复杂办公场景中实现更高适应性和决策质量。文章强调，Agent的长期价值取决于其能否通过后训练不断进化，而非初始规则或预训练模型。",
+  "tags": [
+    "办公Agent",
+    "强化学习",
+    "产品化",
+    "后训练",
+    "智能体优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI技术趋势分析",
+  "key_insight": "办公Agent的长期竞争力在于将强化学习后训练产品化，使Agent能持续适应动态办公环境。"
+}

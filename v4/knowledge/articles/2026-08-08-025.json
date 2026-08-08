@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696836&idx=2&sn=32911b1613b2bb2cd3b2c93af4ccdfa0",
+  "title": "腾讯云Team Memory来了！",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696836&idx=2&sn=32911b1613b2bb2cd3b2c93af4ccdfa0",
+  "summary": "腾讯云推出Team Memory，一种面向团队协作的持久化记忆服务，旨在解决多轮对话和跨会话上下文的丢失问题。通过存储和检索团队历史交互、决策和偏好，该服务能显著提升AI助手在团队场景中的个性化与连续性，减少重复沟通，增强协作效率。其核心能力包括语义记忆、自动摘要、权限管理，并可与腾讯云AI生态无缝集成。该产品有望成为企业级AI应用的基础设施，推动更智能的团队工作流。",
+  "tags": [
+    "腾讯云",
+    "团队协作",
+    "AI记忆",
+    "上下文管理",
+    "企业服务"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施",
+  "key_insight": "Team Memory将AI从无状态工具转变为有记忆的协作伙伴，是AI落地企业场景的关键一步。"
+}

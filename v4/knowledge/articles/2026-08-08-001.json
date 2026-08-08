@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-001",
+  "source_id": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+  "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+  "summary": "该项目研究了社交媒体中的‘兔子洞’现象，即用户因推荐算法而陷入信息孤岛或极端内容的倾向。通过构建用户交互网络，分析其聚类结构，并利用随机游走的混合时间（mixing time）来量化信息传播的效率和用户被困于特定社区的时长。研究发现，高聚类和慢混合时间与更深的兔子洞相关，这可能导致观点极化。项目结合网络科学与信息传播理论，为理解算法推荐的社会影响提供了量化框架，并可能为设计更健康的社交平台提供参考。",
+  "tags": [
+    "社交媒体",
+    "网络分析",
+    "随机游走",
+    "信息传播",
+    "算法偏见"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算社会科学 / 网络科学",
+  "key_insight": "随机游走的混合时间可作为量化社交媒体‘兔子洞’深度和用户极化风险的关键指标，连接了网络拓扑与传播动力学。"
+}

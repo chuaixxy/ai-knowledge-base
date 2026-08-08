@@ -11395,5 +11395,611 @@
     ],
     "status": "published",
     "collected_at": "2026-08-06T02:47:06.653Z"
+  },
+  {
+    "id": "2026-08-08-001",
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "category": "计算社会科学 / 网络科学",
+    "relevance_score": 0.85,
+    "tags": [
+      "社交媒体",
+      "网络分析",
+      "随机游走",
+      "信息传播",
+      "算法偏见"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-002",
+    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.05159",
+    "category": "企业架构与AI集成",
+    "relevance_score": 0.85,
+    "tags": [
+      "多代理系统",
+      "企业应用集成",
+      "AI代理",
+      "分层架构",
+      "流程编排"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-003",
+    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.05160",
+    "category": "AI可解释性",
+    "relevance_score": 0.85,
+    "tags": [
+      "全局工作空间理论",
+      "Transformer",
+      "语言模型",
+      "探针分析",
+      "点火指数",
+      "Mamba",
+      "信息整合"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-004",
+    "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.05168",
+    "category": "大语言模型训练与推理优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "弱到强蒸馏",
+      "推理纠错",
+      "对比学习",
+      "大语言模型",
+      "局部干预"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-005",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "网络安全",
+      "OpenAI",
+      "Astra",
+      "安全评估"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-006",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/hsp-gruppe",
+    "category": "企业AI应用案例",
+    "relevance_score": 0.85,
+    "tags": [
+      "ChatGPT Enterprise",
+      "税务咨询",
+      "AI生产力",
+      "企业AI应用",
+      "专业服务"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-007",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "category": "AI模型与应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "GPT-5.6",
+      "模型升级",
+      "免费访问",
+      "用户体验",
+      "AI普及"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-008",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/tutormoments",
+    "category": "教育AI与交互设计",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI教育",
+      "自适应学习",
+      "智能辅导系统",
+      "人机交互",
+      "教学策略"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-009",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/baseten",
+    "category": "AI基础设施与模型服务",
+    "relevance_score": 0.85,
+    "tags": [
+      "模型推理",
+      "GPU基础设施",
+      "Hugging Face",
+      "Baseten",
+      "生产部署"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-010",
+    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "category": "AI与音乐产业",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI音乐",
+      "版权争议",
+      "音乐产业",
+      "AI检测",
+      "Fenix Flexin"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-011",
+    "title": "Watching Roku’s AI channel is like eating from a trough",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "category": "流媒体与AI内容",
+    "relevance_score": 0.75,
+    "tags": [
+      "Roku",
+      "FAST频道",
+      "AI生成内容",
+      "流媒体实验",
+      "内容生产"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-012",
+    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "OpenAI",
+      "模型暂停",
+      "安全标准",
+      "AI失控"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-013",
+    "title": "火山引擎 RDS MySQL 向量索引：把高性能向量检索带到 MySQL 上",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521161&idx=1&sn=205af0499a556576a9543c04ec64b93d",
+    "category": "数据库技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "向量数据库",
+      "MySQL",
+      "AI检索",
+      "数据库扩展"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-014",
+    "title": "不写一行代码，小 V 在 Codex 里搭起了视频搜索网站",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521147&idx=1&sn=dc14c37c6a03dd9448d8b95c2d4f15d6",
+    "category": "AI应用开发",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI辅助开发",
+      "无代码",
+      "Codex",
+      "视频搜索",
+      "自然语言编程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-015",
+    "title": "淘宝主播Agent的Harness工程实战",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227",
+    "category": "AI工程与Agent应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "主播Agent",
+      "Harness工程",
+      "可控性",
+      "直播电商",
+      "Agent编排",
+      "人机协作",
+      "多模态",
+      "实时系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-016",
+    "title": "参数化 Memory 漫谈（纯干货）",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511041&idx=1&sn=037ffb3529df30ea5b8b30b966a526bf",
+    "category": "人工智能/记忆机制",
+    "relevance_score": 0.85,
+    "tags": [
+      "参数化",
+      "记忆系统",
+      "神经网络",
+      "技术解析"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-017",
+    "title": "最后15天初赛冲刺！首届阿里AI创意广告大赛评委天团曝光",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511041&idx=2&sn=a9524d2817984d53414c272198ddcc19",
+    "category": "AI应用/创意营销",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI广告",
+      "创意大赛",
+      "阿里",
+      "营销技术",
+      "内容生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-018",
+    "title": "AI Native 下的混沌工程：Agent 军团如何重新定义系统韧性验证",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561873&idx=1&sn=0233d0ba23aad4cc225a712963826343",
+    "category": "可靠性工程/智能运维",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI原生",
+      "混沌工程",
+      "Agent",
+      "系统韧性",
+      "可靠性工程",
+      "故障注入",
+      "云原生"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-019",
+    "title": "从 HuggingFace 搬家到魔搭：一个二次元项目的上线手记",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511635&idx=1&sn=488d2318fc15900a77b4332d224adeca",
+    "category": "技术实践/部署指南",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI部署",
+      "魔搭",
+      "HuggingFace",
+      "Gradio",
+      "显存优化",
+      "二次元AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-020",
+    "title": "从胡言乱语到精准改代码：我是如何让 AI 读懂老项目的",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803058&idx=1&sn=f3ed1b512d61666ebc7d4852a33911b5",
+    "category": "软件开发实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "技术债务",
+      "代码重构",
+      "AI辅助开发",
+      "遗留系统",
+      "代码可维护性"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-021",
+    "title": "Linux 内核藏了 18 年的漏洞，这次 AI 比所有人先找到",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803040&idx=1&sn=a0b7458e9bcc381edcbca4dbc1769f85",
+    "category": "人工智能与安全",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI",
+      "Linux内核",
+      "漏洞挖掘",
+      "网络安全",
+      "科维斯AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-022",
+    "title": "天才，对AI发展到底有多重要？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998268&idx=1&sn=ab16177eaa72a3df91dbe3f5029ebab8",
+    "category": "AI伦理与战略",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI发展",
+      "天才作用",
+      "技术哲学",
+      "未来治理",
+      "创新驱动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-023",
+    "title": "当智能体真正开始干活，企业管理也该变革了",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998258&idx=1&sn=165eca484c9780ca91db7b6639ef7182",
+    "category": "企业管理与AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "企业管理变革",
+      "人机协同",
+      "组织架构",
+      "商业逻辑",
+      "数字化转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-024",
+    "title": "十年后端烧光积分，学会了在WorkBuddy当甲方",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696836&idx=1&sn=ec9528dc40e2f5f0eb4bdd03c06d6839",
+    "category": "技术经验/职业发展",
+    "relevance_score": 0.75,
+    "tags": [
+      "后端开发",
+      "角色转变",
+      "项目管理",
+      "需求分析",
+      "经验分享"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-025",
+    "title": "腾讯云Team Memory来了！",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696836&idx=2&sn=32911b1613b2bb2cd3b2c93af4ccdfa0",
+    "category": "AI基础设施",
+    "relevance_score": 0.9,
+    "tags": [
+      "腾讯云",
+      "团队协作",
+      "AI记忆",
+      "上下文管理",
+      "企业服务"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-026",
+    "title": "滴滴网约车、国际化 Fintech 业务热招中！",
+    "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575527&idx=1&sn=fc7205c0bbaf66b569af0608149884de",
+    "category": "招聘信息",
+    "relevance_score": 0.5,
+    "tags": [
+      "滴滴",
+      "招聘",
+      "网约车",
+      "金融科技",
+      "国际化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-027",
+    "title": "初赛收官！快手探索者LLM-Rec挑战赛复赛名单正式公布",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501191&idx=1&sn=bd8730132579daec2c764a91bb2317d2",
+    "category": "技术竞赛",
+    "relevance_score": 0.75,
+    "tags": [
+      "LLM",
+      "推荐系统",
+      "挑战赛",
+      "快手",
+      "AI竞赛"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-028",
+    "title": "快手AI研发范式升级新路径：从研发提效到组织跃迁",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501189&idx=1&sn=15c73b65d5aaf35c5672a81be770e6fc",
+    "category": "技术管理/组织转型",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI研发",
+      "组织变革",
+      "效率提升",
+      "协同加速",
+      "快手"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-029",
+    "title": "AI专栏 | 每天被 oncall 打断到无法写代码？携程机票前端用这套方法把重复问题解决了2/3",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277515&idx=1&sn=4691fdff3a1e873f6ba1b4b848f60c81",
+    "category": "研发效能提升",
+    "relevance_score": 0.9,
+    "tags": [
+      "研发效能",
+      "oncall管理",
+      "自动化",
+      "知识库",
+      "携程",
+      "前端工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-030",
+    "title": "我用AI给视障人群“讲电影”",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669837&idx=1&sn=08541b16cbab4658357a7fe4c2276dab",
+    "category": "无障碍技术 / 文娱AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI辅助",
+      "无障碍",
+      "视障人群",
+      "电影讲解",
+      "计算机视觉",
+      "语音合成",
+      "社会公益"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-031",
+    "title": "奇舞周刊第594期：实战从零开始构建一个Coding Agent：Violin",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518467&idx=1&sn=9f0860fce6ccd0b7715c268cf1cd81cc",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "Coding Agent",
+      "AI编程",
+      "大语言模型",
+      "实战教程",
+      "自动化开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-032",
+    "title": "涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290271&idx=1&sn=80a2446b13604f28a100be94bd75e306",
+    "category": "AI行业分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "DeepSeek",
+      "AI模型",
+      "定价策略",
+      "算力市场",
+      "供需分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-033",
+    "title": "当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290271&idx=2&sn=e0d7b6d1d23355cf3f2c1f48d20209d6",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent安全",
+      "企业级AI",
+      "Human-in-the-loop",
+      "行为审计",
+      "自主决策",
+      "安全治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-034",
+    "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
+    "category": "AI技术趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "办公Agent",
+      "强化学习",
+      "产品化",
+      "后训练",
+      "智能体优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-08-035",
+    "title": "刚刚，ChatGPT 5.6免费版来了！",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=2&sn=d0e7f21c94fc91c70f6b367f2af46232",
+    "category": "人工智能",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "免费版",
+      "升级",
+      "大模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-08T01:50:21.672Z"
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-08-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511041&idx=1&sn=037ffb3529df30ea5b8b30b966a526bf",
+  "title": "参数化 Memory 漫谈（纯干货）",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511041&idx=1&sn=037ffb3529df30ea5b8b30b966a526bf",
+  "summary": "本文从技术脉络出发，系统梳理“参数化”概念在记忆系统中的应用，探讨如何将记忆建模为可调参数，以实现高效、可解释的存储与检索。文章强调从底层理解参数化记忆的机制，而非仅停留在应用层面，旨在帮助读者建立理论框架。内容涉及参数化表示、记忆更新策略及与神经网络的结合，属于干货型技术解析。",
+  "tags": [
+    "参数化",
+    "记忆系统",
+    "神经网络",
+    "技术解析"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能/记忆机制",
+  "key_insight": "参数化记忆的核心在于将记忆视为可学习的连续参数，从而统一存储与推理过程。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-08-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511635&idx=1&sn=488d2318fc15900a77b4332d224adeca",
+  "title": "从 HuggingFace 搬家到魔搭：一个二次元项目的上线手记",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511635&idx=1&sn=488d2318fc15900a77b4332d224adeca",
+  "summary": "本项目记录了将二次元AI项目See-Through从HuggingFace迁移至魔搭创空间的完整实战过程，重点分享了48G显存资源的获取方法以及使用Gradio部署时的常见问题与解决方案。文章提供了详细的技术操作步骤和避坑指南，对希望在魔搭平台部署类似AI应用的开发者具有较高参考价值。",
+  "tags": [
+    "AI部署",
+    "魔搭",
+    "HuggingFace",
+    "Gradio",
+    "显存优化",
+    "二次元AI"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术实践/部署指南",
+  "key_insight": "迁移核心在于资源适配与部署细节优化，而非模型本身改动，魔搭的创空间为高显存需求项目提供了低成本快速上线的路径。"
+}

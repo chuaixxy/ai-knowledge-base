@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-008",
+  "source_id": "https://huggingface.co/blog/allenai/tutormoments",
+  "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/tutormoments",
+  "summary": "TutorMoments 是一个关于AI辅导系统交互时机的研究项目，核心探讨AI导师在学生学习过程中应何时主动提供帮助、何时保持沉默以促进自主学习。项目通过分析真实课堂中的辅导时刻，构建了一个包含‘帮助’与‘克制’决策的数据集和评估框架，旨在训练AI模型识别最佳干预点，避免过度辅助导致学生依赖。研究强调自适应反馈策略的重要性，即AI需根据学生认知状态、任务难度和情感信号动态调整介入程度，从而在提升学习效果的同时培养元认知能力。该项目为智能教育系统设计提供了可量化的行为准则，推动AI从‘应答式工具’向‘有教育智慧的伙伴’演进。",
+  "tags": [
+    "AI教育",
+    "自适应学习",
+    "智能辅导系统",
+    "人机交互",
+    "教学策略"
+  ],
+  "relevance_score": 0.9,
+  "category": "教育AI与交互设计",
+  "key_insight": "AI导师的核心智能不在于何时作答，而在于何时选择不答，以激发学生主动思考。"
+}

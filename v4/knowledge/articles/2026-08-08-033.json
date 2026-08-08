@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-08-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290271&idx=2&sn=e0d7b6d1d23355cf3f2c1f48d20209d6",
+  "title": "当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290271&idx=2&sn=e0d7b6d1d23355cf3f2c1f48d20209d6",
+  "summary": "该项目聚焦于企业级AI Agent的安全问题，指出当Agent从被动的内容生成工具升级为能执行实际操作（如调用API、操作数据库、发送指令）的主动行为体时，安全风险从“模型输出不正确”转变为“行为不可控”。传统的内容审核与提示词过滤已无法覆盖Agent的自主决策与执行链条，尤其是当人类监督（Human-in-the-loop）沦为形式化、机械化的“闭眼确认”时，安全防线形同虚设。项目核心诉求是建立面向Agent行为的可观测、可审计、可干预的安全机制，防止因工具调用、权限滥用或推理错误导致的业务损失。",
+  "tags": [
+    "AI Agent安全",
+    "企业级AI",
+    "Human-in-the-loop",
+    "行为审计",
+    "自主决策",
+    "安全治理"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI安全与治理",
+  "key_insight": "Agent安全的关键不在内容过滤，而在于对行为链路的动态管控——当人类确认变得无意识，必须用技术手段强制注入“可验证的暂停点”和“行为沙箱”。"
+}

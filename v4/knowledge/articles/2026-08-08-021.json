@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803040&idx=1&sn=a0b7458e9bcc381edcbca4dbc1769f85",
+  "title": "Linux 内核藏了 18 年的漏洞，这次 AI 比所有人先找到",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803040&idx=1&sn=a0b7458e9bcc381edcbca4dbc1769f85",
+  "summary": "该项目报道了腾讯科维斯AI在Linux内核中发现一个潜伏18年的安全漏洞，并强调这是AI首次独立发现此类长期隐藏的漏洞。科维斯AI通过深度学习和代码分析，成功识别出内核中一个未被人类开发者发现的隐患，展示了AI在软件安全领域的巨大潜力。这一发现不仅提升了Linux系统的安全性，也预示着AI在复杂代码审计和漏洞挖掘中将扮演越来越重要的角色，可能改变传统安全研究的方式。",
+  "tags": [
+    "AI",
+    "Linux内核",
+    "漏洞挖掘",
+    "网络安全",
+    "科维斯AI"
+  ],
+  "relevance_score": 0.95,
+  "category": "人工智能与安全",
+  "key_insight": "AI首次独立发现Linux内核中潜伏18年的漏洞，标志着AI在代码审计和漏洞挖掘领域达到新高度，可能引领安全研究范式变革。"
+}

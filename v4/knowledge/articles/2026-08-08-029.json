@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-08-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277515&idx=1&sn=4691fdff3a1e873f6ba1b4b848f60c81",
+  "title": "AI专栏 | 每天被 oncall 打断到无法写代码？携程机票前端用这套方法把重复问题解决了2/3",
+  "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277515&idx=1&sn=4691fdff3a1e873f6ba1b4b848f60c81",
+  "summary": "携程机票前端团队针对研发人员频繁被oncall打断、无法专注编码的问题，提出了一套系统化的解决方案。通过分析oncall问题的来源，团队发现大量重复性、低价值问题占据了研发时间。他们设计了一套包含问题分类、自动化工具、知识库和流程优化的方法，将oncall问题减少了三分之二，使研发人员从“救火”状态回归到“建设”状态，显著提升了开发效率和团队满意度。",
+  "tags": [
+    "研发效能",
+    "oncall管理",
+    "自动化",
+    "知识库",
+    "携程",
+    "前端工程"
+  ],
+  "relevance_score": 0.9,
+  "category": "研发效能提升",
+  "key_insight": "通过系统化分类和自动化处理oncall问题，能大幅降低研发干扰，释放核心开发时间。"
+}

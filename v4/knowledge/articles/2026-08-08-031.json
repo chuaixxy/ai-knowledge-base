@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518467&idx=1&sn=9f0860fce6ccd0b7715c268cf1cd81cc",
+  "title": "奇舞周刊第594期：实战从零开始构建一个Coding Agent：Violin",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518467&idx=1&sn=9f0860fce6ccd0b7715c268cf1cd81cc",
+  "summary": "本文是奇舞周刊第594期的一篇实战教程，作者从零开始构建了一个名为Violin的Coding Agent。文章详细介绍了如何设计Agent的核心架构，包括任务规划、代码生成、执行反馈和错误修复等关键模块。通过具体的代码示例和流程演示，读者可以了解如何利用大语言模型API、命令行工具和文件系统交互来构建一个能够自主完成编程任务的智能体。项目强调了模块化设计和可扩展性，适合对AI编程助手感兴趣的开发者学习实践。",
+  "tags": [
+    "Coding Agent",
+    "AI编程",
+    "大语言模型",
+    "实战教程",
+    "自动化开发"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "构建Coding Agent的关键在于将大模型能力与工程化的任务分解、执行和反馈闭环相结合，而非简单调用API。"
+}

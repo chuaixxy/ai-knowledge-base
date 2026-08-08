@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-005",
+  "source_id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "summary": "该项目是OpenAI针对其AI模型Astra发布的一项初步网络安全评估，旨在分享其强化安全防护和控制措施的具体步骤。它聚焦于AI系统在关键网络能力前沿的应对策略，体现了OpenAI在AI安全性上的主动透明化努力。",
+  "tags": [
+    "AI安全",
+    "网络安全",
+    "OpenAI",
+    "Astra",
+    "安全评估"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与治理",
+  "key_insight": "OpenAI通过公开Astra的网络安全评估，展示了将安全前置到AI能力发展核心的战略意图。"
+}

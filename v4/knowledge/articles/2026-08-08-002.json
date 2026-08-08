@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-002",
+  "source_id": "https://arxiv.org/abs/2608.05159",
+  "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.05159",
+  "summary": "本文提出Agentic Nesting，一种将现有企业应用封装为自治AI代理并置于分层嵌套结构中的多代理协作框架，以解决传统集成方法（如ESB、API网关、RPA）的高耦合、高运维成本和智能性不足等问题。该方法旨在通过代理间的层级协作，实现对异构业务系统的灵活编排与数据整合，从而打破数据孤岛和流程碎片化，提升企业应用的整体利用效率。",
+  "tags": [
+    "多代理系统",
+    "企业应用集成",
+    "AI代理",
+    "分层架构",
+    "流程编排"
+  ],
+  "relevance_score": 0.85,
+  "category": "企业架构与AI集成",
+  "key_insight": "通过将现有应用转化为分层嵌套的自治代理，Agentic Nesting将集成从静态中间件转变为动态智能协作，有望显著降低系统耦合度并增强编排的适应性。"
+}

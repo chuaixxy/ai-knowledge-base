@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-08-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227",
+  "title": "淘宝主播Agent的Harness工程实战",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545361&idx=1&sn=cda202f3ee1ddb712d7841336d270227",
+  "summary": "本项目聚焦于淘宝直播场景中主播Agent的工程化落地，核心在于通过Harness工程框架实现Agent的可控性与可用性。内容涵盖Agent的调度、状态管理、异常处理、人机协作机制及直播流程的自动化编排，强调在复杂直播环境中确保Agent行为稳定、可预测，并支持实时干预。项目结合了LLM、多模态理解与业务规则引擎，解决了Agent在直播场景中的延迟、幻觉和合规风险等问题，为电商直播智能化提供了实战参考。",
+  "tags": [
+    "主播Agent",
+    "Harness工程",
+    "可控性",
+    "直播电商",
+    "Agent编排",
+    "人机协作",
+    "多模态",
+    "实时系统"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程与Agent应用",
+  "key_insight": "通过Harness工程框架，将Agent从原型推向生产，关键在于建立可控性边界与实时干预机制，而非单纯依赖模型能力。"
+}

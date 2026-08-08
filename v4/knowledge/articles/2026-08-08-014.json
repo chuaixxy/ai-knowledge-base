@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521147&idx=1&sn=dc14c37c6a03dd9448d8b95c2d4f15d6",
+  "title": "不写一行代码，小 V 在 Codex 里搭起了视频搜索网站",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521147&idx=1&sn=dc14c37c6a03dd9448d8b95c2d4f15d6",
+  "summary": "该项目展示了如何利用 OpenAI 的 Codex 平台，通过自然语言对话而非手写代码，构建一个视频搜索网站。用户小 V 在 Codex 中描述需求，AI 自动生成前后端代码，实现视频搜索、筛选和播放功能。整个过程无需编程经验，大幅降低开发门槛，体现了 AI 辅助开发的高效性和易用性。项目重点在于验证 Codex 在真实场景中的应用潜力，并提供了可复现的搭建流程。",
+  "tags": [
+    "AI辅助开发",
+    "无代码",
+    "Codex",
+    "视频搜索",
+    "自然语言编程"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用开发",
+  "key_insight": "Codex 将自然语言转化为可运行应用，使非程序员也能快速构建实用工具，预示开发范式的转变。"
+}
