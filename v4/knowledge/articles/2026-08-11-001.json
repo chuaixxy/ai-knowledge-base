@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-11-001",
+  "source_id": "https://arxiv.org/abs/2608.06394",
+  "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.06394",
+  "summary": "本文针对多标签节点分类的跨域泛化问题，指出现有图基础模型（GFMs）基于单标签假设，将节点嵌入为单一向量，导致多语义纠缠。为此，作者提出从单向量表示学习迈向多语义基元学习，旨在构建面向多标签的图基础模型，通过学习多个语义基元来解耦节点表示，提升跨图域的迁移能力。该工作为图基础模型在多标签场景下的设计提供了新方向，有望改善复杂图数据的表征质量。",
+  "tags": [
+    "图基础模型",
+    "多标签节点分类",
+    "表示学习",
+    "跨域泛化",
+    "语义解耦"
+  ],
+  "relevance_score": 0.85,
+  "category": "图神经网络/图表示学习",
+  "key_insight": "将节点表示从单一向量扩展为多语义基元组合，是解决多标签语义纠缠并实现跨域泛化的关键。"
+}

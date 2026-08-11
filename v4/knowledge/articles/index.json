@@ -12001,5 +12001,426 @@
     ],
     "status": "published",
     "collected_at": "2026-08-08T01:50:21.672Z"
+  },
+  {
+    "id": "2026-08-11-001",
+    "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.06394",
+    "category": "图神经网络/图表示学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "图基础模型",
+      "多标签节点分类",
+      "表示学习",
+      "跨域泛化",
+      "语义解耦"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.672Z"
+  },
+  {
+    "id": "2026-08-11-002",
+    "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.06398",
+    "category": "自然语言处理/模型架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "Mixture-of-Experts",
+      "Tokenizer-Free LLM",
+      "Byte-Level Model",
+      "Sparse Routing",
+      "Entropy-Aware",
+      "Dynamic Patch"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.672Z"
+  },
+  {
+    "id": "2026-08-11-003",
+    "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.06400",
+    "category": "AI可解释性与对齐",
+    "relevance_score": 0.9,
+    "tags": [
+      "Mixture-of-Experts",
+      "模型可解释性",
+      "奖励模型",
+      "贡献对比",
+      "响应级解释"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.672Z"
+  },
+  {
+    "id": "2026-08-11-004",
+    "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+    "category": "AI模型能力探索",
+    "relevance_score": 0.9,
+    "tags": [
+      "Transformer",
+      "算术",
+      "权重编程",
+      "编译器",
+      "乘法",
+      "无训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.672Z"
+  },
+  {
+    "id": "2026-08-11-005",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "category": "政策与产业",
+    "relevance_score": 0.7,
+    "tags": [
+      "OpenAI",
+      "得克萨斯州",
+      "AI基础设施",
+      "政策倡导",
+      "负责任AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.672Z"
+  },
+  {
+    "id": "2026-08-11-006",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/model-ml",
+    "category": "AI金融办公自动化",
+    "relevance_score": 0.85,
+    "tags": [
+      "金融科技",
+      "大语言模型",
+      "自动化办公",
+      "数据可视化",
+      "工作流程优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.672Z"
+  },
+  {
+    "id": "2026-08-11-007",
+    "title": "What building an AI-native finance function taught me",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/building-an-ai-native-finance-function",
+    "category": "企业AI实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI财务",
+      "自动化预测",
+      "内部控制",
+      "AI投资回报",
+      "组织变革"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.672Z"
+  },
+  {
+    "id": "2026-08-11-008",
+    "title": "Evolve your marketing with new AI tools",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "category": "营销技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI营销",
+      "Google Ads",
+      "Google Analytics",
+      "代理式AI",
+      "工作流自动化",
+      "数字广告"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-009",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "category": "语音AI/实时交互",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音代理",
+      "TTS",
+      "低延迟",
+      "多语言",
+      "NVIDIA",
+      "开放权重",
+      "部署控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-010",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "category": "模型压缩与加速",
+    "relevance_score": 0.85,
+    "tags": [
+      "知识蒸馏",
+      "模型压缩",
+      "高效训练",
+      "大规模部署",
+      "低成本"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-011",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/muse-glimmer",
+    "category": "AI基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "Meta",
+      "多模态",
+      "开源",
+      "本地AI",
+      "智能体",
+      "边缘计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-012",
+    "title": "Mark Zuckerberg doesn’t understand how to live",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "category": "科技评论",
+    "relevance_score": 0.65,
+    "tags": [
+      "科技批判",
+      "生活方式",
+      "人工智能",
+      "硅谷文化",
+      "人文思考"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-013",
+    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "category": "科技趋势与战略",
+    "relevance_score": 0.75,
+    "tags": [
+      "人工智能",
+      "扎克伯格",
+      "Meta",
+      "未来愿景",
+      "技术宣言",
+      "AI治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-014",
+    "title": "What happens to Bose when headphones become AI?",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "category": "科技访谈/商业分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "Bose",
+      "AI耳机",
+      "消费科技",
+      "品牌战略",
+      "音频技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-015",
+    "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+    "category": "技术科普",
+    "relevance_score": 0.9,
+    "tags": [
+      "Agent评测",
+      "评测体系",
+      "人工智能",
+      "技术博客",
+      "美团",
+      "实践经验"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-016",
+    "title": "火山引擎 SenseFlow 重磅发布：突破存储边界，洞见数据价值",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521212&idx=1&sn=819993bfc75955779785e4aaad7dcd89",
+    "category": "数据基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "数据存储",
+      "实时分析",
+      "数据驱动",
+      "火山引擎",
+      "流式处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-017",
+    "title": "魔搭社区「魔粒体系」正式上线！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511727&idx=1&sn=3ca86e811e4cb22bd678cd304f56103d",
+    "category": "开发者平台/社区激励",
+    "relevance_score": 0.9,
+    "tags": [
+      "魔搭社区",
+      "积分体系",
+      "AIGC",
+      "算力激励",
+      "开发者社区",
+      "API调用",
+      "模型训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-018",
+    "title": "Wan-Animate-2 开源：端到端双分支 DiT 角色动画框架，支持文本控视角与实时流式生成",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511710&idx=1&sn=1e09799626f13a743719224d3b778779",
+    "category": "AI生成媒体",
+    "relevance_score": 0.95,
+    "tags": [
+      "角色动画",
+      "DiT",
+      "端到端",
+      "双分支",
+      "文本控视角",
+      "实时生成",
+      "开源",
+      "动作迁移"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-019",
+    "title": "10万+Skill 背后：腾讯SkillHub如何帮用户找到真正好用的那20%",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803078&idx=1&sn=13cad02f15d9addef06e2a31fb3a3f93",
+    "category": "技术运营与产品策略",
+    "relevance_score": 0.9,
+    "tags": [
+      "内容治理",
+      "智能分发",
+      "AI社区",
+      "推荐系统",
+      "腾讯"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-020",
+    "title": "世界上最会造机器人的公司为何始终难做大？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998278&idx=1&sn=1535129a37138ade60f4b6d47de3745e",
+    "category": "商业与技术分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "机器人",
+      "商业战略",
+      "技术商业化",
+      "产业分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-021",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998269&idx=1&sn=47cd4502eb45957e88f2a73639a016b8",
+    "category": "行业报告/信息聚合",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI动态",
+      "关键词分析",
+      "行业趋势",
+      "信息聚合",
+      "腾讯研究院"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-022",
+    "title": "“写代码从来都不是难点”，这是对全世界所有程序员的严重侮辱",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290582&idx=1&sn=92f1bff14f5f9dcef870c59fde3b1ce3",
+    "category": "技术文化评论",
+    "relevance_score": 0.85,
+    "tags": [
+      "程序员文化",
+      "软件开发",
+      "行业批判",
+      "技术价值观",
+      "职场认知"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-023",
+    "title": "DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290582&idx=2&sn=b2cba27df4df9d555e9dbf1801e0933b",
+    "category": "AI工具与模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "Meta",
+      "AI编程",
+      "低价策略",
+      "数据税",
+      "Muse Code",
+      "Muse Spark"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-11-024",
+    "title": "揭秘！Agent潜伏两个月联手作案，OpenAI还原安全事故全过程",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049267&idx=2&sn=e79c651f1cb024a0200b515c364854bb",
+    "category": "AI安全与治理",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI安全",
+      "多智能体协同",
+      "自主攻击",
+      "长期规划",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-11T01:57:06.673Z"
   }
 ]

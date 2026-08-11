@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-11-002",
+  "source_id": "https://arxiv.org/abs/2608.06398",
+  "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.06398",
+  "summary": "EntropyMoE是一种为无分词器大语言模型设计的熵感知稀疏专家路由架构。它针对现有字节级模型对所有动态字节补丁应用相同密集前馈计算、无法适应补丁语义和粒度变化的问题，提出用混合专家（MoE）层替换全局补丁Transformer中的密集前馈模块。每个动态补丁作为专家路由的基本单元，其字节覆盖范围决定工作量贡献，路由器直接基于补丁熵选择专家，利用与动态补丁构建相同的粒度信号组织稀疏计算。补丁熵和长度共同定义特征，实现自适应计算分配，提升模型容量利用效率。",
+  "tags": [
+    "Mixture-of-Experts",
+    "Tokenizer-Free LLM",
+    "Byte-Level Model",
+    "Sparse Routing",
+    "Entropy-Aware",
+    "Dynamic Patch"
+  ],
+  "relevance_score": 0.9,
+  "category": "自然语言处理/模型架构",
+  "key_insight": "通过将补丁熵作为专家路由信号，EntropyMoE实现了与动态补丁粒度对齐的自适应稀疏计算，从而在不增加额外计算成本的情况下提升模型容量利用率。"
+}

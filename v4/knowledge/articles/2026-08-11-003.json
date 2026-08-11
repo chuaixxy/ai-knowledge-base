@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-11-003",
+  "source_id": "https://arxiv.org/abs/2608.06400",
+  "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.06400",
+  "summary": "该论文针对混合专家（MoE）奖励模型的可解释性问题，指出现有基于路由权重的方法仅能揭示专家接收哪些提示，无法反映其如何评判响应，因此提出贡献对比（CoCo）方法，通过选择被选与拒绝响应对中贡献差异最大的样本，联合捕捉路由与偏好行为，实现响应级别的忠实解释。自动与人工评估表明，CoCo生成的解释比基于路由、基于分数及稀疏自编码器的方法更连贯、忠实且专业化。",
+  "tags": [
+    "Mixture-of-Experts",
+    "模型可解释性",
+    "奖励模型",
+    "贡献对比",
+    "响应级解释"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI可解释性与对齐",
+  "key_insight": "CoCo通过贡献对比而非路由权重，更忠实地揭示MoE奖励模型中专家对响应的评判作用。"
+}

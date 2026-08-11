@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-11-004",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+  "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+  "summary": "该项目通过手写权重而非训练，将乘法算法编译进Transformer模型（Phi-3）中，实现了高精度乘法运算。作者开发了编译器Torchwright，将小学乘法算法转为计算图并嵌入模型权重，使三百万个三位数乘法表达式全部正确，并发布了支持12位乘法的检查点。同时测试了六个前沿模型，发现其长数字乘法准确率随位数增加急剧下降，而该模型保持100%准确率。项目包含四种版本：小学算法、硬件风格、草稿本和暴力记忆，展示了通过权重编程实现精确算术的可能性。",
+  "tags": [
+    "Transformer",
+    "算术",
+    "权重编程",
+    "编译器",
+    "乘法",
+    "无训练"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型能力探索",
+  "key_insight": "通过将算法直接编译进模型权重，Transformer可以精确执行算术运算，无需训练，挑战了其算术能力弱的固有认知。"
+}

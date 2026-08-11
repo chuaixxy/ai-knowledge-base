@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-11-009",
+  "source_id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+  "summary": "该项目基于NVIDIA Magpie TTS，构建低延迟多语言语音代理，强调开放权重和完全部署控制。它旨在解决语音交互中的实时性和多语言支持问题，提供可定制的部署方案，适用于客服、助手等场景。技术核心在于优化TTS推理延迟，同时保持语音自然度。",
+  "tags": [
+    "语音代理",
+    "TTS",
+    "低延迟",
+    "多语言",
+    "NVIDIA",
+    "开放权重",
+    "部署控制"
+  ],
+  "relevance_score": 0.85,
+  "category": "语音AI/实时交互",
+  "key_insight": "通过开放权重和部署控制，实现可定制、低延迟的多语言语音代理，平衡性能与灵活性。"
+}
