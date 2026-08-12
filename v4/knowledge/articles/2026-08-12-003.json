@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-12-003",
+  "source_id": "https://stolen-thoughts.com/",
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "source": "rss-hacker-news-best",
+  "url": "https://stolen-thoughts.com/",
+  "summary": "该项目揭示了一种针对商业LLM API的攻击方法，通过精心构造的查询和概率分析，从模型输出中逆向提取其内部推理链（即思维链），尽管这些API声称隐藏了推理过程。研究展示了如何利用模型对特定提示的响应差异来推断隐藏的推理步骤，并讨论了该攻击对AI安全、隐私和模型透明度的潜在影响。文章在Hacker News上引发广泛讨论，强调了对专有模型推理过程保护的迫切性。",
+  "tags": [
+    "LLM安全",
+    "思维链提取",
+    "API攻击",
+    "隐私泄露",
+    "模型透明度"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全",
+  "key_insight": "商业LLM API的思维链可通过概率性查询被逆向工程，打破其推理过程保密性，凸显AI系统安全设计中的重大盲点。"
+}

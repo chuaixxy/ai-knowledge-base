@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-12-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049682&idx=2&sn=d8fbd89f632c9691d0ade2d835614790",
+  "title": "openJiuwen协同昇腾打造智能体「算力亲和」技术，首token时延砍半，推理存储占用下降25%",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049682&idx=2&sn=d8fbd89f632c9691d0ade2d835614790",
+  "summary": "openJiuwen协同昇腾推出智能体「算力亲和」技术，通过让Agent理解任务特性并让算力适配Agent需求，实现首token时延降低50%，推理存储占用减少25%。该技术优化了智能体与底层硬件间的协同效率，显著提升推理性能与资源利用率，适用于大模型推理、边缘计算及AI应用部署场景。",
+  "tags": [
+    "智能体",
+    "算力亲和",
+    "昇腾",
+    "推理优化",
+    "时延降低",
+    "存储优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与推理优化",
+  "key_insight": "通过Agent与算力的双向理解实现性能跃升，首token时延减半彰显软硬协同潜力。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-12-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+  "title": "ZCode全面升级，GLM最佳Harness，让复杂任务自主交付",
+  "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+  "summary": "该项目是ZCode的全面升级，定位为GLM（通用大语言模型）的最佳Harness（控制框架），旨在让复杂任务能够自主交付。它通过优化任务编排、工具调用和反馈循环，提升模型在真实场景中的自主性与可靠性，减少人工干预。核心价值在于将大模型能力落地为可执行的自动化工作流，适用于软件开发、数据分析、运维等复杂任务场景。",
+  "tags": [
+    "ZCode",
+    "GLM",
+    "Harness",
+    "自主任务",
+    "自动化",
+    "大模型应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具/框架",
+  "key_insight": "ZCode通过构建面向GLM的专用Harness，将大模型从被动响应转化为主动执行，实现复杂任务的端到端自主交付。"
+}

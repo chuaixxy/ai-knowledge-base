@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-12-002",
+  "source_id": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+  "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+  "source": "rss-hacker-news-best",
+  "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+  "summary": "该项目探讨在 macOS 虚拟机中通过 GPU 直通（GPU passthrough）技术加速 llama.cpp 的 LLM 推理，特别针对 Apple Silicon 平台。文章由 trycua 发布，详细介绍了如何在 macOS VM 中配置 GPU 直通，使 llama.cpp 能够利用宿主机的 GPU 资源，从而显著提升推理速度。文章还讨论了技术挑战、性能对比和潜在应用场景，并附有社区讨论（HN 287 分，43 评论），显示其关注度。核心目标是突破虚拟化环境中的性能瓶颈，实现接近原生的推理效率。",
+  "tags": [
+    "Apple Silicon",
+    "macOS VM",
+    "GPU passthrough",
+    "llama.cpp",
+    "LLM inference",
+    "虚拟化",
+    "性能优化"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI 基础设施与虚拟化",
+  "key_insight": "通过 GPU 直通，macOS 虚拟机也能实现接近原生的 LLM 推理性能，为 Apple Silicon 上的高效 AI 部署开辟了新路径。"
+}

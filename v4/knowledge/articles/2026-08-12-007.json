@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-12-007",
+  "source_id": "https://ngrok.com/blog/compression-is-prediction",
+  "title": "Compression is prediction",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://ngrok.com/blog/compression-is-prediction",
+  "summary": "该项目探讨了压缩与预测之间的深层联系，认为数据压缩本质上是一种预测过程。通过压缩算法（如算术编码）的视角，文章阐述了预测模型如何利用历史上下文来减少信息冗余，从而压缩数据。这种观点将机器学习、信息论和统计建模统一起来，强调好的预测器即好的压缩器，反之亦然。项目可能涉及将压缩技术应用于AI模型评估或生成模型，突出了信息论在理解智能中的核心作用。",
+  "tags": [
+    "信息论",
+    "机器学习",
+    "数据压缩",
+    "预测模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "理论/研究",
+  "key_insight": "压缩与预测在数学上等价，这为构建通用智能提供了统一框架。"
+}

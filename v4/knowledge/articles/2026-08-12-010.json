@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-12-010",
+  "source_id": "https://arxiv.org/abs/2608.07474",
+  "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.07474",
+  "summary": "该论文指出，在高损失领域中，人类参与AI输出监督在结构上不可行，因为AI输出速度V与每项认知负载L的乘积（V×L）超过了人类认知能力C_max。L由分诊、判断和响应三部分组成，它们对AI能力提升的响应不对称：分诊成本不随模型能力提升而下降，因为语义不确定性是通用设计的固有属性；响应成本对准确性提升不变；只有判断成本面临下降压力，但往往是通过省略而非真正减少。因此，能力提升重构了L而非减少它。基于评估AI输出正确性的治理机制，要么将评估委托给AI从而继承幻觉风险，要么委托给人类而面临V×L上限。",
+  "tags": [
+    "AI治理",
+    "高损失领域",
+    "认知负载",
+    "人类监督",
+    "幻觉风险"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI安全与治理",
+  "key_insight": "AI能力提升并未减少认知负载，而是通过省略判断来重构负载，从而加剧了治理困境。"
+}

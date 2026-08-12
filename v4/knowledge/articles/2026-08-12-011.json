@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-12-011",
+  "source_id": "https://arxiv.org/abs/2608.07476",
+  "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.07476",
+  "summary": "本文提出一个形式化框架，用于从多元结构理论中构建规范解释。结构理论定义为三元组（签名、公理、推理策略），其可容许解释族收集所有全局一致的结构结论赋值。区分了三个规范化层次：闭包稳定性、全局完备性和确定性（唯一可容许解释）。非确定性被分类为认知多元性（E型）和结构多元性（S型），并细化了S-强子类，其特征为缺乏公共上界。提出了两种规范化机制：基于算子的完备化和基于选择子的构造。文章给出了这些机制存在的充分结构条件，并表明纯基于推理的完备化可简化为...",
+  "tags": [
+    "结构理论",
+    "确定性",
+    "闭包",
+    "可容许性",
+    "形式框架",
+    "推理策略"
+  ],
+  "relevance_score": 0.8,
+  "category": "理论计算机科学 / 数学基础",
+  "key_insight": "通过区分认知与结构多元性，并引入公共上界条件，为从多元理论中构造唯一规范解释提供了统一的充分条件。"
+}

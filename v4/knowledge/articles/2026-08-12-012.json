@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-12-012",
+  "source_id": "https://openai.com/index/testing-ads-in-chatgpt",
+  "title": "Testing ads in ChatGPT",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/testing-ads-in-chatgpt",
+  "summary": "OpenAI开始测试在ChatGPT中植入广告，旨在通过广告收入支持免费用户访问。广告将明确标注，确保不影响回答的独立性，并强化隐私保护，同时赋予用户控制权。此举是AI商业化的重要探索，平衡了免费服务与盈利需求，但需警惕广告对用户体验和信任的潜在影响。",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "广告",
+    "商业化",
+    "免费访问",
+    "隐私保护"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI商业化与产品策略",
+  "key_insight": "广告模式在AI对话服务中的引入，标志着AI产品从纯订阅向混合盈利模式的转变，其核心挑战在于如何在商业化与用户信任间取得平衡。"
+}

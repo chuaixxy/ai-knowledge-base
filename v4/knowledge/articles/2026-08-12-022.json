@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-12-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511803&idx=1&sn=8bc75f815f365e60357dfbe37908bad4",
+  "title": "蚂蚁百灵 Ling-3.0-flash 开源：仅激活 5.1B，对齐上一代 1T 级旗舰",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511803&idx=1&sn=8bc75f815f365e60357dfbe37908bad4",
+  "summary": "蚂蚁集团开源了百灵Ling-3.0-flash模型，该模型采用原生混合线性注意力机制、细粒度状态记忆和高稀疏MoE架构，仅激活5.1B参数即可达到上一代1T级旗舰模型的性能水平。这一创新在长上下文处理、Agent执行效率和部署成本之间实现了更优的平衡，降低了推理资源消耗，同时保持了高性能，为大规模AI应用提供了更经济高效的解决方案。",
+  "tags": [
+    "混合注意力",
+    "稀疏MoE",
+    "模型压缩",
+    "长上下文",
+    "Agent效率",
+    "开源"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型架构",
+  "key_insight": "通过架构创新而非单纯参数堆叠，实现了小激活参数下的高性能，重新定义了效率与能力的权衡。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-12-005",
+  "source_id": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "title": "How Claude marks AI-generated content",
+  "source": "rss-hacker-news-best",
+  "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+  "summary": "该项目是Claude官方发布的关于如何标记AI生成内容的文章，在Hacker News上引发了广泛讨论（421分，391条评论）。文章探讨了Claude在生成内容时如何通过水印、元数据或文本标记等方式，帮助用户和平台识别AI生成的文本，以增强透明度和信任度。讨论聚焦于AI内容标记的技术可行性、隐私影响、以及对抗恶意使用的挑战。社区评论反映了对标记机制的有效性、潜在滥用（如绕过标记）和伦理问题的担忧。",
+  "tags": [
+    "AI内容标记",
+    "透明度",
+    "水印技术",
+    "AI伦理",
+    "内容审核"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI治理与安全",
+  "key_insight": "AI生成内容的标记不仅是技术问题，更是平衡透明度、隐私和对抗滥用的复杂治理挑战。"
+}

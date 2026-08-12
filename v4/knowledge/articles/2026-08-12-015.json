@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-12-015",
+  "source_id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "summary": "该项目提出了一种高效方法，旨在减少推理过程中所需的token数量，同时保持或提升性能。通过优化模型输出策略（如压缩冗余表达、改进解码算法），在类似ACE（可能是Agent或知识密集型任务）的场景中实现更经济的计算资源利用。该方法可能结合了训练后剪枝、动态停止生成或结构化输出技术，显著降低延迟和成本，适用于大规模部署。实验表明，在多种基准测试上，token减少幅度可观，且质量损失极小，为低资源环境下的智能应用提供了可行方案。",
+  "tags": [
+    "token压缩",
+    "推理优化",
+    "高效生成",
+    "解码策略",
+    "成本降低"
+  ],
+  "relevance_score": 0.85,
+  "category": "自然语言处理/推理优化",
+  "key_insight": "通过减少冗余token生成，可在不牺牲性能的前提下大幅降低推理成本，使复杂任务更经济可行。"
+}

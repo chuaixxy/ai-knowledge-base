@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-12-027",
+  "source_id": "https://stripe.com/blog/mapping-the-ai-economy",
+  "title": "Mapping the AI economy",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/mapping-the-ai-economy",
+  "summary": "该项目基于Stripe支付数据，分析了全球人工智能（AI）经济的增长格局，旨在揭示AI公司全球扩张中的需求热点和增长最快的地区。通过数据驱动，项目提供了关于AI需求地理分布、行业渗透率及企业战略布局的洞察，帮助企业识别高潜力市场并优化产品定位。研究发现，AI需求并非均匀分布，而是集中在特定区域和行业，且跨境增长显著。项目强调，企业应利用实时支付数据捕捉需求信号，以数据导向的方式制定国际化策略，从而在竞争激烈的AI市场中占据先机。",
+  "tags": [
+    "AI经济",
+    "数据分析",
+    "全球扩张",
+    "Stripe",
+    "市场洞察",
+    "企业战略"
+  ],
+  "relevance_score": 0.85,
+  "category": "行业研究/数据分析",
+  "key_insight": "AI需求的地理集中性显著，企业应基于支付数据实时定位高增长市场，以数据驱动策略实现全球扩张。"
+}

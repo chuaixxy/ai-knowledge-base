@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-12-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290628&idx=2&sn=997449e01beb8b31ba43fa3fb760d5c9",
+  "title": "从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290628&idx=2&sn=997449e01beb8b31ba43fa3fb760d5c9",
+  "summary": "该项目聚焦于AI编程工具从个人使用到企业生产环境的落地挑战，探讨开发者如何从简单调用AI生成代码，进阶到真正驾驭AI辅助开发流程。内容涵盖代码质量、安全审查、上下文管理、团队协作、工具链集成等实际碰撞，强调生产环境对可靠性、可维护性和性能的严苛要求。项目通过真实案例和最佳实践，揭示AI Coding在效率提升之外的深层问题，如技术债务、责任边界和工程文化变革，旨在帮助团队建立可持续的AI驱动开发模式，避免“玩具级”应用陷阱。",
+  "tags": [
+    "AI Coding",
+    "生产环境",
+    "工程实践",
+    "开发者工具",
+    "代码质量"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术实践/开发工具",
+  "key_insight": "AI Coding的成败不在于生成代码的速度，而在于如何将AI嵌入工程流程，实现质量、安全与效率的平衡。"
+}

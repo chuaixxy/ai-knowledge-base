@@ -12422,5 +12422,545 @@
     ],
     "status": "published",
     "collected_at": "2026-08-11T01:57:06.673Z"
+  },
+  {
+    "id": "2026-08-12-001",
+    "title": "Go is an ideal language for AI-assisted software engineering",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "category": "技术趋势",
+    "relevance_score": 0.9,
+    "tags": [
+      "Go",
+      "AI辅助编程",
+      "软件工程",
+      "编程语言"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-002",
+    "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "category": "AI 基础设施与虚拟化",
+    "relevance_score": 0.75,
+    "tags": [
+      "Apple Silicon",
+      "macOS VM",
+      "GPU passthrough",
+      "llama.cpp",
+      "LLM inference",
+      "虚拟化",
+      "性能优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-003",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://stolen-thoughts.com/",
+    "category": "AI安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM安全",
+      "思维链提取",
+      "API攻击",
+      "隐私泄露",
+      "模型透明度"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-004",
+    "title": "As AI eats the web, the internet’s collective memory is disappearing",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://thewalrus.ca/google-search-is-dying/",
+    "category": "科技与社会",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "互联网记忆",
+      "搜索引擎",
+      "信息真实性",
+      "数字文化",
+      "内容生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-005",
+    "title": "How Claude marks AI-generated content",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "category": "AI治理与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI内容标记",
+      "透明度",
+      "水印技术",
+      "AI伦理",
+      "内容审核"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-006",
+    "title": "Text Watermarking for Non-Academics",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+    "category": "技术科普与安全分析",
+    "relevance_score": 0.75,
+    "tags": [
+      "文本水印",
+      "技术科普",
+      "AI内容溯源",
+      "版权保护",
+      "安全分析",
+      "非学术"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-007",
+    "title": "Compression is prediction",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://ngrok.com/blog/compression-is-prediction",
+    "category": "理论/研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "信息论",
+      "机器学习",
+      "数据压缩",
+      "预测模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-008",
+    "title": "AI companies destroy physical books — let’s scan rare books before it’s too late",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+    "category": "文化保护与技术伦理",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI数据采集",
+      "图书数字化",
+      "文化遗产保护",
+      "稀有书籍",
+      "扫描技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-009",
+    "title": "Towards an Argumentative Foundation for Evaluative AI",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.07473",
+    "category": "人工智能基础理论",
+    "relevance_score": 0.75,
+    "tags": [
+      "评估型AI",
+      "计算论证",
+      "可解释AI",
+      "人机决策",
+      "形式化方法"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-010",
+    "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.07474",
+    "category": "AI安全与治理",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI治理",
+      "高损失领域",
+      "认知负载",
+      "人类监督",
+      "幻觉风险"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-011",
+    "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.07476",
+    "category": "理论计算机科学 / 数学基础",
+    "relevance_score": 0.8,
+    "tags": [
+      "结构理论",
+      "确定性",
+      "闭包",
+      "可容许性",
+      "形式框架",
+      "推理策略"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-012",
+    "title": "Testing ads in ChatGPT",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/testing-ads-in-chatgpt",
+    "category": "AI商业化与产品策略",
+    "relevance_score": 0.8,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "广告",
+      "商业化",
+      "免费访问",
+      "隐私保护"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-013",
+    "title": "Daybreak models are now available on AWS",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "category": "AI与云计算",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "AWS",
+      "OpenAI",
+      "Amazon Bedrock",
+      "企业安全",
+      "威胁检测"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-014",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "category": "医疗健康",
+    "relevance_score": 0.8,
+    "tags": [
+      "医疗AI",
+      "视频咨询",
+      "临床诊断",
+      "Google",
+      "实时对话"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-015",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "category": "自然语言处理/推理优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "token压缩",
+      "推理优化",
+      "高效生成",
+      "解码策略",
+      "成本降低"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-016",
+    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "category": "科技争议",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI替代",
+      "游戏开发",
+      "ChatGPT",
+      "编剧争议",
+      "就业影响"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-017",
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "Gemini",
+      "ChatGPT",
+      "用户增长",
+      "谷歌",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-018",
+    "title": "Another OpenAI executive takes off",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+    "category": "AI行业动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "OpenAI",
+      "高管离职",
+      "AI行业",
+      "人才流动",
+      "战略调整"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-019",
+    "title": "AI 视频降本的三种做法，只有一种不牺牲画质",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521222&idx=1&sn=27759804c7e3d4d635d31ee9f1f70232",
+    "category": "技术分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI视频",
+      "成本优化",
+      "画质保真",
+      "视频编码"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-020",
+    "title": "AI 评测还在看准确率？数据科学早就用因果推断做归因分析了",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545362&idx=1&sn=39b827174dec7d15ef7d48cd55f1f11f",
+    "category": "AI开发工具/方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "因果推断",
+      "AI评测",
+      "归因分析",
+      "模型优化",
+      "数据科学"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-021",
+    "title": "连续五天登上 GitHub Trending 首页的思考",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511052&idx=1&sn=ec738e92d8018fb50fac9fa16e9d54fc",
+    "category": "技术经验分享",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源",
+      "GitHub Trending",
+      "AI Coding",
+      "开发者方法论",
+      "社区运营"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-022",
+    "title": "蚂蚁百灵 Ling-3.0-flash 开源：仅激活 5.1B，对齐上一代 1T 级旗舰",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511803&idx=1&sn=8bc75f815f365e60357dfbe37908bad4",
+    "category": "AI模型架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "混合注意力",
+      "稀疏MoE",
+      "模型压缩",
+      "长上下文",
+      "Agent效率",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-023",
+    "title": "价值对齐是个伪概念",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998289&idx=1&sn=aec1c18d437c50c771628561bab31c83",
+    "category": "技术哲学/批判性研究",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI安全",
+      "价值对齐",
+      "技术批判",
+      "伦理",
+      "社会建构"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-024",
+    "title": "把59位技术人装进一艘船里，8月15日在前海启航！",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696914&idx=1&sn=85b3e7f48d6971118a2251b1ccff93a7",
+    "category": "技术社区活动",
+    "relevance_score": 0.7,
+    "tags": [
+      "技术交流",
+      "AI",
+      "跨代际",
+      "前海",
+      "行业活动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-025",
+    "title": "7 月产品月报 ｜ RocketMQ 5.x 上新 Lite Topic：为多 Agent 协作而生",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506918&idx=1&sn=66add5ca21044f2abca4059b7e8876d3",
+    "category": "技术产品更新",
+    "relevance_score": 0.85,
+    "tags": [
+      "RocketMQ",
+      "消息队列",
+      "多Agent",
+      "Lite Topic",
+      "云原生",
+      "产品更新",
+      "AI协作",
+      "阿里云"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-026",
+    "title": "ZCode全面升级，GLM最佳Harness，让复杂任务自主交付",
+    "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+    "category": "AI开发工具/框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "ZCode",
+      "GLM",
+      "Harness",
+      "自主任务",
+      "自动化",
+      "大模型应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-027",
+    "title": "Mapping the AI economy",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/mapping-the-ai-economy",
+    "category": "行业研究/数据分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI经济",
+      "数据分析",
+      "全球扩张",
+      "Stripe",
+      "市场洞察",
+      "企业战略"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-028",
+    "title": "小扎万字长文炮轰闭源：蒸馏无罪，Meta 正式重回开源模型路线",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290628&idx=1&sn=489f136192f7f9215b70b615e3bca669",
+    "category": "科技战略",
+    "relevance_score": 0.75,
+    "tags": [
+      "开源AI",
+      "蒸馏",
+      "芯片出口管制",
+      "Meta",
+      "AI竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-029",
+    "title": "从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290628&idx=2&sn=997449e01beb8b31ba43fa3fb760d5c9",
+    "category": "技术实践/开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Coding",
+      "生产环境",
+      "工程实践",
+      "开发者工具",
+      "代码质量"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-030",
+    "title": "4个月融进1亿美元、建齐3座「数据发电厂」，这家TechBio要造一个生物世界模型",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049682&idx=1&sn=3812b616a9be51cbdf6da6e589ed9a52",
+    "category": "生物科技与AI融合",
+    "relevance_score": 0.9,
+    "tags": [
+      "TechBio",
+      "生物世界模型",
+      "数据发电厂",
+      "融资",
+      "AI建模",
+      "真实数据"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-12-031",
+    "title": "openJiuwen协同昇腾打造智能体「算力亲和」技术，首token时延砍半，推理存储占用下降25%",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049682&idx=2&sn=d8fbd89f632c9691d0ade2d835614790",
+    "category": "AI基础设施与推理优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "智能体",
+      "算力亲和",
+      "昇腾",
+      "推理优化",
+      "时延降低",
+      "存储优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-12T02:09:39.307Z"
   }
 ]

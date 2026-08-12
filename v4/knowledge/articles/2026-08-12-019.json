@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-12-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521222&idx=1&sn=27759804c7e3d4d635d31ee9f1f70232",
+  "title": "AI 视频降本的三种做法，只有一种不牺牲画质",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521222&idx=1&sn=27759804c7e3d4d635d31ee9f1f70232",
+  "summary": "该项目探讨了AI视频处理中降低成本的三种技术路径，并指出仅有一种方法能在不牺牲画质的前提下实现降本。通常涉及优化编码算法、采用轻量化模型或利用分布式计算，但多数会带来画质损失。真正可行的方案可能基于智能帧间预测或感知编码，在压缩率与视觉保真度间取得平衡。",
+  "tags": [
+    "AI视频",
+    "成本优化",
+    "画质保真",
+    "视频编码"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术分析",
+  "key_insight": "降本的核心在于感知编码与智能帧预测，而非单纯压缩数据。"
+}

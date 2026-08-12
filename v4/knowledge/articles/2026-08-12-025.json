@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-12-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506918&idx=1&sn=66add5ca21044f2abca4059b7e8876d3",
+  "title": "7 月产品月报 ｜ RocketMQ 5.x 上新 Lite Topic：为多 Agent 协作而生",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506918&idx=1&sn=66add5ca21044f2abca4059b7e8876d3",
+  "summary": "该项目是阿里云 RocketMQ 5.x 在 7 月的产品月报，核心亮点是推出了全新的 Lite Topic 功能，专为多 Agent 协作场景设计。Lite Topic 旨在简化轻量级消息队列的使用，降低多智能体系统间的通信复杂度，提升消息传递效率。月报共汇总了 10 项产品动态，涵盖性能优化、功能增强、易用性改进等，展示了 RocketMQ 在云原生和 AI 应用场景下的持续演进。",
+  "tags": [
+    "RocketMQ",
+    "消息队列",
+    "多Agent",
+    "Lite Topic",
+    "云原生",
+    "产品更新",
+    "AI协作",
+    "阿里云"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术产品更新",
+  "key_insight": "RocketMQ 通过 Lite Topic 切入多 Agent 协作这一新兴场景，体现了传统中间件向 AI 原生基础设施转型的战略方向。"
+}

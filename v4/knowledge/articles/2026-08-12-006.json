@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-12-006",
+  "source_id": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+  "title": "Text Watermarking for Non-Academics",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+  "summary": "该项目是一篇面向非学术读者的技术文章，标题为“Text Watermarking for Non-Academics”，由Gabor Koos撰写并发布于其博客。文章旨在用通俗语言解释文本水印（text watermarking）技术的核心概念、实际用途及其局限性，尤其探讨“文本水印究竟能证明什么”。内容可能涵盖水印的嵌入方式（如基于统计或语义的算法）、检测原理、对抗攻击（如改写或翻译攻击），以及在实际场景（如AI生成内容溯源、版权保护）中的可信度边界。文章强调非学术视角，避免数学公式，侧重直觉解释和伦理考量，并附有Lobsters社区讨论链接，便于技术爱好者互动。整体上，该项目属于科普与技术评论性质，帮助非专业人士理解文本水印的承诺与现实差距。",
+  "tags": [
+    "文本水印",
+    "技术科普",
+    "AI内容溯源",
+    "版权保护",
+    "安全分析",
+    "非学术"
+  ],
+  "relevance_score": 0.75,
+  "category": "技术科普与安全分析",
+  "key_insight": "文本水印的证明力有限，它只能提供概率性溯源证据，而非绝对归属证明，尤其面对改写攻击时可靠性大幅下降。"
+}
