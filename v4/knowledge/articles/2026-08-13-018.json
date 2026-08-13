@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-13-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511837&idx=1&sn=1ff2ae42a57dcfa2e1524d89197d539e",
+  "title": "NVIDIA Nemotron 3.5 Lightning 开源：30B MoE 仅激活 3B，吞吐最高提升 4 倍",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511837&idx=1&sn=1ff2ae42a57dcfa2e1524d89197d539e",
+  "summary": "NVIDIA 发布 Nemotron 3.5 Lightning 开源模型，采用 MoE 架构，总参数 30B 但仅激活 3B，推理吞吐量最高提升 4 倍。该模型蒸馏自前沿模型 Nemotron 3 Ultra，与 Nemotron Coalition 协作开发，支持最高 1M 上下文长度，并基于超过 20T tokens 进行预训练。其设计旨在降低部署成本，同时保持高性能，适用于长文本处理与高效推理场景。",
+  "tags": [
+    "NVIDIA",
+    "MoE",
+    "开源模型",
+    "高效推理",
+    "长上下文",
+    "蒸馏",
+    "LLM"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI 模型与架构",
+  "key_insight": "以 3B 激活参数实现 30B 模型性能，通过极致稀疏激活重新定义高效 LLM 部署的经济性边界。"
+}

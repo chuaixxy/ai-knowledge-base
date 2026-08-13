@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-13-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561885&idx=1&sn=c2debdbc284ae35755f55e1f301d8376",
+  "title": "千问AI Arena上线：给Agent一个真实的战场",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561885&idx=1&sn=c2debdbc284ae35755f55e1f301d8376",
+  "summary": "千问AI Arena是一个为AI Agent提供真实测试环境的平台，旨在通过模拟实战场景评估Agent的性能、决策能力和适应性。该项目为开发者提供标准化、可量化的基准测试，帮助优化Agent在复杂任务中的表现，推动AI Agent技术从实验室走向实际应用。",
+  "tags": [
+    "AI Agent",
+    "测试平台",
+    "基准测试",
+    "千问"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施",
+  "key_insight": "AI Arena将Agent评估从静态测试转向动态实战，重新定义了AI能力验证的标准。"
+}

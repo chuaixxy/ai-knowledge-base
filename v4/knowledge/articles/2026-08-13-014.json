@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-13-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4",
+  "title": "天猫AI助手：调度框架重构与AI Coding工程化实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4",
+  "summary": "该项目为天猫AI助手的核心调度框架重构，并深入实践AI Coding工程化。通过重构调度逻辑，优化了任务分发与资源管理，实现了AI能力的灵活编排与高效复用。在工程化层面，项目系统性引入AI辅助编码工具，覆盖开发、测试与代码审查全流程，显著提升研发效率。官方数据显示，该实践使得开发提效达到5倍，缩短了功能迭代周期，为大型电商场景下的复杂AI应用落地提供了高价值参考。",
+  "tags": [
+    "AI助手",
+    "调度框架",
+    "AI Coding",
+    "工程化",
+    "提效",
+    "天猫",
+    "重构"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程化与平台架构",
+  "key_insight": "通过调度框架重构与AI Coding深度结合，将AI技术红利直接转化为5倍研发效率提升，验证了AI工程化在大型业务系统中的规模化落地路径。"
+}

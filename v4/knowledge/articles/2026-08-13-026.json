@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-13-026",
+  "source_id": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4",
+  "title": "Flexible Authentication: Reimagining authentication for millions of users at Airbnb",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4",
+  "summary": "该项目是Airbnb针对其数百万用户重新设计的灵活认证系统，旨在解决传统认证方式在扩展性、用户体验和安全性上的不足。通过引入多因素、自适应和上下文感知的认证机制，系统能根据用户行为、设备信誉和风险等级动态调整认证强度，减少摩擦同时保障安全。项目还强调了模块化架构和可插拔认证策略，便于快速集成新认证方式，并支持跨平台一致性体验。最终目标是提升用户转化率和信任度，同时为大规模分布式系统提供可复用的认证框架。",
+  "tags": [
+    "身份认证",
+    "多因素认证",
+    "用户安全",
+    "扩展性",
+    "用户体验",
+    "Airbnb"
+  ],
+  "relevance_score": 0.85,
+  "category": "系统安全与用户身份管理",
+  "key_insight": "认证不再是固定流程，而是基于风险的自适应决策引擎，平衡安全与体验。"
+}

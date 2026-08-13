@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-13-009",
+  "source_id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "summary": "LFM2.5-VL-3B 是一个专为边缘设备优化的视觉语言模型，基于 LFM2.5 架构，参数量为 3B，在保持高性能的同时显著提升推理速度。它旨在实现更高效、更快速的视觉理解能力，适用于资源受限的边缘场景，如智能摄像头、移动设备和嵌入式系统。该模型在视觉问答、图像描述等任务上表现出色，同时降低计算开销，是边缘 AI 的理想选择。",
+  "tags": [
+    "视觉语言模型",
+    "边缘计算",
+    "高效推理",
+    "3B参数",
+    "嵌入式AI"
+  ],
+  "relevance_score": 0.85,
+  "category": "边缘AI模型",
+  "key_insight": "通过3B参数规模在边缘设备上实现视觉语言任务的高效推理，兼顾速度与性能。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-13-010",
+  "source_id": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+  "title": "Twitch streamers can now opt out from training Amazon’s AI",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+  "summary": "Twitch 现已允许主播选择退出，防止其内容被用于训练亚马逊的生成式 AI 模型。选择退出后，主播的直播、视频点播、剪辑、聊天记录及频道上的图片和文字将不会用于亚马逊未来 AI 模型的训练。该选项旨在回应创作者对内容被无授权使用的担忧，但仅适用于未来训练，已用于训练的数据无法撤回。此举反映了平台在 AI 数据使用透明度上的妥协，但仍需平衡创作者权益与 AI 发展需求。",
+  "tags": [
+    "Twitch",
+    "亚马逊",
+    "AI训练",
+    "数据隐私",
+    "创作者权益"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术政策与伦理",
+  "key_insight": "平台通过提供退出机制缓解创作者顾虑，但无法追溯已用数据，凸显AI训练中数据使用的不可逆性。"
+}

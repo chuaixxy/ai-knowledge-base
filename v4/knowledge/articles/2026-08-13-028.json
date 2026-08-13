@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-13-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290672&idx=2&sn=e5572eebaf9db5844af3b4af3d973621",
+  "title": "从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290672&idx=2&sn=e5572eebaf9db5844af3b4af3d973621",
+  "summary": "腾讯云重构Agent沙箱，旨在解决老式基础设施在延迟、隔离性和资源调度上的不足。老式Infra面向传统微服务设计，启动耗时达秒级，且隔离粒度粗，无法满足Agent频繁创建、轻量级、毫秒级启动的需求。新沙箱采用轻量化虚拟化与冷启动优化，将启动时间压缩至亚百毫秒，同时强化安全隔离与弹性伸缩，适配AI Agent的高频交互和动态任务场景。其核心在于将基础设施从静态部署转向动态、事件驱动的执行环境，确保生产级稳定性。",
+  "tags": [
+    "腾讯云",
+    "Agent沙箱",
+    "毫秒级启动",
+    "基础设施重构",
+    "AI应用"
+  ],
+  "relevance_score": 0.92,
+  "category": "云原生与AI基础设施",
+  "key_insight": "Agent时代要求基础设施从秒级冷启动转向毫秒级热响应，老式Infra无法满足AI代理的实时性与隔离性需求，重构是必然趋势。"
+}

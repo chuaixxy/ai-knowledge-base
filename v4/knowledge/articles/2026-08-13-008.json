@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-13-008",
+  "source_id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "summary": "OlmoEarth 推出自定义嵌入导出功能，允许用户从 OlmoEarth Studio 中生成定制化的嵌入向量，用于下游分析任务。该功能旨在简化地理空间或地球观测数据的机器学习工作流，支持用户根据特定需求调整嵌入模型，从而提升分析精度和灵活性。此更新强调与现有数据管道的无缝集成，并可能提供 API 或导出格式选项，以促进在分类、聚类或回归等场景中的应用。",
+  "tags": [
+    "嵌入",
+    "地理空间",
+    "机器学习",
+    "数据导出",
+    "OlmoEarth"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 基础设施与工具",
+  "key_insight": "通过定制嵌入导出，OlmoEarth 将数据准备与下游分析解耦，降低地理空间 AI 应用的技术门槛。"
+}

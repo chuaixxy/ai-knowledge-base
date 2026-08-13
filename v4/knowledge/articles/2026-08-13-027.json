@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-13-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290672&idx=1&sn=80c48541f692bdd094be71bab4fcec43",
+  "title": "DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290672&idx=1&sn=80c48541f692bdd094be71bab4fcec43",
+  "summary": "本技术项目探讨了将DeepSeek与Pi（一个高效推理框架）组合使用，在特定任务上超越Claude Code的方案。核心亮点在于实现了99.9%的缓存命中率，这通过智能上下文管理、结构化提示词复用及动态KV缓存策略实现。该组合在代码生成、长上下文对话等场景下，显著降低了推理延迟和成本，同时保持输出质量。Pi创始人的前瞻性押注印证了模块化AI工具链的潜力，即通过轻量化框架与强模型协同，而非依赖单一巨型模型，来优化性能与资源效率。",
+  "tags": [
+    "AI组合",
+    "缓存优化",
+    "推理加速",
+    "DeepSeek",
+    "Pi框架",
+    "成本效率"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "通过高命中率的缓存策略，将模型推理的重复计算开销降至最低，使得组合方案的性能/成本比优于单一顶级模型。"
+}

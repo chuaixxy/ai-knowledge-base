@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-13-005",
+  "source_id": "https://arxiv.org/abs/2608.09986",
+  "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.09986",
+  "summary": "MIDAS是一个针对不完整多模态情感分析的新框架，旨在解决现实应用中模态缺失或损坏的问题。现有方法依赖数据填补和启发式协调约束，难以有效提取任务相关信息。MIDAS通过变分建模将每个模态表示为多元高斯潜变量，并分解为共享和专属因子，以重构多模态表示。设计了一个极小极大目标，以互信息解缠为基础，结合不确定性感知融合，从而在模态不完整时仍能鲁棒地利用任务相关特征。实验表明，MIDAS在多个基准数据集上优于现有方法。",
+  "tags": [
+    "多模态情感分析",
+    "不完整数据",
+    "互信息",
+    "变分推断",
+    "不确定性感知融合"
+  ],
+  "relevance_score": 0.85,
+  "category": "多模态学习",
+  "key_insight": "通过互信息解缠和变分建模，在模态缺失时仍能提取共享与专属特征，实现鲁棒融合。"
+}

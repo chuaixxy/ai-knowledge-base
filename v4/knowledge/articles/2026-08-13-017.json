@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-13-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537736&idx=1&sn=9cc9fc67338dfcd64aea1cac6e4f0353",
+  "title": "论文秀 Live#44 | KDD 2026：多智能体如何自动验证 Rust 代码？用户表征如何降存 30 倍？",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537736&idx=1&sn=9cc9fc67338dfcd64aea1cac6e4f0353",
+  "summary": "该项目围绕KDD 2026论文，探讨多智能体系统在Rust代码自动验证中的应用，以及用户表征学习通过降维实现30倍存储压缩的技术。前者利用多智能体协作提升代码安全验证的效率和准确性，后者通过高效表征方法减少存储开销，同时保持模型泛化能力。项目展示了AI在软件工程和用户建模中的前沿实践，强调自动化与效率优化。",
+  "tags": [
+    "多智能体",
+    "代码验证",
+    "Rust",
+    "用户表征",
+    "降维存储",
+    "KDD"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能与软件工程",
+  "key_insight": "多智能体协作与表征压缩分别解决代码安全验证和存储效率问题，凸显AI在工业应用中的双重价值。"
+}

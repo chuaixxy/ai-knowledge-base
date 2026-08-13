@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-13-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546407&idx=1&sn=bf3d73aab43b7634074d2331a14764f5",
+  "title": "得物知识问答：复合检索 Agent 的系统设计实践",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546407&idx=1&sn=bf3d73aab43b7634074d2331a14764f5",
+  "summary": "该项目介绍了得物在知识问答场景下构建的复合检索Agent系统，突破了传统RAG的“搜到什么用什么”限制，实现了“搜→筛→挖→验”的自主决策闭环。系统通过多路检索、智能筛选、深度挖掘和结果验证四个阶段，让Agent具备判断力，能够主动规划检索策略、过滤无效信息、挖掘潜在知识并验证答案可靠性。该设计旨在提升知识问答的准确性和覆盖面，避免简单套壳RAG的局限性。",
+  "tags": [
+    "RAG",
+    "Agent",
+    "复合检索",
+    "知识问答",
+    "自主决策",
+    "信息验证",
+    "系统设计"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI应用/知识管理",
+  "key_insight": "RAG Agent的核心竞争力在于自主决策闭环，而非简单检索增强，通过‘搜→筛→挖→验’实现有判断力的知识获取。"
+}

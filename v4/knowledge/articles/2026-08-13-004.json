@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-13-004",
+  "source_id": "https://arxiv.org/abs/2608.09967",
+  "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.09967",
+  "summary": "本文提出SPOT（采样策略观测树），一种模型无关、基于采样的深度强化学习（DRL）策略解释框架。SPOT通过访问策略和环境模拟器，采样动作并递归模拟后续状态，构建可解释的有限时域树，经验性地表征策略的动作偏好及下游演化。作者提供了形式化保证，证明SPOT能渐近恢复策略唯一最可能动作，并刻画其在高熵策略下的分歧行为。在SUMO-RL交通信号控制域中进行了案例研究，展示了树形表示用于检查策略偏好和潜在行为轨迹的实用性。",
+  "tags": [
+    "深度强化学习",
+    "可解释AI",
+    "模型无关解释",
+    "策略可视化",
+    "交通信号控制"
+  ],
+  "relevance_score": 0.9,
+  "category": "强化学习可解释性",
+  "key_insight": "SPOT通过采样生成有限时域树，将DRL策略的隐式决策偏好转化为显式可检查的轨迹结构，且具备渐近最优动作恢复的理论保证。"
+}

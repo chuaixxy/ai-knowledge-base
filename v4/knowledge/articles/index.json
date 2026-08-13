@@ -12962,5 +12962,530 @@
     ],
     "status": "published",
     "collected_at": "2026-08-12T02:09:39.307Z"
+  },
+  {
+    "id": "2026-08-13-001",
+    "title": "AI is removing the middle class of software engineering?",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "category": "技术行业分析",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "软件工程",
+      "就业影响",
+      "职业发展",
+      "技术趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-002",
+    "title": "The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://youtu.be/87DyyMV0kCY",
+    "category": "AI行业动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "AI行业",
+      "开源社区",
+      "突发事件"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-003",
+    "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.09949",
+    "category": "农业AI与自主系统",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM",
+      "闭环控制",
+      "数字农业",
+      "植物传感器",
+      "自主实验",
+      "AI-生物接口",
+      "微气候优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-004",
+    "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.09967",
+    "category": "强化学习可解释性",
+    "relevance_score": 0.9,
+    "tags": [
+      "深度强化学习",
+      "可解释AI",
+      "模型无关解释",
+      "策略可视化",
+      "交通信号控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-005",
+    "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.09986",
+    "category": "多模态学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态情感分析",
+      "不完整数据",
+      "互信息",
+      "变分推断",
+      "不确定性感知融合"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-006",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "category": "企业AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "企业AI",
+      "智能体AI",
+      "ChatGPT",
+      "Codex",
+      "AI采用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-007",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/ringcentral",
+    "category": "企业AI实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI原生",
+      "ChatGPT",
+      "Codex",
+      "工程效率",
+      "运维智能",
+      "企业转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-008",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "category": "AI 基础设施与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "嵌入",
+      "地理空间",
+      "机器学习",
+      "数据导出",
+      "OlmoEarth"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-009",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "category": "边缘AI模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "视觉语言模型",
+      "边缘计算",
+      "高效推理",
+      "3B参数",
+      "嵌入式AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-010",
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "category": "技术政策与伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "Twitch",
+      "亚马逊",
+      "AI训练",
+      "数据隐私",
+      "创作者权益"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-011",
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "category": "商业与科技伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI音乐",
+      "Suno",
+      "达达里奥",
+      "商业营销",
+      "透明度",
+      "公关危机"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-012",
+    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "category": "消费电子",
+    "relevance_score": 0.85,
+    "tags": [
+      "Pixel Watch 5",
+      "AI",
+      "健康",
+      "可穿戴设备",
+      "谷歌"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-013",
+    "title": "把 AI 视频的钱花在刀刃上，不是每一刀上",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521239&idx=1&sn=3d1c9e6773e98f7468cf08edd574c940",
+    "category": "AI应用工程/成本工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI视频",
+      "成本优化",
+      "资源分配",
+      "视频生成",
+      "预算管理",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-014",
+    "title": "天猫AI助手：调度框架重构与AI Coding工程化实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545383&idx=1&sn=4123516f8abad5546eb5979c62686dd4",
+    "category": "AI工程化与平台架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI助手",
+      "调度框架",
+      "AI Coding",
+      "工程化",
+      "提效",
+      "天猫",
+      "重构"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-015",
+    "title": "Qoder CLI 上运行 Qwen3.8-Max：5 个硬核任务实测",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511066&idx=1&sn=2abf64c9e90df880bdf02446965b4a5e",
+    "category": "模型评测",
+    "relevance_score": 0.7,
+    "tags": [
+      "Qoder CLI",
+      "Qwen3.8-Max",
+      "模型评测",
+      "实测"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-016",
+    "title": "千问AI Arena上线：给Agent一个真实的战场",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561885&idx=1&sn=c2debdbc284ae35755f55e1f301d8376",
+    "category": "AI基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "测试平台",
+      "基准测试",
+      "千问"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-017",
+    "title": "论文秀 Live#44 | KDD 2026：多智能体如何自动验证 Rust 代码？用户表征如何降存 30 倍？",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537736&idx=1&sn=9cc9fc67338dfcd64aea1cac6e4f0353",
+    "category": "人工智能与软件工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "多智能体",
+      "代码验证",
+      "Rust",
+      "用户表征",
+      "降维存储",
+      "KDD"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-018",
+    "title": "NVIDIA Nemotron 3.5 Lightning 开源：30B MoE 仅激活 3B，吞吐最高提升 4 倍",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511837&idx=1&sn=1ff2ae42a57dcfa2e1524d89197d539e",
+    "category": "AI 模型与架构",
+    "relevance_score": 0.95,
+    "tags": [
+      "NVIDIA",
+      "MoE",
+      "开源模型",
+      "高效推理",
+      "长上下文",
+      "蒸馏",
+      "LLM"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-019",
+    "title": "蚂蚁开源 x 魔搭社区 x inclusionAI｜外滩大会开源嘉年华闪电演讲&互动展位征集启动",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511837&idx=2&sn=2646315f3c0e529e4d5835a547f14c87",
+    "category": "技术活动/社区运营",
+    "relevance_score": 0.75,
+    "tags": [
+      "开源",
+      "AI社区",
+      "外滩大会",
+      "开发者活动",
+      "闪电演讲",
+      "互动展位"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-020",
+    "title": "3万字长文带你WorkBuddy 从入门到精通",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803569&idx=1&sn=325170a0e2bd7117d51dfabbbd79539b",
+    "category": "技术文档/教程",
+    "relevance_score": 0.85,
+    "tags": [
+      "WorkBuddy",
+      "技术教程",
+      "入门到精通",
+      "自动化",
+      "工作流"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-021",
+    "title": "硅基经济永不眠",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998309&idx=1&sn=c4161caa9d126233d5df0c714956f7e2",
+    "category": "经济学理论",
+    "relevance_score": 0.75,
+    "tags": [
+      "硅基经济",
+      "制度框架",
+      "交换",
+      "数字经济",
+      "治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-022",
+    "title": "4周上线鸿蒙电脑，WorkBuddy团队用AI给自己造了个“捷径”",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696941&idx=1&sn=4ab2e9d01758ee75b0220db42f7f90c2",
+    "category": "软件开发与生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "鸿蒙",
+      "AI开发",
+      "智能体",
+      "快速上线",
+      "第三方应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-023",
+    "title": "Kimi 全球大使计划现已开启",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487376&idx=1&sn=b08a910a5ba5add3fc5eba874fdcf5f9",
+    "category": "AI产品市场推广",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI应用",
+      "社区运营",
+      "用户激励",
+      "Kimi",
+      "全球推广"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-024",
+    "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487375&idx=1&sn=5177a1233649e185745edc5e8b292719",
+    "category": "AI模型发布与开源",
+    "relevance_score": 0.95,
+    "tags": [
+      "大模型",
+      "开源",
+      "模型权重",
+      "技术报告",
+      "基础设施",
+      "Kimi K3",
+      "AI生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-025",
+    "title": "得物知识问答：复合检索 Agent 的系统设计实践",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546407&idx=1&sn=bf3d73aab43b7634074d2331a14764f5",
+    "category": "AI应用/知识管理",
+    "relevance_score": 0.9,
+    "tags": [
+      "RAG",
+      "Agent",
+      "复合检索",
+      "知识问答",
+      "自主决策",
+      "信息验证",
+      "系统设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-026",
+    "title": "Flexible Authentication: Reimagining authentication for millions of users at Airbnb",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137?source=rss----53c7c27702d5---4",
+    "category": "系统安全与用户身份管理",
+    "relevance_score": 0.85,
+    "tags": [
+      "身份认证",
+      "多因素认证",
+      "用户安全",
+      "扩展性",
+      "用户体验",
+      "Airbnb"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-027",
+    "title": "DeepSeek + Pi 王炸组合跑赢 Claude Code？Pi创始人：这套组合我早押中了",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290672&idx=1&sn=80c48541f692bdd094be71bab4fcec43",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI组合",
+      "缓存优化",
+      "推理加速",
+      "DeepSeek",
+      "Pi框架",
+      "成本效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-028",
+    "title": "从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290672&idx=2&sn=e5572eebaf9db5844af3b4af3d973621",
+    "category": "云原生与AI基础设施",
+    "relevance_score": 0.92,
+    "tags": [
+      "腾讯云",
+      "Agent沙箱",
+      "毫秒级启动",
+      "基础设施重构",
+      "AI应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-029",
+    "title": "2026云程奖启动！我们要给「在校AI本硕博」发奖学金",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049903&idx=1&sn=e7977d455e32aa07ff58aab165d6e83e",
+    "category": "教育/人才激励",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI奖学金",
+      "在校学生",
+      "人才培育",
+      "教育激励",
+      "2026年度"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-13-030",
+    "title": "终于！Linux用户等来了官方ChatGPT桌面版",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049903&idx=2&sn=990f91c4c42502ed58aa303d7ceff9c5",
+    "category": "AI应用与生态",
+    "relevance_score": 0.9,
+    "tags": [
+      "ChatGPT",
+      "Linux",
+      "桌面应用",
+      "OpenAI",
+      "AI工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-13T02:12:57.012Z"
   }
 ]

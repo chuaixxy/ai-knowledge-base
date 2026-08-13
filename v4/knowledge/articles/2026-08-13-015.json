@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-13-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511066&idx=1&sn=2abf64c9e90df880bdf02446965b4a5e",
+  "title": "Qoder CLI 上运行 Qwen3.8-Max：5 个硬核任务实测",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511066&idx=1&sn=2abf64c9e90df880bdf02446965b4a5e",
+  "summary": "该项目在 Qoder CLI 环境中对 Qwen3.8-Max 进行了 5 个硬核任务的单次实测，强调结果仅反映该 harness 下的表现，且小分差不构成排名依据。任务覆盖多个维度，旨在评估模型在 CLI 集成场景下的实际能力，但未提供具体任务细节或性能数据。",
+  "tags": [
+    "Qoder CLI",
+    "Qwen3.8-Max",
+    "模型评测",
+    "实测"
+  ],
+  "relevance_score": 0.7,
+  "category": "模型评测",
+  "key_insight": "单次运行的小分差不可作为排名依据，但揭示了特定 harness 下模型能力的初步参考。"
+}

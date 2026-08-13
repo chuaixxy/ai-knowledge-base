@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-13-007",
+  "source_id": "https://openai.com/index/ringcentral",
+  "title": "How RingCentral builds AI-native work from engineering to ops",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/ringcentral",
+  "summary": "RingCentral 展示了如何利用 ChatGPT Work 和 Codex 构建 AI 原生工作流，从工程到运维全面加速 AI 产品开发。通过整合这些工具，RingCentral 实现了跨工程和运维团队的集中化运营智能，提升了开发效率、自动化水平和决策能力。项目强调了 AI 在软件开发生命周期中的深度集成，包括代码生成、测试、部署和监控，以及如何通过统一平台促进团队协作和知识共享。这一实践体现了企业级 AI 转型的典型路径，即从工具引入到流程重塑，最终实现运营智能化。",
+  "tags": [
+    "AI原生",
+    "ChatGPT",
+    "Codex",
+    "工程效率",
+    "运维智能",
+    "企业转型"
+  ],
+  "relevance_score": 0.85,
+  "category": "企业AI实践",
+  "key_insight": "将 AI 工具深度嵌入工程与运维流程，不仅能加速开发，更能形成统一的运营智能中枢，是 AI 原生企业的核心杠杆。"
+}
