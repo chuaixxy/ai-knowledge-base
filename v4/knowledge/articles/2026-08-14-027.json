@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-14-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485770&idx=1&sn=dab0be341cb46a410ec40a062a5cb895",
+  "title": "DeepSeek-V4-Pro 正式版上线",
+  "source": "rss-deepseek",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485770&idx=1&sn=dab0be341cb46a410ec40a062a5cb895",
+  "summary": "DeepSeek-V4-Pro 正式版发布，重点强化了 Agent 能力，标志着其在复杂任务执行与多步骤推理方面取得显著进展，同时 API 价格调整（可能降本提效）将影响开发者生态。该版本或引入更优的工具调用、上下文处理与自主决策机制，适用于自动化工作流、数据分析等场景。价格变动需关注对中小开发者的友好度，可能旨在扩大市场份额。整体上，这是 DeepSeek 在商业化与前沿能力平衡上的关键一步。",
+  "tags": [
+    "大模型",
+    "Agent",
+    "API价格",
+    "DeepSeek",
+    "版本升级"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型发布",
+  "key_insight": "DeepSeek-V4-Pro 通过 Agent 能力跃升和价格调整，强化了其在企业级自动化应用中的竞争力。"
+}

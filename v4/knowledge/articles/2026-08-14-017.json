@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-14-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511106&idx=1&sn=e3e481953f140ab1a9afb73f7c40221f",
+  "title": "Agent 越改越乱之后，我用评测和轨迹把它拉回来了",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511106&idx=1&sn=e3e481953f140ab1a9afb73f7c40221f",
+  "summary": "本文探讨了在AI Agent开发中，当修改技能（skill）导致系统行为混乱时，如何通过引入评测机制和轨迹记录来恢复可控性。作者提出了一套可重复的流程，将技能修改从试错式调整为数据驱动式，包括定义评测指标、记录执行轨迹、分析失败原因、针对性优化，并循环验证。该方法强调以客观数据为依据，减少主观猜测，从而提升Agent的稳定性和迭代效率。文章提供了实践经验，适合AI工程师和产品经理参考。",
+  "tags": [
+    "AI Agent",
+    "评测体系",
+    "轨迹分析",
+    "技能优化",
+    "工程实践"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程实践",
+  "key_insight": "将技能修改转化为基于评测和轨迹的闭环流程，能有效避免Agent迭代中的混乱，实现可控进化。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-14-012",
+  "source_id": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "title": "What We Learned by Reproducing 2,200 papers from ICML",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+  "summary": "该项目通过复现ICML会议上的2200篇论文，系统性地评估了机器学习和人工智能研究的可复现性。研究发现，尽管论文声称的方法通常有效，但实际复现过程中存在大量隐性细节、未公开的代码和超参数，导致许多结果难以精确再现。项目总结了常见失败原因，如数据预处理差异、硬件依赖和实验设计不完整，并提出了改进建议，包括加强代码共享、标准化实验记录和鼓励开放基准。这项工作为提升研究透明度和可复现性提供了重要参考。",
+  "tags": [
+    "可复现性",
+    "ICML",
+    "机器学习",
+    "研究实践",
+    "开放科学"
+  ],
+  "relevance_score": 0.85,
+  "category": "研究实践与元科学",
+  "key_insight": "论文复现的失败往往源于隐性工程细节而非核心算法，揭示出学术社区需系统化改进实验透明度和资源共享。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-14-006",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+  "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+  "summary": "City2Graph 是一个开源的 Python 库，旨在将地理空间数据（如城市道路、建筑、POI 等）自动转换为异构图表，以便进行空间分析、网络分析和图神经网络（GNN）建模。它填补了 GIS 与 GNN 之间的空白，提供数据预处理、图构建、特征工程和可视化功能，支持研究者与开发者快速构建城市级 GeoAI 应用。该库强调易用性和可扩展性，并已发表相关学术论文，适合城市规划、交通预测、基础设施分析等场景。",
+  "tags": [
+    "图神经网络",
+    "地理空间数据",
+    "城市分析",
+    "GeoAI",
+    "Python",
+    "异构网络",
+    "空间分析"
+  ],
+  "relevance_score": 0.9,
+  "category": "开源工具库 / 城市计算",
+  "key_insight": "City2Graph 通过自动将地理空间数据转化为异构图，降低了将 GNN 应用于城市系统分析的技术门槛，是连接传统 GIS 与现代深度学习的实用桥梁。"
+}

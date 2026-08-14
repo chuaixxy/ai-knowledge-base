@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-14-008",
+  "source_id": "https://openai.com/index/previewing-ultrafast",
+  "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/previewing-ultrafast",
+  "summary": "该项目是OpenAI推出的一项名为Ultrafast的API服务预览，旨在以高达14倍的速度运行GPT-5.6 Sol模型。该服务依托Cerebras硬件，实现了每秒高达750个输出令牌的吞吐量，显著提升了推理速度。这一技术突破可能通过优化硬件加速和模型部署实现，适用于需要高实时性的应用场景，如实时对话、代码生成和数据分析。项目展示了AI推理性能的显著提升，有望降低延迟并提高效率，但具体实现细节和成本效益尚未披露。",
+  "tags": [
+    "OpenAI",
+    "API",
+    "推理加速",
+    "Cerebras",
+    "高性能计算",
+    "实时应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与性能优化",
+  "key_insight": "通过Cerebras硬件集成，将GPT-5.6 Sol的推理速度提升至每秒750 tokens，为高吞吐量实时AI应用开辟了新可能。"
+}

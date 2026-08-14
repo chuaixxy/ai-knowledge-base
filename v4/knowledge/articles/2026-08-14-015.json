@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-14-015",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+  "title": "Suno is trying to look more like a real music production tool",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+  "summary": "Suno 正在推出 Studio 2.0，旨在使其更接近真正的数字音频工作站（DAW），而非仅带生成式AI功能的简易音频编辑器。最大的新增功能是 MIDI 支持，这是用户最请求的功能，也是现代 DAW 的基本要求。此次升级标志着 Suno 从单纯的 AI 音乐生成工具向专业音乐制作平台的转变，可能吸引更多专业音乐制作人。",
+  "tags": [
+    "Suno",
+    "AI音乐",
+    "DAW",
+    "MIDI",
+    "音乐制作",
+    "Studio 2.0"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI应用/音乐科技",
+  "key_insight": "Suno 通过加入 MIDI 支持，正从 AI 生成工具转型为专业音乐制作平台，可能改变音乐创作流程。"
+}

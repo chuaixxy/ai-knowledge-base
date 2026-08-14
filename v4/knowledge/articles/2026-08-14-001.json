@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-14-001",
+  "source_id": "https://knownagents.com/insights",
+  "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+  "source": "rss-hacker-news-best",
+  "url": "https://knownagents.com/insights",
+  "summary": "该项目报道了有人以AI爬虫（如ClaudeBot）的名义进行大规模漏洞扫描，意图伪装成合法AI代理以掩盖恶意活动。文章发布于knownagents.com，在Hacker News上引发热议（300分、224条评论）。分析指出，这种冒名行为利用了对AI爬虫的信任，可能用于收集漏洞信息或发起攻击，对网络安全构成新威胁。文章呼吁加强爬虫身份验证和监控。",
+  "tags": [
+    "网络安全",
+    "AI爬虫",
+    "漏洞扫描",
+    "冒名攻击",
+    "ClaudeBot"
+  ],
+  "relevance_score": 0.9,
+  "category": "网络安全",
+  "key_insight": "AI爬虫的信任机制正被滥用，成为大规模漏洞扫描的伪装工具，凸显了网络身份验证的迫切性。"
+}

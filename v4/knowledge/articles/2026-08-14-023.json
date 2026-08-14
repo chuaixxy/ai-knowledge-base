@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-14-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502482&idx=1&sn=3e27a05db6ceb587711658fdf7b91f56",
+  "title": "ICML 2026｜InstEmb：面向 Oxygen AIIC 商品知识表征的未来感知指令嵌入",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502482&idx=1&sn=3e27a05db6ceb587711658fdf7b91f56",
+  "summary": "InstEmb 是一种面向商品知识表征的新型指令嵌入方法，旨在让 embedding 不仅捕捉输入文本的语义，还能预测模型后续可能生成的回答，从而增强对商品知识的理解和表征能力。该方法由 ICML 2026 提出，聚焦于 Oxygen AIIC 场景，通过引入未来感知机制，使嵌入表示更贴近模型的实际推理路径，提升下游任务（如检索、推荐、问答）的性能。项目强调将指令与响应动态关联，以更全面地编码商品信息，有望改善电商领域中的语义匹配和知识服务效率。",
+  "tags": [
+    "指令嵌入",
+    "商品知识表征",
+    "未来感知",
+    "ICML 2026",
+    "Oxygen AIIC",
+    "语义匹配",
+    "电商AI"
+  ],
+  "relevance_score": 0.8,
+  "category": "自然语言处理 / 表示学习",
+  "key_insight": "InstEmb 通过建模输入与模型未来回答的关联，使嵌入表征超越静态语义，更贴合实际推理需求。"
+}

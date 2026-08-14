@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-14-004",
+  "source_id": "https://arxiv.org/abs/2608.11210",
+  "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.11210",
+  "summary": "Distribird 是一个智能化的网络应用，旨在自动化贝叶斯模型校准中的先验分布设计。传统上，研究人员常因构建信息性先验的复杂性和耗时性而使用均匀先验。Distribird 通过多代理流水线，根据参数名称、物理描述和领域背景，自动搜索科学文献，提取并加权相关数值，并通过 AIC 模型选择拟合最合适的概率分布。当文献不足时，系统自动采用无信息先验，并透明地报告每个先验的证据和置信水平。该工具特别适用于具有物理可解释参数的模型，提高了先验构建的效率和可复现性。",
+  "tags": [
+    "贝叶斯校准",
+    "先验分布",
+    "文献挖掘",
+    "多代理系统",
+    "自动化建模"
+  ],
+  "relevance_score": 0.9,
+  "category": "机器学习工具/科学计算",
+  "key_insight": "通过自动化文献综述和分布拟合，Distribird 将先验设计从专家手工任务转变为可复现的自动化流程，显著降低了信息性先验的使用门槛。"
+}

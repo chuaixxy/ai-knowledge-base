@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-14-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511972&idx=1&sn=df080db0eab815c9bde93b04c343f661",
+  "title": "LTX-2.5 开源：22B 音画生成模型，原生多镜头、自动时长与 4K HDR",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511972&idx=1&sn=df080db0eab815c9bde93b04c343f661",
+  "summary": "LTX-2.5 是 Lightricks 开源的 22B 参数多模态模型，专注于音画生成，支持原生多镜头叙事、自动时长预测和 4K HDR 输出。该模型提供完整权重和本地部署指南，降低了视频生成领域的门槛，适合专业创作者和研究者。其多镜头能力可自动切换视角，提升叙事流畅性；自动时长预测优化了剪辑效率；4K HDR 保证了高视觉质量。开源策略有望推动社区创新和定制化应用。",
+  "tags": [
+    "LTX-2.5",
+    "音画生成",
+    "多模态",
+    "开源模型",
+    "视频生成",
+    "4K HDR",
+    "多镜头",
+    "Lightricks"
+  ],
+  "relevance_score": 0.9,
+  "category": "多模态生成模型",
+  "key_insight": "LTX-2.5 通过开源 22B 模型，首次将多镜头叙事和自动时长预测集成于音画生成，可能重新定义视频创作的工作流程。"
+}

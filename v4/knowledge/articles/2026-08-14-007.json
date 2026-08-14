@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-14-007",
+  "source_id": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "title": "The builder’s guide to GPT‑5.6",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "summary": "该项目是一份面向创业公司的技术指南，讲解如何利用GPT-5.6构建更快、更具成本效益的AI代理。内容涵盖智能模型选择策略，以及新版Responses API带来的新能力，帮助开发者优化性能与成本。指南强调通过合理选择模型和利用API特性，实现高效的代理开发，适合技术团队快速落地AI应用。",
+  "tags": [
+    "GPT-5.6",
+    "AI代理",
+    "Responses API",
+    "模型选择",
+    "成本优化",
+    "创业公司"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发指南",
+  "key_insight": "通过智能模型选择和Responses API，创业公司可以在降低成本和提升效率的同时，快速构建高性能AI代理。"
+}

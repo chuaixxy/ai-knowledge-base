@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-14-011",
+  "source_id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "summary": "该项目旨在提供一个统一的平台，将机器人数据采集、模型训练和部署流程整合在一起。它结合了Strands Agents（用于任务编排）、LeRobot（一个开源机器人学习框架）和Hugging Face Storage Buckets（用于数据存储和管理）。用户可以通过该平台从单一位置记录机器人操作数据，利用LeRobot进行模型训练，并最终部署训练好的模型。这简化了机器人开发流程，降低了入门门槛，促进了机器人学习技术的普及和应用。",
+  "tags": [
+    "机器人学习",
+    "数据采集",
+    "模型训练",
+    "部署",
+    "开源",
+    "Hugging Face",
+    "LeRobot",
+    "Strands Agents"
+  ],
+  "relevance_score": 0.85,
+  "category": "机器人/人工智能开发工具",
+  "key_insight": "通过整合数据存储、训练和部署工具，该平台将机器人学习从实验转向生产，极大提升了开发效率。"
+}

@@ -13487,5 +13487,516 @@
     ],
     "status": "published",
     "collected_at": "2026-08-13T02:12:57.012Z"
+  },
+  {
+    "id": "2026-08-14-001",
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://knownagents.com/insights",
+    "category": "网络安全",
+    "relevance_score": 0.9,
+    "tags": [
+      "网络安全",
+      "AI爬虫",
+      "漏洞扫描",
+      "冒名攻击",
+      "ClaudeBot"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-002",
+    "title": "Introducing chestnut",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.comma.ai/chestnut/",
+    "category": "未分类/新项目",
+    "relevance_score": 0.5,
+    "tags": [
+      "chestnut",
+      "新项目",
+      "社区讨论",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-003",
+    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.11207",
+    "category": "多智能体控制与对话系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "多智能体系统",
+      "LLM协作",
+      "控制理论",
+      "上下文老虎机",
+      "PID控制",
+      "POMDP",
+      "对话治理",
+      "金融服务"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-004",
+    "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.11210",
+    "category": "机器学习工具/科学计算",
+    "relevance_score": 0.9,
+    "tags": [
+      "贝叶斯校准",
+      "先验分布",
+      "文献挖掘",
+      "多代理系统",
+      "自动化建模"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-005",
+    "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.11211",
+    "category": "数学/计算机科学交叉",
+    "relevance_score": 0.85,
+    "tags": [
+      "图论",
+      "强正则图",
+      "组合优化",
+      "AI研究",
+      "CP-SAT"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-006",
+    "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+    "category": "开源工具库 / 城市计算",
+    "relevance_score": 0.9,
+    "tags": [
+      "图神经网络",
+      "地理空间数据",
+      "城市分析",
+      "GeoAI",
+      "Python",
+      "异构网络",
+      "空间分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-007",
+    "title": "The builder’s guide to GPT‑5.6",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "category": "AI开发指南",
+    "relevance_score": 0.85,
+    "tags": [
+      "GPT-5.6",
+      "AI代理",
+      "Responses API",
+      "模型选择",
+      "成本优化",
+      "创业公司"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-008",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/previewing-ultrafast",
+    "category": "AI基础设施与性能优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "API",
+      "推理加速",
+      "Cerebras",
+      "高性能计算",
+      "实时应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-009",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "category": "商业动态",
+    "relevance_score": 0.75,
+    "tags": [
+      "OpenAI",
+      "高管任命",
+      "商业化",
+      "企业AI",
+      "营收战略"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-010",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "category": "办公效率与数据可视化",
+    "relevance_score": 0.85,
+    "tags": [
+      "谷歌表格",
+      "数据可视化",
+      "交互式仪表盘",
+      "自然语言处理",
+      "生产力工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-011",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "category": "机器人/人工智能开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "机器人学习",
+      "数据采集",
+      "模型训练",
+      "部署",
+      "开源",
+      "Hugging Face",
+      "LeRobot",
+      "Strands Agents"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-012",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "category": "研究实践与元科学",
+    "relevance_score": 0.85,
+    "tags": [
+      "可复现性",
+      "ICML",
+      "机器学习",
+      "研究实践",
+      "开放科学"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-013",
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "category": "AI产品动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "微软",
+      "Copilot",
+      "AI助手",
+      "产品迭代",
+      "用户界面"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-014",
+    "title": "OpenAI is losing its second executive this week",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "category": "科技公司动态",
+    "relevance_score": 0.7,
+    "tags": [
+      "OpenAI",
+      "高管离职",
+      "人事变动",
+      "商业运营"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-015",
+    "title": "Suno is trying to look more like a real music production tool",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "category": "AI应用/音乐科技",
+    "relevance_score": 0.8,
+    "tags": [
+      "Suno",
+      "AI音乐",
+      "DAW",
+      "MIDI",
+      "音乐制作",
+      "Studio 2.0"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-016",
+    "title": "淘天集团2027届校园招聘正式批全球启动！",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545392&idx=1&sn=8c11b89dd6504819460904599f0d9029",
+    "category": "招聘与人才",
+    "relevance_score": 0.6,
+    "tags": [
+      "校园招聘",
+      "AI方向",
+      "淘天集团",
+      "2027届",
+      "全球招聘"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-017",
+    "title": "Agent 越改越乱之后，我用评测和轨迹把它拉回来了",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511106&idx=1&sn=e3e481953f140ab1a9afb73f7c40221f",
+    "category": "AI工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "评测体系",
+      "轨迹分析",
+      "技能优化",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-018",
+    "title": "LTX-2.5 开源：22B 音画生成模型，原生多镜头、自动时长与 4K HDR",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511972&idx=1&sn=df080db0eab815c9bde93b04c343f661",
+    "category": "多模态生成模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "LTX-2.5",
+      "音画生成",
+      "多模态",
+      "开源模型",
+      "视频生成",
+      "4K HDR",
+      "多镜头",
+      "Lightricks"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-019",
+    "title": "报名倒计时丨8月29日Milvus社区 上海Unstructured Data Meetup",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247511972&idx=2&sn=8f170de8823fce27138cb89b3035a50e",
+    "category": "技术社区活动",
+    "relevance_score": 0.7,
+    "tags": [
+      "Milvus",
+      "非结构化数据",
+      "Meetup",
+      "上海",
+      "向量数据库",
+      "AI社区"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-020",
+    "title": "硅谷大厂又不需要伦理学家了",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998317&idx=1&sn=fecc8c3d3bbf215958c1691932422a02",
+    "category": "科技与社会",
+    "relevance_score": 0.85,
+    "tags": [
+      "科技伦理",
+      "商业与学术",
+      "AI治理",
+      "硅谷文化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-021",
+    "title": "一文读懂：FDE的12项核心能力",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696960&idx=1&sn=1e5a8676382190f22a1c1cadb0419c5c",
+    "category": "数据安全与加密",
+    "relevance_score": 0.95,
+    "tags": [
+      "FDE",
+      "数据加密",
+      "数据安全",
+      "密钥管理",
+      "访问控制",
+      "合规性"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-022",
+    "title": "完整议程出炉！本周六一天怎么逛，看这一张图就够了！",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696960&idx=2&sn=30375f8194928b2da11520b7c8789288",
+    "category": "活动推广",
+    "relevance_score": 0.5,
+    "tags": [
+      "AI",
+      "出海",
+      "技术大会",
+      "深圳",
+      "活动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-023",
+    "title": "ICML 2026｜InstEmb：面向 Oxygen AIIC 商品知识表征的未来感知指令嵌入",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502482&idx=1&sn=3e27a05db6ceb587711658fdf7b91f56",
+    "category": "自然语言处理 / 表示学习",
+    "relevance_score": 0.8,
+    "tags": [
+      "指令嵌入",
+      "商品知识表征",
+      "未来感知",
+      "ICML 2026",
+      "Oxygen AIIC",
+      "语义匹配",
+      "电商AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-024",
+    "title": "一气呵成看懂小米澎湃OS 4",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520178&idx=1&sn=d3c91ad8c97b807830f8e933a2b02483",
+    "category": "操作系统/移动平台",
+    "relevance_score": 0.9,
+    "tags": [
+      "小米",
+      "澎湃OS",
+      "操作系统",
+      "AI大模型",
+      "跨端互联",
+      "系统架构",
+      "性能优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-025",
+    "title": "6 支快手工程团队，让 AI 落地真实业务",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501200&idx=1&sn=fa3d1a7ffd98af396013c6c2e2b4d709",
+    "category": "技术案例分享",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI落地",
+      "快手",
+      "工程实践",
+      "用户互动",
+      "推荐系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-026",
+    "title": "也是让我玩上“种田游戏”了🤩",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669850&idx=1&sn=5ac47cd53b91e5be7ea960427a9c4358",
+    "category": "AI+科研应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI4S",
+      "松材线虫病",
+      "早期防治",
+      "百度伐谋",
+      "科研创新",
+      "跨学科",
+      "科学家计划"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-027",
+    "title": "DeepSeek-V4-Pro 正式版上线",
+    "source": "rss-deepseek",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485770&idx=1&sn=dab0be341cb46a410ec40a062a5cb895",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "Agent",
+      "API价格",
+      "DeepSeek",
+      "版本升级"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-028",
+    "title": "Claude Code没有“魔法”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290726&idx=1&sn=b4765296cbca157bf75274863a213b16",
+    "category": "AI辅助开发方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "上下文工程",
+      "AI编程",
+      "Claude Code",
+      "软件工程",
+      "提示词设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-14-029",
+    "title": "从“工具”到“同事”——AI 时代的产品进化",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290726&idx=2&sn=98e2ffcf5984ab107541b64cc90e4eab",
+    "category": "AI产品设计",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI产品",
+      "人机协作",
+      "以人为本",
+      "产品进化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-14T02:09:59.974Z"
   }
 ]
