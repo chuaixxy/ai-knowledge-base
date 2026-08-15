@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-15-009",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512026&idx=1&sn=7222e9e3ea1a1967666c8beba742de1e",
+  "title": "小红书开源dots3-note Preview：280B 总参数激活 16B，512K 上下文的三模态长程 Agent 模型",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512026&idx=1&sn=7222e9e3ea1a1967666c8beba742de1e",
+  "summary": "小红书开源了dots3-note Preview，这是一个拥有280B总参数、16B激活参数的三模态长程Agent模型，支持512K上下文窗口，能够处理文本、视觉和语音输入。该模型通过自研的TEMPO强化学习方法，显著提升了复杂推理和真实场景长程任务的能力。其设计旨在实现高效推理（MoE架构）和长程交互，适用于需要多模态理解和长时间记忆的AI代理场景。这一发布凸显了小红书在基础模型研发上的投入，并为开源社区提供了高性能的三模态Agent解决方案。",
+  "tags": [
+    "多模态",
+    "MoE",
+    "长上下文",
+    "强化学习",
+    "Agent",
+    "开源模型"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI基础模型",
+  "key_insight": "通过TEMPO强化学习与MoE架构结合，实现了高效的长程多模态Agent能力，平衡了性能与计算成本。"
+}

@@ -13998,5 +13998,372 @@
     ],
     "status": "published",
     "collected_at": "2026-08-14T02:09:59.974Z"
+  },
+  {
+    "id": "2026-08-15-001",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "category": "隐私计算 / 机器学习安全",
+    "relevance_score": 0.95,
+    "tags": [
+      "同态加密",
+      "隐私计算",
+      "AI安全",
+      "Google",
+      "加密推理",
+      "数据保护"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-002",
+    "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+    "category": "AI与编程",
+    "relevance_score": 0.85,
+    "tags": [
+      "Transformer",
+      "编译器",
+      "Doom渲染",
+      "计算图",
+      "模型权重",
+      "Hugging Face",
+      "无训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-003",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "category": "技术报告",
+    "relevance_score": 0.85,
+    "tags": [
+      "开放模型",
+      "AI生态",
+      "开源社区",
+      "模型许可",
+      "行业趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-004",
+    "title": "Mark Zuckerberg has an Instagzam",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "category": "科技评论/品牌分析",
+    "relevance_score": 0.75,
+    "tags": [
+      "Instagram",
+      "品牌重塑",
+      "社交媒体",
+      "科技评论",
+      "讽刺"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-005",
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "category": "AI产品更新",
+    "relevance_score": 0.9,
+    "tags": [
+      "谷歌",
+      "Gemini",
+      "AI水印",
+      "内容透明度",
+      "生成式AI",
+      "Flow",
+      "媒体设置"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-006",
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "苹果",
+      "阿里巴巴",
+      "AI模型",
+      "大语言模型",
+      "中国市场",
+      "中美关系",
+      "跨境合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-007",
+    "title": "重构协同：关于AI Native团队的思考",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545393&idx=1&sn=d2961b8175bd165a5f6b3c950976395f",
+    "category": "组织与AI协同",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Native",
+      "团队协同",
+      "知识管理",
+      "人机协作",
+      "组织重构"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-008",
+    "title": "ASystem AReno：单机玩转 Ling-3.0-tiny 模型后训练",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537760&idx=1&sn=cd7b489d1d81b2909e3f30ab5bf5d3f3",
+    "category": "模型训练与优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "后训练",
+      "单机部署",
+      "Ling-3.0-tiny",
+      "模型微调",
+      "资源优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-009",
+    "title": "小红书开源dots3-note Preview：280B 总参数激活 16B，512K 上下文的三模态长程 Agent 模型",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512026&idx=1&sn=7222e9e3ea1a1967666c8beba742de1e",
+    "category": "AI基础模型",
+    "relevance_score": 0.75,
+    "tags": [
+      "多模态",
+      "MoE",
+      "长上下文",
+      "强化学习",
+      "Agent",
+      "开源模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-010",
+    "title": "摸得到的具身智能，“中国云谷·高校训练营”带高校学子机械臂真机实战",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512026&idx=2&sn=7dfb39d558e07414b6e16c03621ccc0f",
+    "category": "教育与培训",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "机械臂",
+      "高校教育",
+      "产学研",
+      "机器人实训"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-011",
+    "title": "DeepSeek Harness 拆解：一套能拼装的 Agent 架构",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803587&idx=1&sn=a5ac30af9c015db111b60f947eb4e240",
+    "category": "AI架构与产品",
+    "relevance_score": 0.9,
+    "tags": [
+      "DeepSeek",
+      "Agent架构",
+      "模块化设计",
+      "AI产品",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-012",
+    "title": "江小涓：AI替代就业，人文社科研究应关注“出局者”而非“赢家”",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998356&idx=1&sn=c4654c1d9288c28f79c9be531e2d358b",
+    "category": "社会科学研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI就业替代",
+      "人文社科",
+      "社会不平等",
+      "技术转型",
+      "政策研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-013",
+    "title": "探元计划开放日｜6大AI考古项目齐聚云冈，让AI不止于“看见”，更回答真问题",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998356&idx=2&sn=ea859ccac431d20dd5aabdea03cbd013",
+    "category": "AI+文化遗产",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI考古",
+      "文化遗产",
+      "数字化保护",
+      "云冈石窟",
+      "技术应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-014",
+    "title": "企业内Agent工具落地实践：统一Harness、Skill与虚拟文件系统",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696970&idx=1&sn=5f7777dfa41a0a08c6d9e4d1feab6336",
+    "category": "AI工程实践/平台架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "Agent工程化",
+      "统一Harness",
+      "Skill封装",
+      "虚拟文件系统",
+      "企业AI落地",
+      "工具编排"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-015",
+    "title": "参会指南 | 错过再等一年 8.15 大湾区架构师峰会席位告急",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696970&idx=2&sn=3066e3e33ff600ca37c41e97bab29809",
+    "category": "活动推广",
+    "relevance_score": 0.6,
+    "tags": [
+      "架构师",
+      "峰会",
+      "大湾区",
+      "技术会议",
+      "参会指南"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-016",
+    "title": "奇舞周刊第595期：重构协同：关于AI Native团队的思考",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518471&idx=1&sn=05456cf987b5449ec344731a8f4abf37",
+    "category": "团队管理与协作",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI原生团队",
+      "人机协同",
+      "团队重构",
+      "AI协作",
+      "工作流程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-017",
+    "title": "GLM-5.3：前沿编程能力与涌现的网络安全能力",
+    "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+    "category": "AI基础模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "编程能力",
+      "网络安全",
+      "代码生成",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-018",
+    "title": "Gemini 3.7 Flash 突袭！谷歌AI紧急换帅后的首个大动作，“内斗”真相浮出水面",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290785&idx=1&sn=ea4a737f41e7b3894d13ab381d7f525b",
+    "category": "科技新闻",
+    "relevance_score": 0.9,
+    "tags": [
+      "谷歌",
+      "Gemini",
+      "AI模型",
+      "战略调整",
+      "内部竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-019",
+    "title": "机器人大脑之争进入深水区：为什么物理世界需要从头设计模型",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290785&idx=2&sn=32b238e1f6f8e2a7447646879dec8a20",
+    "category": "AI前沿技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "具身智能",
+      "机器人",
+      "AI模型",
+      "WAIC",
+      "物理世界",
+      "世界模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-020",
+    "title": "Agent走向长线协作的关键一战：AML首期揭榜，谁将引领下一代记忆范式革命",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050318&idx=1&sn=07ab7baa68c9e6f7fd617751830c9ddf",
+    "category": "AI基础设施与评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "Agent记忆",
+      "评估体系",
+      "长线协作",
+      "范式革命"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-15-021",
+    "title": "最有意思的AI音乐模型，让创作不再差点意思",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050318&idx=2&sn=38f2fcda11cb83826f8cddccc8e532e8",
+    "category": "AI应用/音乐生成",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI音乐",
+      "大模型",
+      "音乐创作",
+      "生成式AI",
+      "创意工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-15T01:26:48.925Z"
   }
 ]

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-15-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696970&idx=1&sn=5f7777dfa41a0a08c6d9e4d1feab6336",
+  "title": "企业内Agent工具落地实践：统一Harness、Skill与虚拟文件系统",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696970&idx=1&sn=5f7777dfa41a0a08c6d9e4d1feab6336",
+  "summary": "该项目聚焦于企业内部多Agent工具落地的工程化实践，核心是构建统一Harness（运行框架）、标准化Skill（技能封装）与虚拟文件系统（隔离且可共享的数据视图）。通过统一Harness，企业可规范Agent生命周期、权限与资源调度；Skill层将业务能力模块化，降低重复开发；虚拟文件系统则为Agent提供一致且安全的文件交互接口，支持跨Agent协作与审计。该实践旨在解决Agent碎片化、工具调用混乱和数据孤岛问题，提升企业级AI应用的稳定性、可维护性与合规性，为规模化部署提供参考范式。",
+  "tags": [
+    "Agent工程化",
+    "统一Harness",
+    "Skill封装",
+    "虚拟文件系统",
+    "企业AI落地",
+    "工具编排"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程实践/平台架构",
+  "key_insight": "企业Agent落地的成败不在模型能力，而在于通过统一Harness与虚拟文件系统建立可控、可复用的工具执行层，实现从单点智能到组织级协作的跃迁。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-15-005",
+  "source_id": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+  "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+  "summary": "谷歌更新了其AI工具（包括Gemini和AI视频生成器Flow），新增了“媒体水印”设置选项，允许用户关闭生成图像、视频和音乐中的可见“闪光”水印。此前，这些水印会出现在内容的右下角。关闭后，AI生成内容的视觉标识将被移除，但谷歌可能仍会保留不可见的元数据水印以追踪来源。此举在提升用户体验的同时，也引发了关于内容透明度和深度伪造风险的讨论。",
+  "tags": [
+    "谷歌",
+    "Gemini",
+    "AI水印",
+    "内容透明度",
+    "生成式AI",
+    "Flow",
+    "媒体设置"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI产品更新",
+  "key_insight": "谷歌在隐私与透明度之间选择向用户妥协，移除可见水印，但依赖不可见元数据来平衡安全需求。"
+}

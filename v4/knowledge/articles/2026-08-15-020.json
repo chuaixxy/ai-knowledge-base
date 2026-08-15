@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-15-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050318&idx=1&sn=07ab7baa68c9e6f7fd617751830c9ddf",
+  "title": "Agent走向长线协作的关键一战：AML首期揭榜，谁将引领下一代记忆范式革命",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050318&idx=1&sn=07ab7baa68c9e6f7fd617751830c9ddf",
+  "summary": "该项目聚焦于大模型长线协作中的记忆能力，提出通过AML（Agent Memory League）首期竞赛来量化并推动记忆范式的革新。核心在于将记忆能力从模糊概念转化为可评测、可比较的指标，从而筛选出更优的架构或策略，解决当前Agent在长期任务中因记忆丢失或混淆导致的协作效率低下问题。项目强调记忆机制的标准化评估，是Agent从单次对话走向持续工作流的关键技术节点。",
+  "tags": [
+    "大模型",
+    "Agent记忆",
+    "评估体系",
+    "长线协作",
+    "范式革命"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与评估",
+  "key_insight": "记忆能力的可量化评测是Agent突破上下文局限、实现真正自主长线协作的基石。"
+}

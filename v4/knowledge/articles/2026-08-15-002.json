@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-15-002",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+  "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+  "summary": "该项目将一个21B参数的Transformer模型编译为Doom渲染器的实现，无需训练。作者编写了一个编译器，将计算图转换为Transformer权重，并将Doom的渲染算法移植到兼容的计算图中。生成的检查点可在Hugging Face上直接加载，无需远程代码。模型接收场景数据作为提示，生成包含像素绘制命令的令牌序列，机械应用这些命令即可渲染出经典帧E1M1。宿主程序仅43行Python代码，展示了如何加载检查点、生成渲染并解析输出。",
+  "tags": [
+    "Transformer",
+    "编译器",
+    "Doom渲染",
+    "计算图",
+    "模型权重",
+    "Hugging Face",
+    "无训练"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI与编程",
+  "key_insight": "提出了一种将任意算法编译为Transformer权重的新方法，无需训练即可实现复杂渲染功能，挑战了Transformer仅能通过训练学习的传统认知。"
+}

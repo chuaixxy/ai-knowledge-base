@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-15-011",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803587&idx=1&sn=a5ac30af9c015db111b60f947eb4e240",
+  "title": "DeepSeek Harness 拆解：一套能拼装的 Agent 架构",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803587&idx=1&sn=a5ac30af9c015db111b60f947eb4e240",
+  "summary": "DeepSeek 发布了其首款 Agent 产品，并公开了名为“DeepSeek Harness”的底层架构。该架构的核心设计理念是模块化与可拼装性，将复杂的 Agent 能力拆解为独立、可组合的组件（如规划、工具调用、记忆管理等），允许开发者根据任务需求灵活组装。这种设计大幅降低了构建定制化 AI 助手的门槛，同时提升了系统的可维护性与扩展性。文章深入剖析了该架构的分层设计、通信协议及状态管理机制，展示了其如何平衡性能与灵活性。这一发布标志着 DeepSeek 从模型提供商向完整智能体解决方案平台的战略转型，为行业提供了一套高可用的参考实现。",
+  "tags": [
+    "DeepSeek",
+    "Agent架构",
+    "模块化设计",
+    "AI产品",
+    "智能体"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI架构与产品",
+  "key_insight": "DeepSeek Harness 通过将 Agent 能力拆解为可拼装模块，实现了从单一模型到灵活智能体平台的跃迁，代表了 Agent 工程化的重要方向。"
+}

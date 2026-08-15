@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-15-003",
+  "source_id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "summary": "该项目是对2026年夏季开放模型生态系统的观察报告，聚焦于开源AI模型的进展、社区贡献、许可模式及行业采用趋势。报告可能涵盖模型性能提升、训练成本下降、多模态能力扩展，以及开放模型与闭源模型的竞争格局。同时，它或会讨论开放权重模型在安全性、可复现性方面的挑战，并分析主要参与者（如Meta、Mistral等）的策略动向。整体上，报告旨在为研究者、开发者及决策者提供开放模型领域的现状总结与未来展望。",
+  "tags": [
+    "开放模型",
+    "AI生态",
+    "开源社区",
+    "模型许可",
+    "行业趋势"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术报告",
+  "key_insight": "开放模型正加速追赶闭源性能，但治理与安全机制成为其规模化落地的关键瓶颈。"
+}

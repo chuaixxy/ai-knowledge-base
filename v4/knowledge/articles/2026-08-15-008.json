@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-15-008",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537760&idx=1&sn=cd7b489d1d81b2909e3f30ab5bf5d3f3",
+  "title": "ASystem AReno：单机玩转 Ling-3.0-tiny 模型后训练",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537760&idx=1&sn=cd7b489d1d81b2909e3f30ab5bf5d3f3",
+  "summary": "该项目名为“ASystem AReno”，聚焦于在单机环境下对Ling-3.0-tiny模型进行后训练（post-training）。它可能涉及数据准备、训练脚本、超参数调优及推理优化，旨在让个人开发者或小团队无需大规模分布式资源即可完成模型微调或对齐。项目强调“单机玩转”，意味着其技术栈（如LoRA、量化、梯度累积）和工程实践（如内存管理、批处理策略）经过优化，以降低硬件门槛。这有助于推动小型开源模型的定制化应用，适合教育、实验或轻量级生产场景。",
+  "tags": [
+    "后训练",
+    "单机部署",
+    "Ling-3.0-tiny",
+    "模型微调",
+    "资源优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "模型训练与优化",
+  "key_insight": "通过资源高效的技术方案，将大模型后训练从多卡集群降维到单机，让个体开发者也能轻松定制模型。"
+}
