@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-16-007",
+  "source_id": "https://arxiv.org/abs/2608.12346",
+  "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.12346",
+  "summary": "本文是一篇立场论文，指出旨在防止AI产生有害输出的对齐方法具有双重用途，可能被恶意行为者滥用于审查和操纵。作者将当前对齐技术映射到可能的滥用案例，表明追求“完美对齐”的模型无意中为寻求信息主导的恶意方提供了不断改进的工具。风险因AI作为信息提供者的快速普及、经济权力不对称以及日益威权化的政治环境而加剧。文章呼吁社区讨论这一双重用途潜力，并提出缓解策略以防范滥用。",
+  "tags": [
+    "AI对齐",
+    "双重用途",
+    "审查",
+    "信息操纵",
+    "伦理",
+    "政策"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI伦理与安全",
+  "key_insight": "AI对齐技术本身可能成为审查工具，其双重用途风险需立即关注。"
+}

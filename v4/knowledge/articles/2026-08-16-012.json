@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-16-012",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803588&idx=1&sn=36499841c1cc38ba9ccae6380a90aec9",
+  "title": "DeepSeek Harness 实测｜模型之外的那一半，到底带来了什么",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803588&idx=1&sn=36499841c1cc38ba9ccae6380a90aec9",
+  "summary": "DeepSeek Harness 是伴随 DeepSeek-V4-Pro 正式版开源的一套评测与调优框架，聚焦于模型之外的工程化能力，包括数据管线、推理优化、评估指标与部署工具链。文章通过实测展示了该框架如何显著提升模型在实际生产环境中的稳定性、吞吐与成本效率，揭示出模型性能之外，工程基础设施对最终效果的巨大影响。框架开源降低了企业落地大模型的门槛，为开发者提供了可复用的标准化评测与部署方案，是模型能力转化为产品价值的关键桥梁。",
+  "tags": [
+    "DeepSeek",
+    "Harness",
+    "开源",
+    "大模型",
+    "评测框架",
+    "工程化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施/开源工具",
+  "key_insight": "模型性能只是冰山一角，DeepSeek Harness 证明了工程化评测与部署基础设施才是决定大模型实际落地价值的关键一半。"
+}

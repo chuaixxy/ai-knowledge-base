@@ -14365,5 +14365,315 @@
     ],
     "status": "published",
     "collected_at": "2026-08-15T01:26:48.925Z"
+  },
+  {
+    "id": "2026-08-16-001",
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "category": "人工智能与认知",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "数学思维",
+      "工作记忆",
+      "创造力",
+      "认知科学"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-002",
+    "title": "Working with AI feels more like leadership than coding",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "category": "技术趋势与职业发展",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI协作",
+      "领导力",
+      "编程范式",
+      "开发者角色",
+      "工作流程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-003",
+    "title": "AI by Hand",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.byhand.ai/",
+    "category": "教育工具/学习资源",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI教育",
+      "神经网络",
+      "手工实现",
+      "深度学习",
+      "数学原理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-004",
+    "title": "Are Latent Reasoning Models Easily Interpretable?",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/abs/2604.04902",
+    "category": "AI模型可解释性研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "潜在推理",
+      "可解释性",
+      "Coconut",
+      "CODI",
+      "逻辑推理",
+      "数学推理",
+      "隐藏状态"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-005",
+    "title": "Position: Reasoning is a Learnable Rule-Based Process",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.12325",
+    "category": "AI理论/方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "推理",
+      "定义",
+      "可验证性",
+      "规则系统",
+      "立场论文",
+      "AI评估"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-006",
+    "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.12345",
+    "category": "AI安全与伦理评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM评估",
+      "研究诚信",
+      "基准测试",
+      "伦理决策",
+      "压力测试"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-007",
+    "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.12346",
+    "category": "AI伦理与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI对齐",
+      "双重用途",
+      "审查",
+      "信息操纵",
+      "伦理",
+      "政策"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-008",
+    "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+    "category": "计算机视觉数据集",
+    "relevance_score": 0.85,
+    "tags": [
+      "图像分类",
+      "游戏数据",
+      "数据集",
+      "Starfield",
+      "生物识别",
+      "计算机视觉"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-009",
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "category": "娱乐/创意工具",
+    "relevance_score": 0.75,
+    "tags": [
+      "角色扮演",
+      "AI模拟",
+      "幽默",
+      "交互设计",
+      "元AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-010",
+    "title": "Qwen3.8，正式开源",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511110&idx=1&sn=6c53830215ef70752c8abdb8982b297d",
+    "category": "AI模型发布",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源",
+      "大语言模型",
+      "Qwen",
+      "AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-011",
+    "title": "第九期 AIGC 月度榜单发布！8 月，这些创作者和作品上榜了",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512088&idx=1&sn=caada4a47ec0d3d27ea83af385e8338c",
+    "category": "社区运营/内容激励",
+    "relevance_score": 0.7,
+    "tags": [
+      "AIGC",
+      "榜单",
+      "创作者激励",
+      "社区运营",
+      "内容创作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-012",
+    "title": "DeepSeek Harness 实测｜模型之外的那一半，到底带来了什么",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803588&idx=1&sn=36499841c1cc38ba9ccae6380a90aec9",
+    "category": "AI基础设施/开源工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "DeepSeek",
+      "Harness",
+      "开源",
+      "大模型",
+      "评测框架",
+      "工程化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-013",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998354&idx=1&sn=b2864cf6f8dfa468072b61a6a04844a1",
+    "category": "行业报告/资讯聚合",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI动态",
+      "关键词分析",
+      "行业情报",
+      "趋势追踪",
+      "腾讯研究院"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-014",
+    "title": "月之暗面严正声明：警惕可疑交易",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487397&idx=1&sn=9317d90caa7d74c37030d9fe5a65c3d3",
+    "category": "企业公告",
+    "relevance_score": 0.6,
+    "tags": [
+      "企业声明",
+      "风险警示",
+      "公关应对"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-015",
+    "title": "编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290828&idx=1&sn=9df4ad485645f6eb2fe92b02a95145c8",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "GLM-5.3",
+      "编程能力",
+      "大模型",
+      "代码生成",
+      "技术评测"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-016",
+    "title": "年度AI论文！全球三大顶尖模型的防蒸馏机制全面告破：小模型“套出”大模型隐藏思维链，Kimi-K3重现概率异常",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290828&idx=2&sn=48bd13ae52e81581d6d7ea2d1a5d6565",
+    "category": "AI安全与模型攻防",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "模型蒸馏",
+      "思维链",
+      "闭源模型",
+      "Kimi-K3",
+      "逆向工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-017",
+    "title": "CEO还是「教主」？Anthropic正遭受「信仰」反噬",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050521&idx=1&sn=442c1c98b60f7864118caa79a7e6c74e",
+    "category": "科技公司管理",
+    "relevance_score": 0.75,
+    "tags": [
+      "Anthropic",
+      "领导力",
+      "企业文化",
+      "AI行业",
+      "管理策略"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-16-018",
+    "title": "Stack Overflow快死了！新提问竟比内测时还少",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050521&idx=2&sn=f6c334e02d3c80c1cd3f04b9be02e377",
+    "category": "技术社区分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "Stack Overflow",
+      "开发者社区",
+      "AI替代",
+      "平台衰落",
+      "技术趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-16T01:28:56.827Z"
   }
 ]

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-16-008",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+  "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+  "summary": "该项目是一个用于图像分类任务的数据集，包含来自游戏《星空》中50个物种类别的20,000张图像。图像从视频录像中提取，覆盖了游戏内大多数物种生物群系，每个物种约2分钟录像（白天和夜晚各一分钟，通常分两段30秒拍摄以丰富背景）。数据提取使用PowerShell脚本完成，数据集链接托管在GitHub上。该数据集旨在为游戏场景下的生物识别提供基准，适合用于训练和评估图像分类模型，尤其适用于游戏环境中的视觉识别研究。",
+  "tags": [
+    "图像分类",
+    "游戏数据",
+    "数据集",
+    "Starfield",
+    "生物识别",
+    "计算机视觉"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机视觉数据集",
+  "key_insight": "该数据集利用游戏《星空》中的虚拟生物图像，为游戏场景下的物种分类任务提供了大规模、多样化的训练资源，填补了游戏内生物识别数据集的空白。"
+}

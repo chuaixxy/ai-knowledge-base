@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-16-001",
+  "source_id": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "title": "AI has access to a vastly larger working memory than the human brain",
+  "source": "rss-hacker-news-best",
+  "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+  "summary": "这篇文章探讨了AI在计算和记忆容量上远超人类大脑，但并未在数学思维上超越数学家。作者认为，AI的优势在于庞大的工作记忆（如上下文窗口），能处理海量数据，但数学发现依赖创造性直觉、抽象推理和长期目标导向，这些是当前AI缺乏的。文章指出，AI更像高效的工具而非思想家，其能力受限于训练数据模式，无法产生真正的原创数学洞见。评论中讨论了AI辅助证明、记忆与理解的关系，以及未来可能的发展方向。",
+  "tags": [
+    "AI",
+    "数学思维",
+    "工作记忆",
+    "创造力",
+    "认知科学"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能与认知",
+  "key_insight": "AI的庞大记忆优势不等于思维优势，数学创造力需要超越模式匹配的直觉和目的性推理。"
+}

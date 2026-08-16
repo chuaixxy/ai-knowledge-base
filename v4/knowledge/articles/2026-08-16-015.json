@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-16-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290828&idx=1&sn=9df4ad485645f6eb2fe92b02a95145c8",
+  "title": "编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290828&idx=1&sn=9df4ad485645f6eb2fe92b02a95145c8",
+  "summary": "GLM-5.3 于北京时间 8 月 14 日正式发布，据称编程能力大幅提升 50%，并在 GPT-5.6 提供的 Coding 测试中获得满分。该模型在代码生成、算法理解与调试等方面表现卓越，可能通过更优的训练数据或架构优化实现突破。此次发布标志着国产大模型在编程任务上达到国际顶尖水平，有望显著提升开发者工作效率。但需注意测试来源（GPT-5.6）的客观性及实际场景泛化能力。",
+  "tags": [
+    "GLM-5.3",
+    "编程能力",
+    "大模型",
+    "代码生成",
+    "技术评测"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型发布",
+  "key_insight": "GLM-5.3 在编程测试中满分通过，表明国产模型在代码任务上已具备国际竞争力，但实际效果仍需多维度验证。"
+}
