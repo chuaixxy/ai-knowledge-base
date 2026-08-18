@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-18-009",
+  "source_id": "https://arxiv.org/abs/2608.13565",
+  "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.13565",
+  "summary": "本文针对混合专家（MoE）模型提出了一种基于幅度的专家掩码方法，用于进行深度感知的层敏感性分析。研究以Qwen3.6-35B-A3B模型（40个MoE层、每层256个专家、top-8路由）为对象，在XLCoST跨语言代码翻译基准上开展多阶段实验（100、300、500个提示词规模，部署于三台H100 GPU服务器）。核心发现是：层敏感性具有强深度依赖性——早期层（0-9）和中层（10-29）对专家掩码高度脆弱，而晚期层（30-39），尤其是非常晚的层（35-39），能容忍对低幅度专家的大幅掩码。这一发现为MoE模型的定向压缩和裁剪提供了理论依据，有助于在保持性能的同时提升推理效率。",
+  "tags": [
+    "Mixture-of-Experts",
+    "模型压缩",
+    "敏感性分析",
+    "专家掩码",
+    "层深度",
+    "代码翻译",
+    "Qwen3",
+    "稀疏激活"
+  ],
+  "relevance_score": 0.85,
+  "category": "模型分析与压缩",
+  "key_insight": "MoE模型中后期层对专家掩码高度鲁棒，而早期层极为敏感，因此压缩应优先裁剪深层低幅度专家。"
+}

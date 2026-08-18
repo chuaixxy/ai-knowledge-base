@@ -14675,5 +14675,584 @@
     ],
     "status": "published",
     "collected_at": "2026-08-16T01:28:56.827Z"
+  },
+  {
+    "id": "2026-08-18-001",
+    "title": "AI;DR (AI; Didn't Read)",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "category": "AI应用/内容工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI摘要",
+      "信息过载",
+      "自然语言处理",
+      "内容消费",
+      "生产力工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-002",
+    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "category": "AI安全与DevOps",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "GitHub Copilot",
+      "CICD",
+      "漏洞利用",
+      "供应链攻击",
+      "红队测试"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-003",
+    "title": "How to disable or avoid intrusive AI",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.librarian.net/notoai/",
+    "category": "技术伦理与用户体验",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI伦理",
+      "用户控制",
+      "隐私保护",
+      "浏览器工具",
+      "反AI侵入"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-004",
+    "title": "On AI regulation and messaging",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "category": "AI政策与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI监管",
+      "政策讨论",
+      "AI安全",
+      "技术伦理",
+      "行业自律"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-005",
+    "title": "The AI Credit Resale Economy",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "category": "AI产业经济",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI经济",
+      "二级市场",
+      "Token交易",
+      "资源分配",
+      "金融化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-006",
+    "title": "Retrofitting a build system into a compiler",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "category": "编译技术",
+    "relevance_score": 0.8,
+    "tags": [
+      "编译器",
+      "构建系统",
+      "增量编译",
+      "依赖管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-007",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "category": "AI基础设施与数据伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI训练数据",
+      "供应链",
+      "版权",
+      "亚马逊",
+      "稀有书籍",
+      "数据采集"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-008",
+    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.13564",
+    "category": "AI评估与对齐",
+    "relevance_score": 0.85,
+    "tags": [
+      "语言模型",
+      "自动评估",
+      "评分标准生成",
+      "代理评估",
+      "进化算法"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-009",
+    "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.13565",
+    "category": "模型分析与压缩",
+    "relevance_score": 0.85,
+    "tags": [
+      "Mixture-of-Experts",
+      "模型压缩",
+      "敏感性分析",
+      "专家掩码",
+      "层深度",
+      "代码翻译",
+      "Qwen3",
+      "稀疏激活"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-010",
+    "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.13567",
+    "category": "AI与认知科学交叉研究",
+    "relevance_score": 0.9,
+    "tags": [
+      "大型语言模型",
+      "神经科学",
+      "模块化",
+      "功能分化",
+      "电路分析",
+      "认知架构"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-011",
+    "title": "The Defender’s Window",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/the-defenders-window",
+    "category": "网络安全与AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "网络安全",
+      "OpenAI",
+      "防御策略",
+      "威胁检测"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-012",
+    "title": "OpenAI joins PORTS-Pike project",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/openai-joins-ports-pike-project",
+    "category": "区域发展与技术合作",
+    "relevance_score": 0.75,
+    "tags": [
+      "OpenAI",
+      "区域经济",
+      "就业",
+      "社区投资",
+      "俄亥俄州"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-013",
+    "title": "New policy ideas for the Intelligence Age",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "category": "政策研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI政策",
+      "经济机会",
+      "社会韧性",
+      "OpenAI",
+      "未来治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-014",
+    "title": "Get closer to the game with Gemini and Pixel",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "category": "AI应用与体育娱乐",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "智能手机",
+      "体育科技",
+      "球迷体验",
+      "Gemini",
+      "Pixel",
+      "足球俱乐部"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-015",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "category": "系统与网络优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "集群调度",
+      "资源利用率",
+      "任务排序",
+      "性能优化",
+      "调度算法"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-016",
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "category": "智能家居/宠物护理",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI",
+      "宠物科技",
+      "健康监测",
+      "猫砂盆",
+      "多宠识别"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-017",
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "category": "AI治理与合规",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "内容水印",
+      "欧盟法规",
+      "Claude",
+      "SynthID",
+      "透明度"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-018",
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "category": "AI治理与安全",
+    "relevance_score": 0.9,
+    "tags": [
+      "OpenAI",
+      "AI安全",
+      "组织变动",
+      "风险管理",
+      "政策治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-019",
+    "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+    "category": "学术前沿与竞赛解析",
+    "relevance_score": 0.85,
+    "tags": [
+      "KDD",
+      "美团",
+      "推荐系统",
+      "大模型",
+      "智能体",
+      "Transformer",
+      "元学习",
+      "数据竞赛"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-020",
+    "title": "AI时代的数据研发-Semantic（语义层）实践总结",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde",
+    "category": "数据工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "语义层",
+      "数据研发",
+      "自然语言处理",
+      "数据查询"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-021",
+    "title": "Harness 工程之道：Skill 原理与最佳实践",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511112&idx=1&sn=279ba391d62489b0226d94570388ac8d",
+    "category": "技术教程/工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "Harness",
+      "Skill",
+      "AI工程化",
+      "最佳实践",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-022",
+    "title": "Qwen-Audio-3.0系列语音模型正式上线千问AI平台",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561890&idx=1&sn=9ef07932c013aa647d11056b74bf52a6",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音模型",
+      "千问AI平台",
+      "多模态",
+      "AI上线",
+      "语音识别",
+      "语音合成"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-023",
+    "title": "第六届 OceanBase 数据库大赛开启，从 0 到 1 打造你的 AI 数据库",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512104&idx=1&sn=2abc62021704bfd3409f6b2f557a6c21",
+    "category": "技术竞赛",
+    "relevance_score": 0.9,
+    "tags": [
+      "数据库",
+      "AI",
+      "OceanBase",
+      "开发大赛",
+      "技术竞赛"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-024",
+    "title": "Agent的上限，可能不在模型，而在团队知识",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803612&idx=1&sn=13be122cb61484933486e146d5724e37",
+    "category": "AI应用实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "知识管理",
+      "团队协作",
+      "知识底座",
+      "人机协同"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-025",
+    "title": "DeepSeek的Harness，为何是一头黑色鲸鱼？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998369&idx=1&sn=6e02a963e465d53b1ae2fd3db16af115",
+    "category": "AI开发框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "DeepSeek",
+      "Harness",
+      "插件化架构",
+      "开发者工具",
+      "AI生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-026",
+    "title": "从模型能力到业务可用：小米零售 AI 问数实践",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520198&idx=1&sn=080a86b89d0bc24a9157913cb3839bd3",
+    "category": "AI应用实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI问数",
+      "零售",
+      "大模型",
+      "数据中台",
+      "RAG",
+      "提示工程",
+      "业务落地"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-027",
+    "title": "IndexTTS 2.5 让声音跨越语言",
+    "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504396&idx=1&sn=566c8a97a7ce765cac6b2df5d2f515e4",
+    "category": "语音技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "TTS",
+      "跨语言",
+      "语音合成",
+      "深度学习",
+      "声音克隆"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-028",
+    "title": "手机控制电脑，工位以后长草🥳",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669880&idx=1&sn=bcf12b49987743f6825d834554f0ae2a",
+    "category": "AI办公工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "多端协同",
+      "远程控制",
+      "内嵌浏览器",
+      "AI助手",
+      "办公效率",
+      "百度搭子"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-029",
+    "title": "New currency capabilities for global businesses to cut FX costs",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
+    "category": "金融科技/支付基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "支付",
+      "外汇管理",
+      "跨境结算",
+      "多币种",
+      "Stripe",
+      "金融科技"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-030",
+    "title": "Dario “破防小作文”超千万人围观！LeCun 开炮：信任危机是因为你搞权力集中",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290921&idx=1&sn=d84f5a0487cb075fc591addb1d393160",
+    "category": "AI行业动态与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI信任",
+      "权力集中",
+      "AI伦理",
+      "行业争议",
+      "Anthropic",
+      "Yann LeCun"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-031",
+    "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290921&idx=2&sn=e01d46cf044e30cc679b5faad1af38de",
+    "category": "企业级AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "办公智能体",
+      "多智能体协作",
+      "AI自动化",
+      "企业服务",
+      "工作流优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-032",
+    "title": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050586&idx=1&sn=7c829000904745c2a8fff2dc0825e881",
+    "category": "AI for Science",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "数学证明",
+      "陶哲轩",
+      "森多夫猜想",
+      "基础科学"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-18-033",
+    "title": "ScienceDiscovery发布：零科研幻觉的一站式AI工作台，BiomniBench-DA验证效果业界SOTA",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050586&idx=2&sn=005d605a168bfbea6afdb2136fe639fe",
+    "category": "AI for Science",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI科研",
+      "零幻觉",
+      "工作台",
+      "BiomniBench-DA",
+      "SOTA",
+      "科学发现"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-18T01:23:40.865Z"
   }
 ]

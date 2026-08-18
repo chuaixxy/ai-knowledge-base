@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-18-007",
+  "source_id": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+  "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+  "summary": "该项目追踪了一批稀有书籍的物流路径，最终发现它们被运送至亚马逊的AI训练设施。这一发现揭示了大型科技公司为训练AI模型，正在大规模采购实体书籍作为数据源，尤其是稀有或高质量文本。报道通过GPS跟踪和供应链分析，展示了AI训练数据获取的隐秘性和物理性，引发对版权、数据来源透明性及文化遗产商业化的讨论。",
+  "tags": [
+    "AI训练数据",
+    "供应链",
+    "版权",
+    "亚马逊",
+    "稀有书籍",
+    "数据采集"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与数据伦理",
+  "key_insight": "AI训练的数据战争已延伸到实体世界，稀有书籍成为新的战略资源，折射出数据获取的隐蔽性及版权合规的灰色地带。"
+}

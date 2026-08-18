@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-015",
+  "source_id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "summary": "该项目探讨了在相同集群配置下，仅通过调整任务调度顺序即可将资源利用率提升33%的现象。研究聚焦于调度策略（如先到先服务、短作业优先、数据局部性优先等）对集群整体效率的影响，通过实验对比不同排序规则下的性能差异，揭示了调度顺序在资源分配、任务排队和负载均衡中的关键作用。项目可能提出了一种新的排序算法或启发式规则，以优化任务执行顺序，减少空闲等待和资源竞争，从而在不增加硬件投入的情况下显著提高集群吞吐量。该工作对数据中心和云计算环境下的资源管理具有实际参考价值。",
+  "tags": [
+    "集群调度",
+    "资源利用率",
+    "任务排序",
+    "性能优化",
+    "调度算法"
+  ],
+  "relevance_score": 0.85,
+  "category": "系统与网络优化",
+  "key_insight": "调度顺序的改变可带来显著的利用率提升，说明调度策略的细微调整比硬件扩容更具成本效益。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-003",
+  "source_id": "https://www.librarian.net/notoai/",
+  "title": "How to disable or avoid intrusive AI",
+  "source": "rss-hacker-news-best",
+  "url": "https://www.librarian.net/notoai/",
+  "summary": "该项目是一篇关于如何禁用或避免侵入性AI的文章，发布于librarian.net，并在Hacker News上引发讨论（250分，154条评论）。文章主要针对当前AI产品（如Copilot、AI搜索摘要等）在用户界面中过度介入、干扰用户体验的问题，提供了实用的技术手段和策略，包括浏览器扩展、修改设置、使用隐私工具、屏蔽特定域名或API请求等。核心观点是用户应有控制权选择不使用AI功能，而非被强制接受。文章强调AI的侵入性不仅影响效率，还涉及隐私和数据主权，呼吁开发者尊重用户选择，并提供更透明的退出机制。",
+  "tags": [
+    "AI伦理",
+    "用户控制",
+    "隐私保护",
+    "浏览器工具",
+    "反AI侵入"
+  ],
+  "relevance_score": 0.75,
+  "category": "技术伦理与用户体验",
+  "key_insight": "用户需要明确的‘AI退出开关’，而非被动接受默认开启的AI功能，这是当前AI产品设计中的关键缺失。"
+}

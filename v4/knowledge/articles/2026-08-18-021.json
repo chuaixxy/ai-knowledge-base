@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511112&idx=1&sn=279ba391d62489b0226d94570388ac8d",
+  "title": "Harness 工程之道：Skill 原理与最佳实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511112&idx=1&sn=279ba391d62489b0226d94570388ac8d",
+  "summary": "本文系统性地解析了Harness平台中Skill的核心原理与工程实践。内容涵盖Skill的结构规范、触发机制及作用域优先级，并通过真实项目trade-ab-skill展示了如何构建高效、可复用的Skill。文章强调Skill作为AI能力封装单元，其设计直接影响自动化流程的灵活性与可维护性。最佳实践包括明确职责边界、合理设置触发条件、利用作用域管理依赖，以及通过版本控制保证稳定性。对于希望深入理解并落地AI工程化的开发者，本文提供了从理论到实践的完整指南。",
+  "tags": [
+    "Harness",
+    "Skill",
+    "AI工程化",
+    "最佳实践",
+    "自动化"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术教程/工程实践",
+  "key_insight": "Skill的设计关键在于通过精细的作用域控制和触发机制，实现AI能力的模块化与可复用，从而在复杂工程环境中保持高效与稳定。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803612&idx=1&sn=13be122cb61484933486e146d5724e37",
+  "title": "Agent的上限，可能不在模型，而在团队知识",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803612&idx=1&sn=13be122cb61484933486e146d5724e37",
+  "summary": "该项目探讨了AI Agent在团队协作中的性能上限，指出其瓶颈不仅在于模型能力，更在于团队知识的整合与利用。通过构建团队AI知识底座，项目实践了如何将分散的知识系统化，以提升Agent的决策质量和执行效率。文章强调知识管理对AI应用的关键作用，并提供了建设知识底座的具体方法，旨在实现人机协同的智能化升级。",
+  "tags": [
+    "AI Agent",
+    "知识管理",
+    "团队协作",
+    "知识底座",
+    "人机协同"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用实践",
+  "key_insight": "Agent效能的跃升依赖于团队知识的结构化沉淀与动态接入，而非单纯依赖模型规模的提升。"
+}

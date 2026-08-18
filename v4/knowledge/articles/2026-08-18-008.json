@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-008",
+  "source_id": "https://arxiv.org/abs/2608.13564",
+  "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.13564",
+  "summary": "该论文提出RubricForge方法，用于自动生成评估语言模型代理的评分标准。传统自动评估依赖手工编写或微调评判模型，容易高估流畅但不成功的轨迹。RubricForge从小规模有真实标签的轨迹中，通过反思性进化生成评分标准文本，使其与真实环境奖励对齐。生成的评分标准可冻结并在无环境访问时用于新轨迹评估，且文本可读，便于审计。该方法旨在提高代理评估的可靠性和可解释性。",
+  "tags": [
+    "语言模型",
+    "自动评估",
+    "评分标准生成",
+    "代理评估",
+    "进化算法"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI评估与对齐",
+  "key_insight": "通过从真实轨迹中进化生成可读的评分标准，而非依赖手工或权重微调，从而减少代理评估中的过度信任问题。"
+}

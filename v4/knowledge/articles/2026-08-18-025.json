@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998369&idx=1&sn=6e02a963e465d53b1ae2fd3db16af115",
+  "title": "DeepSeek的Harness，为何是一头黑色鲸鱼？",
+  "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998369&idx=1&sn=6e02a963e465d53b1ae2fd3db16af115",
+  "summary": "DeepSeek推出的Harness项目，以黑色鲸鱼为标志，寓意其庞大、灵活且深不可测的技术潜力。该项目核心理念是“一切皆插件”，为开发者提供高度可定制的模块化架构，允许自由替换或扩展功能组件，从而极大提升AI应用的适应性和创新空间。通过这种设计，Harness降低了开发门槛，使开发者能快速构建专属解决方案，同时保持系统稳定性和可维护性。黑色鲸鱼形象象征其强大而温和的承载力，暗示项目在技术深度与生态包容性上的平衡。整体上，Harness旨在重塑AI开发范式，推动更开放、协作的技术生态。",
+  "tags": [
+    "DeepSeek",
+    "Harness",
+    "插件化架构",
+    "开发者工具",
+    "AI生态"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发框架",
+  "key_insight": "Harness的“一切皆插件”理念，将AI系统解构为可插拔模块，赋予开发者前所未有的定制自由度，这是其核心创新点。"
+}

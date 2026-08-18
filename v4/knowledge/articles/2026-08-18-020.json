@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde",
+  "title": "AI时代的数据研发-Semantic（语义层）实践总结",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545394&idx=1&sn=3cec6927186aac94f10d2ccbf117edde",
+  "summary": "本项目聚焦于AI时代语义层的实践，旨在通过AI驱动技术将复杂的数据查询与取数过程简化为自然语言交互，使用户能够像聊天一样高效获取数据。项目总结了语义层在数据研发中的应用，强调其作为数据与业务之间的桥梁作用，通过统一语义定义和AI辅助解析，提升数据访问的便捷性与准确性，降低技术门槛，加速数据驱动决策的落地。",
+  "tags": [
+    "AI",
+    "语义层",
+    "数据研发",
+    "自然语言处理",
+    "数据查询"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据工程",
+  "key_insight": "AI驱动语义层将数据查询转化为对话式交互，极大降低取数门槛，是数据民主化的关键实践。"
+}

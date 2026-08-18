@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-18-019",
+  "source_id": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+  "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+  "summary": "该项目聚焦于美团技术团队在KDD 2026上发表的8篇学术论文，涵盖推荐大模型、生成与奖励建模框架、智能体搜索、Transformer框架及元泛化框架等前沿技术。文章不仅精选论文核心贡献，还解读了KDD Cup 2026 DataAgents赛道冠军方案，展示了在数据智能体竞赛中的创新思路与实战经验。整体内容体现了美团在AI基础研究和应用落地上的深度结合，为学术界和工业界提供了可借鉴的技术路径。",
+  "tags": [
+    "KDD",
+    "美团",
+    "推荐系统",
+    "大模型",
+    "智能体",
+    "Transformer",
+    "元学习",
+    "数据竞赛"
+  ],
+  "relevance_score": 0.85,
+  "category": "学术前沿与竞赛解析",
+  "key_insight": "美团通过KDD论文与DataAgents冠军方案，展示了从基础模型创新到数据智能体实战的全链路AI研发能力。"
+}

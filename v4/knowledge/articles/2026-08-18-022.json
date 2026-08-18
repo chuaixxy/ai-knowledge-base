@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-18-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561890&idx=1&sn=9ef07932c013aa647d11056b74bf52a6",
+  "title": "Qwen-Audio-3.0系列语音模型正式上线千问AI平台",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561890&idx=1&sn=9ef07932c013aa647d11056b74bf52a6",
+  "summary": "Qwen-Audio-3.0系列语音模型已正式上线千问AI平台，标志着阿里在语音AI领域的重要进展。该系列模型可能集成先进的自监督学习、多语言支持和实时交互能力，旨在提升语音识别、合成及理解性能。上线平台意味着开发者可便捷调用API，应用于智能助手、会议转写、语音翻译等场景。此举或强化千问生态，与国内外语音模型竞争，并推动多模态AI落地。具体技术细节如参数量、训练数据、基准测试结果未在摘要中提及，但预计将支持多任务和低延迟推理。",
+  "tags": [
+    "语音模型",
+    "千问AI平台",
+    "多模态",
+    "AI上线",
+    "语音识别",
+    "语音合成"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型发布",
+  "key_insight": "Qwen-Audio-3.0上线将语音能力产品化，加速AI在实时交互场景的普及。"
+}

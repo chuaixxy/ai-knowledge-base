@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-016",
+  "source_id": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+  "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+  "summary": "该项目介绍了一款AI驱动的猫砂盆，能自动清理猫粪，并通过分析猫咪使用猫砂盆的行为数据来监测健康问题。作者拥有两只猫，但AI系统似乎将它们的身份混淆，导致数据关联错误，引发了关于AI识别个体能力的有趣讨论。项目亮点在于将日常宠物护理与健康监测结合，但多宠家庭中的个体识别准确性成为挑战。",
+  "tags": [
+    "AI",
+    "宠物科技",
+    "健康监测",
+    "猫砂盆",
+    "多宠识别"
+  ],
+  "relevance_score": 0.75,
+  "category": "智能家居/宠物护理",
+  "key_insight": "AI在宠物健康监测中潜力巨大，但多宠环境下个体识别错误可能削弱其可靠性。"
+}

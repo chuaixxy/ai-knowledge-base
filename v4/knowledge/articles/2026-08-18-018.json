@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-018",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+  "title": "OpenAI reportedly disbanded its preparedness team",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+  "summary": "据英国《金融时报》报道，OpenAI 在5月底悄然解散了其“准备团队”（Preparedness Team）。该团队的职责是评估AI模型可能带来的严重风险（如模型失控、黑客攻击其他公司等），并制定相应的缓解措施。团队解散后，相关职责被分散到其他部门。此举引发外界对OpenAI在AI安全治理上投入的担忧，尤其是在其加速商业化、推出更强大模型之际。目前OpenAI未对解散原因作出正式回应，但内部消息称可能涉及组织架构调整和资源重新分配。此事凸显了前沿AI公司在安全与速度之间的持续张力。",
+  "tags": [
+    "OpenAI",
+    "AI安全",
+    "组织变动",
+    "风险管理",
+    "政策治理"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI治理与安全",
+  "key_insight": "OpenAI解散核心安全团队，可能削弱其内部风险管控能力，加剧外界对AI发展速度与安全平衡的质疑。"
+}

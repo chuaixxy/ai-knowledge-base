@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-18-029",
+  "source_id": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
+  "title": "New currency capabilities for global businesses to cut FX costs",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
+  "summary": "该项目是Stripe针对全球企业推出的两项外汇（FX）管理升级。一是将多币种结算扩展至更多市场和货币，使企业能更灵活地以本地货币收款和结算；二是新增即时货币兑换功能，让企业无需离开Stripe平台即可实时完成汇率转换。此举旨在简化跨境支付流程，降低外汇转换成本，提升财务运营效率，尤其适用于电商、SaaS和跨国贸易企业。通过整合外汇功能，Stripe强化了其作为全球支付基础设施的竞争力，减少企业对第三方外汇服务商的依赖。",
+  "tags": [
+    "支付",
+    "外汇管理",
+    "跨境结算",
+    "多币种",
+    "Stripe",
+    "金融科技"
+  ],
+  "relevance_score": 0.85,
+  "category": "金融科技/支付基础设施",
+  "key_insight": "将外汇兑换与结算深度嵌入支付平台，可显著降低企业跨境交易摩擦，是支付服务商向高附加值金融工具延伸的关键路径。"
+}

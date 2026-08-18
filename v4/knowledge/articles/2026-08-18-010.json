@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-18-010",
+  "source_id": "https://arxiv.org/abs/2608.13567",
+  "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.13567",
+  "summary": "该研究通过电路分析，在46个任务中考察了大型语言模型（LLMs）的功能模块化组织，这些任务覆盖语言、形式推理、社会推理和物理推理四个认知领域。结果发现，LLMs发展出与人类大脑相似的模块化架构：同领域任务激活重叠的神经元，不同领域则激活不同神经元。这表明模块化可能是智能系统的一般原则，而非生物大脑的偶然特性。",
+  "tags": [
+    "大型语言模型",
+    "神经科学",
+    "模块化",
+    "功能分化",
+    "电路分析",
+    "认知架构"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI与认知科学交叉研究",
+  "key_insight": "LLMs与人类大脑在功能模块化上表现出趋同演化，暗示模块化是智能组织的普遍原则。"
+}

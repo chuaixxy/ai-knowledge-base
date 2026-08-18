@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-18-017",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+  "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+  "summary": "Anthropic 宣布将采用 Google DeepMind 开发的开源水印技术 SynthID-Text，为 Claude 生成的文本添加不可见水印，以遵守欧盟的 AI 透明度规则。该技术通过调整词语选择的概率分布，在文本中嵌入可检测的模式，而不影响可读性。Anthropic 正在测试该方案，旨在平衡合规性与用户体验，但尚未透露具体部署时间。此举是 AI 内容溯源领域的重要进展，也反映了监管压力下科技公司对可追溯性技术的重视。",
+  "tags": [
+    "AI安全",
+    "内容水印",
+    "欧盟法规",
+    "Claude",
+    "SynthID",
+    "透明度"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI治理与合规",
+  "key_insight": "Anthropic 采用 SynthID-Text 水印技术，标志着 AI 文本溯源从概念走向实际部署，为应对欧盟监管提供了可操作的合规方案。"
+}

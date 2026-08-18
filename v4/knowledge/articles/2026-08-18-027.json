@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504396&idx=1&sn=566c8a97a7ce765cac6b2df5d2f515e4",
+  "title": "IndexTTS 2.5 让声音跨越语言",
+  "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504396&idx=1&sn=566c8a97a7ce765cac6b2df5d2f515e4",
+  "summary": "IndexTTS 2.5 是一个先进的文本转语音（TTS）系统，专注于实现跨语言的语音合成，让声音能够自然跨越语言界限。它可能支持多种语言的高质量语音输出，保持说话人的声音特征，适用于多语言内容创作、国际化和无障碍应用。该项目可能基于深度学习模型，强调语音的自然度、韵律和情感表达，以及零样本或少样本的语音克隆能力。",
+  "tags": [
+    "TTS",
+    "跨语言",
+    "语音合成",
+    "深度学习",
+    "声音克隆"
+  ],
+  "relevance_score": 0.85,
+  "category": "语音技术",
+  "key_insight": "通过先进模型实现声音的跨语言迁移，打破语言障碍，让同一声音说多种语言。"
+}

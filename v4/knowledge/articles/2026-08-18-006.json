@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-18-006",
+  "source_id": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "summary": "该项目探讨如何将构建系统功能集成到编译器中，以解决传统构建系统与编译器分离导致的效率问题。通过让编译器直接管理依赖和增量构建，可以减少重复编译、提高构建速度，并简化构建配置。文章可能涉及编译器内部机制、依赖跟踪和缓存策略，旨在实现更智能的构建流程。",
+  "tags": [
+    "编译器",
+    "构建系统",
+    "增量编译",
+    "依赖管理"
+  ],
+  "relevance_score": 0.8,
+  "category": "编译技术",
+  "key_insight": "将构建系统融入编译器可消除中间层，实现更精细的依赖分析和高效增量构建。"
+}

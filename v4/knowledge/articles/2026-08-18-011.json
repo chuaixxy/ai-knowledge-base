@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-18-011",
+  "source_id": "https://openai.com/index/the-defenders-window",
+  "title": "The Defender’s Window",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/the-defenders-window",
+  "summary": "该项目探讨了人工智能对网络安全领域的双重影响，既为攻击者提供了新的工具，也为防御者带来了增强防护的机会。文章聚焦于OpenAI自身如何利用AI强化其安全防御体系，并为其他安全团队提供可立即实施的策略建议。核心内容包括AI在威胁检测、自动化响应、漏洞修复等方面的应用，以及组织应如何调整安全架构以应对AI驱动的攻击。",
+  "tags": [
+    "AI安全",
+    "网络安全",
+    "OpenAI",
+    "防御策略",
+    "威胁检测"
+  ],
+  "relevance_score": 0.9,
+  "category": "网络安全与AI应用",
+  "key_insight": "AI既是攻击者的利器，也是防御者的盾牌，关键在于主动整合AI能力到安全体系中。"
+}
