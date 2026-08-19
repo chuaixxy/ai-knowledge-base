@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-19-003",
+  "source_id": "https://arxiv.org/abs/2608.14550",
+  "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.14550",
+  "summary": "本文针对AI效率评估中仅依赖FLOPs的局限性展开研究，指出相同FLOPs在不同层上的执行时间可能不同，因为并行化程度存在差异。作者复现了一项提出α-FLOPs估算公式的研究，以验证其在更新更强大的硬件上是否依然适用。复现过程中发现原始研究提供的复现材料存在不足，如依赖细节缺失和回归数据不透明。结果表明，仅凭原始FLOPs无法准确反映实际计算开销，强调复现性在AI效率评估中的重要性。",
+  "tags": [
+    "AI效率",
+    "FLOPs",
+    "复现性",
+    "性能评估",
+    "硬件",
+    "α-FLOPs"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI系统性能评估",
+  "key_insight": "FLOPs不能直接反映实际执行时间，复现实验是验证AI效率指标有效性的关键。"
+}

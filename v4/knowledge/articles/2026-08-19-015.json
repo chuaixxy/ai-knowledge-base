@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-19-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521321&idx=1&sn=4881e96023fe955d32daac031479bc92",
+  "title": "对比与生成：抖音SOTA多模态表征模型DME",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521321&idx=1&sn=4881e96023fe955d32daac031479bc92",
+  "summary": "该项目介绍抖音提出的DME（Dual-stream Multi-modal Encoder）多模态表征模型，在视频理解与内容生成任务中达到SOTA水平。DME采用双流架构，分别编码视觉和文本信息，并通过对比学习对齐跨模态语义，同时结合生成式目标增强表征的泛化能力。该模型在抖音的短视频推荐、搜索和内容理解场景中应用，显著提升了多模态匹配精度和下游任务性能。其核心创新在于对比与生成任务的联合优化，有效缓解了单一对比学习的表征瓶颈，为工业界多模态大模型提供了高效、可扩展的解决方案。",
+  "tags": [
+    "多模态学习",
+    "对比学习",
+    "视频理解",
+    "表征学习",
+    "SOTA模型",
+    "抖音AI"
+  ],
+  "relevance_score": 0.9,
+  "category": "多模态表征学习",
+  "key_insight": "DME通过对比与生成任务的联合训练，实现了视觉-文本表征的高效对齐，兼顾判别性与生成性，为工业级多模态理解提供了新范式。"
+}

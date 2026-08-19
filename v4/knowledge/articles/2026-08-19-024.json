@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-19-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050939&idx=1&sn=048d1d6f8e05e0ae4bd944928e5d2171",
+  "title": "让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050939&idx=1&sn=048d1d6f8e05e0ae4bd944928e5d2171",
+  "summary": "该项目针对 Coding Agent 在开发中缺乏项目长期记忆的痛点，提出了一种名为 MemoraX Code 的长期记忆系统。该系统旨在让 Agent 能够记住项目的历史决策、架构演变、常见问题和用户偏好，从而在后续开发中提供更连续、更个性化的辅助。通过构建结构化的记忆存储和检索机制，Agent 可以避免重复询问相同问题，减少上下文切换，提升开发效率和代码一致性。项目聚焦于 AI 辅助编程的‘记忆’层面，是智能编程助手向更自主、更懂项目方向演进的重要尝试。",
+  "tags": [
+    "AI辅助编程",
+    "长期记忆",
+    "Coding Agent",
+    "项目上下文",
+    "智能开发工具"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI开发工具/智能编程助手",
+  "key_insight": "通过赋予 Coding Agent 项目级长期记忆，使其从‘一次性工具’转变为‘了解项目历史的协作者’，从而显著提升开发连续性和效率。"
+}

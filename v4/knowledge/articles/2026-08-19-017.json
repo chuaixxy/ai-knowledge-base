@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-19-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512186&idx=1&sn=2ab7bb6f6016826d914e1abd8af76e0f",
+  "title": "B站indexTTS 2.5 开源：五国语言零样本配音，推理提速 2.28 倍",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512186&idx=1&sn=2ab7bb6f6016826d914e1abd8af76e0f",
+  "summary": "B站开源的indexTTS 2.5是一个先进的文本转语音系统，支持中、英、日、韩、法五种语言的零样本配音。相比前代，推理速度提升2.28倍（在A10 GPU环境下），五语言零样本语音识别错误率仅6.00%，平均说话人相似度达73.63%，跨语言情感迁移的MOS评分高达4.18/5。该系统在保持高质量语音生成的同时，大幅提升了多语言场景下的实用性和效率，适用于内容创作、本地化、辅助工具等场景。",
+  "tags": [
+    "TTS",
+    "零样本语音合成",
+    "多语言",
+    "开源",
+    "推理加速",
+    "情感迁移"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能/语音技术",
+  "key_insight": "indexTTS 2.5通过优化推理架构，在不牺牲质量的前提下显著提升多语言零样本配音的速度和准确性，为跨语言内容生产提供了高效解决方案。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-19-011",
+  "source_id": "https://huggingface.co/blog/multi-vector-encoder",
+  "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/multi-vector-encoder",
+  "summary": "该项目聚焦于多向量（后期交互）嵌入模型在句子变换器（Sentence Transformers）框架下的实现。与传统单向量嵌入不同，多向量模型为每个词或令牌生成独立向量，通过后期交互机制（如ColBERT的MaxSim）计算查询与文档间的细粒度相似度，显著提升检索和重排序性能。项目旨在提供高效、易用的工具，支持训练和部署此类模型，适用于密集检索、问答和语义搜索等场景，平衡精度与计算效率。",
+  "tags": [
+    "多向量嵌入",
+    "后期交互",
+    "Sentence Transformers",
+    "密集检索",
+    "语义搜索",
+    "ColBERT"
+  ],
+  "relevance_score": 0.85,
+  "category": "自然语言处理/信息检索",
+  "key_insight": "后期交互通过细粒度令牌匹配大幅提升检索精度，同时避免了全交叉编码器的计算开销。"
+}

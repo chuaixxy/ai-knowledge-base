@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-19-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803679&idx=1&sn=910b29493df93cadf43078846d630cef",
+  "title": "任何错误只犯一次：TencentDB Agent Memory 的团队记忆实践",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803679&idx=1&sn=910b29493df93cadf43078846d630cef",
+  "summary": "该项目介绍腾讯云数据库团队如何通过引入Agent Memory机制，实现团队级错误记忆与复用，显著提升任务完成率。核心做法是：将每次操作中遇到的错误、解决方案和上下文结构化存储为团队共享记忆，供AI Agent在类似场景中自动检索并应用，从而避免重复犯错。实践表明，该机制使任务完成率从60%提升至80%，减少了人工干预成本，并提升了团队协作效率。该项目强调记忆的沉淀、更新与去重，以及安全权限控制，展示了AI Agent在运维场景中的落地价值。",
+  "tags": [
+    "Agent Memory",
+    "错误处理",
+    "团队协作",
+    "AI运维",
+    "知识管理",
+    "效率提升"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI Agent实践",
+  "key_insight": "将错误解决经验转化为团队共享的结构化记忆，是AI Agent从个体学习走向组织智能的关键，能显著降低重复错误率。"
+}

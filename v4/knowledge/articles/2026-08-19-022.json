@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-19-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290972&idx=1&sn=d81ab631713314e6a6eae9e647e1f07f",
+  "title": "阿里云的野心，不在 Agent Builder",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290972&idx=1&sn=d81ab631713314e6a6eae9e647e1f07f",
+  "summary": "本文分析阿里云在AI领域的战略布局，指出其真正的野心并不局限于Agent Builder等工具平台，而是着眼于模型之外的生态构建。文章强调，技术落地和商业化的核心挑战在于数据整合、算力调度、行业适配及开发者生态等外围环节，而非模型本身。阿里云通过云基础设施、开源模型和行业解决方案，试图打造从底层到应用的闭环，以确立其在AI时代的长期竞争优势。",
+  "tags": [
+    "阿里云",
+    "AI战略",
+    "云计算",
+    "生态构建",
+    "Agent"
+  ],
+  "relevance_score": 0.85,
+  "category": "科技战略分析",
+  "key_insight": "阿里云的重心在于通过云+AI的生态整合，解决模型落地中的复杂工程问题，而非单纯竞争模型能力。"
+}

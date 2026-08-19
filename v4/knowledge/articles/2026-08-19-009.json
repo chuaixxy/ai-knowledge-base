@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-19-009",
+  "source_id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+  "title": "Pacing model development in an era of cyber-critical capabilities",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+  "summary": "OpenAI在开发前沿AI模型时，正加强监控、对齐和安全性，以应对网络关键能力时代的挑战。项目强调通过新的保障措施来引导模型开发节奏，确保技术进步与安全防护同步。这反映了AI行业对负责任创新的重视，即在追求性能的同时，优先考虑风险管理和伦理约束。",
+  "tags": [
+    "AI安全",
+    "模型对齐",
+    "前沿AI",
+    "风险管理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与治理",
+  "key_insight": "AI开发速度需与安全措施同步，否则可能放大网络关键能力带来的风险。"
+}

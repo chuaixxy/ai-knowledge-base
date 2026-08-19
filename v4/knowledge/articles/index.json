@@ -15254,5 +15254,445 @@
     ],
     "status": "published",
     "collected_at": "2026-08-18T01:23:40.865Z"
+  },
+  {
+    "id": "2026-08-19-001",
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "category": "AI伦理与安全",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "信息战",
+      "影响力操作",
+      "ChatGPT",
+      "以色列",
+      "虚假智库"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-002",
+    "title": "The Limits of AI (1985)",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.youtube.com/watch?v=ePsQksj99LM",
+    "category": "AI历史与批评",
+    "relevance_score": 0.6,
+    "tags": [
+      "AI历史",
+      "技术局限",
+      "1985",
+      "讨论"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-003",
+    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.14550",
+    "category": "AI系统性能评估",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI效率",
+      "FLOPs",
+      "复现性",
+      "性能评估",
+      "硬件",
+      "α-FLOPs"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-004",
+    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.14552",
+    "category": "AI医疗与模型评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "医学推理",
+      "元认知",
+      "临床诊断",
+      "置信度校准",
+      "心理物理学"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-005",
+    "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.14558",
+    "category": "多模态机器学习与认知推理",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态学习",
+      "抽象推理",
+      "基准测试",
+      "听觉-运动推理",
+      "视觉-音频融合"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-006",
+    "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
+    "category": "边缘AI/嵌入式机器学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "扩散模型",
+      "边缘计算",
+      "微控制器",
+      "FPGA",
+      "资源受限",
+      "图像生成",
+      "INT8量化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-007",
+    "title": "Strengthening democratic oversight in national security",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "category": "AI治理与政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI治理",
+      "国家安全",
+      "民主监督",
+      "OpenAI",
+      "政府合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-008",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/partnering-with-codeai",
+    "category": "教育合作",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI教育",
+      "OpenAI",
+      "CodeAI",
+      "学生素养",
+      "批判性思维",
+      "合作项目"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-009",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "模型对齐",
+      "前沿AI",
+      "风险管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-010",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "category": "AI系统优化",
+    "relevance_score": 0.92,
+    "tags": [
+      "AI智能体",
+      "记忆管理",
+      "上下文窗口",
+      "资源优化",
+      "性能评测"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-011",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/multi-vector-encoder",
+    "category": "自然语言处理/信息检索",
+    "relevance_score": 0.85,
+    "tags": [
+      "多向量嵌入",
+      "后期交互",
+      "Sentence Transformers",
+      "密集检索",
+      "语义搜索",
+      "ColBERT"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-012",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "category": "AI伦理与社会影响",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI伦理",
+      "名人遗产",
+      "深度伪造",
+      "社交媒体",
+      "家庭维权"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-013",
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "沙盒逃逸",
+      "网络安全",
+      "OpenAI",
+      "Hugging Face",
+      "模型对齐"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-014",
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "category": "浏览器AI功能",
+    "relevance_score": 0.85,
+    "tags": [
+      "Firefox",
+      "AI浏览器",
+      "实时搜索",
+      "Exa",
+      "标签分组",
+      "历史搜索"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-015",
+    "title": "对比与生成：抖音SOTA多模态表征模型DME",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521321&idx=1&sn=4881e96023fe955d32daac031479bc92",
+    "category": "多模态表征学习",
+    "relevance_score": 0.9,
+    "tags": [
+      "多模态学习",
+      "对比学习",
+      "视频理解",
+      "表征学习",
+      "SOTA模型",
+      "抖音AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-016",
+    "title": "Lance Meetup 2026 · 上海站｜正式开启报名！",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521321&idx=2&sn=3bf7e34ca6f1ec24f8a946668b0518f5",
+    "category": "技术社区活动",
+    "relevance_score": 0.85,
+    "tags": [
+      "Lance",
+      "Meetup",
+      "上海",
+      "2026",
+      "数据格式",
+      "机器学习",
+      "开源",
+      "社区活动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-017",
+    "title": "B站indexTTS 2.5 开源：五国语言零样本配音，推理提速 2.28 倍",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512186&idx=1&sn=2ab7bb6f6016826d914e1abd8af76e0f",
+    "category": "人工智能/语音技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "TTS",
+      "零样本语音合成",
+      "多语言",
+      "开源",
+      "推理加速",
+      "情感迁移"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-018",
+    "title": "任何错误只犯一次：TencentDB Agent Memory 的团队记忆实践",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803679&idx=1&sn=910b29493df93cadf43078846d630cef",
+    "category": "AI Agent实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "Agent Memory",
+      "错误处理",
+      "团队协作",
+      "AI运维",
+      "知识管理",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-019",
+    "title": "Agent的命门是上下文：关键不在少给，而在给对",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247696974&idx=1&sn=7b3e885c64e10a944ea85e4018348a13",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "上下文管理",
+      "信息检索",
+      "知识工程",
+      "提示词优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-020",
+    "title": "AI Coding的共生与替代：一场分阶段的演进",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502507&idx=1&sn=2ee6e6fa3ff5f8976283eff64780e5de",
+    "category": "技术趋势分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI编程",
+      "职业影响",
+      "技术演进",
+      "人机协作",
+      "技能转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-021",
+    "title": "OMG，10倍增速的Agent真的吓到我了",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669894&idx=1&sn=6e6e960a33bf88d806a91a010637b10f",
+    "category": "AI应用/办公效率",
+    "relevance_score": 0.9,
+    "tags": [
+      "百度搭子",
+      "AI办公",
+      "智能体",
+      "Agent",
+      "月活增长",
+      "办公自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-022",
+    "title": "阿里云的野心，不在 Agent Builder",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290972&idx=1&sn=d81ab631713314e6a6eae9e647e1f07f",
+    "category": "科技战略分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "阿里云",
+      "AI战略",
+      "云计算",
+      "生态构建",
+      "Agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-023",
+    "title": "InfoQ 2026 年趋势报告：AI 重写工程师角色，但一切仍然关乎人",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651290972&idx=2&sn=6884c3899ec1800d82d53db282b47c0e",
+    "category": "技术趋势与人才发展",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "工程师角色",
+      "企业文化",
+      "工程方法论",
+      "趋势报告",
+      "人本管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-024",
+    "title": "让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050939&idx=1&sn=048d1d6f8e05e0ae4bd944928e5d2171",
+    "category": "AI开发工具/智能编程助手",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI辅助编程",
+      "长期记忆",
+      "Coding Agent",
+      "项目上下文",
+      "智能开发工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-19-025",
+    "title": "一个「流浪」数学家的遗产，正在被AI公司疯抢",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050939&idx=2&sn=ec43544ef0d7564d37952ae8f0f7a3f5",
+    "category": "AI应用与数学交叉",
+    "relevance_score": 0.85,
+    "tags": [
+      "数学推理",
+      "AI基准测试",
+      "Erdős问题",
+      "算法创新",
+      "科学发现"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-19T01:25:55.474Z"
   }
 ]

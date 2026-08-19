@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-19-010",
+  "source_id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "summary": "该项目研究AI智能体在实际任务中真正需要多少记忆容量，而非盲目追求无限上下文。通过系统实验，作者测量了不同任务类型（如多轮对话、工具调用、长文档推理）下记忆需求的上限，发现多数场景只需数万token即可，过度扩展记忆反而增加成本与延迟。项目提出动态记忆分配策略，根据任务复杂度自动调整缓存大小，并给出性能-成本权衡的量化模型。结论是，智能体设计应聚焦于高效检索与遗忘机制，而非堆砌硬件资源，这为资源受限环境下的AI部署提供了实用指导。",
+  "tags": [
+    "AI智能体",
+    "记忆管理",
+    "上下文窗口",
+    "资源优化",
+    "性能评测"
+  ],
+  "relevance_score": 0.92,
+  "category": "AI系统优化",
+  "key_insight": "智能体记忆需求远低于想象，动态分配比无限扩展更经济高效。"
+}

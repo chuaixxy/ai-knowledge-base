@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-19-005",
+  "source_id": "https://arxiv.org/abs/2608.14558",
+  "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.14558",
+  "summary": "本文提出了一个名为“The Unwritten Benchmark”的新基准，用于评估多模态模型在抽象感知推理中的能力。核心任务是基于钢笔划痕的音频和手部动作的视频，推断被书写但不可见的单词，涵盖三种书写风格。结果显示，人类参与者的有序字母准确率超过80%，而GPT-4o和Gemini 2.5-Pro等领先模型的表现不足10%，突显了当前多模态模型在动态生成过程推理方面的显著不足。",
+  "tags": [
+    "多模态学习",
+    "抽象推理",
+    "基准测试",
+    "听觉-运动推理",
+    "视觉-音频融合"
+  ],
+  "relevance_score": 0.85,
+  "category": "多模态机器学习与认知推理",
+  "key_insight": "当前多模态模型在静态内容识别上表现出色，但在基于动态过程进行抽象推理时存在巨大鸿沟，亟需新的训练和评估范式。"
+}
