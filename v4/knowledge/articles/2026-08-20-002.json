@@ -1,0 +1,17 @@
+{
+  "id": "2026-08-20-002",
+  "source_id": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+  "title": "Bongard Problems",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+  "summary": "Bongard Problems 是一类视觉推理难题，由计算机科学家 Harry Bongard 在1960年代提出，旨在测试模式识别和抽象推理能力。每个问题包含六张符合某规则的图像和六张不符合的，要求找出区分规则。该项目在 Lobsters 上引发讨论，涉及 AI 模型（如神经网络）在解决此类问题时的表现，强调其作为评估机器视觉和认知推理能力的基准。讨论可能涵盖现有模型局限、数据生成方法及未来研究方向。",
+  "tags": [
+    "视觉推理",
+    "模式识别",
+    "AI基准",
+    "Bongard问题"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI研究",
+  "key_insight": "Bongard Problems 是评估 AI 抽象推理能力的经典挑战，当前模型仍难以泛化解决，凸显了机器视觉与人类认知的差距。"
+}

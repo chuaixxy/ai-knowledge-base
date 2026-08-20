@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506943&idx=1&sn=97e36fa3798ae74ae78520ff4af2e981",
+  "title": "AI 网关可观测体系：让大模型调用看得见、查得到、审得清",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506943&idx=1&sn=97e36fa3798ae74ae78520ff4af2e981",
+  "summary": "该项目旨在构建AI网关的可观测体系，解决大模型调用中Token消耗不明、性能瓶颈难定位、错误排查困难三大核心痛点。通过在网关层集成日志、指标、追踪和审计能力，实现调用链路的透明化，使团队能实时监控Token使用、分析延迟分布、快速定位异常。该方案强调“一次解决”，即统一平台覆盖成本、性能与合规审查，提升AI服务的运维效率和可靠性。",
+  "tags": [
+    "AI网关",
+    "可观测性",
+    "Token监控",
+    "性能追踪",
+    "运维审计"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与运维",
+  "key_insight": "网关层是统一解决大模型调用成本、性能与合规问题的关键切入点。"
+}

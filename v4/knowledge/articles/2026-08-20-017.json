@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-20-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b",
+  "title": "AI理解、引擎驱动：零代码搭建实时数据链路",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b",
+  "summary": "本项目旨在通过AI自然语言理解技术，让用户以零代码方式快速构建实时数据管道。用户只需用一句话描述数据需求，系统即可自动生成并部署实时数据任务，大幅降低数据工程门槛，提升开发效率。其核心在于将AI语义解析与流处理引擎深度结合，实现从需求到执行链路的自动化。",
+  "tags": [
+    "AI",
+    "零代码",
+    "实时数据",
+    "数据管道",
+    "自然语言处理",
+    "流处理"
+  ],
+  "relevance_score": 0.9,
+  "category": "数据工程与AI应用",
+  "key_insight": "将自然语言直接转化为可执行的实时数据任务，实现数据流水线构建的民主化。"
+}

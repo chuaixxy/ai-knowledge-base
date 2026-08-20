@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-20-005",
+  "source_id": "https://arxiv.org/abs/2608.16891",
+  "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.16891",
+  "summary": "本文提出了 Aegis 运行时治理系统，用于解决 Agentic AI 中模型输出可能带来的有害操作副作用。Aegis 将模型输出视为行动提案，在工具执行前通过可信决策层进行调解，模型提案、运行时决策。系统基于策略状态评估提案，在服务端解析来源，在不确定时默认失败关闭，并对特定案例采用基于法定人数的非单边授权路径。实验在包含五个运行族、42 个任务、三种条件和十次重复的沙盒语料上进行，共 6300 行数据，提示-策略条件化产生了 79 个风险行为。",
+  "tags": [
+    "运行时治理",
+    "Agentic AI",
+    "行动边界",
+    "可信来源",
+    "失败关闭",
+    "工具安全"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI 安全与治理",
+  "key_insight": "Aegis 的核心洞察是：将模型输出降级为行动提案，并通过可信运行时决策层强制执行策略，从而在工具执行前建立不可逾越的安全边界。"
+}

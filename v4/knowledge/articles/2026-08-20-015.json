@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-20-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521375&idx=1&sn=e11bc1ebfc05563e0d0ab2d5d47835b5",
+  "title": "Agent Plan x DeepSeek Harness 实践指南",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521375&idx=1&sn=e11bc1ebfc05563e0d0ab2d5d47835b5",
+  "summary": "本项目是一份关于Agent Plan与DeepSeek Harness（即DeepSeek模型作为工具调用与规划执行框架）的实践指南。它聚焦于如何利用DeepSeek模型构建稳定、可扩展的智能体（Agent）规划系统，涵盖任务分解、工具调用、状态管理与错误恢复等核心环节。指南通过具体代码示例与配置方法，强调Harness（运行时环境）在约束模型输出、提升执行可靠性方面的关键作用，并针对计划执行中的常见失败模式（如幻觉、循环、参数错误）提供系统化解决方案。内容兼具理论框架与工程落地细节，适合开发者快速上手并优化基于DeepSeek的Agent生产级应用。",
+  "tags": [
+    "AI Agent",
+    "DeepSeek",
+    "Harness",
+    "任务规划",
+    "工具调用",
+    "工程实践"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程实践指南",
+  "key_insight": "通过Harness层对DeepSeek输出进行结构化约束与容错处理，是实现高可靠Agent规划的核心方法论。"
+}

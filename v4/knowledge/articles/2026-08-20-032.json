@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-032",
+  "source_id": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
+  "title": "Why global workers are driving demand for stablecoin payouts",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
+  "summary": "该项目基于对20个国家2300名全球员工的调查，分析了稳定币支付需求激增的原因。DoorDash、Meta和Deel等平台已支持稳定币支付，显示出市场趋势。调查发现，高通胀、跨境汇款成本高、银行服务不足是主要驱动因素，尤其在发展中国家和自由职业者中需求最高。项目为其他平台提供了如何集成稳定币支付的建议，以提升支付效率和包容性。",
+  "tags": [
+    "稳定币",
+    "全球支付",
+    "金融科技",
+    "跨境汇款",
+    "员工薪酬"
+  ],
+  "relevance_score": 0.85,
+  "category": "金融科技与支付",
+  "key_insight": "稳定币支付需求由金融普惠和成本效率驱动，平台应优先在通胀高和银行渗透率低的地区推广。"
+}

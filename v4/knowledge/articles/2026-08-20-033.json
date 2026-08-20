@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291169&idx=1&sn=271607c3161c3e08a936342cc985cf1a",
+  "title": "撞名Anthropic的“外挂”刷屏：让“DeepSeek V4‑Pro碾压 Fable 5”但无人能复现，Token开销反而翻倍",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291169&idx=1&sn=271607c3161c3e08a936342cc985cf1a",
+  "summary": "该项目名为 J-Space Cognition Suite，是一个社区驱动的AI辅助工具，宣称能显著提升模型性能（如让DeepSeek V4-Pro超越Fable 5），但实际无法复现，且Token开销翻倍。项目在X上传播迅速，但缺乏实证支持，可能为炒作或技术误报。",
+  "tags": [
+    "AI工具",
+    "社区项目",
+    "性能夸大",
+    "Token开销",
+    "不可复现"
+  ],
+  "relevance_score": 0.7,
+  "category": "技术争议",
+  "key_insight": "技术宣传需以可复现性为基石，否则易沦为营销泡沫。"
+}

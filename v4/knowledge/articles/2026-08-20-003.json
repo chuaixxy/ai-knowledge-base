@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-003",
+  "source_id": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+  "title": "Liquid Types as a behavioural sandbox for agents",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+  "summary": "该项目探讨将液体类型（Liquid Types）系统作为智能体（agents）的行为沙箱。液体类型是一种通过细化类型（refinement types）和可判定逻辑来验证程序属性的静态分析技术。将其应用于智能体行为约束，意味着可以在编译或执行前对智能体的行为空间进行形式化限定，确保其只能在满足特定逻辑不变量的状态中行动，从而提供可证明的安全边界。该思路旨在将智能体的行为验证从运行时监测前移，以类型系统为工具构建“行为沙箱”，降低不可控行为风险。",
+  "tags": [
+    "液体类型",
+    "智能体安全",
+    "形式化验证",
+    "行为沙箱",
+    "细化类型"
+  ],
+  "relevance_score": 0.7,
+  "category": "AI安全与形式化方法",
+  "key_insight": "利用液体类型的逻辑细化能力，将智能体的行为约束从运行时动态监测转化为编译期可验证的静态类型保证。"
+}

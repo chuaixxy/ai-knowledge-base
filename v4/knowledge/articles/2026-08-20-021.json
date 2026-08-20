@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-20-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512213&idx=1&sn=18ecb824be98f26e2972e66f091dd0ac",
+  "title": "Qwen3.8-27B-DFlash2 开源：1.92B 草稿模型，SGLang 单并发吞吐达自回归 3.4 倍",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512213&idx=1&sn=18ecb824be98f26e2972e66f091dd0ac",
+  "summary": "Inco AI 开源了 Qwen3.8-27B-DFlash2，这是一种针对 Qwen3.8-27B 的投机解码草稿模型，采用轻量路径选择器和双抽头动态卷积技术。与自回归解码相比，在 SGLang 单并发环境下吞吐量提升 3.4 倍，且保持精度无损。该模型显著降低了推理延迟，适用于高吞吐场景，并已开源。",
+  "tags": [
+    "投机解码",
+    "草稿模型",
+    "动态卷积",
+    "吞吐优化",
+    "开源",
+    "推理加速",
+    "SGLang"
+  ],
+  "relevance_score": 0.85,
+  "category": "LLM推理优化",
+  "key_insight": "通过创新草稿模型设计，将吞吐提升至自回归的3.4倍，同时保持精度无损，为大规模部署提供了高效推理方案。"
+}

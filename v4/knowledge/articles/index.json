@@ -15694,5 +15694,630 @@
     ],
     "status": "published",
     "collected_at": "2026-08-19T01:25:55.474Z"
+  },
+  {
+    "id": "2026-08-20-001",
+    "title": "AscendNPU-IR: MLIR for Ascend",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://gitcode.com/Ascend/AscendNPU-IR",
+    "category": "AI编译器/硬件加速",
+    "relevance_score": 0.9,
+    "tags": [
+      "MLIR",
+      "NPU",
+      "编译器",
+      "昇腾",
+      "AI加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-002",
+    "title": "Bongard Problems",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+    "category": "AI研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "视觉推理",
+      "模式识别",
+      "AI基准",
+      "Bongard问题"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-003",
+    "title": "Liquid Types as a behavioural sandbox for agents",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+    "category": "AI安全与形式化方法",
+    "relevance_score": 0.7,
+    "tags": [
+      "液体类型",
+      "智能体安全",
+      "形式化验证",
+      "行为沙箱",
+      "细化类型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-004",
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.16890",
+    "category": "AI工程 / 智能体编排",
+    "relevance_score": 0.9,
+    "tags": [
+      "临床试验编程",
+      "多智能体系统",
+      "LLM代码生成",
+      "DAG流程编排",
+      "CDISC标准",
+      "监管合规",
+      "验证门",
+      "条件重试"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-005",
+    "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.16891",
+    "category": "AI 安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "运行时治理",
+      "Agentic AI",
+      "行动边界",
+      "可信来源",
+      "失败关闭",
+      "工具安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-006",
+    "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.16956",
+    "category": "AI经济学与模型评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI经济学",
+      "API定价",
+      "推理成本",
+      "模型对比",
+      "成本效益分析",
+      "LLM评估"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-007",
+    "title": "Offering Zero Data Retention for frontier models",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "category": "AI平台与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "数据隐私",
+      "零数据保留",
+      "API安全",
+      "AI安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-008",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/replit",
+    "category": "AI编程工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI编程",
+      "免费模式",
+      "GPT-5.6 Luna",
+      "低门槛开发",
+      "Replit"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-009",
+    "title": "ChatGPT Ads expands across Europe",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "category": "AI商业化",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI广告",
+      "欧洲市场",
+      "ChatGPT",
+      "商业扩展",
+      "数字营销"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-010",
+    "title": "5 new ways to level up your learning with Search",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "category": "教育科技",
+    "relevance_score": 0.7,
+    "tags": [
+      "Google Search",
+      "学习工具",
+      "教育技术",
+      "AI辅助学习",
+      "考试备考"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-011",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/LiquidAI/qad",
+    "category": "模型优化与部署",
+    "relevance_score": 0.75,
+    "tags": [
+      "模型量化",
+      "知识蒸馏",
+      "LLM压缩",
+      "边缘部署",
+      "Q4_0"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-012",
+    "title": "Google Gemini is getting a dedicated student hub",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "category": "教育科技",
+    "relevance_score": 0.8,
+    "tags": [
+      "Google",
+      "Gemini",
+      "教育",
+      "学习工具",
+      "AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-013",
+    "title": "OpenAI hit the brakes. Now what?",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "AI安全",
+      "技术放缓",
+      "竞争压力",
+      "IPO"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-014",
+    "title": "Meta AI is getting a Mac app",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "category": "AI 应用与桌面集成",
+    "relevance_score": 0.75,
+    "tags": [
+      "Meta",
+      "Mac",
+      "AI 聊天机器人",
+      "屏幕共享",
+      "语音听写",
+      "桌面应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-015",
+    "title": "Agent Plan x DeepSeek Harness 实践指南",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521375&idx=1&sn=e11bc1ebfc05563e0d0ab2d5d47835b5",
+    "category": "AI工程实践指南",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "DeepSeek",
+      "Harness",
+      "任务规划",
+      "工具调用",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-016",
+    "title": "ADrive 智能网盘：让 ArkClaw 的每一份产物，从「临时文件」变成「长期资产」",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521375&idx=2&sn=0f9e1f1fc0b9613c809dd6014c82e3ca",
+    "category": "AI 基础设施与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI 资产管理",
+      "智能网盘",
+      "知识库",
+      "数据持久化",
+      "ArkClaw 生态",
+      "内容复用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-017",
+    "title": "AI理解、引擎驱动：零代码搭建实时数据链路",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545396&idx=1&sn=379acdf54a0274cade396762da96811b",
+    "category": "数据工程与AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "零代码",
+      "实时数据",
+      "数据管道",
+      "自然语言处理",
+      "流处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-018",
+    "title": "阿里巴巴 12 篇论文入选全球网络顶会 SIGCOMM 2026（内附下载）",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511193&idx=1&sn=985ceca884ea702ec12963d8041ef80d",
+    "category": "学术成果",
+    "relevance_score": 0.85,
+    "tags": [
+      "SIGCOMM",
+      "网络技术",
+      "AI智算网络",
+      "云网络",
+      "学术研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-019",
+    "title": "AQuA：让量化研究 Agent 在不越界的前提下持续进化",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537777&idx=1&sn=1b29aed27c061d85c8c0a1c6555ba13d",
+    "category": "AI基础设施/金融科技",
+    "relevance_score": 0.85,
+    "tags": [
+      "量化研究",
+      "AI Agent",
+      "回测安全",
+      "约束优化",
+      "金融风控"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-020",
+    "title": "AFAC2026大赛，邀您见证8月总决赛路演的巅峰时刻",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537777&idx=2&sn=6470a6063182627ef45aff6be5a04333",
+    "category": "赛事活动",
+    "relevance_score": 0.6,
+    "tags": [
+      "技术竞赛",
+      "总决赛",
+      "上海",
+      "路演",
+      "创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-021",
+    "title": "Qwen3.8-27B-DFlash2 开源：1.92B 草稿模型，SGLang 单并发吞吐达自回归 3.4 倍",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512213&idx=1&sn=18ecb824be98f26e2972e66f091dd0ac",
+    "category": "LLM推理优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "投机解码",
+      "草稿模型",
+      "动态卷积",
+      "吞吐优化",
+      "开源",
+      "推理加速",
+      "SGLang"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-022",
+    "title": "Hello Life！AI 破译生命密码｜《AI4S实战派》生命科学专题启动",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512213&idx=2&sn=42f224dd7192c28f7348709b984306ea",
+    "category": "AI4S教育项目",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI for Science",
+      "生命科学",
+      "基因序列",
+      "虚拟细胞",
+      "教育培训",
+      "魔搭社区"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-023",
+    "title": "微信AI来了？又有这13个新变化！",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803711&idx=1&sn=769cdeea7696c94fe4488827a6a41211",
+    "category": "产品更新",
+    "relevance_score": 0.9,
+    "tags": [
+      "微信",
+      "AI助手",
+      "功能更新",
+      "用户体验",
+      "社交应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-024",
+    "title": "Hy3 接入讯兔科技 Alpha派，携手深化AI投研应用实践",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498239&idx=1&sn=ca26e2f91e35cb1043dbd05b0a6448b0",
+    "category": "金融科技/AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI投研",
+      "金融科技",
+      "合作",
+      "智能工作台"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-025",
+    "title": "从流量风口到价值高地，AI爆发下的微短剧发展六大趋势｜3万字报告下载",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998412&idx=1&sn=a424437f4533bd39135bd57e951617d3",
+    "category": "行业趋势报告",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI",
+      "微短剧",
+      "内容产业",
+      "趋势分析",
+      "人机协同"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-026",
+    "title": "从561个作品看一场游戏黑客松里的AI创作新变化",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998399&idx=1&sn=59c19f4457115ff5f05f92e405c74da2",
+    "category": "AI应用与创意产业",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI创作",
+      "游戏开发",
+      "黑客松",
+      "技术民主化",
+      "创意生态",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-027",
+    "title": "AI Coding时代，研发项目管理新范式探索与实践",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697007&idx=1&sn=f12d0ba52354af093099ab3c6c7c28f3",
+    "category": "研发管理/工具方法论",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI编程",
+      "研发管理",
+      "项目管理",
+      "人机协同",
+      "数字化转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-028",
+    "title": "AI 网关可观测体系：让大模型调用看得见、查得到、审得清",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506943&idx=1&sn=97e36fa3798ae74ae78520ff4af2e981",
+    "category": "AI基础设施与运维",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI网关",
+      "可观测性",
+      "Token监控",
+      "性能追踪",
+      "运维审计"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-029",
+    "title": "EP-Harness：从个人 AI Coding 到团队级 Agent 工作流｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546472&idx=1&sn=f81736e344109ae41c6f78127d847519",
+    "category": "AI 工程化 / 研发效能",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Coding",
+      "Agent 工作流",
+      "团队协作",
+      "研发效能",
+      "Prompt 管理",
+      "流程治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-030",
+    "title": "GLM-5.3上线：拓展智能上界的可及边界",
+    "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+    "category": "大模型技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源大模型",
+      "GLM-5.3",
+      "SOTA",
+      "AI突破",
+      "推理能力",
+      "多模态"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-031",
+    "title": "How we knew COVID was over (and what our models had to unlearn)",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4",
+    "category": "技术分析/数据科学",
+    "relevance_score": 0.85,
+    "tags": [
+      "流行病学",
+      "模型更新",
+      "COVID-19",
+      "数据校准",
+      "机器学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-032",
+    "title": "Why global workers are driving demand for stablecoin payouts",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts",
+    "category": "金融科技与支付",
+    "relevance_score": 0.85,
+    "tags": [
+      "稳定币",
+      "全球支付",
+      "金融科技",
+      "跨境汇款",
+      "员工薪酬"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-033",
+    "title": "撞名Anthropic的“外挂”刷屏：让“DeepSeek V4‑Pro碾压 Fable 5”但无人能复现，Token开销反而翻倍",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291169&idx=1&sn=271607c3161c3e08a936342cc985cf1a",
+    "category": "技术争议",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI工具",
+      "社区项目",
+      "性能夸大",
+      "Token开销",
+      "不可复现"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-034",
+    "title": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291169&idx=2&sn=c0771eadd4bf158ea9eea83a02b0e0fb",
+    "category": "AI基础设施",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型",
+      "推理加速",
+      "内存优化",
+      "编译优化",
+      "量化",
+      "并行计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-035",
+    "title": "600万奖池尘埃落定，有人靠DeepSeek网页版拿下冠军",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051113&idx=1&sn=a9c3abcde2dc29a8ed52dd44e30cb6f5",
+    "category": "技术竞赛分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI竞赛",
+      "DeepSeek",
+      "解题思路",
+      "高额奖金",
+      "大模型应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-20-036",
+    "title": "一个Skill让DeepSeek V4 Pro超越Fable 5？热门插件被锤了",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051113&idx=2&sn=4170b4c6d918755486250701628d8bc6",
+    "category": "技术争议/炒作",
+    "relevance_score": 0.6,
+    "tags": [
+      "AI模型",
+      "插件",
+      "虚假宣传",
+      "争议"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-20T01:24:01.615Z"
   }
 ]

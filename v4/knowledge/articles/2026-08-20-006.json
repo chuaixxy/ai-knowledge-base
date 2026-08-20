@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-20-006",
+  "source_id": "https://arxiv.org/abs/2608.16956",
+  "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.16956",
+  "summary": "该研究探讨了API合同中推理努力条款对成本和准确率的影响。通过对比Sonnet 5模型在显式高努力与省略努力条款下的30道AIME 2026题目、每项5次调用，发现显式高努力合同平均每次调用成本高出0.01031美元，但准确率差异仅为+0.0133，统计上不显著。研究指出API购买的是包含模型、努力条款、输出轨道等在内的日期合同，而非仅模型名称。成本-正确率指标在高努力下为0.08665美元。结论是推理努力作为模型特定API契约，需谨慎权衡成本与潜在收益。",
+  "tags": [
+    "AI经济学",
+    "API定价",
+    "推理成本",
+    "模型对比",
+    "成本效益分析",
+    "LLM评估"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI经济学与模型评估",
+  "key_insight": "显式高推理努力条款显著增加API调用成本，但未能证明准确率提升，暗示当前推理努力定价可能超出其边际价值。"
+}

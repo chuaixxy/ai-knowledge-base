@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-20-004",
+  "source_id": "https://arxiv.org/abs/2608.16890",
+  "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.16890",
+  "summary": "GxP-Agent是一个面向临床试验编程的多智能体系统，旨在解决LLM在监管数据生成任务上的高失败率问题。该系统将监管流程顺序编码为有向无环图（DAG），将单一数据集生成任务分解为15个由工作智能体执行的领域特定节点，并配备验证门和条件重试机制。在基于FDA试点提交数据CDISCPilot01构建的CDISC-Bench基准上，GxP-Agent结合Claude Sonnet 4.6实现了100%的结构匹配（49/49变量，254条正确记录），远超最佳检索增强方法的59.2%。该系统展示了将流程工程与LLM代理结合以应对高可靠性监管任务的潜力。",
+  "tags": [
+    "临床试验编程",
+    "多智能体系统",
+    "LLM代码生成",
+    "DAG流程编排",
+    "CDISC标准",
+    "监管合规",
+    "验证门",
+    "条件重试"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程 / 智能体编排",
+  "key_insight": "通过将监管流程编码为DAG并分解为带验证的专业节点，GxP-Agent将LLM在临床试验编程任务上的成功率从接近0提升至100%，证明流程结构约束是释放LLM在关键领域可靠性的关键。"
+}

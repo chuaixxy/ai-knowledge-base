@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537777&idx=1&sn=1b29aed27c061d85c8c0a1c6555ba13d",
+  "title": "AQuA：让量化研究 Agent 在不越界的前提下持续进化",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537777&idx=1&sn=1b29aed27c061d85c8c0a1c6555ba13d",
+  "summary": "AQuA是一个针对量化研究领域的AI Agent框架，核心解决回测结果‘好得过头’却无法解释的风险。它通过引入‘不越界’的约束机制，确保Agent在持续自我进化的过程中，不会违反金融逻辑、数据边界或风控规则，避免产生虚假的优异表现。项目强调安全性和可解释性，让Agent在优化策略时，任何改进都必须通过合规性和逻辑验证，从而减少过拟合和隐藏错误。其价值在于将AI自主研究与金融严谨性结合，为量化投资提供更可靠的自动化研究工具。",
+  "tags": [
+    "量化研究",
+    "AI Agent",
+    "回测安全",
+    "约束优化",
+    "金融风控"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施/金融科技",
+  "key_insight": "AQuA的创新在于把‘不越界’作为Agent进化的硬性前提，将回测异常视为风险信号而非成功指标，从而在自主研究中嵌入金融安全的‘刹车系统’。"
+}

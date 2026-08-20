@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-031",
+  "source_id": "https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4",
+  "title": "How we knew COVID was over (and what our models had to unlearn)",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab?source=rss----53c7c27702d5---4",
+  "summary": "该项目探讨了在COVID-19疫情结束后，流行病学模型需要如何调整以反映现实变化。文章指出，许多模型基于疫情高峰期的数据训练，包含了对病毒传播、死亡率和社会行为的过时假设。随着疫情消退，模型需要“遗忘”这些异常时期的模式，重新校准参数，例如恢复常态的社交接触率、免疫人群比例等。作者通过实际案例展示了模型预测偏差，并提出了更新模型的方法论，包括引入实时数据、动态调整参数和混合建模。核心在于强调模型必须适应环境变化，而非固守历史模式。",
+  "tags": [
+    "流行病学",
+    "模型更新",
+    "COVID-19",
+    "数据校准",
+    "机器学习"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术分析/数据科学",
+  "key_insight": "模型需要主动“遗忘”异常时期的数据模式，才能准确预测后疫情时代。"
+}

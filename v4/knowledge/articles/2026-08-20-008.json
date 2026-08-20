@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-008",
+  "source_id": "https://openai.com/index/replit",
+  "title": "Replit expands access to software creation with GPT-5.6 Luna",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/replit",
+  "summary": "Replit 推出了由 GPT-5.6 Luna 驱动的 Free Mode，旨在让任何人都能免费将创意转化为可运行的软件，无需担心 token 成本。这一举措大幅降低了软件开发的门槛，使非专业开发者也能轻松使用 AI 进行编程。Free Mode 可能通过限制高级功能或提供基础资源来控制成本，同时利用 GPT-5.6 Luna 的高效能力提升用户体验。这标志着 AI 编程助手向普及化、零成本方向迈进，可能吸引大量新用户，并推动 Replit 平台生态的扩张。",
+  "tags": [
+    "AI编程",
+    "免费模式",
+    "GPT-5.6 Luna",
+    "低门槛开发",
+    "Replit"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI编程工具",
+  "key_insight": "通过免费模式消除 token 成本障碍，AI 编程助手将真正实现大众化，成为软件开发的基础设施。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-20-011",
+  "source_id": "https://huggingface.co/blog/LiquidAI/qad",
+  "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/LiquidAI/qad",
+  "summary": "该项目提供通过量化感知蒸馏（QAD）技术生成的LFM2.5 Q4_0检查点，旨在在保持模型性能的同时显著降低内存占用和推理成本。Q4_0量化格式将权重压缩至4比特，结合蒸馏过程，使得小型或资源受限设备能够高效运行大型语言模型。该项目可能包含预训练模型的量化版本、蒸馏训练脚本及评估结果，适用于边缘部署和模型压缩场景。",
+  "tags": [
+    "模型量化",
+    "知识蒸馏",
+    "LLM压缩",
+    "边缘部署",
+    "Q4_0"
+  ],
+  "relevance_score": 0.75,
+  "category": "模型优化与部署",
+  "key_insight": "通过量化感知蒸馏在4比特精度下平衡模型压缩与性能，为资源受限环境提供高可用LLM部署方案。"
+}

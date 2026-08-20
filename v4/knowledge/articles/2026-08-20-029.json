@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-20-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546472&idx=1&sn=f81736e344109ae41c6f78127d847519",
+  "title": "EP-Harness：从个人 AI Coding 到团队级 Agent 工作流｜得物技术",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546472&idx=1&sn=f81736e344109ae41c6f78127d847519",
+  "summary": "EP-Harness 是得物技术提出的团队级 AI Coding 工作流解决方案。它针对个人使用 AI 编程工具在团队中暴露的三大问题：Prompt 缺乏审核、经验无法沉淀、研发链路未闭环。其核心思路是将 AI Agent 视为团队成员进行管理，重点不是提升模型能力，而是确保 Agent 在真实研发流程中正确工作。通过标准化流程、可治理的 Prompt 管理和经验沉淀机制，EP-Harness 旨在将 AI Coding 从个人效率工具升级为可治理、可持续闭环的团队生产力平台，实现 AI 在团队研发中的规模化落地。",
+  "tags": [
+    "AI Coding",
+    "Agent 工作流",
+    "团队协作",
+    "研发效能",
+    "Prompt 管理",
+    "流程治理"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI 工程化 / 研发效能",
+  "key_insight": "AI Coding 的团队化关键在于将 Agent 视为可治理的团队成员，而非更强的模型。"
+}
