@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-21-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051423&idx=2&sn=16e8c6178a4da711642607cf5323766b",
+  "title": "WorkSwarm让Agent组队干活，JiuwenBox安全沙箱守护每一步执行",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051423&idx=2&sn=16e8c6178a4da711642607cf5323766b",
+  "summary": "该项目包含两个核心组件：WorkSwarm 和 JiuwenBox。WorkSwarm 旨在让 AI Agent 以团队（Swarm）形式协作，共同完成任务，强调多智能体的分工与协同。JiuwenBox 则是一个开源的多级安全沙箱，为 Agent 的每一步执行提供安全保障，防止恶意代码或错误操作对系统造成损害。整体上，项目聚焦于提升 AI Agent 在复杂任务中的执行效率与安全性，通过沙箱机制实现可控的自主行为。",
+  "tags": [
+    "AI Agent",
+    "多智能体协作",
+    "沙箱安全",
+    "开源",
+    "任务编排",
+    "安全执行"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent 基础设施与安全",
+  "key_insight": "将 Agent 协作效率与安全隔离解耦，用沙箱为每一步执行兜底，是构建可信自主 AI 系统的关键路径。"
+}

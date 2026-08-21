@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-21-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803712&idx=1&sn=515b0c05169da477cb32db81d692715b",
+  "title": "腾讯大数据 SuperSQL 刷新 TPC-DS 世界纪录，性能、性价比双料第一",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803712&idx=1&sn=515b0c05169da477cb32db81d692715b",
+  "summary": "腾讯大数据SuperSQL在TPC-DS基准测试中刷新世界纪录，同时取得性能和性价比双料第一。该系统通过优化查询引擎、智能调度和分布式计算，显著提升大数据处理效率，降低计算成本。这一成果展示了腾讯在数据库和数据分析领域的技术实力，为行业树立了性能标杆，尤其对海量数据场景下的实时分析和决策支持具有重要意义。",
+  "tags": [
+    "腾讯",
+    "SuperSQL",
+    "TPC-DS",
+    "大数据",
+    "性能优化",
+    "数据库"
+  ],
+  "relevance_score": 0.9,
+  "category": "大数据处理",
+  "key_insight": "SuperSQL通过软硬协同优化，在标准基准测试中实现性能与成本双重领先，验证了其架构的先进性和商业价值。"
+}

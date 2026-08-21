@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-21-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512226&idx=1&sn=f1bf98f5d34a7d62bb3ea8a7bdb1238b",
+  "title": "Ornith-1.5 开源：端到端自改进训练，35B MoE 激活 3B 即超越同级稠密模型 Gemma-4-31B",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512226&idx=1&sn=f1bf98f5d34a7d62bb3ea8a7bdb1238b",
+  "summary": "Ornith AI团队开源了Ornith-1.5系列模型，采用端到端自改进训练方法，模型规模为35B MoE（激活参数仅3B），在编码和智能体基准测试中超越了同级稠密模型（如Gemma-4-31B）。该模型通过自改进机制优化训练过程，显著提升了参数效率，展示了MoE架构在特定任务上的优势。项目强调开源和性能突破，对AI模型训练和部署具有参考价值。",
+  "tags": [
+    "MoE",
+    "自改进训练",
+    "开源模型",
+    "编码基准",
+    "智能体"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型与训练",
+  "key_insight": "通过端到端自改进训练，35B MoE（激活3B）实现了超越同级稠密模型的性能，验证了稀疏激活与自改进结合的高效性。"
+}

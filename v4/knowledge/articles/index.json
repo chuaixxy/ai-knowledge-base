@@ -16319,5 +16319,459 @@
     ],
     "status": "published",
     "collected_at": "2026-08-20T01:24:01.615Z"
+  },
+  {
+    "id": "2026-08-21-001",
+    "title": "Don't paste the AI, please",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://dontpastetheai.com/",
+    "category": "AI伦理与内容治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI伦理",
+      "内容创作",
+      "原创性",
+      "信息真实性",
+      "社区讨论"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-002",
+    "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+    "category": "AI教育",
+    "relevance_score": 0.8,
+    "tags": [
+      "交叉熵",
+      "压缩",
+      "智能",
+      "信息论",
+      "机器学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-003",
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.18078",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI共谋",
+      "推理智能体",
+      "行为认证",
+      "市场决策",
+      "经济安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-004",
+    "title": "Position: Profiling Game Worlds by Transition Complexity",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.18079",
+    "category": "AI 方法论 / 评估框架",
+    "relevance_score": 0.75,
+    "tags": [
+      "游戏世界建模",
+      "转移复杂度",
+      "强化学习",
+      "基准测试",
+      "环境度量"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-005",
+    "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.18080",
+    "category": "AI医疗健康",
+    "relevance_score": 0.9,
+    "tags": [
+      "大语言模型",
+      "心理健康",
+      "系统综述",
+      "多模态学习",
+      "伦理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-006",
+    "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/",
+    "category": "学术交流/社区讨论",
+    "relevance_score": 0.6,
+    "tags": [
+      "EMNLP",
+      "学术会议",
+      "自然语言处理",
+      "论文投稿",
+      "结果通知"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-007",
+    "title": "Introducing AI Futures",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/introducing-ai-futures",
+    "category": "AI政策与社会影响",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI治理",
+      "未来学",
+      "社会影响",
+      "OpenAI",
+      "政策"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-008",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/stampli",
+    "category": "AI应用案例",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI辅助开发",
+      "生产力提升",
+      "ChatGPT Work",
+      "Codex",
+      "效率优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-009",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "category": "模型优化与推理",
+    "relevance_score": 0.8,
+    "tags": [
+      "推理加速",
+      "模型优化",
+      "LFM2.5",
+      "高性能计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-010",
+    "title": "Google Discover is getting an AI chatbot-tuned feed",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "category": "AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "Google",
+      "AI",
+      "个性化推荐",
+      "Discover",
+      "信息流"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-011",
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "category": "AI行业动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "OpenAI",
+      "格雷格·布罗克曼",
+      "IPO",
+      "法律诉讼",
+      "AI安全",
+      "高管变动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-012",
+    "title": "Welcome to the AI crisis in math",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "category": "科技与社会",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "数学",
+      "危机",
+      "OpenAI",
+      "数学研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-013",
+    "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+    "category": "搜索与推荐系统",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM",
+      "语义表征",
+      "搜索排序",
+      "美团",
+      "本地生活",
+      "生成式AI",
+      "排序模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-014",
+    "title": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521377&idx=1&sn=3d2f9e30616aa074c8d574c568903ba8",
+    "category": "实时通信技术",
+    "relevance_score": 0.92,
+    "tags": [
+      "多模态传输",
+      "实时音视频",
+      "豆包",
+      "火山引擎",
+      "弱网优化",
+      "AI交互"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-015",
+    "title": "Ling-3.0-flash ：为真实世界而生的开放智能",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537794&idx=1&sn=595759aac706df3df6b1da06496f7473",
+    "category": "AI模型/平台",
+    "relevance_score": 0.7,
+    "tags": [
+      "开放智能",
+      "高效推理",
+      "实际应用",
+      "模型部署",
+      "自然语言处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-016",
+    "title": "Ornith-1.5 开源：端到端自改进训练，35B MoE 激活 3B 即超越同级稠密模型 Gemma-4-31B",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512226&idx=1&sn=f1bf98f5d34a7d62bb3ea8a7bdb1238b",
+    "category": "AI模型与训练",
+    "relevance_score": 0.85,
+    "tags": [
+      "MoE",
+      "自改进训练",
+      "开源模型",
+      "编码基准",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-017",
+    "title": "腾讯大数据 SuperSQL 刷新 TPC-DS 世界纪录，性能、性价比双料第一",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803712&idx=1&sn=515b0c05169da477cb32db81d692715b",
+    "category": "大数据处理",
+    "relevance_score": 0.9,
+    "tags": [
+      "腾讯",
+      "SuperSQL",
+      "TPC-DS",
+      "大数据",
+      "性能优化",
+      "数据库"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-018",
+    "title": "人工智能的五个悖论",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998425&idx=1&sn=062537e2c5fc53c000946fbd9d1cebe8",
+    "category": "技术哲学/趋势分析",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI悖论",
+      "技术伦理",
+      "人工智能风险",
+      "人机关系",
+      "治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-019",
+    "title": "大规模分布式训练的稳定性工程：自动驾驶千卡集群的毛刺理论与优化实践",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697013&idx=1&sn=a9df1463ea815eb3f256986c7785d4d7",
+    "category": "AI基础设施/高性能计算",
+    "relevance_score": 0.85,
+    "tags": [
+      "分布式训练",
+      "自动驾驶",
+      "稳定性工程",
+      "千卡集群",
+      "性能优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-020",
+    "title": "2026JDD大会来了！共赴AI跃迁物理世界，9月9日北京见",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502546&idx=1&sn=7e6f09a2277edb8f7a81f9f22e87e562",
+    "category": "科技会议",
+    "relevance_score": 0.85,
+    "tags": [
+      "JDD大会",
+      "人工智能",
+      "物理世界",
+      "技术大会",
+      "京东",
+      "2026",
+      "北京",
+      "产业融合"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-021",
+    "title": "Apache COC Asia 2026｜滴滴技术团队的三场专题分享",
+    "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575548&idx=1&sn=cc4d557c6165632ec973dbdbc0a7a197",
+    "category": "技术会议分享",
+    "relevance_score": 0.9,
+    "tags": [
+      "Apache",
+      "分布式存储",
+      "数据计算",
+      "AI",
+      "开源协作",
+      "滴滴",
+      "技术分享"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-022",
+    "title": "AI专栏 | 让Agent学会“不贰过”：从一次纠偏，到采纳率翻倍的工程实践",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277550&idx=1&sn=225ab06c0f7bcdaddea1ee4cdae5ae03",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "错误纠正",
+      "人机协作",
+      "反馈机制",
+      "工程实践",
+      "采纳率优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-023",
+    "title": "“Anthropic不再是AI圈的信仰”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291204&idx=1&sn=cdb576093823000dbe963bb8869cc881",
+    "category": "AI商业分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "Anthropic",
+      "AI商业",
+      "市场策略",
+      "品牌溢价",
+      "Claude",
+      "行业竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-024",
+    "title": "给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291204&idx=2&sn=7fcba440b61a983bf28d1f6de89ec162",
+    "category": "AI基础设施与运维",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "可观测性",
+      "质量保障",
+      "自动化运维",
+      "智能监控"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-025",
+    "title": "工业具身智能走进工厂，为什么还需要一层「底座」？",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051423&idx=1&sn=0df5f18ad20453e706a6962853d4ab1c",
+    "category": "技术趋势分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "工业具身智能",
+      "技术底座",
+      "机器人",
+      "智能制造",
+      "系统集成"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-21-026",
+    "title": "WorkSwarm让Agent组队干活，JiuwenBox安全沙箱守护每一步执行",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051423&idx=2&sn=16e8c6178a4da711642607cf5323766b",
+    "category": "AI Agent 基础设施与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "多智能体协作",
+      "沙箱安全",
+      "开源",
+      "任务编排",
+      "安全执行"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-21T01:28:48.423Z"
   }
 ]

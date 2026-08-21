@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-21-010",
+  "source_id": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+  "title": "Google Discover is getting an AI chatbot-tuned feed",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+  "summary": "谷歌正在为其Discover信息流推出基于AI的个性化定制功能。用户将能通过描述自己的兴趣或需求，让AI自动调整信息流内容，并记住这些偏好以便未来访问。该功能将在未来几天内通过谷歌应用的三点菜单逐步上线。这标志着谷歌将生成式AI融入其核心内容分发渠道，旨在提升用户获取信息的效率和相关性。",
+  "tags": [
+    "Google",
+    "AI",
+    "个性化推荐",
+    "Discover",
+    "信息流"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用",
+  "key_insight": "谷歌将生成式AI从被动问答转向主动内容过滤和偏好记忆，重塑信息流体验。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-21-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291204&idx=2&sn=7fcba440b61a983bf28d1f6de89ec162",
+  "title": "给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291204&idx=2&sn=7fcba440b61a983bf28d1f6de89ec162",
+  "summary": "该项目旨在为大规模AI Agent系统构建一套可观测性与质量保障体系，类比医学CT扫描，实现从静态测试到动态监控的升级。它通过采集Agent运行时的内部状态、决策轨迹和资源消耗，提供全面“体检”，并利用诊断数据驱动自动化调优，最终迈向“自动驾驶”式的自我修复与优化。该体系覆盖日志、追踪、指标、评估和干预闭环，解决Agent黑盒问题，提升可靠性、安全性和效率，适用于复杂多智能体场景。",
+  "tags": [
+    "AI Agent",
+    "可观测性",
+    "质量保障",
+    "自动化运维",
+    "智能监控"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与运维",
+  "key_insight": "将医疗影像诊断理念应用于Agent运维，通过深度可观测性数据实现从被动修复到主动自治的质变。"
+}

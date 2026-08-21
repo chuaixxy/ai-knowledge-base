@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-21-005",
+  "source_id": "https://arxiv.org/abs/2608.18080",
+  "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.18080",
+  "summary": "本文系统综述了大语言模型（LLMs）在心理健康领域的应用，涵盖社交媒体分析、临床对话代理、治疗支持工具、提示工程、多模态学习及伦理挑战。研究整合了社交媒体帖子、电子病历和多模态数据，用于抑郁症早期检测、自杀风险评估、个性化治疗支持和心理教育内容生成。综述强调了LLM模型和标注策略在提升可解释性与临床相关性方面的进展，并突出提示工程对领域适配的关键作用。文章还探讨了文本、语音和传感器数据融合的多模态技术，以改善心理健康诊断和监测，最后讨论了持续的伦理与社会技术挑战。",
+  "tags": [
+    "大语言模型",
+    "心理健康",
+    "系统综述",
+    "多模态学习",
+    "伦理"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI医疗健康",
+  "key_insight": "LLMs在心理健康领域展现出巨大潜力，但需通过提示工程和多模态融合提升临床可靠性，同时伦理与隐私问题仍是关键瓶颈。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-21-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277550&idx=1&sn=225ab06c0f7bcdaddea1ee4cdae5ae03",
+  "title": "AI专栏 | 让Agent学会“不贰过”：从一次纠偏，到采纳率翻倍的工程实践",
+  "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277550&idx=1&sn=225ab06c0f7bcdaddea1ee4cdae5ae03",
+  "summary": "该项目探讨了如何通过工程实践让AI智能体（Agent）在犯错后实现“不贰过”，即避免重复同样的错误。核心方法是引入人工对AI输出结果进行高质量决策干预，通过一次纠偏反馈，显著提升后续任务的采纳率（翻倍）。文章可能涉及反馈机制设计、错误模式分析、强化学习或在线学习策略，以及人机协作流程优化，强调将人类经验高效转化为Agent的长期改进能力。",
+  "tags": [
+    "AI Agent",
+    "错误纠正",
+    "人机协作",
+    "反馈机制",
+    "工程实践",
+    "采纳率优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "单次高质量人工纠偏若能结构化注入Agent的决策逻辑，可指数级减少同类错误，实现效率跃升。"
+}

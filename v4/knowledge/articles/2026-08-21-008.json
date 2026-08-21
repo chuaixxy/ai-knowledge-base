@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-21-008",
+  "source_id": "https://openai.com/index/stampli",
+  "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/stampli",
+  "summary": "Stampli 是一家财务自动化公司，面临紧迫的上线期限和设计资源被占用的困境。他们利用 OpenAI 的 Codex 和 ChatGPT Work 工具，将原本需要数周的上线准备工作压缩至数天，实现了 68% 的工时削减。这一案例展示了 AI 辅助开发在真实业务场景中的高效性，尤其是在资源受限和期限紧张的情况下，通过自动化代码生成、内容创作和任务协调，显著提升团队生产力。项目体现了 AI 工具在加速产品发布、优化工作流程和降低人力成本方面的巨大潜力。",
+  "tags": [
+    "AI辅助开发",
+    "生产力提升",
+    "ChatGPT Work",
+    "Codex",
+    "效率优化"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI应用案例",
+  "key_insight": "在资源受限和紧迫期限下，AI 工具（如 Codex 和 ChatGPT Work）能通过自动化任务和内容生成，将上线准备时间从数周压缩至数天，从而大幅提升团队效率。"
+}
