@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-22-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+  "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+  "summary": "该项目聚焦于机器人长程任务执行中的‘断片’问题，即机器人在连续完成复杂任务时频繁中断或失败。墨奇提出‘Agentic-Native’方法，以智能体原生方式重构具身大脑，强调从底层架构上支持任务规划、执行与自我纠错，而非仅优化单一动作。其核心在于将大模型驱动的推理能力与机器人感知-行动循环深度耦合，实现端到端的连续任务自主完成。该方案有望显著提升机器人在真实场景中的鲁棒性与任务完成率，推动具身智能从实验室走向实用。",
+  "tags": [
+    "具身智能",
+    "机器人",
+    "Agentic-Native",
+    "长程任务",
+    "大模型",
+    "任务规划"
+  ],
+  "relevance_score": 0.85,
+  "category": "具身智能与机器人控制",
+  "key_insight": "用Agentic-Native架构将任务级推理嵌入机器人底层控制，是解决长程任务连续性的关键。"
+}

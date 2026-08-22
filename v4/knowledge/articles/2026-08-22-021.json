@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-22-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502561&idx=1&sn=d3054e2cc1d9a82585785ba13e879a85",
+  "title": "【Coding生态】女娲：AI Bug修复数字员工介绍",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502561&idx=1&sn=d3054e2cc1d9a82585785ba13e879a85",
+  "summary": "本项目介绍AI数字员工「女娲」，用于打通从告警到发布的完整闭环，将P1故障平均修复时间从小时级压缩到分钟级。女娲作为AI Bug修复数字员工，能够自动处理告警、定位问题、修复Bug并完成发布流程，显著提升运维效率。该项目体现了AI在DevOps和AIOps领域的应用，通过自动化减少人工干预，加速故障恢复。",
+  "tags": [
+    "AI",
+    "Bug修复",
+    "DevOps",
+    "AIOps",
+    "自动化",
+    "故障修复"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI运维与开发工具",
+  "key_insight": "女娲通过自动化闭环将P1故障修复从小时级压缩到分钟级，展示了AI在缩短故障恢复时间上的巨大潜力。"
+}

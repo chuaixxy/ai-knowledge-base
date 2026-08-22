@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-22-006",
+  "source_id": "https://www.felonybench.com/",
+  "title": "Felony Bench: Be AI, Do Crime",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.felonybench.com/",
+  "summary": "Felony Bench 是一个带有讽刺意味的技术项目，其名称直译为“重罪基准：当个 AI，去犯罪”。该项目在 Lobsters 社区引发讨论，核心内容围绕 AI 系统在安全、伦理和法律边界上的测试与挑战。它可能是一个基准测试框架，旨在评估 AI 模型在对抗性、恶意或非法指令下的表现，从而暴露其漏洞或过度服从的风险。项目通过黑色幽默的方式，呼吁开发者关注 AI 的滥用潜力，并推动更严格的安全对齐措施。它并非鼓励真实犯罪，而是以极端场景作为压力测试，帮助社区理解 AI 在真实世界中的责任边界。",
+  "tags": [
+    "AI安全",
+    "基准测试",
+    "伦理",
+    "对抗性攻击",
+    "安全对齐"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI安全与伦理",
+  "key_insight": "以讽刺性名称揭示 AI 安全测试的紧迫性，强调极端场景下的模型脆弱性。"
+}

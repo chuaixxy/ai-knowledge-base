@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-22-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291285&idx=2&sn=30f1f8dbff3f31de9d64a15abce45414",
+  "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291285&idx=2&sn=30f1f8dbff3f31de9d64a15abce45414",
+  "summary": "本项目探讨了Agentic OS（智能体操作系统）的概念，认为它比传统的LLM OS更具讨论价值。从用户体验（UX）角度出发，作者提出Agentic OS应超越当前以模型为中心的架构，转向以用户任务和意图为核心的设计。核心观点是，Agentic OS需要提供一种“下一层抽象”，将复杂的AI能力封装为直观、可操作的用户界面，类似于从命令行到图形界面的转变。文中可能涉及多智能体协作、任务编排、上下文管理、以及人与AI的交互范式等关键要素，旨在让用户通过自然语言或可视化方式指挥AI系统，而非直接管理底层模型。项目强调，真正的Agentic OS应关注用户如何感知、控制和信任AI代理，而不仅是技术堆栈，这为操作系统设计提供了新视角。",
+  "tags": [
+    "Agentic OS",
+    "用户体验",
+    "LLM OS",
+    "人机交互",
+    "AI系统设计",
+    "多智能体"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI系统设计与交互",
+  "key_insight": "Agentic OS的下一层抽象是将AI能力转化为用户可感知的任务代理，而非模型管理界面。"
+}

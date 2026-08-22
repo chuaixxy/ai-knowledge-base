@@ -16773,5 +16773,478 @@
     ],
     "status": "published",
     "collected_at": "2026-08-21T01:28:48.423Z"
+  },
+  {
+    "id": "2026-08-22-001",
+    "title": "I'm becoming AI-blind",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://cymerys.com/w/im-becoming-ai-blind",
+    "category": "技术与社会反思",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI盲视",
+      "AI生成内容",
+      "认知疲劳",
+      "信息过载",
+      "人机交互",
+      "技术反思",
+      "Hacker News"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-002",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://annas-archive.pk/blog/physical-destruction.html",
+    "category": "数字人文/知识保存",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI伦理",
+      "图书数字化",
+      "文化遗产",
+      "知识保存",
+      "开放获取",
+      "稀有书籍"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-003",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://annas-archive.gl/blog/physical-destruction.html",
+    "category": "技术与社会",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "书籍数字化",
+      "文化遗产",
+      "数据训练",
+      "稀有书籍",
+      "版权",
+      "伦理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-004",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.danielvaughn.dev/posts/huzzah/",
+    "category": "开发者工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "伪代码",
+      "编辑器",
+      "人机交互",
+      "代码生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-005",
+    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://github.com/zachahn/vomit",
+    "category": "AI工具/开发框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "输出优化",
+      "Claude",
+      "后处理",
+      "模型协同"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-006",
+    "title": "Felony Bench: Be AI, Do Crime",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.felonybench.com/",
+    "category": "AI安全与伦理",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI安全",
+      "基准测试",
+      "伦理",
+      "对抗性攻击",
+      "安全对齐"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-007",
+    "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+    "category": "AI模型工程优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM",
+      "成本优化",
+      "输出压缩",
+      "多模型评测",
+      "提示工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-008",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "category": "语音技术评测与优化",
+    "relevance_score": 0.75,
+    "tags": [
+      "语音识别",
+      "基准测试",
+      "性能优化",
+      "深度学习",
+      "评测方法"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-009",
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "category": "社交媒体与AI治理",
+    "relevance_score": 0.7,
+    "tags": [
+      "LinkedIn",
+      "AI内容",
+      "用户反馈",
+      "内容审核",
+      "社交平台"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-010",
+    "title": "Major YouTube creators are facing backlash for accepting AI money",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "category": "AI行业动态与伦理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI视频生成",
+      "创作者经济",
+      "内容伦理",
+      "行业争议",
+      "Higgsfield",
+      "Seedance 2.5"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-011",
+    "title": "豆包大模型测评招募丨寻找行业资深AI实践者",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521383&idx=1&sn=abb9e4f892fdc334e752ca8c3c4483d1",
+    "category": "AI产品评测与用户参与",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型评测",
+      "豆包",
+      "AI实践者",
+      "众包测评",
+      "产品优化",
+      "行业应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-012",
+    "title": "浅谈 SKILL 研发的最佳实践——以百补详情助手为例",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0",
+    "category": "技术研发方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "SKILL研发",
+      "最佳实践",
+      "百补详情助手",
+      "四维框架",
+      "用户反馈"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-013",
+    "title": "Agent 终章（Harness 成本篇）：一次百炼账单降低 88% 实战",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511201&idx=1&sn=4af859e8a065ac8c1fa687ace0ea5feb",
+    "category": "技术实战/成本优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM成本优化",
+      "Token管理",
+      "Agent系统",
+      "提示词工程",
+      "成本控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-014",
+    "title": "再上新！GLM-5.3、Deepseek-V4-Pro等多款模型上线千问AI平台",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561963&idx=1&sn=bfd5c60400266b10df52920cfb3001d0",
+    "category": "AI产品动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "模型发布",
+      "千问平台",
+      "GLM-5.3",
+      "Deepseek-V4-Pro",
+      "AI生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-015",
+    "title": "Ling-3.0-tiny：让 1.3B 激活参数，进入真实任务",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537810&idx=1&sn=572e3c72f768bbf682f285460b03cb28",
+    "category": "模型架构与效率优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "稀疏激活",
+      "MoE",
+      "小模型",
+      "高效推理",
+      "边缘AI",
+      "真实任务"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-016",
+    "title": "腾讯视频智创开源CoinVE-200K数据集，视频编辑迈向复合多指令新范式",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512247&idx=1&sn=777c6787f2d24a7474031830e2fef30e",
+    "category": "多模态AI与视频生成",
+    "relevance_score": 0.85,
+    "tags": [
+      "视频编辑",
+      "数据集",
+      "多指令",
+      "开源模型",
+      "腾讯",
+      "AIGC",
+      "评测基准"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-017",
+    "title": "AI+∞ 开发者创作大赛第二期：用 AI，提前看见未来！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512247&idx=2&sn=25cc8104fc264f557b59f2663b0dcdcc",
+    "category": "AI内容创作竞赛",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI创作",
+      "科幻短片",
+      "开发者大赛",
+      "影视生成",
+      "内容创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-018",
+    "title": "靠这10个优化点，我们把Multi-Agent工作流成本降了50%以上",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803728&idx=1&sn=e5958d1c5d52e82bbe693b932d07492f",
+    "category": "AI工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "Multi-Agent",
+      "成本优化",
+      "工作流",
+      "LLM",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-019",
+    "title": "停一下，我们又该见面了",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998440&idx=1&sn=9a1563360a2cd5a76cb3ede142d6667d",
+    "category": "创意体验/概念艺术",
+    "relevance_score": 0.65,
+    "tags": [
+      "时间设计",
+      "沉浸式体验",
+      "艺术项目",
+      "线下活动",
+      "情感叙事"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-020",
+    "title": "AI时代不吐不快的12条判断",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697030&idx=1&sn=961b696054ae4d9c0f9eda068564203e",
+    "category": "趋势洞察",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI趋势",
+      "社会影响",
+      "伦理",
+      "未来判断"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-021",
+    "title": "【Coding生态】女娲：AI Bug修复数字员工介绍",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502561&idx=1&sn=d3054e2cc1d9a82585785ba13e879a85",
+    "category": "AI运维与开发工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "Bug修复",
+      "DevOps",
+      "AIOps",
+      "自动化",
+      "故障修复"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-022",
+    "title": "这AI任务包熟！",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669954&idx=1&sn=ae38eb4da307c9483178c8579b698d73",
+    "category": "AI工具/效率软件",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI任务管理",
+      "自动化",
+      "智能调度",
+      "效率工具",
+      "任务包"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-023",
+    "title": "V4-Flash-Vision-Exp 上线，开启多模态 API 服务",
+    "source": "rss-deepseek",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485794&idx=1&sn=5332df30422e6637142321315b42ac26",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态",
+      "视觉理解",
+      "API服务",
+      "AI Agent",
+      "模型升级"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-024",
+    "title": "视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291285&idx=1&sn=8515cc6ccd2a0826a57d3f80b74346f6",
+    "category": "AI应用/设计工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI视频生成",
+      "设计工具",
+      "MiniMax",
+      "Adobe",
+      "Canva",
+      "AI产品化",
+      "颠覆式创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-025",
+    "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291285&idx=2&sn=30f1f8dbff3f31de9d64a15abce45414",
+    "category": "AI系统设计与交互",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agentic OS",
+      "用户体验",
+      "LLM OS",
+      "人机交互",
+      "AI系统设计",
+      "多智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-026",
+    "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+    "category": "具身智能与机器人控制",
+    "relevance_score": 0.85,
+    "tags": [
+      "具身智能",
+      "机器人",
+      "Agentic-Native",
+      "长程任务",
+      "大模型",
+      "任务规划"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-22-027",
+    "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
+    "category": "AI+科研工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI科研助手",
+      "科研效率",
+      "多学科AI",
+      "自动化科研",
+      "桌面应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-22T01:24:55.182Z"
   }
 ]

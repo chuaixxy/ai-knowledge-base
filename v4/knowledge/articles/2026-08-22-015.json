@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-22-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537810&idx=1&sn=572e3c72f768bbf682f285460b03cb28",
+  "title": "Ling-3.0-tiny：让 1.3B 激活参数，进入真实任务",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537810&idx=1&sn=572e3c72f768bbf682f285460b03cb28",
+  "summary": "Ling-3.0-tiny 是一个旨在以极小规模（1.3B 激活参数）实现真实任务处理能力的语言模型项目。该项目聚焦于参数效率与任务实用性，通过稀疏激活或混合专家（MoE）等架构技术，在推理时仅激活 1.3B 参数，从而大幅降低计算成本，同时保持对复杂真实场景（如代码、推理、对话）的响应质量。其核心价值在于证明小模型在特定任务上可媲美大模型，推动边缘部署与普惠 AI。",
+  "tags": [
+    "稀疏激活",
+    "MoE",
+    "小模型",
+    "高效推理",
+    "边缘AI",
+    "真实任务"
+  ],
+  "relevance_score": 0.85,
+  "category": "模型架构与效率优化",
+  "key_insight": "通过仅激活 1.3B 参数，Ling-3.0-tiny 挑战了‘大模型才能处理真实任务’的假设，展示了高效架构在实用性与性能间的平衡新路径。"
+}

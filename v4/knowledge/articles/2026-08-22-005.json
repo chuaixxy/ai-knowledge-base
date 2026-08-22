@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-22-005",
+  "source_id": "https://github.com/zachahn/vomit",
+  "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "source": "rss-hacker-news-best",
+  "url": "https://github.com/zachahn/vomit",
+  "summary": "该项目名为Vomit，旨在通过一个独立的LLM（大语言模型）来清理Claude 5生成的低质量或冗余token输出。其核心思路是，当主模型（如Claude 5）产生包含噪声、重复或格式混乱的文本时，利用辅助LLM进行二次处理，提升输出的整洁度和可读性。项目在Hacker News上引发热议，获得295分和290条评论，说明开发者社区对LLM输出后处理技术的关注度较高。该方案可能涉及成本、延迟和模型协同的权衡，但代表了一种通过级联模型优化生成质量的实用思路。",
+  "tags": [
+    "LLM",
+    "输出优化",
+    "Claude",
+    "后处理",
+    "模型协同"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具/开发框架",
+  "key_insight": "利用独立LLM作为清洁器，可有效修复主模型输出中的噪声，但需权衡额外计算开销与质量提升的收益。"
+}

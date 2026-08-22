@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-22-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511201&idx=1&sn=4af859e8a065ac8c1fa687ace0ea5feb",
+  "title": "Agent 终章（Harness 成本篇）：一次百炼账单降低 88% 实战",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511201&idx=1&sn=4af859e8a065ac8c1fa687ace0ea5feb",
+  "summary": "本文聚焦于通过优化token使用来大幅降低大型语言模型（LLM）Agent系统的运营成本，以一次实际案例展示账单降低88%的实战经验。文章深入分析了成本构成，识别出高消耗环节，并提出了系统性优化策略，包括提示词精简、上下文管理、缓存复用、模型选择等。通过具体数据对比，验证了优化方案的有效性，为类似项目提供了可复用的成本控制方法论。",
+  "tags": [
+    "LLM成本优化",
+    "Token管理",
+    "Agent系统",
+    "提示词工程",
+    "成本控制"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术实战/成本优化",
+  "key_insight": "通过精细化token管理和架构调整，可在不牺牲性能的前提下将Agent运行成本降低近九成，关键在于系统性识别并消除冗余消耗。"
+}

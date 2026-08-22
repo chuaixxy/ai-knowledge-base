@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-22-012",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0",
+  "title": "浅谈 SKILL 研发的最佳实践——以百补详情助手为例",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545397&idx=1&sn=e15d9315548d46a5799ff92358d6efc0",
+  "summary": "本项目以“百补详情助手”为案例，探讨了SKILL（技能）研发的最佳实践。通过四维框架（包括需求分析、设计原则、开发流程、测试优化）系统化地阐述了如何高效构建和迭代SKILL，提升用户体验和开发效率。实践强调模块化设计、持续集成和用户反馈闭环，为类似研发项目提供了可复用的方法论。",
+  "tags": [
+    "SKILL研发",
+    "最佳实践",
+    "百补详情助手",
+    "四维框架",
+    "用户反馈"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术研发方法论",
+  "key_insight": "SKILL研发的关键在于四维实践框架的闭环迭代，平衡技术实现与用户需求。"
+}

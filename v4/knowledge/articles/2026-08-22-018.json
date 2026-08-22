@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-22-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803728&idx=1&sn=e5958d1c5d52e82bbe693b932d07492f",
+  "title": "靠这10个优化点，我们把Multi-Agent工作流成本降了50%以上",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803728&idx=1&sn=e5958d1c5d52e82bbe693b932d07492f",
+  "summary": "该项目分享了通过10个优化点将Multi-Agent工作流成本降低超过50%的实践经验。优化点可能包括减少不必要的Agent调用、优化提示词长度、缓存中间结果、批量处理任务、动态调整模型选择、压缩上下文、并行执行策略、使用更经济的模型、精简工具调用和监控资源使用。这些措施显著提升了效率，降低了API和计算成本，适合大规模部署AI工作流的企业。",
+  "tags": [
+    "Multi-Agent",
+    "成本优化",
+    "工作流",
+    "LLM",
+    "效率提升"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程实践",
+  "key_insight": "通过系统性优化Agent交互和资源利用，可以大幅降低运营成本，而无需牺牲性能。"
+}

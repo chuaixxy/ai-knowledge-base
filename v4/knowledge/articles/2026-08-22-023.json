@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-22-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485794&idx=1&sn=5332df30422e6637142321315b42ac26",
+  "title": "V4-Flash-Vision-Exp 上线，开启多模态 API 服务",
+  "source": "rss-deepseek",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485794&idx=1&sn=5332df30422e6637142321315b42ac26",
+  "summary": "V4-Flash-Vision-Exp 上线，标志着多模态 API 服务的正式开启。该模型在视觉理解能力上实现显著跃升，能够更精准地解析图像、视频等视觉内容，并支持复杂场景下的上下文推理。这一升级将赋能更多智能体（Agent）应用场景，如自动驾驶、医疗影像分析、工业质检、智能客服等，推动多模态交互的落地。通过 API 服务，开发者可快速集成，降低视觉 AI 应用开发门槛，提升产品智能化水平。此次发布体现了视觉大模型向高效、实用方向发展的趋势，为行业带来新的可能性。",
+  "tags": [
+    "多模态",
+    "视觉理解",
+    "API服务",
+    "AI Agent",
+    "模型升级"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型发布",
+  "key_insight": "视觉理解能力的跃升将直接拓宽AI Agent的应用边界，加速多模态交互在产业中的普及。"
+}
