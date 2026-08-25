@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-25-003",
+  "source_id": "https://entropicthoughts.com/ai-comment-classifier",
+  "title": "Robot comment classifier",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://entropicthoughts.com/ai-comment-classifier",
+  "summary": "该项目是一个机器人评论分类器，通过训练逻辑回归或支持向量机模型，对大型语言模型生成的评论进行识别和分类。项目利用AI生成内容的特点，结合统计学习方法，实现对机器人评论的自动检测。该项目使用了AI和vibecoding标签，并参考了相关讨论，旨在提高评论区的质量，过滤自动生成的垃圾或误导性内容。",
+  "tags": [
+    "机器学习",
+    "文本分类",
+    "逻辑回归",
+    "SVM",
+    "LLM",
+    "内容过滤"
+  ],
+  "relevance_score": 0.75,
+  "category": "自然语言处理",
+  "key_insight": "利用传统统计模型（逻辑回归/SVM）对LLM输出进行二次分类，是一种轻量级且可解释的机器人评论检测方案。"
+}

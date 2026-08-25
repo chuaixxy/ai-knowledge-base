@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-25-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291427&idx=2&sn=fa2b73d5f077bd3bd126ab1811d0c4f4",
+  "title": "Model 和 Agent 越来越强，为什么 AI 仍然难用？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291427&idx=2&sn=fa2b73d5f077bd3bd126ab1811d0c4f4",
+  "summary": "该项目探讨了当前AI模型和智能体能力增强，但用户体验仍不佳的问题。核心观点认为，模型提供智能，智能体提供行动，而产品需要将记忆、流程和界面有效组织，使用户无需理解底层技术细节即可完成持续任务。项目强调产品设计在AI应用中的关键作用，旨在通过优化产品层来弥合技术能力与用户需求之间的鸿沟，提升AI的易用性和实用性。",
+  "tags": [
+    "AI产品设计",
+    "用户体验",
+    "智能体",
+    "人机交互",
+    "技术落地"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用与产品化",
+  "key_insight": "AI难用的根源在于产品层未能有效整合记忆、流程与界面，而非模型或智能体能力不足。"
+}

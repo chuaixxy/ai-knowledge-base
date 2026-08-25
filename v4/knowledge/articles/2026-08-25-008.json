@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-25-008",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be",
+  "title": "我对 AI Coding 的一点思考：从 Spec 驱动转向环境与验证驱动",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be",
+  "summary": "该项目探讨了AI辅助编程的范式转变，主张从传统的Spec驱动（依赖详细规格和提示词）转向环境与验证驱动。核心思想是，与其优化提示词以让AI理解复杂需求，不如重构内部系统，使其成为AI可直接调用的环境，通过提供可验证的接口和反馈机制，让AI在真实环境中迭代试错。这能减少歧义，提升AI代码生成的准确性和可靠性，并实现更自动化的开发流程。文章可能涉及具体实践案例，如构建API、模拟器或测试框架，以支撑这一理念。",
+  "tags": [
+    "AI Coding",
+    "环境驱动",
+    "验证驱动",
+    "Spec驱动",
+    "软件开发范式",
+    "内部系统改造",
+    "提示词工程"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "将内部系统改造成AI可调用的环境，以验证反馈取代繁琐提示词，是提升AI编码效率的关键。"
+}

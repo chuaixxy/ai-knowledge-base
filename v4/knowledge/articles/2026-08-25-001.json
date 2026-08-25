@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-25-001",
+  "source_id": "unslothai/unsloth",
+  "title": "unslothai/unsloth",
+  "source": "github",
+  "url": "https://github.com/unslothai/unsloth",
+  "summary": "该项目提供了一个本地用户界面，用于运行和训练大型语言模型及扩散模型，支持包括Qwen3.8、Kimi K3、MiniMax-H3、Gemma 4、DeepSeek-V4、FLUX等在内的多种最新模型。它旨在降低AI模型的使用门槛，使用户无需深厚技术背景即可在本地环境进行模型推理和微调，同时强调高效性和易用性。",
+  "tags": [
+    "本地UI",
+    "LLM训练",
+    "扩散模型",
+    "模型微调",
+    "开源工具"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI开发工具",
+  "key_insight": "通过统一的本地界面，将多模态模型运行与训练能力平民化，极大简化了从部署到微调的流程。"
+}

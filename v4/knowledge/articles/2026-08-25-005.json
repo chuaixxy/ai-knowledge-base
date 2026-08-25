@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-25-005",
+  "source_id": "https://arxiv.org/abs/2608.20342",
+  "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.20342",
+  "summary": "PrimeAgentOrchestrator (PAO) 是一个为个人AI基础设施设计的系统，旨在解决LLM编码代理每次会话从空上下文开始、丢失先前知识的问题。PAO在启动Claude Code（Anthropic的终端编码代理）时，并行查询两个独立记忆后端（PostgreSQL实体-观察数据库和Cloudflare Worker语义搜索索引），融合结果后通过文件系统注入方式预加载相关记忆，利用宿主代理的配置自动读取行为。系统管理完整的代理生命周期，包括信任预置、就绪轮询和自适应终端文本注入。作者报告了2025年12月至2026年3月四个月的常规部署经验，展示了其在个人编码工作流中的实际应用价值。",
+  "tags": [
+    "LLM",
+    "编码代理",
+    "记忆增强",
+    "Claude Code",
+    "个人AI",
+    "系统架构",
+    "上下文管理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI系统基础设施",
+  "key_insight": "通过文件系统注入和双后端并行检索，在代理启动时自动注入历史记忆，实现了无需修改LLM本身即可增强上下文持续性的工程化方案。"
+}

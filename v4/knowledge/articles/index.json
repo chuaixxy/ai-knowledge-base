@@ -17246,5 +17246,340 @@
     ],
     "status": "published",
     "collected_at": "2026-08-22T01:24:55.182Z"
+  },
+  {
+    "id": "2026-08-25-001",
+    "title": "unslothai/unsloth",
+    "source": "github",
+    "source_id": "unslothai/unsloth",
+    "category": "AI开发工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "本地UI",
+      "LLM训练",
+      "扩散模型",
+      "模型微调",
+      "开源工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-002",
+    "title": "AI Chip Architectures",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.jepeake.com/ai-chip-architectures",
+    "category": "硬件与系统",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI芯片",
+      "硬件架构",
+      "深度学习",
+      "能效优化",
+      "ASIC"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-003",
+    "title": "Robot comment classifier",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://entropicthoughts.com/ai-comment-classifier",
+    "category": "自然语言处理",
+    "relevance_score": 0.75,
+    "tags": [
+      "机器学习",
+      "文本分类",
+      "逻辑回归",
+      "SVM",
+      "LLM",
+      "内容过滤"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-004",
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.20341",
+    "category": "AI软件工程方法论",
+    "relevance_score": 0.9,
+    "tags": [
+      "SDAD",
+      "AI-Native SDLC",
+      "Spec-Driven Development",
+      "Agentic Development",
+      "LLM",
+      "Software Engineering",
+      "Waterfall",
+      "Agile",
+      "Multi-Agent Verification"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-005",
+    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.20342",
+    "category": "AI系统基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "编码代理",
+      "记忆增强",
+      "Claude Code",
+      "个人AI",
+      "系统架构",
+      "上下文管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-006",
+    "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.20378",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.85,
+    "tags": [
+      "大型语言模型",
+      "安全对齐",
+      "对抗攻击",
+      "潜在表征",
+      "语义伪装"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-007",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/gpt-5-6-in-kiro",
+    "category": "AI开发平台",
+    "relevance_score": 0.8,
+    "tags": [
+      "GPT-5.6",
+      "开发者工具",
+      "AI辅助开发",
+      "成本优化",
+      "Kiro"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-008",
+    "title": "我对 AI Coding 的一点思考：从 Spec 驱动转向环境与验证驱动",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545436&idx=1&sn=af4dc3f820acf230087053aa294dd2be",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Coding",
+      "环境驱动",
+      "验证驱动",
+      "Spec驱动",
+      "软件开发范式",
+      "内部系统改造",
+      "提示词工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-009",
+    "title": "Wan3.0正式上线千问AI平台：稳定、真实、有质感",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247561968&idx=1&sn=187673f3940572472498763db7a31d09",
+    "category": "AI模型与应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI生成",
+      "千问",
+      "视频生成",
+      "图像生成",
+      "模型迭代",
+      "阿里云",
+      "内容创作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-010",
+    "title": "FireRedTTS3 开源：24 语言零样本克隆，克隆/设计/编辑统一建模",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512290&idx=1&sn=c64ea7b329dbf65c463ad496f65e0653",
+    "category": "语音技术",
+    "relevance_score": 0.9,
+    "tags": [
+      "语音生成",
+      "零样本克隆",
+      "多语言",
+      "语音编辑",
+      "开源模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-011",
+    "title": "魔搭社区模型速递（8.16-8.22）",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512261&idx=1&sn=3ac67c9b05e848d256ced64b2f4bff8c",
+    "category": "社区动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "魔搭社区",
+      "模型上新",
+      "数据集",
+      "创新应用",
+      "AI生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-012",
+    "title": "DeepSeek Harness规模化踩坑实录：耗时、成本、失败到底该怎么查",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803822&idx=1&sn=82b4c1b6735d5757e5e0a3288312c73e",
+    "category": "AI基础设施与运维",
+    "relevance_score": 0.9,
+    "tags": [
+      "可观测性",
+      "Agent",
+      "成本优化",
+      "性能诊断",
+      "AI运维"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-013",
+    "title": "为什么超级个体不需要超级团队？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998445&idx=1&sn=1de093a9df34b6584181c11e46a32b82",
+    "category": "管理与组织行为",
+    "relevance_score": 0.85,
+    "tags": [
+      "超级个体",
+      "组织效能",
+      "团队协作",
+      "创新管理",
+      "敏捷工作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-014",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998442&idx=1&sn=df6fbc3e16e8a9c52d2bb58e78c0e94d",
+    "category": "行业分析/信息聚合",
+    "relevance_score": 0.92,
+    "tags": [
+      "AI趋势",
+      "行业周报",
+      "大模型",
+      "政策监管",
+      "技术动态"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-015",
+    "title": "Five monetization trends from global pricing leaders",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
+    "category": "商业策略与AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI经济",
+      "定价策略",
+      "变现趋势",
+      "软件商业模式",
+      "动态定价"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-016",
+    "title": "“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291427&idx=1&sn=0d412ab5861ce4ddf0c4afa4c80c632d",
+    "category": "AI行业观察",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI订阅",
+      "量化模型",
+      "Token黑箱",
+      "技术透明",
+      "行业乱象"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-017",
+    "title": "Model 和 Agent 越来越强，为什么 AI 仍然难用？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291427&idx=2&sn=fa2b73d5f077bd3bd126ab1811d0c4f4",
+    "category": "AI应用与产品化",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI产品设计",
+      "用户体验",
+      "智能体",
+      "人机交互",
+      "技术落地"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-018",
+    "title": "都在问世界模型怎么落地，PixVerse把答案做成了「好玩」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052153&idx=1&sn=3ab5c5cea400b3dfc8db924322e04aa3",
+    "category": "AI产品化与娱乐应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "世界模型",
+      "AI应用",
+      "产品化",
+      "娱乐科技",
+      "PixVerse"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-25-019",
+    "title": "一个大脑，多种本体：江行智能详解物理AI工业落地的系统解法",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052153&idx=2&sn=5897d8c549935688b6db8a5f32e04d80",
+    "category": "人工智能/工业应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "物理AI",
+      "工业智能",
+      "跨本体系统",
+      "统一大脑",
+      "工业自动化",
+      "江行智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-25T01:26:22.195Z"
   }
 ]

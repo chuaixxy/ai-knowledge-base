@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-25-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291427&idx=1&sn=0d412ab5861ce4ddf0c4afa4c80c632d",
+  "title": "“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291427&idx=1&sn=0d412ab5861ce4ddf0c4afa4c80c632d",
+  "summary": "该项目揭露了AI订阅服务中存在的'Token黑箱'问题，包括量化掺假（宣称高精度模型实际使用低bit量化）、缓存锁死（限制用户使用缓存导致成本上升）以及加密绑定（将模型绑定特定硬件或服务）。Pi核心贡献者指出，用户购买的AI服务可能并非宣传中的完整模型，而是经过技术缩水的版本，导致实际体验与预期严重不符。文章呼吁行业透明化，要求服务商明确披露模型版本、量化精度和缓存策略。",
+  "tags": [
+    "AI订阅",
+    "量化模型",
+    "Token黑箱",
+    "技术透明",
+    "行业乱象"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI行业观察",
+  "key_insight": "AI服务的'黑箱化'正在损害用户信任，技术缩水与不透明策略已成为行业潜规则。"
+}

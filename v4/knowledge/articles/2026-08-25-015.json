@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-25-015",
+  "source_id": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
+  "title": "Five monetization trends from global pricing leaders",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders",
+  "summary": "该项目探讨了AI如何改变软件经济，导致传统收入模式失效。全球领先企业正在适应新的“代理买家”时代，即AI系统代表用户进行采购决策。他们更新内部流程以支持更快的定价迭代，并构建更灵活的基础设施以应对动态定价需求。内容包括五大变现趋势，强调从静态定价转向动态、数据驱动的定价策略，以及建立可扩展的定价引擎。核心是帮助企业从AI转型中获利，而非被颠覆。",
+  "tags": [
+    "AI经济",
+    "定价策略",
+    "变现趋势",
+    "软件商业模式",
+    "动态定价"
+  ],
+  "relevance_score": 0.9,
+  "category": "商业策略与AI应用",
+  "key_insight": "AI时代，定价必须从静态转向动态，并针对AI代理买家设计，才能实现可持续变现。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2026-08-25-004",
+  "source_id": "https://arxiv.org/abs/2608.20341",
+  "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.20341",
+  "summary": "该报告正式提出规范驱动智能体开发（SDAD），作为AI原生软件开发生命周期的新范式。它融合了前期规范化与高速实现：意图捕获、机器可读规范、智能体综合与独立多智能体验证，并在人工签署下完成。报告回顾了瀑布与敏捷的历史钟摆，将AI代码视为第四种生产范式，并比较了2020年的人类敏捷与2026年的智能体SDAD在工件、节奏、责任与安全姿态上的差异。核心在于，在长上下文大模型支持下，规范质量成为自主交付的执行燃料。",
+  "tags": [
+    "SDAD",
+    "AI-Native SDLC",
+    "Spec-Driven Development",
+    "Agentic Development",
+    "LLM",
+    "Software Engineering",
+    "Waterfall",
+    "Agile",
+    "Multi-Agent Verification"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI软件工程方法论",
+  "key_insight": "规范质量取代代码编写成为AI原生SDLC中决定自主交付成败的核心杠杆，SDAD通过结构化规范与多智能体验证重塑了开发节奏与责任边界。"
+}

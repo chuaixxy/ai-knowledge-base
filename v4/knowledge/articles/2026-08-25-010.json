@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-25-010",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512290&idx=1&sn=c64ea7b329dbf65c463ad496f65e0653",
+  "title": "FireRedTTS3 开源：24 语言零样本克隆，克隆/设计/编辑统一建模",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512290&idx=1&sn=c64ea7b329dbf65c463ad496f65e0653",
+  "summary": "小红书 FireRed 团队开源了语音生成与编辑模型 FireRedTTS3，采用统一框架整合了零样本音色克隆、自然语言声音设计和精准语音编辑三大功能。该模型支持24种语言，无需额外训练即可克隆任意说话人的音色，并能通过自然语言描述设计新声音，同时实现细粒度的语音编辑。在多个公开评测基准上，FireRedTTS3 取得了最优性能，展示了其在多语言语音合成和编辑领域的领先优势。这一开源工作有望推动语音技术的普及，尤其在跨语言内容创作、个性化语音助手和语音后期制作等场景中具有广泛应用前景。",
+  "tags": [
+    "语音生成",
+    "零样本克隆",
+    "多语言",
+    "语音编辑",
+    "开源模型"
+  ],
+  "relevance_score": 0.9,
+  "category": "语音技术",
+  "key_insight": "FireRedTTS3 通过统一建模首次实现了克隆、设计与编辑的协同，大幅降低了多语言语音定制的门槛。"
+}

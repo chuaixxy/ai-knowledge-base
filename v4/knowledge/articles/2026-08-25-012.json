@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-25-012",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803822&idx=1&sn=82b4c1b6735d5757e5e0a3288312c73e",
+  "title": "DeepSeek Harness规模化踩坑实录：耗时、成本、失败到底该怎么查",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803822&idx=1&sn=82b4c1b6735d5757e5e0a3288312c73e",
+  "summary": "本项目围绕DeepSeek Harness规模化运行中的可观测性问题，提出了一套全景Agent可观测方案。方案聚焦于耗时、成本和失败三大核心指标的查询与诊断，通过统一日志、追踪和指标数据，构建端到端的可视化链路，帮助开发者快速定位性能瓶颈、资源浪费和异常根因，降低大规模AI任务运维复杂度，提升系统可靠性与成本效率。",
+  "tags": [
+    "可观测性",
+    "Agent",
+    "成本优化",
+    "性能诊断",
+    "AI运维"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与运维",
+  "key_insight": "将可观测性从传统监控升级为面向Agent行为的全景追踪，让耗时、成本与失败成为可查、可析、可优化的第一公民。"
+}
