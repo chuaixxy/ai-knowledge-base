@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-26-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521412&idx=1&sn=b79fcd45e0a22de4d6476280555b6354",
+  "title": "用 AgentKit，5 分钟搭建云端安全隔离的 DeepSeek Harness",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521412&idx=1&sn=b79fcd45e0a22de4d6476280555b6354",
+  "summary": "该项目展示如何利用AgentKit在5分钟内快速搭建一个云端部署的DeepSeek Harness，实现安全隔离的AI代理执行环境。它通过容器化、沙箱和策略控制，确保模型调用与外部资源交互时具备高安全性，适合快速原型验证和企业级安全部署。",
+  "tags": [
+    "AgentKit",
+    "DeepSeek",
+    "安全隔离",
+    "云端部署",
+    "AI代理",
+    "Harness"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与工具",
+  "key_insight": "利用AgentKit的模块化设计，将安全隔离与快速部署结合，大幅降低AI应用上云的安全门槛。"
+}

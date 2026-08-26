@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-26-006",
+  "source_id": "https://arxiv.org/abs/2608.21366",
+  "title": "Reviewing Model Collapse and Countermeasures",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.21366",
+  "summary": "本文综述了生成式AI（GenAI）中因使用AI合成数据训练下一代模型而引发的模型崩溃（Model Collapse）现象。文章指出，在模型与数据自我消费的循环中，模型最终会崩溃，引发可信度问题。作者系统整理了近年来关于模型崩溃在不同应用场景中的研究进展，并总结了现有缓解策略，填补了该领域综述空白。",
+  "tags": [
+    "生成式AI",
+    "模型崩溃",
+    "合成数据",
+    "数据循环",
+    "可信度"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与鲁棒性",
+  "key_insight": "模型崩溃是合成数据自我消费循环中的必然风险，需通过数据过滤、混合训练或正则化等手段主动干预。"
+}

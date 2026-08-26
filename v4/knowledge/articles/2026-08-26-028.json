@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-26-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291458&idx=2&sn=424967b09d4f8a0a472ed36593323f21",
+  "title": "AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291458&idx=2&sn=424967b09d4f8a0a472ed36593323f21",
+  "summary": "得物推荐团队分享了在AI Coding工具之后，如何将AI Agent深度融入企业研发全链路的实践经验。他们采用Harness平台，从需求分析、代码生成、测试、到部署监控，构建了端到端的AI辅助工作流。文中强调了AI Agent在复杂系统中的落地挑战，包括代码质量保障、上下文理解、多团队协作以及安全合规问题。通过定制化Agent编排、人机协同评审和持续反馈机制，得物实现了研发效率的显著提升，同时确保了系统的稳定性和可维护性。文章总结了AI Agent从辅助编码向全链路智能研发转型的关键路径，为其他企业提供了可操作的参考框架。",
+  "tags": [
+    "AI Coding",
+    "AI Agent",
+    "研发全链路",
+    "Harness",
+    "企业实践",
+    "效率提升"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "AI Agent的价值不仅在于代码生成，更在于通过全链路集成和人工协同机制，重塑企业研发流程。"
+}

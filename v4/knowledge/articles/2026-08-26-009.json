@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-26-009",
+  "source_id": "https://openai.com/index/jalapeno-first-results",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/jalapeno-first-results",
+  "summary": "OpenAI 发布了其自研推理芯片 Jalapeño 的首批结果，宣称在 AI 推理速度和能效上达到行业领先水平。该芯片针对现代模型优化，提供更高的吞吐量和更低的延迟，同时显著降低功耗。这标志着 OpenAI 在硬件自研上的重要进展，旨在减少对第三方 GPU 的依赖，提升模型部署的经济性和性能。Jalapeño 的推出可能重塑 AI 推理市场的竞争格局，对英伟达等现有芯片厂商构成挑战。",
+  "tags": [
+    "AI芯片",
+    "推理加速",
+    "能效",
+    "OpenAI",
+    "硬件自研"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI基础设施",
+  "key_insight": "OpenAI 自研推理芯片 Jalapeño 以行业领先的速度和能效，可能削弱英伟达在 AI 推理市场的主导地位。"
+}

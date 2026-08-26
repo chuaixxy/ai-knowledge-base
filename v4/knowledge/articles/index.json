@@ -17581,5 +17581,495 @@
     ],
     "status": "published",
     "collected_at": "2026-08-25T01:26:22.195Z"
+  },
+  {
+    "id": "2026-08-26-001",
+    "title": "AI At Home Part 2: Multi GPU Drifting",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "category": "技术实践/基础设施",
+    "relevance_score": 0.75,
+    "tags": [
+      "多GPU",
+      "分布式计算",
+      "AI基础设施",
+      "家庭实验室",
+      "性能调优"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-002",
+    "title": "A Manifesto for Responsible Agentic Coding",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+    "category": "AI开发实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编码",
+      "负责任AI",
+      "开发者指南",
+      "伦理",
+      "代码质量"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-003",
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "category": "硬件与基础设施",
+    "relevance_score": 0.9,
+    "tags": [
+      "苹果",
+      "AI开发",
+      "本地计算",
+      "M系列芯片",
+      "硬件"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-004",
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.21362",
+    "category": "系统优化/推理加速",
+    "relevance_score": 0.9,
+    "tags": [
+      "KV缓存",
+      "缓存复用",
+      "大语言模型推理",
+      "前缀缓存",
+      "注意力机制",
+      "推理加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-005",
+    "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.21363",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI治理",
+      "运行时监控",
+      "哈希链",
+      "可审计性",
+      "协议设计",
+      "证据记录"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-006",
+    "title": "Reviewing Model Collapse and Countermeasures",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.21366",
+    "category": "AI安全与鲁棒性",
+    "relevance_score": 0.85,
+    "tags": [
+      "生成式AI",
+      "模型崩溃",
+      "合成数据",
+      "数据循环",
+      "可信度"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-007",
+    "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+    "category": "学术评审实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AAAI",
+      "审稿",
+      "可复现性",
+      "代码缺失",
+      "实证研究",
+      "学术评审"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-008",
+    "title": "The full stack behind abundant intelligence",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "category": "技术战略",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI基础设施",
+      "算力",
+      "芯片",
+      "模型优化",
+      "成本效益",
+      "全栈技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-009",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/jalapeno-first-results",
+    "category": "AI基础设施",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI芯片",
+      "推理加速",
+      "能效",
+      "OpenAI",
+      "硬件自研"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.686Z"
+  },
+  {
+    "id": "2026-08-26-010",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "category": "网络安全与信息战",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "信息战",
+      "俄罗斯",
+      "虚假信息",
+      "OpenAI",
+      "影响力行动"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-011",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "category": "技术应用",
+    "relevance_score": 0.6,
+    "tags": [
+      "Google搜索",
+      "家居装饰",
+      "DIY",
+      "视觉搜索",
+      "购物推荐"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-012",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "category": "技术博客/模型构建",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "训练方法",
+      "数据工程",
+      "指令微调",
+      "推理优化",
+      "IBM"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-013",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "category": "模型压缩与量化",
+    "relevance_score": 0.85,
+    "tags": [
+      "模型压缩",
+      "量化",
+      "4-bit",
+      "性能提升",
+      "高效推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-014",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/gradio-workflow-guide",
+    "category": "开发工具/框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "Gradio",
+      "AI工作流",
+      "部署",
+      "交互界面",
+      "原型开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-015",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/pwc-search",
+    "category": "AI工程与基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "Hugging Face",
+      "推理端点",
+      "任务调度",
+      "存储桶",
+      "Papers with Code",
+      "AI基础设施",
+      "搜索系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-016",
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "category": "AI硬件与算力",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI芯片",
+      "OpenAI",
+      "低延迟",
+      "高吞吐",
+      "硬件创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-017",
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "category": "法律与AI安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "法律调查",
+      "OpenAI",
+      "消费者保护",
+      "自主代理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-018",
+    "title": "用 AgentKit，5 分钟搭建云端安全隔离的 DeepSeek Harness",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521412&idx=1&sn=b79fcd45e0a22de4d6476280555b6354",
+    "category": "AI基础设施与工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "AgentKit",
+      "DeepSeek",
+      "安全隔离",
+      "云端部署",
+      "AI代理",
+      "Harness"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-019",
+    "title": "行业首发｜智能体安全能力图谱发布：企业可落地的建设路径",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521412&idx=2&sn=13f3b66275413073d26d50f789829d7e",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "智能体安全",
+      "安全治理",
+      "企业落地",
+      "能力图谱",
+      "AI安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-020",
+    "title": "DiffSynth-WebUI：本地可视化复现魔搭 AIGC 专区 LoRA 训练引擎，24GB 显存 4-bit 训 10B+ 模型",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512303&idx=1&sn=f58ac433ac2475238aa8983ea327c226",
+    "category": "AI 训练工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "LoRA",
+      "模型微调",
+      "量化训练",
+      "本地部署",
+      "AIGC",
+      "可视化工具",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-021",
+    "title": "成果展示 | 中科天机×魔搭社区「天气智能体创造营」圆满收官！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512303&idx=2&sn=4f2840333c75e574b45062c11bacca59",
+    "category": "技术活动",
+    "relevance_score": 0.8,
+    "tags": [
+      "天气智能体",
+      "AI应用",
+      "社区活动",
+      "中科天机",
+      "魔搭社区"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-022",
+    "title": "穿越换挡期：居民消费的韧性与新增长主线",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998519&idx=1&sn=3b656faae9be985b6f59fcb9edf00cd3",
+    "category": "消费研究",
+    "relevance_score": 0.85,
+    "tags": [
+      "消费结构",
+      "理性消费",
+      "韧性",
+      "增长主线",
+      "换挡期"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-023",
+    "title": "一个Skill搞定服务重构：从链路分析到测试自动化",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697075&idx=1&sn=0811fc825e510ea62db8152d453d6008",
+    "category": "软件开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "服务重构",
+      "链路分析",
+      "测试自动化",
+      "微服务",
+      "AI辅助开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-024",
+    "title": "全栈 AI Agent 从 0 到 1 ：智能播客平台开发全记录",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502584&idx=1&sn=af0eb966b148a5413443c9d6eabf5b63",
+    "category": "全栈AI应用开发教程",
+    "relevance_score": 0.9,
+    "tags": [
+      "Vue 3",
+      "FastAPI",
+      "LangGraph",
+      "多模态Agent",
+      "AI音频",
+      "全栈开发",
+      "播客平台"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-025",
+    "title": "找文件这种小事，就不劳烦你亲自动手了",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247669974&idx=1&sn=1d400c0f0fae05f6bb8c0e8c5a231f3a",
+    "category": "效率工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "文件搜索",
+      "自动化",
+      "效率工具",
+      "AI辅助"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-026",
+    "title": "Project Lighthouse — Part 3: Introducing project-lighthouse-anonymize",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/project-lighthouse-part-3-introducing-project-lighthouse-anonymize-74f8b26653fb?source=rss----53c7c27702d5---4",
+    "category": "数据隐私工具",
+    "relevance_score": 0.75,
+    "tags": [
+      "数据匿名化",
+      "隐私保护",
+      "去标识化",
+      "数据安全",
+      "合规"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-027",
+    "title": "“额度想重置就重置，不问财务”，Codex Tibo首曝幕后：产品没做好，就补偿用户",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291458&idx=1&sn=85881c642934c3c30b1ba9bdd83a2701",
+    "category": "AI产品与商业策略",
+    "relevance_score": 0.9,
+    "tags": [
+      "Codex",
+      "AI开发工具",
+      "用户补偿",
+      "产品策略",
+      "信任管理",
+      "Claude Code"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-26-028",
+    "title": "AI Coding 之后，如何让 Agent 进入企业研发全链路？得物推荐的 Harness 实践",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291458&idx=2&sn=424967b09d4f8a0a472ed36593323f21",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Coding",
+      "AI Agent",
+      "研发全链路",
+      "Harness",
+      "企业实践",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-26T01:29:44.687Z"
   }
 ]

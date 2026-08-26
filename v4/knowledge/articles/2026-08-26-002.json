@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-26-002",
+  "source_id": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+  "title": "A Manifesto for Responsible Agentic Coding",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+  "summary": "该项目是一份关于负责任AI编码的宣言，旨在为开发者在编码中使用AI代理提供指导原则。宣言强调在利用AI提高效率的同时，必须保持对代码质量、安全性和伦理责任的关注。它呼吁开发者明确AI的辅助角色，避免盲目依赖，确保代码的可解释性和可维护性，并建立相应的审查和验证机制。宣言还讨论了透明度、问责制和人类监督的重要性，以防范潜在风险。总体而言，它倡导一种平衡的方法，使AI代理成为开发者的有力工具，而非取代人类判断。",
+  "tags": [
+    "AI编码",
+    "负责任AI",
+    "开发者指南",
+    "伦理",
+    "代码质量"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发实践",
+  "key_insight": "宣言的核心是确保AI代理在编码中的使用既高效又合乎道德，强调人类监督和代码责任不可缺失。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-26-016",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+  "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+  "summary": "OpenAI 于周二发布博客文章，宣布其新款 AI 芯片“Jalapeño”在任务完成效率和响应速度上超越其他 AI 系统。硬件副总裁 Richard Ho 在记者会上表示，该芯片实现了“两全其美”，兼具更低延迟和更高吞吐量。此举旨在提升 AI 推理性能，巩固其在算力领域的竞争优势。",
+  "tags": [
+    "AI芯片",
+    "OpenAI",
+    "低延迟",
+    "高吞吐",
+    "硬件创新"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI硬件与算力",
+  "key_insight": "Jalapeño 芯片通过优化延迟与吞吐量，成为 OpenAI 提升 AI 响应速度的核心硬件突破。"
+}

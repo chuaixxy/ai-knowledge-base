@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-26-015",
+  "source_id": "https://huggingface.co/blog/pwc-search",
+  "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/pwc-search",
+  "summary": "该项目探讨了Hugging Face推理端点、任务（Jobs）和存储桶（Buckets）如何协同工作，为Papers with Code搜索功能提供基础设施支持。它详细描述了这些组件如何实现高效的模型推理、任务调度和数据存储，从而支撑大规模论文与代码的索引和检索。文章强调了利用云原生技术优化AI工作流，提升搜索性能和可扩展性。",
+  "tags": [
+    "Hugging Face",
+    "推理端点",
+    "任务调度",
+    "存储桶",
+    "Papers with Code",
+    "AI基础设施",
+    "搜索系统"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程与基础设施",
+  "key_insight": "通过将推理、任务和存储解耦，Hugging Face构建了可扩展的搜索后端，展示了云原生组件在AI应用中的协同价值。"
+}

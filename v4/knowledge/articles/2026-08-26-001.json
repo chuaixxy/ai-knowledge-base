@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-26-001",
+  "source_id": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "summary": "该项目是“AI At Home”系列的第二部分，聚焦于在家庭环境中实现多GPU（图形处理器）计算，并探讨了“GPU漂移”（即多卡协同中负载或性能不均衡）问题。内容可能涉及多卡互联、分布式训练、任务调度及故障处理等实践，旨在为个人或小团队搭建高效、稳定的本地AI算力集群提供经验。文章强调实际部署中的挑战与解决方案，而非理论框架。",
+  "tags": [
+    "多GPU",
+    "分布式计算",
+    "AI基础设施",
+    "家庭实验室",
+    "性能调优"
+  ],
+  "relevance_score": 0.75,
+  "category": "技术实践/基础设施",
+  "key_insight": "多GPU协同的实用性取决于如何有效管理漂移，这比单纯追求硬件数量更重要。"
+}

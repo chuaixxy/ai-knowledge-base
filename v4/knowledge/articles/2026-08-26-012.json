@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-26-012",
+  "source_id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "title": "Granite 4.2 LLMs: How They're Built",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+  "summary": "该项目介绍了IBM Granite 4.2系列大语言模型的构建方法，涵盖数据混合、训练流程、对齐策略及推理优化。Granite 4.2通过精心设计的预训练数据（含代码、数学、多语言文本）和分阶段训练（持续预训练+指令微调+RLHF）提升性能，并采用长上下文扩展、函数调用与结构化输出支持。模型在多种基准上表现优异，同时强调透明度和可复现性。文章重点讨论了架构选择、数据质量过滤、训练稳定性及开源生态集成，为开发高效、可靠的企业级LLM提供了工程实践参考。",
+  "tags": [
+    "大语言模型",
+    "训练方法",
+    "数据工程",
+    "指令微调",
+    "推理优化",
+    "IBM"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术博客/模型构建",
+  "key_insight": "Granite 4.2的成功关键在于将高质量数据混合、多阶段训练与对齐优化紧密结合，展示了可复现的企业级LLM构建流程。"
+}

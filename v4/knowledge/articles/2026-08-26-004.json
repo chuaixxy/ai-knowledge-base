@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-26-004",
+  "source_id": "https://arxiv.org/abs/2608.21362",
+  "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.21362",
+  "summary": "KVBoost 是一个用于高效大语言模型推理的块级键值缓存复用系统，旨在解决传统前缀缓存仅支持连续前缀共享的问题。它通过双哈希键控方案区分位置身份和内容身份，支持精确和近似缓存匹配，使缓存复用不受内容位置限制。为解决独立缓存块导致的注意力边界误差，KVBoost 提出两种修复策略：SelectiveRecompute 重新编码边界区域，以及 CacheBlendRecompute 在探测后识别并重算高偏差令牌。该系统兼容 HuggingFace 解码器模型，显著降低预填充延迟并提升推理效率。",
+  "tags": [
+    "KV缓存",
+    "缓存复用",
+    "大语言模型推理",
+    "前缀缓存",
+    "注意力机制",
+    "推理加速"
+  ],
+  "relevance_score": 0.9,
+  "category": "系统优化/推理加速",
+  "key_insight": "通过将位置身份与内容身份解耦，KVBoost 实现了任意位置的内容级缓存复用，并利用针对性重算策略有效消除边界误差。"
+}

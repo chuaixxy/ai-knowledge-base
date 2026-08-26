@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-26-007",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+  "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+  "summary": "该讨论围绕AAAI 2027审稿中四篇论文均未提供代码或数据的情况展开。作者认为，虽然缺少代码不应自动拒稿（考虑到资金、知识产权等正当理由，且审稿人通常无暇审计代码），但若论文核心依赖实证数字而无法验证，会显著降低其置信度。作者计划在审稿意见中明确标记，并建议作者在 rebuttal 阶段提供匿名化代码。讨论核心在于如何在可复现性要求与作者合理限制之间取得平衡，以及是否应将缺失代码视为默认扣分项。",
+  "tags": [
+    "AAAI",
+    "审稿",
+    "可复现性",
+    "代码缺失",
+    "实证研究",
+    "学术评审"
+  ],
+  "relevance_score": 0.9,
+  "category": "学术评审实践",
+  "key_insight": "缺失代码不应自动化拒稿，但其对置信度的影响取决于论文对实证结果的依赖程度——依赖越强，缺失代码越致命。"
+}
