@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-27-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04",
+  "title": "场景营销互动&体验 AI Coding — 构建 Agent 自主执行闭环",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04",
+  "summary": "该项目旨在构建一个AI Coding代理（Agent）系统，用于场景营销互动和体验，实现从任务接收、代码生成到测试部署的完全自主闭环，达到零人工干预的交付目标。系统可能集成大语言模型、自动化工具链和场景化模板，以提升营销活动的开发效率和响应速度。",
+  "tags": [
+    "AI Coding",
+    "Agent自主闭环",
+    "场景营销",
+    "自动化交付",
+    "零干预"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化/自动化开发",
+  "key_insight": "通过Agent自主闭环，将营销互动开发从人工编码转变为自动化交付，核心价值在于降低人力成本并加速场景迭代。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-27-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697102&idx=1&sn=c5f8e6c86d98caed81f32bf357be22a4",
+  "title": "从Prompt到Harness，给反馈分类装上方向盘",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697102&idx=1&sn=c5f8e6c86d98caed81f32bf357be22a4",
+  "summary": "该项目提出了一种将用户反馈分类流程从被动Prompt驱动转向主动Harness（控制框架）驱动的技术方案，旨在提升反馈处理的准确性和可控性。通过引入结构化分类框架和动态引导机制，系统能够更精准地识别反馈意图、情绪和优先级，减少模型主观偏差，增强业务场景下的可解释性和可调节性。该方案适用于客服、产品迭代、舆情监控等需要精细反馈管理的场景，体现了从模型能力到工程化控制的范式转变。",
+  "tags": [
+    "反馈分类",
+    "Prompt工程",
+    "Harness框架",
+    "意图识别",
+    "可解释AI"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用工程",
+  "key_insight": "核心洞察是将反馈分类从依赖模型自由发挥的Prompt，转变为由外部Harness框架主导的结构化决策流程，从而提升分类的稳定性与业务适配性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-27-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521453&idx=1&sn=a43b95ca00458d532f29d70e80f0d118",
+  "title": "字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521453&idx=1&sn=a43b95ca00458d532f29d70e80f0d118",
+  "summary": "该项目聚焦于Agent提示词注入攻击的安全威胁，指出其并非一次性问题，而是需要长期应对的挑战。文章由字节实践团队撰写，强调随着大语言模型和Agent系统的普及，提示词注入攻击的手段和影响范围持续扩大，包括数据泄露、权限滥用和恶意指令执行等。文章提出防御需从设计、检测、响应等多层面入手，并呼吁行业建立标准化防护框架。内容兼具技术深度和战略视角，适合安全研究人员和AI开发者参考。",
+  "tags": [
+    "提示词注入",
+    "Agent安全",
+    "大模型",
+    "安全防御",
+    "AI风险"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI安全",
+  "key_insight": "提示词注入攻击是Agent时代的新型安全范式，需将安全设计内嵌于系统架构，而非依赖单一修复。"
+}

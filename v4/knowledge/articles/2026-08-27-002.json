@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-27-002",
+  "source_id": "https://arxiv.org/abs/2608.23568",
+  "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.23568",
+  "summary": "RENDER 是一个用于评估大语言模型（LLM）记忆与检索增强生成（RAG）系统的新型基准控制方法。它指出现有评估往往忽略回答模型输入的具体呈现形式，因此提出固定对话内容、改变读者可见工件（如记忆条目、摘要、类型化记录或原始摘录）的测试框架。RENDER 包含五级数据包阶梯，并采用确定性模板模拟不同风格（如 ChatGPT 风格条目、LangChain 摘要、MemGPT 类型记录和原始对话）。在 500 个 LongMemEval 问题和九个模型上的实验表明，匹配预算的解析数据包比截断原始对话性能高出 42.4-72.6 分；在部署风格模板中，最佳与最差呈现方式间差距达 24.6-48.8 分。结果显示，呈现格式对记忆系统性能有显著影响，但模型间存在差异。",
+  "tags": [
+    "LLM评估",
+    "记忆系统",
+    "RAG",
+    "呈现格式",
+    "基准测试",
+    "上下文工程"
+  ],
+  "relevance_score": 0.9,
+  "category": "自然语言处理 / 模型评估",
+  "key_insight": "LLM 记忆评估中，输入数据的呈现格式（而非仅内容）能造成高达 70+ 分的性能差异，提示系统设计需将上下文渲染视为关键变量。"
+}

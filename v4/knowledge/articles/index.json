@@ -18071,5 +18071,469 @@
     ],
     "status": "published",
     "collected_at": "2026-08-26T01:29:44.687Z"
+  },
+  {
+    "id": "2026-08-27-001",
+    "title": "Bill Gates - The turbulent AI era is here",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "category": "科技评论",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "比尔·盖茨",
+      "科技趋势",
+      "社会影响",
+      "未来展望"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-002",
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.23568",
+    "category": "自然语言处理 / 模型评估",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM评估",
+      "记忆系统",
+      "RAG",
+      "呈现格式",
+      "基准测试",
+      "上下文工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-003",
+    "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.23569",
+    "category": "数据库与自然语言处理",
+    "relevance_score": 0.9,
+    "tags": [
+      "NL2SQL",
+      "基准测试",
+      "Oracle",
+      "方言泛化",
+      "静默语义分歧",
+      "企业数据库",
+      "GPT-4o",
+      "多数据库"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-004",
+    "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.23622",
+    "category": "AI4Science / 智能体仿真",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM",
+      "多智能体",
+      "仿真模型",
+      "受控实验",
+      "制药工艺",
+      "参数优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-005",
+    "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
+    "category": "计算机视觉/文档处理",
+    "relevance_score": 0.75,
+    "tags": [
+      "文档数字化",
+      "数据挖掘",
+      "深度学习",
+      "ResNet-50",
+      "图像裁剪",
+      "负结果",
+      "手工标注再利用",
+      "计算机视觉"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-006",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "category": "教育AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "教育科技",
+      "AI辅助教学",
+      "教师支持",
+      "ChatGPT",
+      "美国学区"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-007",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/learning-never-stops",
+    "category": "教育科技",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI教育",
+      "ChatGPT",
+      "终身学习",
+      "教育科技",
+      "个性化学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-008",
+    "title": "The Hugging Face incident and the road ahead",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "供应链安全",
+      "模型监控",
+      "对齐",
+      "OpenAI",
+      "Hugging Face"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-009",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "category": "自然语言处理与检索",
+    "relevance_score": 0.85,
+    "tags": [
+      "多向量嵌入",
+      "Sentence Transformers",
+      "模型微调",
+      "信息检索",
+      "对比学习",
+      "语义匹配"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-010",
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "category": "科技财经",
+    "relevance_score": 0.9,
+    "tags": [
+      "英伟达",
+      "财报",
+      "AI芯片",
+      "营收增长",
+      "数据中心"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-011",
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "category": "AI安全与治理",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI安全",
+      "模型失控",
+      "OpenAI",
+      "Hugging Face",
+      "安全漏洞",
+      "AI代理",
+      "监管"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-012",
+    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "category": "人工智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI转录",
+      "语音识别",
+      "Gemini",
+      "多语言",
+      "谷歌"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-013",
+    "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+    "category": "技术论文解析",
+    "relevance_score": 0.7,
+    "tags": [
+      "LoRA",
+      "RLVR",
+      "强化学习",
+      "低秩训练",
+      "Agentic RL",
+      "ACL 2026",
+      "美团"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-014",
+    "title": "字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521453&idx=1&sn=a43b95ca00458d532f29d70e80f0d118",
+    "category": "AI安全",
+    "relevance_score": 0.9,
+    "tags": [
+      "提示词注入",
+      "Agent安全",
+      "大模型",
+      "安全防御",
+      "AI风险"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-015",
+    "title": "场景营销互动&体验 AI Coding — 构建 Agent 自主执行闭环",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545465&idx=1&sn=96e20d7451fcc622baf2b6f0c2d9ef04",
+    "category": "AI工程化/自动化开发",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Coding",
+      "Agent自主闭环",
+      "场景营销",
+      "自动化交付",
+      "零干预"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-016",
+    "title": "论文秀 Live#45 | VLDB 2026 Best Paper！蚂蚁OmniTable：一张宽表驯服35 PB LLM数据的工程密码",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537822&idx=1&sn=e4b8ac740ba8fd0cd56848391132ed00",
+    "category": "数据库系统与LLM工程",
+    "relevance_score": 0.9,
+    "tags": [
+      "VLDB 2026",
+      "OmniTable",
+      "LLM数据管理",
+      "宽表架构",
+      "蚂蚁集团",
+      "大规模数据系统",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-017",
+    "title": "一篇讲透Agent自进化飞轮怎么搭：评测→记忆→落地→控制",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803847&idx=1&sn=abe5cab137aac47cb042b6baa1a24191",
+    "category": "AI工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "Agent",
+      "自进化",
+      "评测体系",
+      "记忆机制",
+      "工程落地",
+      "安全控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-018",
+    "title": "3.3GB 压到 440MB，混元极低 bit 翻译模型跑进直播弹幕",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
+    "category": "AI模型优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "模型压缩",
+      "量化",
+      "翻译模型",
+      "边缘计算",
+      "实时应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-019",
+    "title": "腾讯司晓：当智力有了价格",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998538&idx=1&sn=28ff645fb08a0fd32b524a31e17b1d38",
+    "category": "科技经济与社会",
+    "relevance_score": 0.85,
+    "tags": [
+      "Token经济",
+      "人工智能",
+      "智力商品化",
+      "人本主义",
+      "经济变革"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-020",
+    "title": "一文搞懂个人AI记忆系统构建全流程",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697254&idx=1&sn=4c6c7051662b7a92a77ce80bec68af16",
+    "category": "AI应用开发",
+    "relevance_score": 0.92,
+    "tags": [
+      "AI记忆",
+      "RAG",
+      "向量数据库",
+      "个人知识管理",
+      "大语言模型",
+      "数据工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-021",
+    "title": "从Prompt到Harness，给反馈分类装上方向盘",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697102&idx=1&sn=c5f8e6c86d98caed81f32bf357be22a4",
+    "category": "AI应用工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "反馈分类",
+      "Prompt工程",
+      "Harness框架",
+      "意图识别",
+      "可解释AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-022",
+    "title": "企业级 MultiAgent 的记忆系统：短期上下文与四层记忆架构实现｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546577&idx=1&sn=e958fbb5a7701d92612f0da1549ad0ad",
+    "category": "AI系统架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "MultiAgent",
+      "记忆系统",
+      "LLM",
+      "语义检索",
+      "Token预算",
+      "冲突处理",
+      "架构设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-023",
+    "title": "不做手机缩小版：AI 健康记录迁到手腕，要跨过哪些工程鸿沟？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=1&sn=136117811ffe3cc38fd6a43edaf2d6b9",
+    "category": "AIoT与可穿戴技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI健康",
+      "可穿戴设备",
+      "边缘计算",
+      "工程挑战",
+      "小团队创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-024",
+    "title": "535B大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=2&sn=ead04ba041e77bafba10b4847c6042e4",
+    "category": "AI模型训练",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型",
+      "开源",
+      "MoE",
+      "透明训练",
+      "Percy Liang"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-025",
+    "title": "突破遥操瓶颈！全新无本体数据世界动作模型Noe-0发布",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052471&idx=1&sn=d3b4a21fc8f28738b7e9fd7606a75d83",
+    "category": "人工智能/机器人技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "遥操作",
+      "动作模型",
+      "无本体数据",
+      "机器人",
+      "AI模型",
+      "通用控制"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-27-026",
+    "title": "Shopify CEO考虑禁用Claude Code，因其不兼容AGENTS.md",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052471&idx=2&sn=e243403e1ae25a94cb0822e80332c0fc",
+    "category": "AI开发工具生态",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI编程",
+      "Claude Code",
+      "AGENTS.md",
+      "企业级AI工具",
+      "工具兼容性",
+      "开发工作流"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-27T08:10:13.674Z"
   }
 ]

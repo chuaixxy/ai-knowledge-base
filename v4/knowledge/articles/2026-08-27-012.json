@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-27-012",
+  "source_id": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+  "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+  "summary": "谷歌更新了Gemini Audio的转录功能，新增Gemini 3.5 Transcribe模型，能自动识别专业术语并支持超过85种语言，同时过滤掉语气词（如“嗯”“啊”）。该功能紧随Gemini 3.5 Live Translate推出，而Gemini 3.5 Pro模型仍在等待发布。此技术旨在提升语音转录的准确性和流畅度，适用于多语言和专业场景。",
+  "tags": [
+    "AI转录",
+    "语音识别",
+    "Gemini",
+    "多语言",
+    "谷歌"
+  ],
+  "relevance_score": 0.85,
+  "category": "人工智能",
+  "key_insight": "谷歌通过过滤语气词和多语言支持，显著提升了AI转录的自然度和实用性，但Pro模型的延迟发布可能影响生态完整性。"
+}

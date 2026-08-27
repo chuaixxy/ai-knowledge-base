@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-27-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=1&sn=136117811ffe3cc38fd6a43edaf2d6b9",
+  "title": "不做手机缩小版：AI 健康记录迁到手腕，要跨过哪些工程鸿沟？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=1&sn=136117811ffe3cc38fd6a43edaf2d6b9",
+  "summary": "该项目探讨小团队在将AI健康记录从手机迁移至腕上设备时面临的工程挑战，包括硬件计算力限制、传感器精度、电池续航、数据同步及AI模型轻量化等。文章强调小团队需通过优化算法、利用边缘计算和模块化设计，跨过这些鸿沟，抓住腕上AI的落地机遇。",
+  "tags": [
+    "AI健康",
+    "可穿戴设备",
+    "边缘计算",
+    "工程挑战",
+    "小团队创新"
+  ],
+  "relevance_score": 0.85,
+  "category": "AIoT与可穿戴技术",
+  "key_insight": "腕上AI的核心不是硬件堆料，而是算法与功耗的极致平衡，小团队可通过聚焦垂直场景和轻量化模型实现差异化突破。"
+}

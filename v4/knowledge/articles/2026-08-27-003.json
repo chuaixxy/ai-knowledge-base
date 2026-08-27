@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-27-003",
+  "source_id": "https://arxiv.org/abs/2608.23569",
+  "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.23569",
+  "summary": "ESQ-Bench是一个面向企业级Oracle数据库的NL2SQL基准测试，旨在评估模型在方言泛化和静默语义分歧上的表现。现有基准（如Spider、BIRD）依赖简化学术模式，无法反映企业环境的复杂性。ESQ-Bench提供了三个复杂度层级，包含六个填充模式（465张表、164,682行数据），并在Oracle、PostgreSQL、MySQL和SQL Server上保持相同种子数据。它包含四个评估指标（EM、EX、SR、SD）和550个经过验证的问题-查询对。实验显示，GPT-4o在模式链接提示下，各层级执行匹配度呈单调下降（79.8%、60.3%、57.2%），揭示了现有模型在企业场景下的局限性。",
+  "tags": [
+    "NL2SQL",
+    "基准测试",
+    "Oracle",
+    "方言泛化",
+    "静默语义分歧",
+    "企业数据库",
+    "GPT-4o",
+    "多数据库"
+  ],
+  "relevance_score": 0.9,
+  "category": "数据库与自然语言处理",
+  "key_insight": "该基准揭示了当前NL2SQL模型在企业级Oracle环境中的性能显著下降，强调了方言泛化和静默语义分歧是亟待解决的关键挑战。"
+}

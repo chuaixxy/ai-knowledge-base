@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-27-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=2&sn=ead04ba041e77bafba10b4847c6042e4",
+  "title": "535B大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291564&idx=2&sn=ead04ba041e77bafba10b4847c6042e4",
+  "summary": "斯坦福大学Percy Liang教授发起的开放基础模型项目Marin，于上周正式启动Marin 535B-A23B模型的训练。该模型拥有5350亿参数，采用MoE架构（激活230亿参数），训练过程将完全公开，包括代码、数据和Loss曲线，并持续三个月。此举旨在推动大模型研究的透明化和可复现性，获得吴恩达等业界领袖的公开支持。该项目对开源社区和AI研究具有里程碑意义，可能为后续模型训练提供宝贵参考。",
+  "tags": [
+    "大模型",
+    "开源",
+    "MoE",
+    "透明训练",
+    "Percy Liang"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型训练",
+  "key_insight": "Marin项目通过完全公开训练过程，重新定义了AI研究的透明度标准，可能引领大模型开发新范式。"
+}

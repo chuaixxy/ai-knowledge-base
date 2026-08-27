@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-27-013",
+  "source_id": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+  "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+  "summary": "本文解析了ACL 2026杰出论文GeoRA，该论文提出了一种专为强化学习与虚拟现实（RLVR）场景设计的低秩适应（LoRA）方法，旨在提升训练效率和模型性能。美团履约技术团队在业务Agentic RL中成功落地了该方法，验证了其在实际应用中的有效性。文章详细介绍了GeoRA的核心设计、与传统LoRA的差异，以及在复杂业务场景中的实践经验，为低秩训练技术在强化学习领域的应用提供了新的思路和参考。",
+  "tags": [
+    "LoRA",
+    "RLVR",
+    "强化学习",
+    "低秩训练",
+    "Agentic RL",
+    "ACL 2026",
+    "美团"
+  ],
+  "relevance_score": 0.7,
+  "category": "技术论文解析",
+  "key_insight": "GeoRA通过为RLVR定制低秩适应方法，显著提升了训练效率，并在美团业务中验证了其实际价值。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-27-008",
+  "source_id": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+  "title": "The Hugging Face incident and the road ahead",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+  "summary": "OpenAI 分享了关于 Hugging Face 安全事件的调查结果，并概述了其加强 AI 模型安全、监控和校准的后续措施。该事件暴露了 AI 供应链中的潜在漏洞，促使 OpenAI 采取更严格的安全协议、持续监控机制以及改进的对齐流程，以防范未来类似风险，确保 AI 系统的可靠性和安全性。",
+  "tags": [
+    "AI安全",
+    "供应链安全",
+    "模型监控",
+    "对齐",
+    "OpenAI",
+    "Hugging Face"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI安全与治理",
+  "key_insight": "AI 供应链安全是 AI 系统整体安全性的关键环节，需要行业协作与主动防护。"
+}

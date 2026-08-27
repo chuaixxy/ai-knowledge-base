@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-27-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537822&idx=1&sn=e4b8ac740ba8fd0cd56848391132ed00",
+  "title": "论文秀 Live#45 | VLDB 2026 Best Paper！蚂蚁OmniTable：一张宽表驯服35 PB LLM数据的工程密码",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247537822&idx=1&sn=e4b8ac740ba8fd0cd56848391132ed00",
+  "summary": "本项目是论文秀Live第45期，聚焦于蚂蚁集团发表的VLDB 2026最佳论文《OmniTable》，核心围绕如何通过一张统一的宽表架构，高效管理并处理高达35 PB规模的大语言模型训练数据。项目深入探讨了数据库架构在多云时代下，面对超大规模数据时的工程挑战与解决方案，包括数据组织、存储优化、查询调度等关键环节。其价值在于揭示了将传统数据库技术应用于LLM数据管道的创新路径，为行业提供了可复用的工程范式，并引发了关于图计算性能与多核瓶颈的延伸讨论。",
+  "tags": [
+    "VLDB 2026",
+    "OmniTable",
+    "LLM数据管理",
+    "宽表架构",
+    "蚂蚁集团",
+    "大规模数据系统",
+    "工程实践"
+  ],
+  "relevance_score": 0.9,
+  "category": "数据库系统与LLM工程",
+  "key_insight": "用一张精心设计的宽表统一管理PB级LLM数据，通过牺牲传统范式换取极致的工程简化与吞吐性能，是解决大模型数据管线的关键密码。"
+}

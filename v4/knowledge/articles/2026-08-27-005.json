@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-27-005",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
+  "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
+  "summary": "作者来自巴基斯坦的Ibteda数字图书馆，过去十年在自制相机设备上手工数字化了1756本稀有乌尔都语书籍，共575729页。他们利用SIFT+MAGSAC算法将完成页面与原始照片配准，恢复出裁剪决策作为训练数据。实验发现，增加训练数据、使用ResNet-50、提高分辨率或引入空间头均无法提升模型在未见书籍上的表现。逐书错误分析显示，失败源于每本书的固定偏移——操作者的边距偏好，这是模型无法从数据中学到的。",
+  "tags": [
+    "文档数字化",
+    "数据挖掘",
+    "深度学习",
+    "ResNet-50",
+    "图像裁剪",
+    "负结果",
+    "手工标注再利用",
+    "计算机视觉"
+  ],
+  "relevance_score": 0.75,
+  "category": "计算机视觉/文档处理",
+  "key_insight": "从人类多年手动操作中恢复的监督数据，其价值不在于规模或模型复杂度，而在于揭示模型无法捕捉的个体操作者系统性偏好（固定边距偏移），这解释了为何扩大数据和模型均无效。"
+}

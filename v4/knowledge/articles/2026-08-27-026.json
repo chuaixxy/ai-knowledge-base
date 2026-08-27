@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-27-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052471&idx=2&sn=e243403e1ae25a94cb0822e80332c0fc",
+  "title": "Shopify CEO考虑禁用Claude Code，因其不兼容AGENTS.md",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052471&idx=2&sn=e243403e1ae25a94cb0822e80332c0fc",
+  "summary": "Shopify CEO Tobias Lütke 近日考虑在其开发工作流中禁用 Anthropic 的 AI 编程工具 Claude Code，原因是该工具未能完全遵循项目根目录下的 AGENTS.md 文件约定。AGENTS.md 是团队用于定义 AI 代理行为、权限和编码规范的配置文件。Lütke 的担忧反映了企业级 AI 工具在落地时面临的现实挑战：即使模型能力强大，若不能严格适配团队的工程标准和上下文约束，就可能引发代码质量、安全或合规风险。Anthropic 回应称正在让 Claude Code 更加灵活，暗示将改进对自定义配置和指令的兼容性。此事凸显了 AI 编程助手从个人效率工具向企业协作基础设施转型过程中，配置标准化与工具适配性的关键博弈。",
+  "tags": [
+    "AI编程",
+    "Claude Code",
+    "AGENTS.md",
+    "企业级AI工具",
+    "工具兼容性",
+    "开发工作流"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI开发工具生态",
+  "key_insight": "企业采用AI编程助手时，对既有工程约定（如AGENTS.md）的严格遵循，比模型能力本身更决定其能否被规模化信任。"
+}

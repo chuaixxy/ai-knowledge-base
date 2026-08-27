@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-27-004",
+  "source_id": "https://arxiv.org/abs/2608.23622",
+  "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.23622",
+  "summary": "该项目提出一个多智能体框架，使大语言模型（LLM）代理能够利用科学仿真模型进行受控实验，应用于制药工艺设计。系统根据用户查询和基线配置，构建结构化任务表示，设计实验，执行比较性仿真，解释结果，并综合基于证据的工艺参数优化建议。通过将语言模型与高保真仿真模型耦合在交互式代理框架中，系统支持基于干预、比较和观察的推理，弥补了LLM仅生成文本和代码的不足，实现了对系统响应的定量理解。",
+  "tags": [
+    "LLM",
+    "多智能体",
+    "仿真模型",
+    "受控实验",
+    "制药工艺",
+    "参数优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI4Science / 智能体仿真",
+  "key_insight": "LLM代理通过与高保真仿真模型的交互式耦合，将语言推理转化为可执行的受控实验，从而获得基于证据的工艺优化建议。"
+}
