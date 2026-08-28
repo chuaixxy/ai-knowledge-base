@@ -1,0 +1,21 @@
+{
+  "id": "2026-08-28-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512393&idx=1&sn=35381d65f9e573001f39cfbbe7ce90f5",
+  "title": "GLM-5.3 系列开源：Flash 已上线｜GLM-5.3 倒计时不到 24 小时",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512393&idx=1&sn=35381d65f9e573001f39cfbbe7ce90f5",
+  "summary": "智谱AI发布GLM-5系列，包括能力旗舰GLM-5.3和效率旗舰GLM-5.3-Flash。GLM-5.3通过极限后训练刷新开源编码与安全基准，性能卓越；GLM-5.3-Flash采用全新320B/18B架构，在1/10成本下实现顶尖性能，为开发者提供从研究到生产的高性价比选择。该系列即将开源，Flash已上线，倒计时不足24小时，旨在满足不同场景需求。",
+  "tags": [
+    "GLM-5.3",
+    "开源模型",
+    "编码基准",
+    "安全基准",
+    "效率优化",
+    "智谱AI",
+    "后训练",
+    "架构创新"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型发布",
+  "key_insight": "GLM-5.3-Flash通过320B/18B架构实现成本与性能的平衡，是开源模型效率突破的关键。"
+}

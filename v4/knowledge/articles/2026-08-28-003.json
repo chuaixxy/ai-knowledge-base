@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-28-003",
+  "source_id": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+  "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+  "source": "rss-hacker-news-best",
+  "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+  "summary": "中国AI公司Z.ai确认其新模型Ox Alpha属于GLM系列，并宣布将开放权重。该模型在性能上可与DeepSeek匹敌，引发业界关注。文章指出，Ox Alpha的发布标志着中国在开源大模型领域的持续发力，可能对全球AI竞争格局产生影响。社区讨论热烈，关注其技术细节、开源策略及对现有模型的冲击。",
+  "tags": [
+    "AI模型",
+    "开源",
+    "GLM",
+    "Z.ai",
+    "DeepSeek",
+    "中国AI"
+  ],
+  "relevance_score": 0.9,
+  "category": "人工智能/大模型",
+  "key_insight": "Ox Alpha作为GLM系列新成员并开源，表明中国AI在开源生态中正加速追赶，可能重塑全球大模型竞争格局。"
+}

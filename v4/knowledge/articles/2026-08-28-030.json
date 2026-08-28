@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-28-030",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291651&idx=2&sn=6a1afdb794f2aeddd0177970f43aef64",
+  "title": "谷歌突然发布“最强听写模型”：Agent时代的落伍产品，还是关键拼图？",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291651&idx=2&sn=6a1afdb794f2aeddd0177970f43aef64",
+  "summary": "谷歌于8月26日发布新一代语音转文本模型Gemini 3.5 Transcribe，号称‘最强听写模型’。该模型在识别准确率、多语言支持和实时转录速度上均有显著提升，但被部分观察者视为Agent时代下的‘落伍产品’，因为其仅专注于听写而非端到端智能交互。然而，另一些人认为它是关键拼图，因为高质量转录是构建语音Agent的基础层。项目引发了对语音技术演进路径的讨论：是追求通用智能，还是夯实底层能力。",
+  "tags": [
+    "语音识别",
+    "Gemini",
+    "谷歌",
+    "Agent",
+    "听写模型",
+    "多语言"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型发布",
+  "key_insight": "听写模型不是落伍，而是语音Agent的‘听觉神经’，其价值取决于如何与上层智能协同。"
+}

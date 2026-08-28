@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-28-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052598&idx=2&sn=c248e65c9354ba2d754dd3915cb37507",
+  "title": "刚刚，Claude Code又进化了，替用户起草「反馈报告」",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052598&idx=2&sn=c248e65c9354ba2d754dd3915cb37507",
+  "summary": "该项目介绍Claude Code（Anthropic的编程助手）的一项新进化：当任务执行失败或出现问题时，它能够主动替用户起草一份「反馈报告」，上报自己的错误和不足。这一功能标志着AI从被动执行工具向主动自我监督、自我汇报的转变，有助于提升调试效率和用户对AI行为的透明度。报告可能包含错误原因、影响范围、修复建议等，从而减少用户在排查问题上的时间成本，增强AI在复杂开发流程中的可靠性和协作性。",
+  "tags": [
+    "Claude Code",
+    "AI自我反馈",
+    "编程助手",
+    "错误报告",
+    "Anthropic",
+    "AI透明度"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具与开发效率",
+  "key_insight": "AI主动上报自身失误，将错误处理从用户主导转向AI自治，是迈向可信赖AI代理的关键一步。"
+}

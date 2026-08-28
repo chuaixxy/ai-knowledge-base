@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-28-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697260&idx=1&sn=bbda847cb4e895e1ea99caf5acec9923",
+  "title": "AI工程范式的跃迁，一文讲透Context Engineering！",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697260&idx=1&sn=bbda847cb4e895e1ea99caf5acec9923",
+  "summary": "本文深入探讨了Context Engineering（上下文工程）作为AI工程范式的新兴领域，强调其重要性在于通过精心设计和管理输入上下文来引导大语言模型（LLM）的输出质量。文章阐述了上下文工程的核心概念、方法论（如提示工程、上下文压缩、检索增强生成等），以及它如何从传统的模型微调转向更灵活、高效的工程实践。作者指出，上下文工程是连接用户意图与模型能力的桥梁，能够显著提升AI应用的准确性、相关性和可控性，尤其适用于复杂任务和长对话场景。文章还讨论了上下文工程的未来趋势，包括自动化上下文优化和与智能体系统的融合，为AI工程师提供了新的思维框架和实用指导。",
+  "tags": [
+    "Context Engineering",
+    "AI工程",
+    "大语言模型",
+    "提示工程",
+    "RAG",
+    "LLM应用"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程方法论",
+  "key_insight": "上下文工程是AI应用开发的新核心，它通过动态管理输入上下文来释放模型潜力，比单纯调优模型更高效、更灵活。"
+}

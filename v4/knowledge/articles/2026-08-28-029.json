@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-28-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291651&idx=1&sn=2e3dabb2a6a17a5b3c69f2de1c908c5c",
+  "title": "Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291651&idx=1&sn=2e3dabb2a6a17a5b3c69f2de1c908c5c",
+  "summary": "Meta曾豪赌AI Agent能大幅取代员工，计划裁减60%人力，但经过一年实践，结果适得其反：AI Agent导致事故率增加40%，工程师需处理的救火任务激增70%。这一失败表明，当前AI Agent在复杂、动态的工程环境中尚无法可靠替代人类判断与应变能力，反而增加了系统复杂性和运维负担。Meta被迫全员收拾“三倍烂摊子”，反思AI落地的边界。该案例警示：技术赋能应聚焦辅助而非替代，需建立人机协作的稳健机制，避免盲目追求自动化指标。",
+  "tags": [
+    "AI Agent",
+    "人机协作",
+    "自动化风险",
+    "企业AI落地",
+    "工程运维"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI行业观察",
+  "key_insight": "AI Agent的盲目替代会放大系统脆弱性，人机协同才是当前阶段可靠的生产力路径。"
+}

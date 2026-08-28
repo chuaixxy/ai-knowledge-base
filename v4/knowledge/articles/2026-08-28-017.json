@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-28-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545467&idx=1&sn=b5757df260f77c1bf3f6947129db5100",
+  "title": "信任需要基础设施：如何让AI可靠的取数",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545467&idx=1&sn=b5757df260f77c1bf3f6947129db5100",
+  "summary": "该项目聚焦于AI在数据获取过程中的可靠性问题，提出通过工程化手段构建可信取数基础设施。核心思路是结合AI与工程实践，确保数据获取的准确性、可追溯性和安全性，从而建立用户对AI系统的信任。项目可能涉及数据管道设计、质量监控、审计日志、异常处理等机制，旨在解决AI取数中的‘黑箱’问题，提升决策透明度。",
+  "tags": [
+    "AI可靠性",
+    "数据基础设施",
+    "数据工程",
+    "信任机制",
+    "数据治理"
+  ],
+  "relevance_score": 0.8,
+  "category": "数据工程与AI基础设施",
+  "key_insight": "AI的信任不仅源于算法，更依赖于底层取数基础设施的工程化保障。"
+}

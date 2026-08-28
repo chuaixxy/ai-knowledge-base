@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-28-008",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
+  "title": "Where to submit stat/prob ML [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
+  "summary": "该项目是一位统计与概率机器学习研究者的社区讨论，表达了对顶级会议（如ICLR、NeurIPS）被LLM相关论文主导的担忧，并探讨了统计/概率ML社区的未来去向。作者提到自己的发表记录优秀，但发现传统顶级会议中概率统计类论文越来越少，而AISTATS和UAI可能成为更适合的投稿平台。项目本质是学术社区动态的观察与反思，而非技术代码或算法实现。",
+  "tags": [
+    "统计机器学习",
+    "概率机器学习",
+    "学术会议",
+    "社区动态",
+    "LLM影响"
+  ],
+  "relevance_score": 0.6,
+  "category": "学术社区讨论",
+  "key_insight": "统计/概率ML社区正面临顶级会议被LLM主导的挑战，转向AISTATS/UAI等专业会议可能是维持学术身份的关键策略。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-28-007",
+  "source_id": "https://arxiv.org/abs/2608.26111",
+  "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.26111",
+  "summary": "该论文综述了大型模型（LMs）在电池预测与健康管理（BPHM）中的应用，这是首个针对该领域的全面调查。传统BPHM方法（如基于物理模型和任务导向的深度学习）存在计算效率低、跨域泛化差、依赖大量标注失效数据以及可解释性不足等问题。大型模型基于Transformer架构和自监督预训练，为克服这些瓶颈提供了新范式。论文系统梳理了支撑LMs的基础技术（Transformer、自监督学习等），并探讨了其在BPHM中的具体应用方式，旨在推动电池安全、可靠和经济的运行。",
+  "tags": [
+    "电池健康管理",
+    "大型模型",
+    "Transformer",
+    "自监督学习",
+    "预测与健康管理",
+    "综述"
+  ],
+  "relevance_score": 0.9,
+  "category": "学术综述（AI+能源系统）",
+  "key_insight": "大型模型通过自监督预训练和跨域泛化能力，有望彻底改变传统电池管理中对物理建模和大量失效数据的高度依赖。"
+}

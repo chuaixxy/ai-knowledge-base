@@ -18535,5 +18535,575 @@
     ],
     "status": "published",
     "collected_at": "2026-08-27T08:10:13.674Z"
+  },
+  {
+    "id": "2026-08-28-001",
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://github.com/SenteLabsAI/OpenExecutive",
+    "category": "AI伦理与开源运动",
+    "relevance_score": 0.75,
+    "tags": [
+      "开源AI",
+      "AI治理",
+      "讽刺项目",
+      "开发者抗议",
+      "伦理AI",
+      "Hacker News热帖"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-002",
+    "title": "The turbulent AI era is here",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "category": "技术趋势",
+    "relevance_score": 0.9,
+    "tags": [
+      "人工智能",
+      "技术影响",
+      "社会选择",
+      "比尔·盖茨",
+      "政策"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-003",
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "category": "人工智能/大模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI模型",
+      "开源",
+      "GLM",
+      "Z.ai",
+      "DeepSeek",
+      "中国AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-004",
+    "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/abs/2408.06602",
+    "category": "心理学与AI交叉研究",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI预测",
+      "心理学",
+      "认知偏差",
+      "技术信任",
+      "行为科学"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-005",
+    "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.26107",
+    "category": "教育技术 / 可解释人工智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "神经符号",
+      "学业风险预测",
+      "时间Transformer",
+      "F-Logic",
+      "可解释AI",
+      "在线教育",
+      "教育理论"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-006",
+    "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.26109",
+    "category": "临床医疗AI/可解释性研究",
+    "relevance_score": 0.9,
+    "tags": [
+      "ICU死亡率预测",
+      "大语言模型",
+      "智能体管线",
+      "可解释性",
+      "特征归因",
+      "临床决策支持",
+      "eICU数据集"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-007",
+    "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2608.26111",
+    "category": "学术综述（AI+能源系统）",
+    "relevance_score": 0.9,
+    "tags": [
+      "电池健康管理",
+      "大型模型",
+      "Transformer",
+      "自监督学习",
+      "预测与健康管理",
+      "综述"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-008",
+    "title": "Where to submit stat/prob ML [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
+    "category": "学术社区讨论",
+    "relevance_score": 0.6,
+    "tags": [
+      "统计机器学习",
+      "概率机器学习",
+      "学术会议",
+      "社区动态",
+      "LLM影响"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-009",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "category": "国际AI生态建设",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "泰国",
+      "AI初创",
+      "加速器",
+      "健康",
+      "教育",
+      "国际合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-010",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "category": "教育科技研究",
+    "relevance_score": 0.95,
+    "tags": [
+      "ChatGPT",
+      "批判性思维",
+      "随机对照试验",
+      "高等教育",
+      "AI教育",
+      "学生表现",
+      "原创性"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-011",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "category": "企业战略",
+    "relevance_score": 0.7,
+    "tags": [
+      "OpenAI",
+      "巴西",
+      "AI扩张",
+      "开发者生态",
+      "市场战略"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-012",
+    "title": "3 new ways to plan and book travel in Search",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "category": "AI应用/旅行科技",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI搜索",
+      "旅行规划",
+      "机票跟踪",
+      "酒店预订",
+      "奖励积分"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-013",
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "category": "AI政策与法律",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI监管",
+      "法律诉讼",
+      "Anthropic",
+      "特朗普政府",
+      "违宪",
+      "科技政策"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-014",
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "category": "AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI笔记",
+      "Gemini Notebook",
+      "Google Play Books",
+      "知识管理",
+      "阅读辅助"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-015",
+    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "category": "AI行业动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AGI",
+      "英伟达",
+      "黄仁勋",
+      "AI行业",
+      "财报",
+      "技术定义"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-016",
+    "title": "ADrive 跨产品协作实践：文件通了，Agent 就通了",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521712&idx=1&sn=584ee46d8b9021b56004a8a7e318e2d0",
+    "category": "AI基础设施与数据协作",
+    "relevance_score": 0.85,
+    "tags": [
+      "文件系统",
+      "AI Agent",
+      "跨产品协作",
+      "数据互通",
+      "元数据管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-017",
+    "title": "信任需要基础设施：如何让AI可靠的取数",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545467&idx=1&sn=b5757df260f77c1bf3f6947129db5100",
+    "category": "数据工程与AI基础设施",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI可靠性",
+      "数据基础设施",
+      "数据工程",
+      "信任机制",
+      "数据治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-018",
+    "title": "AI 创新实践｜「架构师 Agent」系统化落地",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511307&idx=1&sn=a61beaf9d8ec073581a91674d90649f0",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "架构师Agent",
+      "AI工程化",
+      "系统设计",
+      "知识工程",
+      "LLM应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-019",
+    "title": "全新 Qoder，正式发布",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511307&idx=2&sn=624a79c221ecff44407766522a6a70be",
+    "category": "AI应用/开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "智能体",
+      "开发者工具",
+      "低代码"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-020",
+    "title": "场景营销互动&体验 AI Coding— AI Native 视觉还原的两个支点：上下文工程与循环工程",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562152&idx=1&sn=45c3da2ca63c5dfea6e76f2d95d18c4f",
+    "category": "AI应用与体验设计",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Coding",
+      "视觉还原",
+      "上下文工程",
+      "循环工程",
+      "场景营销",
+      "多模态交互",
+      "大模型应用",
+      "用户体验优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-021",
+    "title": "极致性价比！Qwen3.8-Flash上线千问AI平台",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562051&idx=1&sn=47ea31d72039e043bae7c0a79add001e",
+    "category": "AI模型与平台",
+    "relevance_score": 0.7,
+    "tags": [
+      "Qwen",
+      "模型发布",
+      "低成本推理",
+      "AI平台",
+      "性价比"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-022",
+    "title": "GLM-5.3 系列开源：Flash 已上线｜GLM-5.3 倒计时不到 24 小时",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512393&idx=1&sn=35381d65f9e573001f39cfbbe7ce90f5",
+    "category": "AI模型发布",
+    "relevance_score": 0.9,
+    "tags": [
+      "GLM-5.3",
+      "开源模型",
+      "编码基准",
+      "安全基准",
+      "效率优化",
+      "智谱AI",
+      "后训练",
+      "架构创新"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-023",
+    "title": "中客松 | 未定星海，正在招募航行者",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512393&idx=2&sn=9336c407e0e43689b903642a99fc87b5",
+    "category": "社区活动/创新竞赛",
+    "relevance_score": 0.7,
+    "tags": [
+      "黑客松",
+      "2026",
+      "招募",
+      "创新",
+      "协作开发",
+      "开放探索"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-024",
+    "title": "两万字长文｜手把手带你趟过 AI Coding 深水区：编码让位，人退到哪里",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803848&idx=1&sn=d61f1e7642a93c81c86fba2cf799f4b3",
+    "category": "AI工程实践/开发者体验",
+    "relevance_score": 0.95,
+    "tags": [
+      "AI Coding",
+      "开发者角色",
+      "人机协作",
+      "技术判断",
+      "工作流转型",
+      "深度实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-025",
+    "title": "AI 时代，还需要工匠精神吗？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998548&idx=1&sn=00ed161b2402d728aa9b956e10f3b897",
+    "category": "社会文化观察",
+    "relevance_score": 0.85,
+    "tags": [
+      "人工智能",
+      "工匠精神",
+      "生产方式",
+      "人文价值",
+      "未来工作"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-026",
+    "title": "AI工程范式的跃迁，一文讲透Context Engineering！",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697260&idx=1&sn=bbda847cb4e895e1ea99caf5acec9923",
+    "category": "AI工程方法论",
+    "relevance_score": 0.9,
+    "tags": [
+      "Context Engineering",
+      "AI工程",
+      "大语言模型",
+      "提示工程",
+      "RAG",
+      "LLM应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-027",
+    "title": "【大促备战】存储性能优化篇--从异构同步到链路解耦的 JES 治理实战",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502616&idx=1&sn=b59e359170c65256a3d3815bc98739ae",
+    "category": "后端架构与性能优化",
+    "relevance_score": 0.92,
+    "tags": [
+      "Elasticsearch",
+      "大促备战",
+      "性能优化",
+      "异构同步",
+      "链路解耦",
+      "资金流水",
+      "高并发查询"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-028",
+    "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
+    "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+    "category": "AI基础模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "大语言模型",
+      "轻量级",
+      "普惠AI",
+      "高效推理",
+      "低成本部署",
+      "智谱AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-029",
+    "title": "Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291651&idx=1&sn=2e3dabb2a6a17a5b3c69f2de1c908c5c",
+    "category": "AI行业观察",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "人机协作",
+      "自动化风险",
+      "企业AI落地",
+      "工程运维"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-030",
+    "title": "谷歌突然发布“最强听写模型”：Agent时代的落伍产品，还是关键拼图？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291651&idx=2&sn=6a1afdb794f2aeddd0177970f43aef64",
+    "category": "AI模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音识别",
+      "Gemini",
+      "谷歌",
+      "Agent",
+      "听写模型",
+      "多语言"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-031",
+    "title": "AI患者管理驶入深水区：如何让「管得住」变成「管出疗效」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052598&idx=1&sn=bbfc659cb66078285cbb3753c3095ab8",
+    "category": "医疗科技应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI医疗",
+      "乳腺癌",
+      "患者管理",
+      "精准医疗",
+      "长期治疗"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
+  },
+  {
+    "id": "2026-08-28-032",
+    "title": "刚刚，Claude Code又进化了，替用户起草「反馈报告」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651052598&idx=2&sn=c248e65c9354ba2d754dd3915cb37507",
+    "category": "AI工具与开发效率",
+    "relevance_score": 0.85,
+    "tags": [
+      "Claude Code",
+      "AI自我反馈",
+      "编程助手",
+      "错误报告",
+      "Anthropic",
+      "AI透明度"
+    ],
+    "status": "published",
+    "collected_at": "2026-08-28T10:12:48.879Z"
   }
 ]

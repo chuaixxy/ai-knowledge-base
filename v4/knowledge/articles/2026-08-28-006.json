@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-28-006",
+  "source_id": "https://arxiv.org/abs/2608.26109",
+  "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.26109",
+  "summary": "本研究在eICU Demo数据集上（2,353例ICU住院，死亡率8.1%）评估了独立大语言模型（LLM）与预定义四步智能体管线在解释ICU死亡率预测结果时的可行性。XGBoost模型取得了AUROC 0.855（95%CI 0.796–0.906）和AUPRC 0.332（95%CI 0.217–0.494）。在38例分层解释子集中，独立LLM产生了1例明确的结局泄露，而智能体管线则无泄露。在14例与SHAP审查重叠的病例中，独立LLM表现出的泄露倾向更为明显。研究表明，多步智能体管线通过分离数据解释、指南检查和最终解释，能有效减少结局泄露，为临床决策支持提供更可靠的叙事性解释。",
+  "tags": [
+    "ICU死亡率预测",
+    "大语言模型",
+    "智能体管线",
+    "可解释性",
+    "特征归因",
+    "临床决策支持",
+    "eICU数据集"
+  ],
+  "relevance_score": 0.9,
+  "category": "临床医疗AI/可解释性研究",
+  "key_insight": "多步智能体管线相比独立LLM能显著减少结局泄露，是生成临床可用解释的更可靠方案。"
+}

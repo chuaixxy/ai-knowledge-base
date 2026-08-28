@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-28-004",
+  "source_id": "https://arxiv.org/abs/2408.06602",
+  "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://arxiv.org/abs/2408.06602",
+  "summary": "该项目研究人们为何相信AI对个人行为的预测，探讨其背后的心理因素。通过实证调查，分析超自然信仰、技术信任度、认知偏差等对AI预测可信度的影响，揭示“超级智能”可能被视为“迷信”的心理机制。研究旨在区分理性评估与盲目信任，为AI应用设计提供心理学依据。",
+  "tags": [
+    "AI预测",
+    "心理学",
+    "认知偏差",
+    "技术信任",
+    "行为科学"
+  ],
+  "relevance_score": 0.7,
+  "category": "心理学与AI交叉研究",
+  "key_insight": "人们对AI预测的信念更多受心理因素驱动，而非实际准确性，可能形成新型迷信。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-28-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521712&idx=1&sn=584ee46d8b9021b56004a8a7e318e2d0",
+  "title": "ADrive 跨产品协作实践：文件通了，Agent 就通了",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521712&idx=1&sn=584ee46d8b9021b56004a8a7e318e2d0",
+  "summary": "ADrive项目聚焦于跨产品协作中的数据流通问题，提出“文件通了，Agent就通了”的核心理念。该项目通过统一文件接入层，打通不同产品间的数据壁垒，使AI Agent能够无缝访问和操作跨系统的文件资源。其技术实践包括标准化文件协议、元数据管理和权限控制，从而让Agent在协作场景中高效调用文件，提升自动化流程的连贯性与智能性。该方案强调文件作为AI交互的基础设施，是构建多产品协同Agent生态的关键前提。",
+  "tags": [
+    "文件系统",
+    "AI Agent",
+    "跨产品协作",
+    "数据互通",
+    "元数据管理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与数据协作",
+  "key_insight": "文件互通是Agent跨产品协作的前提，统一文件层能显著降低Agent集成复杂度并提升自动化效率。"
+}

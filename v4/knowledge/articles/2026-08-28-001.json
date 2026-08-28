@@ -1,0 +1,19 @@
+{
+  "id": "2026-08-28-001",
+  "source_id": "https://github.com/SenteLabsAI/OpenExecutive",
+  "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+  "source": "rss-hacker-news-best",
+  "url": "https://github.com/SenteLabsAI/OpenExecutive",
+  "summary": "该项目源于一条讽刺性新闻：某CEO解雇开发人员以引入AI，被解雇的开发者随后在GitHub创建了开源AI CEO项目（OpenExecutive），以对抗商业AI垄断。项目旨在提供可部署、透明、可审计的AI治理工具，模拟CEO决策逻辑，但强调开源、社区驱动和伦理约束。目前该项目在Hacker News上引发热议（975分，670条评论），讨论聚焦于AI替代人类管理者的合法性、开源对抗资本权力的可能性，以及AI治理的透明性。项目代码尚未成熟，更多是象征性抗议和实验性原型。",
+  "tags": [
+    "开源AI",
+    "AI治理",
+    "讽刺项目",
+    "开发者抗议",
+    "伦理AI",
+    "Hacker News热帖"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI伦理与开源运动",
+  "key_insight": "该项目以幽默反讽方式揭示AI取代白领工作的焦虑，同时用开源协作模式对抗封闭式AI权力集中，本质是开发者对AI治理民主化的宣言。"
+}

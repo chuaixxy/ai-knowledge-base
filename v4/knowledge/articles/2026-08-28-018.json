@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-28-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511307&idx=1&sn=a61beaf9d8ec073581a91674d90649f0",
+  "title": "AI 创新实践｜「架构师 Agent」系统化落地",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511307&idx=1&sn=a61beaf9d8ec073581a91674d90649f0",
+  "summary": "本文系统化地介绍了“架构师 Agent”的落地实践，旨在解决跨复杂业务系统的架构理解与设计难题。文章从核心挑战出发，提出了一个将架构知识、推理流程和工具链整合进 Agent 的方法论，并分享了实际应用中的经验与教训。通过将架构师的经验显性化、流程化，该 Agent 能够辅助团队进行系统分析、方案设计和风险评估，提升架构决策的效率与一致性。文中强调了结构化知识表示、多阶段推理和反馈闭环的重要性，为 AI 在架构领域的工程化提供了可借鉴的路径。",
+  "tags": [
+    "架构师Agent",
+    "AI工程化",
+    "系统设计",
+    "知识工程",
+    "LLM应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "架构师 Agent 的成功关键在于将隐性架构经验转化为可执行的结构化推理流程，而非单纯依赖大模型的通用能力。"
+}

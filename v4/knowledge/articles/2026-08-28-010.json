@@ -1,0 +1,20 @@
+{
+  "id": "2026-08-28-010",
+  "source_id": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+  "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+  "summary": "该研究通过随机对照试验，对1000多名大学生在使用ChatGPT和接受批判性思维训练前后的表现进行了分析，评估其在真实大学作业中的原创性和成绩。结果表明，ChatGPT的使用能显著提升答案的完整性和表述清晰度，但可能降低学生的独立思考能力；而结合批判性思维训练，则能有效平衡工具使用与原创性，提升综合学习效果。研究强调，AI工具应作为辅助而非替代，训练学生的批判性思维是发挥AI教育潜力的关键。",
+  "tags": [
+    "ChatGPT",
+    "批判性思维",
+    "随机对照试验",
+    "高等教育",
+    "AI教育",
+    "学生表现",
+    "原创性"
+  ],
+  "relevance_score": 0.95,
+  "category": "教育科技研究",
+  "key_insight": "ChatGPT提升答案质量但可能抑制原创性，批判性思维训练是弥补这一缺陷、实现AI赋能教育的关键。"
+}
