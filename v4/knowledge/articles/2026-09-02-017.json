@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521877&idx=1&sn=0a0633b5daac6e93db59009212cb3e93",
+  "title": "CloudLens for TOS：打通日志分析与数据透视，让对象存储可见、可查、可治理",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521877&idx=1&sn=0a0633b5daac6e93db59009212cb3e93",
+  "summary": "CloudLens for TOS 是火山引擎推出的一项针对对象存储（TOS）的日志分析与数据治理解决方案。它通过打通日志采集、存储、分析与可视化，使用户能够对存储在 TOS 中的数据进行全面透视，实现访问日志、操作日志的实时检索与监控，并支持数据生命周期管理、安全审计和成本优化。该项目旨在解决对象存储“黑盒”问题，提升数据可见性、可查性和可治理性，帮助企业更好地理解数据使用模式、识别潜在风险并优化存储策略。",
+  "tags": [
+    "对象存储",
+    "日志分析",
+    "数据治理",
+    "可观测性",
+    "云原生"
+  ],
+  "relevance_score": 0.85,
+  "category": "云原生数据基础设施",
+  "key_insight": "将日志分析与对象存储深度融合，让存储数据从被动保存变为主动可治理的资产。"
+}

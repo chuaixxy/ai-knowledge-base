@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-003",
+  "source_id": "https://arxiv.org/abs/2608.28590",
+  "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.28590",
+  "summary": "DS-Lighting 是一个用于数据科学自动化的统一工具包，旨在使代理的‘编排层’（harness）设计明确化。现有数据科学代理通常将编排层隐式化，导致结果难以复现和比较。DS-Lighting 将编排层分解为四个可复用层次：数据、工作流、执行和评估，并将多样化的代理表示为可执行的操作符程序，支持预定义流程和自适应搜索。此外，它集成了多个开源基准测试到 MLE-Bench 风格的任务格式，在共享任务接口和沙盒运行时下实现可控对比。",
+  "tags": [
+    "LLM Agent",
+    "数据科学自动化",
+    "工具包",
+    "工作流编排",
+    "基准测试"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI Agent 工具与基础设施",
+  "key_insight": "通过将隐式编排层显式分解为可复用层次，DS-Lighting 提升了数据科学代理的可复现性、可比较性和可归因性。"
+}

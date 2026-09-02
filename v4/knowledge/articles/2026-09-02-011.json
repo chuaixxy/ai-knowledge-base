@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-011",
+  "source_id": "https://huggingface.co/blog/allenai/benchmirt",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/benchmirt",
+  "summary": "BenchMIRT是一个分析大型语言模型（LLM）基准测试实际测量内容的项目。它旨在揭示当前流行的LLM基准测试（如MMLU、GSM8K等）真正评估的能力，而非仅关注表面分数。通过深入分析基准测试的设计、题目来源和模型表现，项目发现许多基准测试存在数据污染、题目过时或评估维度单一的问题，导致高分并不等同于模型具备真正的推理或通用能力。项目提出了一种更细粒度的评估框架，帮助研究者理解模型在不同任务类型上的真实强弱项，并推动基准测试设计的改进。其核心目标是提升LLM评估的科学性和透明度，避免被表面指标误导。",
+  "tags": [
+    "LLM评估",
+    "基准测试",
+    "数据污染",
+    "模型能力分析",
+    "AI透明性"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI评估与基准测试",
+  "key_insight": "基准测试的高分常掩盖模型能力的真实短板，需从任务细节而非总分来解读模型实力。"
+}

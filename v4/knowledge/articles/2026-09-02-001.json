@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-001",
+  "source_id": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "title": "44% on ARC-AGI-1 in 67 cents",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "summary": "该项目展示了在ARC-AGI-1基准测试中以极低成本（67美分）达到44%准确率的技术成果。ARC-AGI-1是评估通用人工智能抽象推理能力的基准，通常难度较高。该结果暗示通过高效算法或模型优化，能在资源受限条件下取得显著性能，可能采用提示工程、小模型微调或混合推理策略。其成本效益突出，对边缘计算和低成本AI部署具有启示意义，但44%准确率仍低于人类水平，表明抽象推理仍有提升空间。",
+  "tags": [
+    "ARC-AGI",
+    "低成本推理",
+    "抽象推理",
+    "模型优化",
+    "基准测试"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI研究/推理效率",
+  "key_insight": "以极低计算成本逼近中等推理能力，凸显算法效率与资源权衡的突破潜力。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-002",
+  "source_id": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+  "title": "Just a rumour of a bug is enough to find a security exploit these days",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+  "summary": "该项目讨论了一个现象：在现代软件安全领域，仅仅一条关于漏洞的传闻，就足以促使安全研究人员迅速发现并利用该漏洞。文章指出，公开的提示或暗示（如“某处存在bug”）会显著降低攻击者的搜索成本，使其能通过定向猜测、代码审计或模糊测试快速定位问题。这反映了安全社区中信息扩散的双刃剑效应——传闻既能加速修复，也能加速攻击。项目强调了对漏洞披露策略的审慎考量，以及开发者需在传闻出现前就加固代码，而非依赖保密。",
+  "tags": [
+    "安全漏洞",
+    "信息泄露",
+    "漏洞挖掘",
+    "披露策略",
+    "攻击向量"
+  ],
+  "relevance_score": 0.85,
+  "category": "网络安全研究",
+  "key_insight": "漏洞传闻本身就是一种高价值攻击线索，安全防护必须假设攻击者会基于任何公开暗示进行主动探测。"
+}

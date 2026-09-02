@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-02-039",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053243&idx=1&sn=ee63c3e0daa3f81ef213c566ed9872bf",
+  "title": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053243&idx=1&sn=ee63c3e0daa3f81ef213c566ed9872bf",
+  "summary": "腾讯混元开源了新一代大模型Hy4 preview，总参数量达到770B，激活参数49B，支持1M上下文，端到端吞吐提升31.8%。该模型重点强化代码、办公、游戏和科研等实用场景，在Arena代码测试中排名第5（开源模型第3），内部工程任务盲测超过GLM和Kimi。模型权重和代码完全开源，商用许可宽松，API定价为输入6元/百万tokens、输出18元/百万tokens，并配套WorkBuddy和CodeBuddy提供两周免费体验。该版本强调实际任务执行能力，而非单纯追求分数。",
+  "tags": [
+    "腾讯混元",
+    "开源模型",
+    "大模型",
+    "MoE",
+    "代码生成",
+    "办公自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型发布",
+  "key_insight": "Hy4 preview通过更大参数与稀疏激活的平衡，将模型能力从'会聊天'转向'能干活'，以极低商用门槛抢占企业级实用场景市场。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-008",
+  "source_id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "summary": "该项目使医疗组织能够将电子健康记录（EHR）及其他行业数据安全地连接到ChatGPT。通过这种集成，临床医生可以便捷地获取患者上下文、医学研究等可信信息，从而辅助临床决策。其核心价值在于利用大语言模型处理敏感医疗数据，同时强调安全性和信任度，有望提升医疗信息检索效率和诊疗质量。",
+  "tags": [
+    "医疗AI",
+    "EHR集成",
+    "ChatGPT",
+    "数据安全",
+    "临床决策"
+  ],
+  "relevance_score": 0.9,
+  "category": "医疗健康技术",
+  "key_insight": "将大语言模型与受信任的医疗数据源打通，是AI在临床场景落地的关键一步，但数据隐私和合规性将是规模化应用的核心挑战。"
+}

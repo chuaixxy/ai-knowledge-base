@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498506&idx=1&sn=9d0a30eb4a08acd79a00b379127f6c7e",
+  "title": "1.5 TB 压到 214 GB，Hy4 preview 轻量版来了",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498506&idx=1&sn=9d0a30eb4a08acd79a00b379127f6c7e",
+  "summary": "该项目介绍了一个名为 Hy4 preview 的轻量版模型，能将 1.5 TB 的原始数据压缩至 214 GB，实现约 7 倍的数据缩减。这种压缩可能通过模型量化、知识蒸馏或稀疏化等技术实现，旨在降低存储和计算成本，同时保持模型性能。该进展对大规模 AI 模型的部署和边缘计算具有实际意义，尤其适用于资源受限环境。",
+  "tags": [
+    "模型压缩",
+    "数据缩减",
+    "轻量级AI",
+    "高效部署",
+    "存储优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型优化",
+  "key_insight": "Hy4 preview 展示了通过极致压缩技术大幅降低模型体积的可行性，为大规模 AI 模型的实用化铺平了道路。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562254&idx=1&sn=77b80c213b5e45ae40cdb09a0a6c15dd",
+  "title": "从 Loop 到 Graph Engineering 的演进思考与实战",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562254&idx=1&sn=77b80c213b5e45ae40cdb09a0a6c15dd",
+  "summary": "本项目探讨了从传统的循环（Loop）编程范式向图工程（Graph Engineering）范式演进的思考与实践。核心在于理解图结构在数据处理、依赖管理和并行计算中的优势，通过将迭代逻辑转化为图节点与边的关系，实现更高效的执行与可扩展性。实战部分可能涉及构建图计算框架或优化现有循环流程，以提升性能、可维护性和对复杂关系的表达能力。",
+  "tags": [
+    "Graph Engineering",
+    "Loop",
+    "数据处理",
+    "并行计算",
+    "架构演进"
+  ],
+  "relevance_score": 0.85,
+  "category": "软件工程",
+  "key_insight": "图工程通过显式表达依赖关系，将隐式的循环控制流转化为可优化的数据流图，从而突破顺序执行的性能瓶颈并提升系统弹性。"
+}

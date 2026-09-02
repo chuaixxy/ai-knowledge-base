@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-02-012",
+  "source_id": "https://huggingface.co/blog/webgpu-kernels",
+  "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/webgpu-kernels",
+  "summary": "Hugging Face 发布了 @huggingface/kernels，一个包含 200+ 个 WebGPU 内核的库，旨在加速浏览器中的本地 AI 推理。这些内核针对 Transformer 模型（如 Llama、Mistral）进行了优化，支持 FP16、INT8 等量化格式，并通过自定义算子实现更快的注意力机制和矩阵乘法。项目目标是降低 WebAI 的延迟和内存占用，使开发者能在浏览器或边缘设备上高效运行生成式 AI 模型，无需服务器。该库与 Transformers.js 集成，提供易用的 API，并支持自定义内核扩展。",
+  "tags": [
+    "WebGPU",
+    "AI推理",
+    "浏览器",
+    "HuggingFace",
+    "内核",
+    "本地AI",
+    "Transformer",
+    "优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "机器学习基础设施",
+  "key_insight": "通过 200+ 个 WebGPU 内核，将高性能 AI 推理带到浏览器，实现完全本地化、低延迟的生成式 AI 体验。"
+}

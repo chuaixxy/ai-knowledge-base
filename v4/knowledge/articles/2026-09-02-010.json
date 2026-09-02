@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-010",
+  "source_id": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+  "source": "rss-google-ai-blog",
+  "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "summary": "Google 推出了基于最新 Nano Banana 模型的图像创建与编辑工具 Google Pics，并已集成到 Google Workspace 中。该工具旨在简化用户在文档、幻灯片等办公场景中的图像生成和编辑流程，提升创作效率。Nano Banana 模型可能具备高效的生成能力和精准的编辑指令理解，使得非专业用户也能轻松制作和修改图片。这一功能有望增强 Google Workspace 的竞争力，满足用户对多媒体内容日益增长的需求。",
+  "tags": [
+    "图像生成",
+    "图像编辑",
+    "Google Workspace",
+    "AI模型",
+    "Nano Banana"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用工具",
+  "key_insight": "Google Pics 将先进图像 AI 嵌入办公套件，降低创作门槛，可能引领办公内容生产新范式。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575621&idx=1&sn=8290443eb34c7172f90689cbe8ecc493",
+  "title": "面向 Agent 沙箱的内核全景观测｜滴滴开源 CCF 中国开源大会分享回顾",
+  "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575621&idx=1&sn=8290443eb34c7172f90689cbe8ecc493",
+  "summary": "滴滴在CCF中国开源大会上分享了面向Agent沙箱的内核全景观测技术。该项目聚焦于为AI Agent提供安全、可控的运行沙箱环境，通过内核级观测手段（如系统调用追踪、资源隔离监控、文件与网络活动审计）实现对整个Agent运行过程的深度可视化与实时监控。其核心目标是提升Agent执行的可信度与安全性，帮助开发者发现隐藏的异常行为、性能瓶颈或潜在安全威胁，从而为复杂AI应用的落地提供坚实的可观测性基础设施。",
+  "tags": [
+    "AI Agent",
+    "沙箱安全",
+    "内核观测",
+    "可观测性",
+    "开源"
+  ],
+  "relevance_score": 0.85,
+  "category": "云原生/系统软件",
+  "key_insight": "以内核全景观测为Agent沙箱构建安全可信的‘黑匣子’，让AI行为可审计、可追踪、可防御。"
+}

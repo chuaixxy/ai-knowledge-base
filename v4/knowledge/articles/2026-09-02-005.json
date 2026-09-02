@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-02-005",
+  "source_id": "https://arxiv.org/abs/2608.28592",
+  "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2608.28592",
+  "summary": "该研究构建了肿瘤学决策边界基准（ODBB），包含2005个肿瘤学决策点，覆盖NCCN指南和结直肠癌病例。研究评估了2025年6月至2026年4月发布的九个前沿大语言模型（四个闭源、五个开源家族），使用完全确定性的评分器（零LLM推理）将输出分类为14种失败类型，并由两名肿瘤学家独立验证（Cohen加权κ=0.939和0.790）。研究发现，将九个模型视为一个集成超级模型时，仅有42.1%（Wilson 95% CI 40.0-44.3%）的决策正确，揭示了前沿LLM在遵循指南的路径选择、升级判断和不确定性下的承诺方面存在共同的决策盲区，且简单组合模型无法修复这些系统性缺陷。",
+  "tags": [
+    "大语言模型",
+    "肿瘤学",
+    "决策边界",
+    "NCCN指南",
+    "模型评估",
+    "基准测试",
+    "临床决策"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI医疗应用研究",
+  "key_insight": "前沿LLM在肿瘤学决策上存在集体性的系统性盲区，且模型集成无法弥补，说明现有模型缺乏真正的临床推理能力而不仅是知识缺陷。"
+}

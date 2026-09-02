@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-013",
+  "source_id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "summary": "该开源语音识别（ASR）排行榜首次纳入南半球语言，标志着全球语音技术评测的包容性提升。此举旨在减少对英语、中文等主流语言的偏见，为资源较少的南半球语言（如非洲、南亚、东南亚等地区语言）提供标准化基准，促进本地化ASR模型开发与公平对比。项目通过公开评测数据、模型性能和错误分析，帮助研究者识别现有系统的短板，推动更广泛的语言覆盖，增强技术普惠性，并可能带动相关语料库建设和社区参与。",
+  "tags": [
+    "ASR",
+    "开源评测",
+    "语言多样性",
+    "南半球",
+    "语音识别"
+  ],
+  "relevance_score": 0.85,
+  "category": "语音技术/评测基准",
+  "key_insight": "纳入南半球语言是ASR评测从主流中心走向全球多样性的关键一步，揭示并推动解决技术覆盖不均的问题。"
+}

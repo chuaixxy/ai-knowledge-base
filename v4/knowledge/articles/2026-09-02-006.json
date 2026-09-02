@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-02-006",
+  "source_id": "https://openai.com/index/ai-native-company-workflows",
+  "title": "How AI-native companies turn workflows into operating capability",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/ai-native-company-workflows",
+  "summary": "该项目探讨了AI原生企业如何将工作流程转化为运营能力，重点分析了Basis、Clay和Exa Labs三家公司的实践。它们利用AI代理优化客户入职、账户管理和开发者集成，展示了AI在提升效率、自动化流程和增强客户体验方面的潜力。文章为企业领导者提供了可借鉴的策略，强调将AI嵌入核心业务流程，实现从工具到运营能力的转变。",
+  "tags": [
+    "AI代理",
+    "工作流程",
+    "运营能力",
+    "客户入职",
+    "账户管理",
+    "开发者集成",
+    "企业AI"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术趋势分析",
+  "key_insight": "AI原生企业通过将AI代理嵌入具体业务流程，将重复性工作转化为可扩展的运营能力，从而实现效率跃升和竞争优势。"
+}

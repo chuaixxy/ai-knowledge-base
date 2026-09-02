@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562213&idx=1&sn=b5d701423e4bcb9c5775a7c6af19e234",
+  "title": "从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562213&idx=1&sn=b5d701423e4bcb9c5775a7c6af19e234",
+  "summary": "本文从工程师视角探讨了AI Agent协作机制的演进，从基础的ReAct模式（推理与行动循环）到更复杂的多Agent团队协作。文章分析了ReAct框架的局限性（如单线程、缺乏分工），并提出了Agent Teams的概念，强调通过角色分工、任务分解和通信协议实现并行处理与高效协作。作者结合工程实践，讨论了设计Agent团队时的关键考量，如状态管理、错误恢复、任务调度及人机协作边界，旨在构建更健壮、可扩展的智能系统。文章为开发者提供了从单体Agent向协作式多Agent架构转型的实用思路。",
+  "tags": [
+    "AI Agent",
+    "ReAct",
+    "多Agent协作",
+    "架构设计",
+    "工程实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程与架构",
+  "key_insight": "从ReAct到Agent Teams的核心是引入角色分工与通信机制，以解决单Agent在复杂任务中的效率与扩展性瓶颈。"
+}

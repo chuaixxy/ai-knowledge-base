@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498489&idx=1&sn=a73dab1ed3e872e1eec2524fb18f7254",
+  "title": "Hy4 preview调用激增，WorkBuddy已紧急扩容",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498489&idx=1&sn=a73dab1ed3e872e1eec2524fb18f7254",
+  "summary": "Hy4 preview 模型近期调用量激增，导致推理集群负载过高。为保障服务稳定性和用户体验，WorkBuddy 团队已对 Hy4 preview 推理集群实施紧急扩容，以提升并发处理能力，缓解资源瓶颈。此次扩容旨在应对突发的流量高峰，确保模型推理响应速度和可用性，支撑业务持续增长。该行动体现了团队对基础设施弹性和可扩展性的重视，也为后续更大规模应用打下基础。",
+  "tags": [
+    "Hy4",
+    "扩容",
+    "推理集群",
+    "稳定性",
+    "WorkBuddy"
+  ],
+  "relevance_score": 0.9,
+  "category": "基础设施与运维",
+  "key_insight": "Hy4 调用激增凸显了推理基础设施的弹性需求，紧急扩容是保障服务连续性的关键举措。"
+}

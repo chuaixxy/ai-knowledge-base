@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-02-007",
+  "source_id": "https://openai.com/index/path-to-astra",
+  "title": "Path to Astra: critical capabilities and frontier safeguards",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/path-to-astra",
+  "summary": "该项目介绍了OpenAI的Astra模型，这是首个在Preparedness框架下达到关键网络安全能力阈值的模型，并配备了更强的发布安全防护措施。Astra代表了前沿AI安全与能力平衡的重要进展，强调在提升模型性能的同时，通过严格的评估和防护机制降低潜在风险。项目聚焦于关键能力（如网络攻击防御）与前沿防护的融合，体现了AI治理中的主动安全策略。",
+  "tags": [
+    "AI安全",
+    "网络安全",
+    "前沿模型",
+    "OpenAI",
+    "Preparedness框架"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI安全与治理",
+  "key_insight": "Astra通过达到关键网络安全能力阈值并强化防护，展示了前沿AI在能力与安全可并行的范式。"
+}
