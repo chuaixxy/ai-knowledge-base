@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-03-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511370&idx=1&sn=c9f4ff1d054cb229ac2f8c1462fcb05e",
+  "title": "AI Agent 应用精细化评测：评测体系设计与工程实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511370&idx=1&sn=c9f4ff1d054cb229ac2f8c1462fcb05e",
+  "summary": "本文探讨了AI Agent应用评测体系的设计与工程实践，重点解决传统单轮评测无法覆盖Agent多步交互、工具调用和状态管理等复杂场景的问题。作者提出从任务完成度、路径合理性、鲁棒性和效率四个维度构建评测框架，并介绍了基于模拟用户、环境沙盒和自动化断言的可扩展评测流水线。文章强调评测数据需动态生成与人工标注结合，并分享了在真实项目中落地的经验，包括评测用例管理、回归测试和指标看板建设，为构建高质量Agent提供了系统化方法论。",
+  "tags": [
+    "AI Agent",
+    "评测体系",
+    "自动化测试",
+    "质量保障",
+    "工程实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程方法论",
+  "key_insight": "Agent评测需从静态问答转向多维度动态流程评测，以模拟真实交互和工具调用为核心，才能有效驱动迭代优化。"
+}

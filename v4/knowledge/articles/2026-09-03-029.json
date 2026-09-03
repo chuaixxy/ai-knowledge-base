@@ -1,0 +1,17 @@
+{
+  "id": "2026-09-03-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697286&idx=1&sn=65d6dbb523f04f06b83088e7a2ba978c",
+  "title": "删掉80%的Prompt规则，Agent交付成功率反而更高了",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697286&idx=1&sn=65d6dbb523f04f06b83088e7a2ba978c",
+  "summary": "该项目探索了一种反直觉的Agent Prompt优化方法：通过删除约80%的预设规则（如冗长的角色设定、行为约束和工具说明），Agent的交付成功率反而显著提升。研究认为，过多规则会导致模型注意力分散、上下文冗余和决策僵化，而精简后的Prompt让模型更依赖自身推理能力和少量核心目标，从而提升灵活性与任务完成质量。实验覆盖了代码生成、数据分析等场景，验证了\"少即是多\"在Agent工程中的有效性。",
+  "tags": [
+    "Prompt工程",
+    "Agent优化",
+    "简化规则",
+    "大语言模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "删除80%的Prompt规则反而提升成功率，说明Agent的核心能力来自模型自身推理，而非外部规则堆砌。"
+}

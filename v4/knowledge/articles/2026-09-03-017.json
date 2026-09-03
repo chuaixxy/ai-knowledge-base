@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-03-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da",
+  "title": "AI 驱动研发体系的实践和思考",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da",
+  "summary": "本项目探讨了AI在研发体系中的实践应用，强调本地优先原则，即优先使用本地化AI工具以保障数据隐私和定制化需求，同时构建知识飞轮，通过AI辅助编码、测试、代码审查等环节，不断积累和沉淀研发知识，形成正向循环，提升研发效率和工程质量。",
+  "tags": [
+    "AI驱动研发",
+    "本地优先",
+    "知识飞轮",
+    "研发效能",
+    "AI辅助编程"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术实践",
+  "key_insight": "通过本地优先的AI工具链和知识飞轮机制，将AI融入研发全流程，实现研发知识的持续积累与复用，从而显著提升研发效能。"
+}

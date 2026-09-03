@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-03-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538133&idx=1&sn=eba2b90c9fe4d6f1f288589ecc28733e",
+  "title": "UI-Venus-2开源：不只会看屏幕，更能跨场景把事做完的三端一体GUI-Agent",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538133&idx=1&sn=eba2b90c9fe4d6f1f288589ecc28733e",
+  "summary": "UI-Venus-2是蚂蚁集团Venus团队开源的跨场景GUI智能体，支持在移动端（170+中英文App）、Web端（4000+域名）和原生桌面环境中执行复杂任务。它不仅具备屏幕理解能力，还能跨应用、跨平台完成操作，实现真正的端侧智能。该项目通过统一的多模态感知与规划架构，提升GUI自动化与任务执行的泛化性，是面向下一代交互式AI助手的基础设施。",
+  "tags": [
+    "GUI-Agent",
+    "多模态",
+    "跨端自动化",
+    "开源",
+    "蚂蚁集团",
+    "智能体"
+  ],
+  "relevance_score": 0.92,
+  "category": "AI智能体/多模态交互",
+  "key_insight": "从'看懂屏幕'升级为'跨场景执行'，UI-Venus-2将GUI-Agent从单一环境推向三端统一的操作智能。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-03-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512657&idx=1&sn=dea54475773ec5d650c854b4bfd52d1a",
+  "title": "Spark-X2.5开源：4B&1.7B 智能体模型，探索端侧大模型的智能体能力上限",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512657&idx=1&sn=dea54475773ec5d650c854b4bfd52d1a",
+  "summary": "科大讯飞开源了Spark-X2.5系列智能体模型，包含4B和1.7B两个参数规模，采用混合注意力机制，原生支持100万token的超长上下文。该模型在代码生成、数学推理和智能体任务上刷新了同尺寸模型的最优性能，并针对端侧设备提供了多平台部署方案，旨在探索在资源受限环境下实现强大智能体能力的可能性。",
+  "tags": [
+    "开源模型",
+    "智能体",
+    "端侧AI",
+    "混合注意力",
+    "长上下文",
+    "代码生成",
+    "数学推理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型与基础设施",
+  "key_insight": "轻量级模型通过架构创新和超长上下文支持，在端侧实现了接近大型模型的智能体能力，为边缘AI部署开辟了新路径。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-03-011",
+  "source_id": "https://openai.com/index/atv-big-air-tour",
+  "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/atv-big-air-tour",
+  "summary": "该项目展示了ATV Big Air Tour（极限运动巡回赛）如何将ChatGPT Work（即ChatGPT企业/工作版）应用于运营全流程，将原本需要3天的工作压缩至3小时。具体应用包括快速生成营销内容、设计商品，并将商品照片在15分钟内自动转化成一个在线库存网站。这体现了生成式AI在非技术型中小企业中作为“虚拟数字员工”的潜力，大幅降低对专业开发人员和设计师的依赖。项目核心价值在于验证了AI在内容生产、电商基础设施搭建和运营效率提升上的实用性，尤其适合活动策划、零售等劳动密集型行业。",
+  "tags": [
+    "ChatGPT Work",
+    "AI自动化",
+    "中小企业",
+    "电商网站",
+    "营销效率",
+    "内容生成",
+    "库存管理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用案例（效率提升）",
+  "key_insight": "生成式AI能将非技术型业务中的重复性工作（如商品上架）转化为分钟级任务，是中小企业实现数字化转型的低门槛捷径。"
+}

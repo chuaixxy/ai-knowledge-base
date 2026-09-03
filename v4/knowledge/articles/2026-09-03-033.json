@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-03-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546690&idx=1&sn=8387c3c66eb9c1ebb2d9842a3bae9348",
+  "title": "得物小摊 AI Native 演进实录：用 Harness 构建可控 AI 交付",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546690&idx=1&sn=8387c3c66eb9c1ebb2d9842a3bae9348",
+  "summary": "该项目复盘了“得物小摊”在AI原生演进中，如何从追求生成速度转向确保交付稳定性。作者以一人全栈视角，详细解析了使用Harness框架构建可控AI交付流程的实践，强调通过可检查、可复验、可追责的机制，将“生成得快”转化为“交付得稳”。文章核心在于分享真实经验，展示AI应用在生产环境中如何平衡效率与可靠性，避免生成失控，确保结果可追溯。",
+  "tags": [
+    "AI原生",
+    "Harness",
+    "可控交付",
+    "全栈实践",
+    "可靠性",
+    "技术复盘"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "AI交付的成败不在于生成速度，而在于通过可控机制实现可检查、可复验、可追责的稳定交付。"
+}

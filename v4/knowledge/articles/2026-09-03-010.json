@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-03-010",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+  "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+  "summary": "该项目由开发者通过逆向TikTok移动应用，在3周内抓取了59.4亿条视频和32.3亿个用户资料，并将完整数据集免费上传至Hugging Face。数据集包含视频、个人资料、评论、回复、标签和声音等公开数据，但访问方式可能违反TikTok服务条款。项目提供了详细教程和部分代码，完整代码需付费获取，并附带一个商业API网站。数据规模巨大，具有研究价值，但存在法律和伦理风险。",
+  "tags": [
+    "TikTok",
+    "数据抓取",
+    "逆向工程",
+    "大规模数据集",
+    "Hugging Face",
+    "开源",
+    "API",
+    "隐私"
+  ],
+  "relevance_score": 0.7,
+  "category": "数据工程/网络爬虫",
+  "key_insight": "通过移动端逆向实现超大规模公开数据采集，但商业化和合规性挑战并存。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-03-006",
+  "source_id": "https://arxiv.org/abs/2609.00002",
+  "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.00002",
+  "summary": "本文提出HyperWorld，研究文本世界模型中状态序列化结构的影响。对比原始观测与三种符号序列化方式：独立句子、成对三元组和以实体为中心的超边单元。所有变体使用相同训练目标：给定状态和动作，预测符号效果或判断动作不可行。实验涵盖不同模型规模、数据预算及分布内和分布外测试世界，发现超边序列化在0.5B至1.5B模型及分布偏移下带来最明显增益，而更大模型缩小了这种差距。",
+  "tags": [
+    "世界模型",
+    "文本环境",
+    "状态序列化",
+    "超图",
+    "语言模型智能体",
+    "分布偏移",
+    "符号效果预测"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI研究论文",
+  "key_insight": "超边序列化通过结构化分组相关事实，显著提升中小规模语言模型在文本世界模型中的泛化能力，尤其在分布外场景下。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-03-013",
+  "source_id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+  "summary": "该项目结合IBM的时间序列分析模型与Confluent的实时数据流平台，旨在构建端到端的实时智能解决方案。它利用Confluent Kafka处理高吞吐、低延迟的数据接入和流式处理，同时集成IBM的时序模型（如预测、异常检测）对连续到达的数据进行在线分析。项目重点解决在分布式流环境中部署复杂时序算法的挑战，包括模型序列化、状态管理和结果回写。通过演示架构和代码示例，展示了如何从传感器或业务事件中实时提取洞察，支撑预测性维护、实时监控等场景。整体上，这是一个技术集成与架构设计导向的项目，强调可扩展性和生产可用性。",
+  "tags": [
+    "实时流处理",
+    "时间序列分析",
+    "Kafka",
+    "Confluent",
+    "IBM",
+    "异常检测",
+    "预测性维护"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据工程与机器学习集成",
+  "key_insight": "该项目展示了将成熟的时序分析库无缝嵌入流处理管道，从而把AI推理从批量模式推向毫秒级响应的实用范式。"
+}

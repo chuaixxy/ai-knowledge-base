@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-03-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291986&idx=2&sn=b57ddf8dd7fac4ae313f3f218a11ed11",
+  "title": "3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291986&idx=2&sn=b57ddf8dd7fac4ae313f3f218a11ed11",
+  "summary": "亚马逊云科技将内部Agent工作台Kiro Crew开源，这是一个由3名开发者打造的副业项目，主打AI编程的“长期委派”模式，即AI智能体可自主执行多步骤开发任务。项目发布半年即吸引超过4万名开发者使用，验证了市场对自主型AI编码工具的巨大需求。Kiro Crew的核心价值在于将AI从辅助工具升级为可独立完成复杂任务的协作者，降低了开发者的重复劳动负担。其开源策略有助于快速建立生态，但也面临与GitHub Copilot等既有产品的竞争。",
+  "tags": [
+    "AI编程",
+    "开源",
+    "Agent工作台",
+    "亚马逊",
+    "开发者工具",
+    "长期委派",
+    "副业项目"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI开发工具/开源生态",
+  "key_insight": "Kiro Crew的成功证明，AI编程正从“代码补全”转向“任务自主执行”，开源模式能有效加速市场渗透，但需警惕巨头竞争与产品差异化挑战。"
+}

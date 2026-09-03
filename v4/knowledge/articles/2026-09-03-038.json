@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-03-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054212&idx=2&sn=60e918d46f57e0532054d6424cd31992",
+  "title": "李飞飞发布Atlas，世界模型进入新时代",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054212&idx=2&sn=60e918d46f57e0532054d6424cd31992",
+  "summary": "李飞飞团队发布Atlas，标志着世界模型从视觉理解（Marble）向机器人具身智能的跨越。Atlas通过融合多模态感知与因果推理，使机器人能在动态环境中自主规划动作，实现‘看懂世界’到‘改变世界’的升级。该技术有望推动通用机器人、自动驾驶和智能制造的发展，但面临实时计算和泛化挑战。",
+  "tags": [
+    "世界模型",
+    "李飞飞",
+    "具身智能",
+    "机器人",
+    "多模态",
+    "AI前沿"
+  ],
+  "relevance_score": 0.92,
+  "category": "AI技术前沿",
+  "key_insight": "世界模型正从被动理解转向主动交互，Atlas是迈向通用机器人的关键一步。"
+}

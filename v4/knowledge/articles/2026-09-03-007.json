@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-03-007",
+  "source_id": "https://arxiv.org/abs/2609.00003",
+  "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.00003",
+  "summary": "I-CARE是一个针对文本到图像模型中机器遗忘干扰现象的方法论框架。机器遗忘旨在移除模型已学习的特定概念，但常导致相关概念性能意外下降，即干扰。现有研究对此缺乏统一定义和评估标准。I-CARE将干扰作为生成式遗忘中的一等研究对象，提出正式的任务定义、评估指标和结果报告模板，以支持跨设置的系统性、可复现研究。该方法论不依赖特定模型或算法，旨在随技术演进保持有效性，将长期科学见解与短期实证结果分离。论文提供了可行性演示，但未给出具体结果。该工作有助于标准化干扰评估，推动生成式遗忘的可靠发展。",
+  "tags": [
+    "机器遗忘",
+    "文本到图像",
+    "干扰分析",
+    "方法论",
+    "生成模型",
+    "AI安全",
+    "可复现性"
+  ],
+  "relevance_score": 0.7,
+  "category": "AI模型安全与伦理",
+  "key_insight": "将干扰作为生成式机器遗忘中的正式研究对象，通过标准化定义和报告模板实现跨设置的可复现评估。"
+}

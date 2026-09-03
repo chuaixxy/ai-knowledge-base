@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-03-004",
+  "source_id": "https://arxiv.org/abs/2604.25580",
+  "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://arxiv.org/abs/2604.25580",
+  "summary": "本文反思了Perspective API（谷歌的毒性检测工具）的停用或局限，探讨其对NLP、计算社会科学（CSS）及大语言模型（LLM）评估中测量基础设施的启示。作者指出，依赖单一黑盒API进行有害内容测量存在不透明、漂移和偏见问题，强调需要构建开放、可复现、多维度且社区驱动的评估基准与基础设施。文章呼吁研究者转向更细粒度的测量协议，关注模型行为而非分数，并建立可持续的维护机制，以避免评估体系随商业API的消失而失效。",
+  "tags": [
+    "Perspective API",
+    "NLP评估",
+    "LLM评测",
+    "测量基础设施",
+    "毒性检测",
+    "可复现性",
+    "计算社会科学"
+  ],
+  "relevance_score": 0.9,
+  "category": "NLP评估与基础设施",
+  "key_insight": "评估工具的生命周期与透明度比单一分数更重要，NLP/LLM测量需从依赖商业黑盒转向开放、可持续的社区基础设施。"
+}

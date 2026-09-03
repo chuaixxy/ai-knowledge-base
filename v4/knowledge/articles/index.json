@@ -19807,5 +19807,676 @@
     ],
     "status": "published",
     "collected_at": "2026-09-02T03:32:17.687Z"
+  },
+  {
+    "id": "2026-09-03-001",
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "category": "AI伦理与信息生态",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI推荐",
+      "SEO操纵",
+      "程序化内容",
+      "虚假信息",
+      "Perplexity",
+      "内容农场"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-002",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://danluu.com/zitron/",
+    "category": "技术评论与预测",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI预测",
+      "技术评论",
+      "Ed Zitron",
+      "悲观主义",
+      "实证分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-003",
+    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "category": "行业评论",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI",
+      "游戏行业",
+      "裁员",
+      "创造力",
+      "独立游戏",
+      "技术炒作"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-004",
+    "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/abs/2604.25580",
+    "category": "NLP评估与基础设施",
+    "relevance_score": 0.9,
+    "tags": [
+      "Perspective API",
+      "NLP评估",
+      "LLM评测",
+      "测量基础设施",
+      "毒性检测",
+      "可复现性",
+      "计算社会科学"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-005",
+    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "category": "智能制造",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI",
+      "3D打印",
+      "金属合金",
+      "制造",
+      "参数优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-006",
+    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.00002",
+    "category": "AI研究论文",
+    "relevance_score": 0.9,
+    "tags": [
+      "世界模型",
+      "文本环境",
+      "状态序列化",
+      "超图",
+      "语言模型智能体",
+      "分布偏移",
+      "符号效果预测"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-007",
+    "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.00003",
+    "category": "AI模型安全与伦理",
+    "relevance_score": 0.7,
+    "tags": [
+      "机器遗忘",
+      "文本到图像",
+      "干扰分析",
+      "方法论",
+      "生成模型",
+      "AI安全",
+      "可复现性"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-008",
+    "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.00004",
+    "category": "运营管理/运筹优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "马尔可夫决策过程",
+      "容量受限批量生产",
+      "随机需求时间",
+      "多物品库存管理",
+      "有限时域优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-009",
+    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+    "category": "社区招聘信息聚合",
+    "relevance_score": 0.9,
+    "tags": [
+      "招聘",
+      "求职",
+      "机器学习",
+      "社区活动",
+      "每月帖"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-010",
+    "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+    "category": "数据工程/网络爬虫",
+    "relevance_score": 0.7,
+    "tags": [
+      "TikTok",
+      "数据抓取",
+      "逆向工程",
+      "大规模数据集",
+      "Hugging Face",
+      "开源",
+      "API",
+      "隐私"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-011",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/atv-big-air-tour",
+    "category": "AI应用案例（效率提升）",
+    "relevance_score": 0.85,
+    "tags": [
+      "ChatGPT Work",
+      "AI自动化",
+      "中小企业",
+      "电商网站",
+      "营销效率",
+      "内容生成",
+      "库存管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-012",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "category": "网络安全",
+    "relevance_score": 0.9,
+    "tags": [
+      "网络防御",
+      "政府安全",
+      "AI",
+      "主动防御"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-013",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "category": "数据工程与机器学习集成",
+    "relevance_score": 0.85,
+    "tags": [
+      "实时流处理",
+      "时间序列分析",
+      "Kafka",
+      "Confluent",
+      "IBM",
+      "异常检测",
+      "预测性维护"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-014",
+    "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "category": "AI伦理与法律",
+    "relevance_score": 0.9,
+    "tags": [
+      "OpenAI",
+      "法律诉讼",
+      "AI安全",
+      "伦理责任",
+      "校园暴力"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-015",
+    "title": "NYC bans AI use for students until they reach high school",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "category": "教育与政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "教育政策",
+      "AI监管",
+      "未成年人保护",
+      "数字设备限制"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-016",
+    "title": "换工具、换 Agent，不换上下文：OpenViking 让研发 Context 始终在线",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522116&idx=1&sn=12549be2892dea3b03f75bb06b9d61c8",
+    "category": "开发者工具与平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "上下文管理",
+      "研发工具链",
+      "AI Agent",
+      "开发者体验",
+      "DevOps",
+      "效率工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-017",
+    "title": "AI 驱动研发体系的实践和思考",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545626&idx=1&sn=cfd0d3011972881686bbb9bedbc319da",
+    "category": "技术实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI驱动研发",
+      "本地优先",
+      "知识飞轮",
+      "研发效能",
+      "AI辅助编程"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-018",
+    "title": "AI Agent 应用精细化评测：评测体系设计与工程实践",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511370&idx=1&sn=c9f4ff1d054cb229ac2f8c1462fcb05e",
+    "category": "AI工程方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "评测体系",
+      "自动化测试",
+      "质量保障",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-019",
+    "title": "Qwen3.8-Max更强了！",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562297&idx=1&sn=420b67c29646788c40605bb9445947b5",
+    "category": "AI模型发布",
+    "relevance_score": 0.95,
+    "tags": [
+      "大语言模型",
+      "AI推理",
+      "多语言",
+      "代码生成",
+      "通义千问"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-020",
+    "title": "UI-Venus-2开源：不只会看屏幕，更能跨场景把事做完的三端一体GUI-Agent",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538133&idx=1&sn=eba2b90c9fe4d6f1f288589ecc28733e",
+    "category": "AI智能体/多模态交互",
+    "relevance_score": 0.92,
+    "tags": [
+      "GUI-Agent",
+      "多模态",
+      "跨端自动化",
+      "开源",
+      "蚂蚁集团",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-021",
+    "title": "科学向前，人才向新｜9月10日，来外滩大会听见AI时代最年轻的声音",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538133&idx=2&sn=f335876dce12b6353e7df60b08223ac9",
+    "category": "科技活动/会议",
+    "relevance_score": 0.7,
+    "tags": [
+      "AI大会",
+      "青年人才",
+      "科技创新",
+      "科学前沿",
+      "人才培养"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-022",
+    "title": "Spark-X2.5开源：4B&1.7B 智能体模型，探索端侧大模型的智能体能力上限",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512657&idx=1&sn=dea54475773ec5d650c854b4bfd52d1a",
+    "category": "AI模型与基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源模型",
+      "智能体",
+      "端侧AI",
+      "混合注意力",
+      "长上下文",
+      "代码生成",
+      "数学推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-023",
+    "title": "9月5日，杭州见！一起聊聊AI硬件！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512657&idx=2&sn=97da97ca95bbe7ba98e3ad98f2b65a64",
+    "category": "行业活动",
+    "relevance_score": 0.6,
+    "tags": [
+      "AI硬件",
+      "线下活动",
+      "杭州",
+      "行业交流",
+      "技术沙龙"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-024",
+    "title": "鹅厂员工都是怎么被AI“糊弄”的？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803958&idx=1&sn=9ffde51b32770be812fd7d9743ae7f7f",
+    "category": "技术观察/职场文化",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI幻觉",
+      "大模型",
+      "职场效率",
+      "技术风险",
+      "批判性思维",
+      "企业AI应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-025",
+    "title": "从Vibe Coding到Vibe Worlding：AI开始自己“造世界”了",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803909&idx=1&sn=86e196bd070ef323abc0b62f99bd4cac",
+    "category": "AI前沿趋势",
+    "relevance_score": 0.7,
+    "tags": [
+      "Vibe Coding",
+      "AI世界生成",
+      "生成式AI",
+      "人机协作",
+      "元宇宙"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-026",
+    "title": "对话兰小欢：置身 AI 事内，不要拿旧理论硬套新现实｜AI透镜研究系列",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998614&idx=1&sn=2aa63b79b10b92b33fe4bfbcd6f15f39",
+    "category": "学术访谈/社会分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI与社会",
+      "经济学",
+      "产业变革",
+      "人机协作",
+      "理论反思",
+      "政策研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-027",
+    "title": "腾讯司晓：词元（Token）是智能时代最显性的脉搏",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998599&idx=1&sn=d73724eed84a0ddafb6aeec868fe5a56",
+    "category": "行业观点",
+    "relevance_score": 0.75,
+    "tags": [
+      "Token经济",
+      "人工智能",
+      "腾讯",
+      "技术哲学",
+      "数字经济"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-028",
+    "title": "一文讲透确定性Harness",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697293&idx=1&sn=70581f21d0bbf985b485d3fc98ef979e",
+    "category": "技术方法论",
+    "relevance_score": 0.85,
+    "tags": [
+      "确定性",
+      "可靠性",
+      "测试框架",
+      "AI系统",
+      "状态机"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-029",
+    "title": "删掉80%的Prompt规则，Agent交付成功率反而更高了",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697286&idx=1&sn=65d6dbb523f04f06b83088e7a2ba978c",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "Prompt工程",
+      "Agent优化",
+      "简化规则",
+      "大语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-030",
+    "title": "2026JDD大会完整议程来了，速看！",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502645&idx=1&sn=acba1c9cfa548ca8502e27f01a3d8c1a",
+    "category": "技术会议与战略发布",
+    "relevance_score": 0.75,
+    "tags": [
+      "京东",
+      "JDD大会",
+      "物理AI",
+      "技术大会",
+      "产业实践",
+      "AI战略"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-031",
+    "title": "快手H.266/VVC视频解码核心专利获中国专利银奖",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501287&idx=1&sn=9e8b8bb02099fcce6033c48ea0e4bf41",
+    "category": "技术成就",
+    "relevance_score": 0.9,
+    "tags": [
+      "视频编解码",
+      "H.266/VVC",
+      "专利奖",
+      "快手",
+      "技术研发"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-032",
+    "title": "听说有人比学生还怕开学？",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670045&idx=1&sn=bab7705da17199a54494c7741d569a9c",
+    "category": "AI教育应用推广",
+    "relevance_score": 0.7,
+    "tags": [
+      "百度AI",
+      "教育科技",
+      "教师工具",
+      "AI教学",
+      "开学季",
+      "内容营销"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-033",
+    "title": "得物小摊 AI Native 演进实录：用 Harness 构建可控 AI 交付",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546690&idx=1&sn=8387c3c66eb9c1ebb2d9842a3bae9348",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI原生",
+      "Harness",
+      "可控交付",
+      "全栈实践",
+      "可靠性",
+      "技术复盘"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-034",
+    "title": "智谱2026中报发布：智能上界，新局加载",
+    "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494166&idx=1&sn=5cb5f14428ff775112f4e6fe9e5a6e1a",
+    "category": "AI行业动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "智谱",
+      "MaaS",
+      "中报",
+      "AI平台",
+      "商业化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-035",
+    "title": "把 FDE 送进企业之后：谁救火，谁背责，谁赚钱？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291986&idx=1&sn=1f6659eb0740bf064434117358b5fd35",
+    "category": "技术管理与社会分析",
+    "relevance_score": 0.7,
+    "tags": [
+      "FDE",
+      "企业管理",
+      "技术外包",
+      "职业发展",
+      "责任分配"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-036",
+    "title": "3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651291986&idx=2&sn=b57ddf8dd7fac4ae313f3f218a11ed11",
+    "category": "AI开发工具/开源生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "开源",
+      "Agent工作台",
+      "亚马逊",
+      "开发者工具",
+      "长期委派",
+      "副业项目"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-037",
+    "title": "Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054212&idx=1&sn=abd00272952a72de2c50ee625e2a5bc2",
+    "category": "AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "Vibe Coding",
+      "3D建模",
+      "自然语言处理",
+      "AI生成",
+      "多模态",
+      "内容创作"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-03-038",
+    "title": "李飞飞发布Atlas，世界模型进入新时代",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054212&idx=2&sn=60e918d46f57e0532054d6424cd31992",
+    "category": "AI技术前沿",
+    "relevance_score": 0.92,
+    "tags": [
+      "世界模型",
+      "李飞飞",
+      "具身智能",
+      "机器人",
+      "多模态",
+      "AI前沿"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-03T03:33:17.063Z"
   }
 ]

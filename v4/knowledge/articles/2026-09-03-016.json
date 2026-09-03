@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-03-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522116&idx=1&sn=12549be2892dea3b03f75bb06b9d61c8",
+  "title": "换工具、换 Agent，不换上下文：OpenViking 让研发 Context 始终在线",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522116&idx=1&sn=12549be2892dea3b03f75bb06b9d61c8",
+  "summary": "OpenViking 是一个旨在解决研发工具链碎片化问题的平台，其核心价值在于实现开发上下文（Context）的无缝持久化与跨工具迁移。无论开发者切换 IDE、命令行工具，或是更换 AI Agent，OpenViking 都能确保相关的代码结构、设计意图、任务状态和对话历史等上下文信息始终在线，不因工具切换而丢失。它通过统一上下文模型，将分散在各类开发工具中的信息整合，让研发人员在多工具协作和 Agent 辅助开发时保持认知连贯性，从而显著提升效率并减少重复沟通。该项目定位为研发效能基础设施，适用于大型团队、复杂项目以及对 AI 辅助开发依赖度高的场景。",
+  "tags": [
+    "上下文管理",
+    "研发工具链",
+    "AI Agent",
+    "开发者体验",
+    "DevOps",
+    "效率工具"
+  ],
+  "relevance_score": 0.85,
+  "category": "开发者工具与平台",
+  "key_insight": "通过将开发上下文从工具中解耦并标准化，OpenViking 试图成为 AI 驱动研发时代中连接人与多 Agent 协作的‘记忆中枢’。"
+}

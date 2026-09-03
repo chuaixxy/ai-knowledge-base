@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-03-001",
+  "source_id": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+  "source": "rss-hacker-news-best",
+  "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+  "summary": "该报道揭露了三个网站利用程序化生成技术（如RSS聚合、模板填充）制造了超过21.5万个“最佳软件”页面，并通过搜索引擎优化（SEO）使其在Perplexity等AI推荐引擎中频繁被引用。这些页面内容空洞、缺乏真实评测，却因技术手段获得高排名，误导用户选择软件。文章指出这种“制造来源”现象是AI时代虚假信息的典型例证，不仅污染了搜索结果，还可能影响AI模型的训练数据质量。作者呼吁平台加强内容审核，用户需提高警惕，同时反思AI推荐系统的透明度和可靠性。",
+  "tags": [
+    "AI推荐",
+    "SEO操纵",
+    "程序化内容",
+    "虚假信息",
+    "Perplexity",
+    "内容农场"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI伦理与信息生态",
+  "key_insight": "AI推荐系统正被程序化生成的SEO内容所利用，导致虚假信息大规模渗透，反映了AI时代信息生态的脆弱性。"
+}
