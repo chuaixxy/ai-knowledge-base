@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-04-004",
+  "source_id": "https://arxiv.org/abs/2609.01685",
+  "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.01685",
+  "summary": "本文探讨人工智能发展对元伦理学领域的影响。传统元伦理学以人类伦理为中心，而未来若AI系统具备道德推理、意向和反思能力，将引发关于“AI自身伦理”的新问题，区别于人类设计者施加的伦理原则。作者提出一个条件性和方法论框架，以识别此类AI出现时可能产生的元伦理问题，并将AI时代的元伦理探究划分为四个领域：人类视角下的人类伦理本质、人类视角下的AI自身伦理本质、AI视角下的人类伦理本质，以及AI视角下的AI自身伦理本质（后两项在摘要中未完全展示）。该框架旨在为AI伦理研究提供新的哲学基础，推动元伦理学的理论重构。",
+  "tags": [
+    "AI伦理",
+    "元伦理学",
+    "道德推理",
+    "AI意向性",
+    "哲学框架"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI哲学与伦理",
+  "key_insight": "提出AI可能拥有独立于人类设计的‘自身伦理’，并建立四域元伦理框架，为未来AI道德地位研究开辟新路径。"
+}

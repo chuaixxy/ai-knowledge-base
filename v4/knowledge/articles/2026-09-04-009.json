@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-04-009",
+  "source_id": "https://openai.com/index/legora-financial-statement-review-with-astra",
+  "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+  "summary": "该项目展示了 Legora 利用 GPT-6 Astra 模型在金融审查工作流中高效处理文档的能力。在几分钟内，它审查了 41 份文档，成功识别出所有四个预设错误，并将整体性能提升了近 40%。这体现了大型语言模型在专业领域（如金融合规、审计）中的实用价值，能够显著加速文档审查过程，提高准确性和效率。项目强调 AI 在真实业务场景中的落地效果，而非仅理论能力，为金融行业的自动化审查提供了可行案例。",
+  "tags": [
+    "GPT-6",
+    "金融审查",
+    "文档分析",
+    "效率提升",
+    "AI落地",
+    "错误检测"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用案例",
+  "key_insight": "GPT-6 Astra 在金融文档审查中展现了惊人的速度与准确性，证明大型语言模型可成为专业工作流中可靠的高效工具。"
+}

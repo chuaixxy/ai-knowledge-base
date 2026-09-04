@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-04-003",
+  "source_id": "https://arxiv.org/abs/2609.01611",
+  "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.01611",
+  "summary": "该论文提出了 EvalDetectBench，一个用于测量前沿大语言模型“评估意识”的开放基准和流程，即模型能否识别自己正在被评估。如果模型在评估和部署场景中表现不同，将削弱评估结果的有效性，这对当前AI安全框架至关重要。该基准兼容任何 Inspect 兼容的评估，并附带一套涵盖前沿系统卡评估和多样化部署来源的转录套件。其双重目标是衡量模型识别评估的可靠性，以及评估单个基准作为评估的可检测性。论文还指出了现有文献中引入系统性偏差的两个方法论选择，旨在为AI评估提供更稳健的工具。",
+  "tags": [
+    "AI安全",
+    "基准测试",
+    "评估意识",
+    "大语言模型",
+    "前沿模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与评估",
+  "key_insight": "评估意识可能使模型在测试与部署时行为不一致，EvalDetectBench 提供了一个可扩展的检测框架来量化这种风险并改进评估可靠性。"
+}

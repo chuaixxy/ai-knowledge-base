@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-04-007",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+  "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+  "summary": "该项目提出将JEPA（联合嵌入预测架构）与LLM结合，通过在物理模拟器中训练世界模型来赋予LLM真实的物理直觉。核心思路是：在MuJoCo等模拟环境中训练JEPA模型，预测未来状态的抽象表示而非像素或token，使模型必须理解物体恒存、动量、轨迹等物理规律才能降低损失。训练得到的嵌入空间编码了物理结构，可冻结后用于增强LLM的推理能力。作者认为这种方法可解决LLM仅掌握统计关联但缺乏物理理解的'玛丽房间'问题，使模型真正'体验'物理规律。",
+  "tags": [
+    "JEPA",
+    "世界模型",
+    "LLM",
+    "物理推理",
+    "具身认知",
+    "模拟训练"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI架构创新",
+  "key_insight": "用物理模拟中的表示预测损失替代token预测损失，使LLM获得基于因果结构的物理理解，而非表面统计关联。"
+}

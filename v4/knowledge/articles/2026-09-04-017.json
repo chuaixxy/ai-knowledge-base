@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-04-017",
+  "source_id": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+  "title": "Google now lets you chat with Gmail, Docs, and Keep",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+  "summary": "Google 正在为 Gmail、Docs 和 Keep 推出基于 AI 的语音助手模式，分别称为 Gmail Live、Docs Live 和 Keep Live。这些功能借鉴了 Gemini Live 的实时对话体验，允许用户通过自然语音与这些应用交互，例如口述笔记、查询邮件或编辑文档。该举措旨在提升日常办公效率，使用户无需手动输入即可完成多种任务。目前该功能处于逐步推广阶段，预计将整合进 Google 的 AI 生态中，强化其生产力工具与 Gemini 模型的深度集成。",
+  "tags": [
+    "Google",
+    "AI语音助手",
+    "Gmail",
+    "Docs",
+    "Keep",
+    "Gemini Live",
+    "生产力工具"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用与生产力工具",
+  "key_insight": "Google 将对话式 AI 从单一聊天机器人扩展到核心办公应用，标志着语音交互成为生产力工具的新常态入口。"
+}

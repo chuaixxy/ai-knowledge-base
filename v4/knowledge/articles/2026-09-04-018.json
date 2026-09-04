@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-04-018",
+  "source_id": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+  "title": "美团智播——数字人直播技术创新与实践",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+  "summary": "美团智播是美团的数字人直播技术项目，围绕AI主播的逼真度、动作自然度、表现力和销售转化构建技术闭环。项目通过真人1:1复刻确保形象真实，支持换装换背景而身份稳定；动作生成流畅自然，避免机械感；实现音画同步的边说边动效果，提升互动体验。底层采用推理加速技术，支撑万路并发开播，使数字人直播技术普惠化，降低商家使用门槛，推动直播电商的规模化应用。",
+  "tags": [
+    "数字人",
+    "直播",
+    "AI生成",
+    "动作生成",
+    "音画同步",
+    "推理加速",
+    "电商"
+  ],
+  "relevance_score": 0.9,
+  "category": "人工智能/数字人",
+  "key_insight": "以技术闭环解决数字人直播的逼真与规模化矛盾，实现普惠应用。"
+}

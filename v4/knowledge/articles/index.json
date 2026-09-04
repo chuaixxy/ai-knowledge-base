@@ -20478,5 +20478,503 @@
     ],
     "status": "published",
     "collected_at": "2026-09-03T03:33:17.063Z"
+  },
+  {
+    "id": "2026-09-04-001",
+    "title": "LLMs and self-referentiality",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://scottaaronson.blog/?p=10046",
+    "category": "AI理论",
+    "relevance_score": 0.75,
+    "tags": [
+      "LLM",
+      "自我指涉",
+      "递归性",
+      "AI对齐",
+      "可解释性",
+      "认知模拟"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-002",
+    "title": "US government backs OpenAI in New York Times copyright case",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+    "category": "AI法律与政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI版权",
+      "OpenAI",
+      "纽约时报",
+      "合理使用",
+      "美国政策",
+      "法律诉讼"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-003",
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.01611",
+    "category": "AI安全与评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "基准测试",
+      "评估意识",
+      "大语言模型",
+      "前沿模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-004",
+    "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.01685",
+    "category": "AI哲学与伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI伦理",
+      "元伦理学",
+      "道德推理",
+      "AI意向性",
+      "哲学框架"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-005",
+    "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.01741",
+    "category": "法律信息学 / 机器推理",
+    "relevance_score": 0.75,
+    "tags": [
+      "法律科技",
+      "形式逻辑",
+      "噪声鲁棒性",
+      "统计认证",
+      "蒙特卡洛方法"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-006",
+    "title": "[D] Self-Promotion Thread",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
+    "category": "社区运营与规则",
+    "relevance_score": 0.65,
+    "tags": [
+      "社区管理",
+      "自我推广",
+      "机器学习",
+      "Reddit",
+      "项目展示"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-007",
+    "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+    "category": "AI架构创新",
+    "relevance_score": 0.9,
+    "tags": [
+      "JEPA",
+      "世界模型",
+      "LLM",
+      "物理推理",
+      "具身认知",
+      "模拟训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-008",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "category": "AI安全与社会责任",
+    "relevance_score": 0.9,
+    "tags": [
+      "OpenAI",
+      "网络安全",
+      "AI安全",
+      "关键基础设施",
+      "公益投资",
+      "前沿AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-009",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "category": "AI应用案例",
+    "relevance_score": 0.85,
+    "tags": [
+      "GPT-6",
+      "金融审查",
+      "文档分析",
+      "效率提升",
+      "AI落地",
+      "错误检测"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-010",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "category": "AI应用案例",
+    "relevance_score": 0.85,
+    "tags": [
+      "游戏开发",
+      "AI辅助设计",
+      "GPT-6",
+      "原型制作",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-011",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/Hcompany/neomme",
+    "category": "多模态表征学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态",
+      "多语言",
+      "编码器",
+      "高效",
+      "对比学习",
+      "跨模态检索"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-012",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "category": "大模型训练与优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "GRPO",
+      "结构化输出",
+      "小模型微调",
+      "强化学习",
+      "JSON生成",
+      "高效训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-013",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/funes",
+    "category": "AI基础设施/开发者体验",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编码助手",
+      "记忆管理",
+      "数据主权",
+      "上下文工程",
+      "开发者工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-014",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/train-to-paint-with-code",
+    "category": "AI研究与实验",
+    "relevance_score": 0.75,
+    "tags": [
+      "强化学习",
+      "编码模型",
+      "水彩画",
+      "TRL",
+      "OpenEnv",
+      "创意生成",
+      "多模态"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-015",
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "category": "AI 模型与技术突破",
+    "relevance_score": 0.95,
+    "tags": [
+      "OpenAI",
+      "GPT-6 Astra",
+      "AGI",
+      "网络安全",
+      "大模型",
+      "技术突破"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-016",
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "category": "AI基础设施",
+    "relevance_score": 0.9,
+    "tags": [
+      "Nvidia",
+      "AI数据中心",
+      "开源软件",
+      "分布式计算",
+      "本地推理",
+      "Ollama",
+      "LM Studio"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-017",
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "category": "AI应用与生产力工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "Google",
+      "AI语音助手",
+      "Gmail",
+      "Docs",
+      "Keep",
+      "Gemini Live",
+      "生产力工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-018",
+    "title": "美团智播——数字人直播技术创新与实践",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+    "category": "人工智能/数字人",
+    "relevance_score": 0.9,
+    "tags": [
+      "数字人",
+      "直播",
+      "AI生成",
+      "动作生成",
+      "音画同步",
+      "推理加速",
+      "电商"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-019",
+    "title": "9月9日，邀您共赴2026外滩大会“智能体安全”之约",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538159&idx=1&sn=9f59722a8417221019e56aa81e68f51a",
+    "category": "行业会议/安全技术",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI安全",
+      "智能体",
+      "外滩大会",
+      "行业会议",
+      "可信AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-020",
+    "title": "Qwen-Drive-1.0-4B 开源：统一 3D 感知、驾驶问答与运动规划",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512756&idx=1&sn=4ff13278d968b816492b0a8356923811",
+    "category": "自动驾驶AI模型",
+    "relevance_score": 0.95,
+    "tags": [
+      "自动驾驶",
+      "视觉语言模型",
+      "3D感知",
+      "运动规划",
+      "驾驶问答",
+      "端到端",
+      "开源模型",
+      "nuScenes",
+      "NAVSIM"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-021",
+    "title": "9.23 苏州 | 英特尔2026 Connection大会邀请函：共赴智能体AI技术盛宴",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512756&idx=2&sn=40530e6a1073149f8c58e6a3216701a2",
+    "category": "技术会议/活动",
+    "relevance_score": 0.75,
+    "tags": [
+      "英特尔",
+      "魔搭社区",
+      "智能体AI",
+      "开发者大会",
+      "开源生态",
+      "苏州活动"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-022",
+    "title": "程乐松：走出科学主义的迷思",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998623&idx=1&sn=12cb5e0a90f77a2f2e1d24b6e81379c6",
+    "category": "哲学与科学批判",
+    "relevance_score": 0.75,
+    "tags": [
+      "科学主义",
+      "哲学批判",
+      "人文精神",
+      "认知边界",
+      "科学理性"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-023",
+    "title": "Agent每次接新任务都像新人第一天入职？带你告别“一次性智能”",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697297&idx=1&sn=9f3932deb893f278976ebb473721b616",
+    "category": "AI Agent架构与记忆管理",
+    "relevance_score": 0.9,
+    "tags": [
+      "Agent",
+      "记忆机制",
+      "上下文学习",
+      "AI工作流",
+      "持续学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-024",
+    "title": "Harness Engineering：快手电商用 AI 流水线重塑研发范式",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501293&idx=1&sn=0b3e4e954201012cff2ed48c71ea3369",
+    "category": "技术实践",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI研发",
+      "研发效能",
+      "电商技术",
+      "自动化流水线",
+      "DevOps"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-025",
+    "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292300&idx=1&sn=97ddee43d62de163fc0e8187883f2cb3",
+    "category": "AI 硬件生态",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI Agent",
+      "智能硬件",
+      "生态扩展",
+      "WorkBuddy",
+      "人机交互"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-026",
+    "title": "1200个Agent围攻Hugging Face始末：7天发7万条密信，最终目标是“改考卷”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292300&idx=2&sn=04c5be1a0fc509f6aa7c2b4b4b26dd75",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "分布式攻击",
+      "Hugging Face",
+      "代理协作",
+      "模型评估"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-027",
+    "title": "RSI离我们有多远？这家中国团队给出了第一梯队的工程解",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054414&idx=1&sn=8b059e8c7025fd12ef2262632d066f8d",
+    "category": "AI系统与智能体工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "智能体",
+      "递归自我改进",
+      "系统协议",
+      "工程化",
+      "AI架构",
+      "中国团队"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-04-028",
+    "title": "OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054414&idx=2&sn=e29b7c12fc5056bc5c62410551d98e82",
+    "category": "AI前沿技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "Astra",
+      "循环深度",
+      "AI安全",
+      "模型推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-04T03:38:07.810Z"
   }
 ]

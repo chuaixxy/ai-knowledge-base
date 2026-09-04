@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-04-015",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+  "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+  "summary": "OpenAI 发布了下一代大模型 GPT-6 Astra，号称在网络安全、专业工作、软件工程、科学研究和计算机使用等领域实现“代际飞跃”。该模型是首个被 OpenAI 认定为达到“关键网络安全能力阈值”的模型，意味着其在网络攻防等高风险任务中的能力显著增强。尽管存在安全隐忧，OpenAI 承诺将采取相应措施确保可控性。此举标志着 AI 技术向通用人工智能（AGI）方向迈出重要一步，可能重塑多个行业的自动化水平。",
+  "tags": [
+    "OpenAI",
+    "GPT-6 Astra",
+    "AGI",
+    "网络安全",
+    "大模型",
+    "技术突破"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI 模型与技术突破",
+  "key_insight": "GPT-6 Astra 首次跨过 OpenAI 自设的网络安全关键阈值，预示着 AI 在高风险领域的自主能力进入新纪元，但安全治理成为最大挑战。"
+}

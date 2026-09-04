@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-04-012",
+  "source_id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "summary": "该项目展示了仅用100步GRPO（组相对策略优化）微调一个350M参数的小型语言模型，即可显著提升其结构化输出能力（如JSON生成）。研究强调通过强化学习而非大规模数据或参数扩展，快速引导模型遵循格式约束，同时保持内容质量。实验表明，小模型在极短训练步数下能达到接近大模型的格式准确率，验证了GRPO在小型模型上的高效性。此方法适合资源受限场景，并揭示了强化学习在指令跟随和输出规整中的潜力。",
+  "tags": [
+    "GRPO",
+    "结构化输出",
+    "小模型微调",
+    "强化学习",
+    "JSON生成",
+    "高效训练"
+  ],
+  "relevance_score": 0.9,
+  "category": "大模型训练与优化",
+  "key_insight": "仅100步GRPO就能让350M小模型学会复杂格式约束，说明强化学习可高效解锁小型模型的格式遵循能力，无需大模型或海量数据。"
+}

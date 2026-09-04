@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-04-013",
+  "source_id": "https://huggingface.co/blog/funes",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/funes",
+  "summary": "该项目旨在为编程代理（Coding Agents）提供用户自主拥有的持久化记忆能力。它解决当前AI编码助手在会话间缺乏上下文记忆、无法积累项目特定知识的问题，通过让用户掌控记忆数据的存储与访问，实现个性化、连续且安全的编码辅助。项目可能涉及记忆的捕获、结构化组织、检索机制以及与代理工作流的集成，强调数据主权和隐私，使记忆成为用户资产而非平台锁定。",
+  "tags": [
+    "AI编码助手",
+    "记忆管理",
+    "数据主权",
+    "上下文工程",
+    "开发者工具"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施/开发者体验",
+  "key_insight": "将记忆从模型私有状态解放为用户可控资产，是提升编码代理长期效用的关键杠杆。"
+}

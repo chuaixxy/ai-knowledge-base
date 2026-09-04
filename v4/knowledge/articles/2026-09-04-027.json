@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-04-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054414&idx=1&sn=8b059e8c7025fd12ef2262632d066f8d",
+  "title": "RSI离我们有多远？这家中国团队给出了第一梯队的工程解",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054414&idx=1&sn=8b059e8c7025fd12ef2262632d066f8d",
+  "summary": "该项目聚焦于“RSI”（可能指“Recursive Self-Improvement”递归自我改进或“Resource-Sensitive Interaction”资源敏感交互，在智能体语境下更可能指递归自我改进）在智能体与系统协议层的工程化落地。中国团队强调其并非停留在理论探讨，而是给出了“第一梯队”的工程解决方案，即在协议层设计上实现智能体的递归能力或资源敏感交互，从而提升系统效率与自主性。项目核心价值在于将前沿AI概念转化为可部署的架构实践，填补了该方向在工程实现上的空白，并展示了中国团队在AI系统底层设计上的竞争力。",
+  "tags": [
+    "智能体",
+    "递归自我改进",
+    "系统协议",
+    "工程化",
+    "AI架构",
+    "中国团队"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI系统与智能体工程",
+  "key_insight": "RSI的工程化关键在于协议层设计，而非算法堆砌，这决定了智能体能否在真实系统中实现可持续的自我优化。"
+}

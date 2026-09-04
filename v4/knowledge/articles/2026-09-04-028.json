@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-04-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054414&idx=2&sn=e29b7c12fc5056bc5c62410551d98e82",
+  "title": "OpenAI Astra被曝引入「循环深度」能力飙升！安全专家坐不住了",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054414&idx=2&sn=e29b7c12fc5056bc5c62410551d98e82",
+  "summary": "OpenAI即将发布Astra项目，据曝其引入“循环深度”能力，使AI模型在推理时能反复迭代自我反思，显著提升复杂任务处理能力。该技术革新引发安全专家担忧，认为可能增强模型自主性，增加失控风险。文章强调该发布临近，并讨论技术潜力与安全挑战的平衡。",
+  "tags": [
+    "OpenAI",
+    "Astra",
+    "循环深度",
+    "AI安全",
+    "模型推理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI前沿技术",
+  "key_insight": "循环深度提升AI能力的同时，安全风险成为焦点，OpenAI需在创新与可控间寻求平衡。"
+}

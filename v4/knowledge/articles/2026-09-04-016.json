@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-04-016",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+  "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+  "summary": "Nvidia推出了一款名为Personal AI Router（PAIR）的免费开源软件工具，旨在将家庭中的多台闲置计算机连接起来，形成一个个人AI数据中心。该工具并非硬件路由器，而是通过软件协同，使多台设备能够共同处理本地AI推理任务，支持与Ollama和LM Studio等工具集成。这使用户能够利用现有硬件资源，提升本地AI计算的效率和规模，同时降低对云服务的依赖。PAIR的发布体现了Nvidia在边缘计算和分布式AI领域的布局，为个人用户和开发者提供了更灵活、经济高效的AI计算解决方案。",
+  "tags": [
+    "Nvidia",
+    "AI数据中心",
+    "开源软件",
+    "分布式计算",
+    "本地推理",
+    "Ollama",
+    "LM Studio"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施",
+  "key_insight": "PAIR将闲置家庭电脑转化为分布式AI计算资源，降低了个人构建本地AI集群的门槛。"
+}

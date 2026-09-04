@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-04-010",
+  "source_id": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "summary": "Playco利用GPT-6 Astra从单一灰盒原型构建了三个主题游戏原型，并报告手动修复工作量减少50%。这表明GPT-6 Astra能有效加速游戏原型制作流程，减少重复性人工调整，提升开发效率。该案例展示了大型语言模型在游戏开发中的实际应用价值，通过自动化生成和优化原型内容，显著降低迭代成本。",
+  "tags": [
+    "游戏开发",
+    "AI辅助设计",
+    "GPT-6",
+    "原型制作",
+    "自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用案例",
+  "key_insight": "GPT-6 Astra通过生成多样化主题原型，将手动修复需求减半，验证了AI在游戏开发中的规模化降本增效潜力。"
+}
