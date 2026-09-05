@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-05-019",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054692&idx=1&sn=7776d114ec9f76eb9882aba94fc59cb7",
+  "title": "拒绝视频生成，深度跃迁提出具身基座模型全新路线",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054692&idx=1&sn=7776d114ec9f76eb9882aba94fc59cb7",
+  "summary": "该项目提出了一种全新的具身智能基座模型路线，不同于当前流行的视频生成式世界模型，DELE-w0.5 强调直接建模物理交互和任务执行，重新定义世界模型在机器人操作中的角色。该模型可能更高效、更实用，旨在解决视频生成方法在真实机器人控制中的延迟和泛化问题。",
+  "tags": [
+    "具身智能",
+    "世界模型",
+    "机器人操作",
+    "基座模型",
+    "AI路线"
+  ],
+  "relevance_score": 0.8,
+  "category": "具身智能与机器人",
+  "key_insight": "DELE-w0.5 摒弃视频生成范式，直接建模操作任务，为机器人提供更精准的决策基础。"
+}

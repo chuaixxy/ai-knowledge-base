@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-05-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538246&idx=2&sn=386f093edac6c84dd4cfaeacf4ad7eab",
+  "title": "蚂蚁VLDB最佳论文：用一张“逻辑表”驯服3050亿条训练数据",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538246&idx=2&sn=386f093edac6c84dd4cfaeacf4ad7eab",
+  "summary": "该项目是蚂蚁集团在VLDB 2024上发表的关于大规模数据管理的研究成果，提出用一张“逻辑表”统一管理3050亿条训练数据。该方案通过逻辑表抽象物理存储，支持高效的数据版本管理、索引和查询，显著降低数据冗余和访问延迟，提升AI训练数据管线的效率和可扩展性。其核心创新在于将数据湖与AI训练场景深度结合，实现数据编排与计算解耦，为超大规模多模态训练提供了新的架构范式。",
+  "tags": [
+    "VLDB",
+    "数据管理",
+    "AI训练",
+    "逻辑表",
+    "数据湖",
+    "大规模数据"
+  ],
+  "relevance_score": 0.9,
+  "category": "数据系统",
+  "key_insight": "用逻辑表统一数据视图，可将千亿级训练数据的存储、索引和版本管理成本降低一个数量级，从而解决AI数据管线的扩展性瓶颈。"
+}

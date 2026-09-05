@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-05-002",
+  "source_id": "https://ryan.freumh.org/hillingar.html",
+  "title": "Hillingar - MirageOS Unikernels on NixOS",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://ryan.freumh.org/hillingar.html",
+  "summary": "Hillingar 是一个将 MirageOS 单内核（unikernels）与 NixOS 集成部署的项目。它利用 Nix 的声明式包管理和可复现构建能力，简化了 MirageOS 应用的编译、配置与发布流程。通过将 OCaml 编写的单内核封装为 Nix 包，Hillingar 支持在 NixOS 主机上直接生成并运行轻量级虚拟机镜像，实现了基础设施即代码与不可变部署的紧密结合。该项目旨在解决传统单内核工具链与主流 Linux 发行版集成度低的问题，为云原生和边缘计算场景提供更安全、更可审计的部署方案。",
+  "tags": [
+    "MirageOS",
+    "NixOS",
+    "Unikernel",
+    "OCaml",
+    "声明式部署",
+    "虚拟化"
+  ],
+  "relevance_score": 0.78,
+  "category": "系统软件/部署工具",
+  "key_insight": "Hillingar 将 Nix 的可复现构建与 MirageOS 的单内核安全模型结合，使高隔离性的专用虚拟机成为 NixOS 生态中一等公民，显著降低了 unikernel 在生产环境中的运维门槛。"
+}

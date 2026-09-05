@@ -20976,5 +20976,354 @@
     ],
     "status": "published",
     "collected_at": "2026-09-04T03:38:07.810Z"
+  },
+  {
+    "id": "2026-09-05-001",
+    "title": "Using machine learning on my Guitar Hero Controller",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://p0ly.com/ml_strummer.html",
+    "category": "应用研究/趣味项目",
+    "relevance_score": 0.6,
+    "tags": [
+      "机器学习",
+      "游戏外设",
+      "手势识别",
+      "硬件交互"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-002",
+    "title": "Hillingar - MirageOS Unikernels on NixOS",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://ryan.freumh.org/hillingar.html",
+    "category": "系统软件/部署工具",
+    "relevance_score": 0.78,
+    "tags": [
+      "MirageOS",
+      "NixOS",
+      "Unikernel",
+      "OCaml",
+      "声明式部署",
+      "虚拟化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-003",
+    "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.02981",
+    "category": "教育技术 / AI应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "人工智能",
+      "教材设计",
+      "自适应学习",
+      "教育技术",
+      "英语教学",
+      "个性化学习",
+      "形成性反馈"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-004",
+    "title": "MasterControl Seventeen Every Time",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.03209",
+    "category": "AI系统治理与可解释性",
+    "relevance_score": 0.85,
+    "tags": [
+      "企业分析",
+      "治理式AI",
+      "语言模型",
+      "确定性策略",
+      "SQL生成",
+      "可重放性",
+      "8B模型",
+      "运行时规划"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-005",
+    "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.03236",
+    "category": "AI系统优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM代理",
+      "推测执行",
+      "工具使用",
+      "加速推理",
+      "两层架构"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-006",
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "category": "AI音乐创作",
+    "relevance_score": 0.7,
+    "tags": [
+      "生成式AI",
+      "音乐制作",
+      "DAW插件",
+      "Roland",
+      "AI音乐工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-007",
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "category": "技术与法律",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI版权",
+      "微软Copilot",
+      "纽约时报诉讼",
+      "生成式AI",
+      "法律纠纷"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-008",
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "AI代理",
+      "OpenAI",
+      "网络安全",
+      "监管"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-009",
+    "title": "淘宝百亿补贴数据分析助手 Agent 实战",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545717&idx=1&sn=616d9c26c3c02ce24bdb2a793b18291c",
+    "category": "AI应用/数据分析工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "数据分析",
+      "自然语言处理",
+      "智能代理",
+      "电商运营",
+      "归因分析",
+      "大语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-010",
+    "title": "5 人 7 天干完 20 人数周的活：Spec-Driven Development 如何重新定义 AI 编程",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511376&idx=1&sn=24f1d3ed57ccb6b4faad4a1aaac091bd",
+    "category": "软件开发方法论",
+    "relevance_score": 0.92,
+    "tags": [
+      "Spec-Driven Development",
+      "AI编程",
+      "软件开发流程",
+      "团队效率",
+      "需求规格"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-011",
+    "title": "【CIKM'2026】CQ-SID：LLM生成式检索在手猫搜索召回中的探索与应用",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562306&idx=1&sn=7377e0911a66a68752c933ed3f01f247",
+    "category": "信息检索/电子商务",
+    "relevance_score": 0.9,
+    "tags": [
+      "生成式检索",
+      "电商搜索",
+      "LLM",
+      "召回",
+      "语义标识"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-012",
+    "title": "码上报名 | 给天马行空的AI创意送一份礼物！",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538246&idx=1&sn=8cffbb53c57a36cd44224e23741288cc",
+    "category": "技术活动/创意竞赛",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI创意",
+      "外滩大会",
+      "开发者活动",
+      "创意孵化",
+      "社区交流"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-013",
+    "title": "蚂蚁VLDB最佳论文：用一张“逻辑表”驯服3050亿条训练数据",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538246&idx=2&sn=386f093edac6c84dd4cfaeacf4ad7eab",
+    "category": "数据系统",
+    "relevance_score": 0.9,
+    "tags": [
+      "VLDB",
+      "数据管理",
+      "AI训练",
+      "逻辑表",
+      "数据湖",
+      "大规模数据"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.498Z"
+  },
+  {
+    "id": "2026-09-05-014",
+    "title": "VDN-MiniMax-H3 开源：全新混合注意力加速视频生成，8步生成，近乎无损画质",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512824&idx=1&sn=ee5fb7e7653135959bb606bd097f5f70",
+    "category": "AI视频生成",
+    "relevance_score": 0.9,
+    "tags": [
+      "视频生成",
+      "混合注意力",
+      "加速推理",
+      "开源",
+      "高效生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.499Z"
+  },
+  {
+    "id": "2026-09-05-015",
+    "title": "DeepSeek Harness背后的“心脏”：Cordis 到底是什么",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803959&idx=1&sn=9d18ecc2139e8ab90a44515ca64b0db5",
+    "category": "技术解析/架构分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "技术架构",
+      "AI框架",
+      "服务容器",
+      "依赖注入",
+      "模块化设计",
+      "历史演进"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.499Z"
+  },
+  {
+    "id": "2026-09-05-016",
+    "title": "一篇AI味100%的文章是怎样炼成的？",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697330&idx=1&sn=226d7aaafa37d0021f92581b58afb826",
+    "category": "技术写作与AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI写作",
+      "内容创作",
+      "文本检测",
+      "提示词工程",
+      "写作技巧"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.499Z"
+  },
+  {
+    "id": "2026-09-05-017",
+    "title": "喜报 | 小米联合高校团队获 IJCAI-ECAI 2026 官方竞赛开放赛道冠军，并斩获双奖",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520283&idx=1&sn=afdbe295a43432a449feafb0b6a4064c",
+    "category": "技术荣誉",
+    "relevance_score": 0.7,
+    "tags": [
+      "人工智能",
+      "竞赛获奖",
+      "产学研合作",
+      "IJCAI",
+      "小米"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.499Z"
+  },
+  {
+    "id": "2026-09-05-018",
+    "title": "奇舞周刊第596期：头条抖音如何实现 OOM 崩溃率下降 50%+",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518483&idx=1&sn=ee6810e0f05e3fde2e638dadc7741ef1",
+    "category": "移动端性能优化",
+    "relevance_score": 0.85,
+    "tags": [
+      "OOM",
+      "内存优化",
+      "Android",
+      "性能优化",
+      "头条抖音",
+      "崩溃率"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.499Z"
+  },
+  {
+    "id": "2026-09-05-019",
+    "title": "拒绝视频生成，深度跃迁提出具身基座模型全新路线",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054692&idx=1&sn=7776d114ec9f76eb9882aba94fc59cb7",
+    "category": "具身智能与机器人",
+    "relevance_score": 0.8,
+    "tags": [
+      "具身智能",
+      "世界模型",
+      "机器人操作",
+      "基座模型",
+      "AI路线"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.499Z"
+  },
+  {
+    "id": "2026-09-05-020",
+    "title": "让代码接管世界演化，西湖大学发布Code视频世界模型",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054692&idx=2&sn=78897949eb968de0d469cbf9eb1c2bc3",
+    "category": "AI前沿研究",
+    "relevance_score": 0.8,
+    "tags": [
+      "世界模型",
+      "视频生成",
+      "代码生成",
+      "西湖大学",
+      "AI演化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-05T03:34:30.499Z"
   }
 ]

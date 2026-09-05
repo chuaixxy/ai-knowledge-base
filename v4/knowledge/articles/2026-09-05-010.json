@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-05-010",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511376&idx=1&sn=24f1d3ed57ccb6b4faad4a1aaac091bd",
+  "title": "5 人 7 天干完 20 人数周的活：Spec-Driven Development 如何重新定义 AI 编程",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511376&idx=1&sn=24f1d3ed57ccb6b4faad4a1aaac091bd",
+  "summary": "本文探讨了 Spec-Driven Development（SDD）在 AI 编程中的实践价值。作者团队通过 5 人 7 天完成原本需 20 人耗时数周的任务，验证了以规格说明（Spec）为核心驱动 AI 生成代码的流程优势。SDD 强调先编写清晰、可验证的功能规格，再让 AI 依据规格实现代码，从而减少返工、提升协作效率。文中分享了具体经验，包括如何拆解需求、设计规格模板、结合测试驱动反馈，以及处理 AI 生成代码的边界情况。作者认为 SDD 重新定义了 AI 编程的协作模式，从“人写代码”转向“人定规格、AI 执行”，但对规格质量和领域建模能力提出更高要求。",
+  "tags": [
+    "Spec-Driven Development",
+    "AI编程",
+    "软件开发流程",
+    "团队效率",
+    "需求规格"
+  ],
+  "relevance_score": 0.92,
+  "category": "软件开发方法论",
+  "key_insight": "SDD 的本质是将人类智能集中于‘定义做什么’，而将‘怎么做’交给 AI，从而以规格为契约实现人机协作的规模化提效。"
+}

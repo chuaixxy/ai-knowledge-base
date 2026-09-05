@@ -1,0 +1,17 @@
+{
+  "id": "2026-09-05-001",
+  "source_id": "https://p0ly.com/ml_strummer.html",
+  "title": "Using machine learning on my Guitar Hero Controller",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://p0ly.com/ml_strummer.html",
+  "summary": "该项目将机器学习应用于吉他英雄控制器，旨在通过传感器数据或游戏输入识别用户的演奏动作或模式。可能涉及分类算法（如手势识别）或回归预测，以提升游戏体验或辅助训练。项目结合了硬件改装、数据采集和ML模型训练，属于趣味性技术实验，展示了ML在游戏外设交互中的潜力。",
+  "tags": [
+    "机器学习",
+    "游戏外设",
+    "手势识别",
+    "硬件交互"
+  ],
+  "relevance_score": 0.6,
+  "category": "应用研究/趣味项目",
+  "key_insight": "将日常游戏控制器转变为ML数据源，探索低成本人机交互新范式。"
+}

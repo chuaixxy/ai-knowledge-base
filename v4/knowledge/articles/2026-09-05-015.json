@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-05-015",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803959&idx=1&sn=9d18ecc2139e8ab90a44515ca64b0db5",
+  "title": "DeepSeek Harness背后的“心脏”：Cordis 到底是什么",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803959&idx=1&sn=9d18ecc2139e8ab90a44515ca64b0db5",
+  "summary": "Cordis 是 DeepSeek Harness 项目背后的核心组件，其前身源于 Koishi 框架。Koishi 是一个基于 Node.js 的跨平台机器人框架，以其插件化架构和依赖注入系统著称。Cordis 从中演化而来，成为更通用的服务容器和生命周期管理器，为 DeepSeek Harness 提供模块化、可扩展的运行时基础。它通过依赖注入、事件驱动和上下文管理，使复杂 AI 工作流（如模型调用、数据流控制）得以高效编排。文章追溯了从 Koishi 到 Cordis 的技术演进，强调其设计哲学：轻量、灵活、解耦，旨在支撑大规模 AI 应用的构建。Cordis 不仅是技术实现，更是 DeepSeek Harness 架构设计的灵魂，体现了对可维护性和可测试性的追求。",
+  "tags": [
+    "技术架构",
+    "AI框架",
+    "服务容器",
+    "依赖注入",
+    "模块化设计",
+    "历史演进"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术解析/架构分析",
+  "key_insight": "Cordis 通过将 Koishi 的插件化思想抽象为通用服务容器，成为 DeepSeek Harness 的模块化基石，实现了 AI 工作流的高效编排。"
+}

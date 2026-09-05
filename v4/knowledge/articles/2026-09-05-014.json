@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-05-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512824&idx=1&sn=ee5fb7e7653135959bb606bd097f5f70",
+  "title": "VDN-MiniMax-H3 开源：全新混合注意力加速视频生成，8步生成，近乎无损画质",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512824&idx=1&sn=ee5fb7e7653135959bb606bd097f5f70",
+  "summary": "VDN-MiniMax-H3 是一个开源视频生成加速项目，通过混合注意力机制和插件式加速，在 8 张 B200 GPU 上仅用 11.23 秒生成 14.4 秒的 768p 视频，首次实现生成速度超过视频播放时长，近乎无损画质。该技术显著提升视频生成效率，为实时视频创作与编辑铺平道路。",
+  "tags": [
+    "视频生成",
+    "混合注意力",
+    "加速推理",
+    "开源",
+    "高效生成"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI视频生成",
+  "key_insight": "通过混合注意力与插件式加速，实现生成速度超越视频时长，标志着视频生成进入实时交互时代。"
+}

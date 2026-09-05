@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-05-007",
+  "source_id": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+  "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+  "summary": "微软在针对《纽约时报》等出版商及图书作者提起的版权诉讼中提交新法律文件，声称其AI助手Copilot极少逐字复制新闻文章或书籍内容，更未生成可替代原文的实质性片段。作为诉讼证据，微软提供了820万条Copilot交互记录，表明绝大多数情况下未抓取原文。此举旨在反驳原告指控，强调AI生成内容的原创性，并应对版权侵权索赔。",
+  "tags": [
+    "AI版权",
+    "微软Copilot",
+    "纽约时报诉讼",
+    "生成式AI",
+    "法律纠纷"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术与法律",
+  "key_insight": "微软通过数据分析证明AI输出不构成版权侵权，凸显AI内容生成与版权边界争议的核心。"
+}
