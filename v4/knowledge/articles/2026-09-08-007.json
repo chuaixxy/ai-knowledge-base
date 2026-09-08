@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-08-007",
+  "source_id": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "title": "Research acceleration: The view inside OpenAI",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "summary": "OpenAI内部数据显示，编码智能体正在重塑AI研究流程。通过追踪智能体使用情况、实验速度、任务复杂度和研究加速效应，发现智能体显著提升了研究迭代频率，使研究者能并行处理更多复杂任务，从而加速了从想法到实验验证的闭环。早期数据表明，智能体不仅承担代码生成，还参与实验设计、结果分析和文献调研，成为研究团队的数字协作者。这种模式可能预示未来AI实验室将采用人机混合研究范式，大幅缩短前沿突破的周期。",
+  "tags": [
+    "OpenAI",
+    "编码智能体",
+    "AI研究",
+    "实验自动化",
+    "研究加速"
+  ],
+  "relevance_score": 0.92,
+  "category": "AI研究基础设施",
+  "key_insight": "编码智能体正将AI研究从‘人工主导’转向‘人机协作’，实验速度的提升可能成为AI突破速度的新瓶颈解药。"
+}

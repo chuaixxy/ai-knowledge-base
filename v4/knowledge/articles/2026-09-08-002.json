@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-08-002",
+  "source_id": "https://arxiv.org/abs/2609.04286",
+  "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.04286",
+  "summary": "本文是一篇系统化叙述性综述，旨在梳理人工智能招聘系统从传统匹配模型向智能招聘代理的演变过程。作者通过目的性检索和编码协议，结合截至2026年9月的文献更新，分析了40项代表性研究及工业与法律资料。综述聚焦三个关键转变：从相似性匹配到互适性评估、从单一模型到复合工作流、从离线预测到以证据和生产力为导向的评估。文章涵盖了文档理解、检索、排序、评估和面试等环节，并探讨了相应的治理问题。其目的并非估算流行趋势，而是通过叙事性综合揭示技术发展脉络与挑战，为AI招聘系统的设计与监管提供参考。",
+  "tags": [
+    "AI招聘",
+    "招聘代理",
+    "人岗匹配",
+    "大语言模型",
+    "系统综述",
+    "算法治理",
+    "人力资源技术"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI招聘系统综述",
+  "key_insight": "AI招聘的核心已从匹配模型转向能执行多阶段流程的自主代理，评估标准也须随之从预测准确性转向证据性与生产力效果。"
+}

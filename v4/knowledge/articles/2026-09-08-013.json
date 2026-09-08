@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-08-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803963&idx=1&sn=ec0730b1274a0b52382df956d8583215",
+  "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803963&idx=1&sn=ec0730b1274a0b52382df956d8583215",
+  "summary": "本文深入剖析了AI Agent从单次LLM调用演变为完整Harness（工具链）的过程，强调其核心并非模型能力本身，而在于逐步构建的边界与约束。作者通过分层解析，阐述了Agent如何通过添加上下文管理、工具调用、记忆存储、错误处理及安全策略等外围层，将原始的文本生成转化为可靠、可扩展的任务执行系统。文章指出，每一次功能补充都定义了Agent的行为边界，使其从被动问答转向主动规划与行动，最终形成能应对复杂场景的智能体架构。其洞察在于，Agent的智能更多体现在工程化封装与规则设计中，而非模型参数中。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "Harness",
+    "架构设计",
+    "工具调用"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术架构",
+  "key_insight": "Agent的真正价值不在模型内部，而在围绕LLM精心构建的边界层——正是这些约束与工具链，将单次对话转化为可执行的智能系统。"
+}

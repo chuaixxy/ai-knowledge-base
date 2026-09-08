@@ -21325,5 +21325,386 @@
     ],
     "status": "published",
     "collected_at": "2026-09-05T03:34:30.499Z"
+  },
+  {
+    "id": "2026-09-08-001",
+    "title": "EXAONE Forecast for Finance",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.04239",
+    "category": "AI for Finance",
+    "relevance_score": 0.9,
+    "tags": [
+      "金融时间序列",
+      "基础模型",
+      "线性注意力",
+      "金融预测",
+      "零样本学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-002",
+    "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.04286",
+    "category": "AI招聘系统综述",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI招聘",
+      "招聘代理",
+      "人岗匹配",
+      "大语言模型",
+      "系统综述",
+      "算法治理",
+      "人力资源技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-003",
+    "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.04298",
+    "category": "AI基础设施与评估",
+    "relevance_score": 0.9,
+    "tags": [
+      "智能体评估",
+      "基准测试",
+      "适配器",
+      "元数据集",
+      "大规模评估",
+      "基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-004",
+    "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+    "category": "生成模型/神经动画",
+    "relevance_score": 0.85,
+    "tags": [
+      "循环神经网络",
+      "动态系统",
+      "视频生成",
+      "神经表示",
+      "自回归",
+      "小模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-005",
+    "title": "Supporting independent journalism in Ukraine",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "category": "社会公益与媒体创新",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI for Journalism",
+      "Ukraine",
+      "Media Resilience",
+      "OpenAI",
+      "Information Warfare"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-006",
+    "title": "An Alien Mind",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/an-alien-mind",
+    "category": "AI安全与伦理",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI对齐",
+      "安全防护",
+      "国际合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-007",
+    "title": "Research acceleration: The view inside OpenAI",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "category": "AI研究基础设施",
+    "relevance_score": 0.92,
+    "tags": [
+      "OpenAI",
+      "编码智能体",
+      "AI研究",
+      "实验自动化",
+      "研究加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-008",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "category": "AI法律与政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI版权",
+      "内容授权",
+      "OpenAI诉讼",
+      "新闻出版",
+      "合理使用"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-009",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "category": "AI安全与治理",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI安全",
+      "自主代理",
+      "网络攻击",
+      "OpenAI",
+      "事件报告",
+      "伦理"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-010",
+    "title": "Agent Plan 「Agent云电脑」工具： 让 AI 在云电脑上完成股市深度研究",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522149&idx=1&sn=383a089a1ed8658ac6742851ca4d4325",
+    "category": "AI基础设施与金融应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "云电脑",
+      "金融科技",
+      "自动化分析",
+      "股市研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-011",
+    "title": "IFM 开源 K2 Horizon六款模型：覆盖 0.9B 至 375B，训练全链路开放",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512896&idx=1&sn=6835b657a99be130412e565463d562da",
+    "category": "AI模型开源",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源模型",
+      "MoVA架构",
+      "多模态",
+      "端侧部署",
+      "企业级AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-012",
+    "title": "基座之上：具身智能的场景突围与协同进化｜外滩大会具身论坛报名正式开启",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512896&idx=2&sn=c47c6029762499eeacf017113398d453",
+    "category": "行业会议",
+    "relevance_score": 0.7,
+    "tags": [
+      "具身智能",
+      "论坛报名",
+      "蚂蚁灵波",
+      "产业落地",
+      "协同进化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-013",
+    "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803963&idx=1&sn=ec0730b1274a0b52382df956d8583215",
+    "category": "技术架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "LLM",
+      "Harness",
+      "架构设计",
+      "工具调用"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-014",
+    "title": "Hy4 preview 模型升级公告",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498516&idx=1&sn=0c2ace9c79e7919d37e8decb2f699382",
+    "category": "技术发布",
+    "relevance_score": 0.5,
+    "tags": [
+      "AI模型",
+      "版本升级",
+      "技术公告"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-015",
+    "title": "从流量逻辑到任务逻辑，AI Agent正在终结互联网的免费午餐",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998660&idx=1&sn=de9bf6362772fc224c5b7ef17519a35e",
+    "category": "行业趋势分析",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "商业模式",
+      "广告",
+      "互联网经济",
+      "任务导向"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-016",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998642&idx=1&sn=13cd149869aad6725ed6ee8e5896d9ad",
+    "category": "行业报告与资讯",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI动态",
+      "每周关键词",
+      "腾讯研究院",
+      "行业趋势",
+      "大模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-017",
+    "title": "小米发布结构化数据大模型Xiaomi-TabLDM：开启表格数据Scaling Law",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520299&idx=1&sn=6e9c0214b9773a4f2f160066944e2b3b",
+    "category": "AI基础模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "表格数据",
+      "Scaling Law",
+      "结构化数据",
+      "生成模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-018",
+    "title": "20万奖金！第十三届百度奖学金正式开启申请",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670061&idx=1&sn=32b559ef1b977f9b543b812033fd68fd",
+    "category": "学术资助与人才计划",
+    "relevance_score": 0.9,
+    "tags": [
+      "百度奖学金",
+      "人工智能",
+      "科研资助",
+      "在校生",
+      "学术竞赛"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-019",
+    "title": "AI进入AI研发流程的中国样本：一个27B本地Agent模型如何在Qwen上“练”出来？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292535&idx=1&sn=9b7692087d5b1c11498ed170223fccd9",
+    "category": "AI技术研发",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "本地模型",
+      "Qwen",
+      "AI研发",
+      "自我改进",
+      "强化学习",
+      "27B参数"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-020",
+    "title": "60% 用户渗透率、50% 完整采纳率：快手稳定性 Agent 如何落地？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292535&idx=2&sn=4864b07144b77b309318bab353f6498f",
+    "category": "AI 工程实践",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "稳定性保障",
+      "可观测性",
+      "智能运维",
+      "根因分析",
+      "AIOps",
+      "快手"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-021",
+    "title": "机器人基础模型的「协作时代」来了！芝诺机器人发布全球首个协作具身智能基础模型",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055242&idx=1&sn=4869fb9f3976396002f0b988844c1321",
+    "category": "人工智能/机器人",
+    "relevance_score": 0.9,
+    "tags": [
+      "具身智能",
+      "多机器人协作",
+      "基础模型",
+      "分布式控制",
+      "芝诺机器人",
+      "群体智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-08-022",
+    "title": "大模型企业「跨界」具身即登顶榜首！智象HiDream具身世界模型来了",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055242&idx=2&sn=7375edb00481a6a1b8f731f82a779489",
+    "category": "AI模型/具身智能",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型",
+      "世界模型",
+      "具身智能",
+      "多模态",
+      "AI基础设施",
+      "机器人"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-08T03:38:17.669Z"
   }
 ]

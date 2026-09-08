@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-08-003",
+  "source_id": "https://arxiv.org/abs/2609.04298",
+  "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.04298",
+  "summary": "该项目介绍了Harbor Adapters和Harbor-Index，旨在解决智能体基准测试中复杂环境和集成困难的问题。Harbor Adapters是一个统一评估基础设施，通过开发适配器将80多个基准测试移植到任意智能体上，并经过严格代码审查和一致性实验验证。研究团队使用Terminus-2和三种原生框架对8个不同能力层级的模型在54个基准上进行了大规模评估，实现了更广泛的智能体能力和失败模式分析。此外，Harbor-Index是一个精选的元数据集，包含82个难度高、多样且质量优的任务，涵盖29个基准，通过难度过滤、AI和人工审计以及审计-修复循环进行优化。该项目为智能体评估提供了标准化基础设施和高质量数据集，促进了智能体研究的可复现性和可比性。",
+  "tags": [
+    "智能体评估",
+    "基准测试",
+    "适配器",
+    "元数据集",
+    "大规模评估",
+    "基础设施"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与评估",
+  "key_insight": "通过统一适配器和精选数据集，实现了跨基准的大规模智能体评估，显著提升了评估的标准化和可靠性。"
+}

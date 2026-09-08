@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-08-004",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+  "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+  "summary": "该项目探索了用极小的循环动力系统（仅41.7万参数）从单一初始状态自主生成Bad Apple视频，而非像之前的SIREN MLP那样以时间坐标为输入进行隐式记忆。作者尝试了一种新范式：网络不接收时间戳t，而是通过自身的循环动力学在时间上展开，从而自主产生整个视频序列。这挑战了传统神经表示对显式时间输入的依赖，展示了小型循环系统在动态生成和时序预测方面的潜力，可能对神经动画、物理模拟和自回归视频生成有启示。",
+  "tags": [
+    "循环神经网络",
+    "动态系统",
+    "视频生成",
+    "神经表示",
+    "自回归",
+    "小模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "生成模型/神经动画",
+  "key_insight": "用极小的循环网络从单一状态自主展开生成完整视频，证明时序生成可摆脱显式时间编码，转向内在动力学驱动。"
+}

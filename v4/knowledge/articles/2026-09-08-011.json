@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-08-011",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512896&idx=1&sn=6835b657a99be130412e565463d562da",
+  "title": "IFM 开源 K2 Horizon六款模型：覆盖 0.9B 至 375B，训练全链路开放",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512896&idx=1&sn=6835b657a99be130412e565463d562da",
+  "summary": "IFM开源K2 Horizon系列六款模型，参数规模从0.9B到375B，覆盖端侧至企业级部署场景。项目全面开放训练链路，并引入MoVA架构，强化多模态与视觉-语言能力。此举旨在推动AI民主化，降低定制化门槛，并展示从数据到部署的全栈技术实力。",
+  "tags": [
+    "开源模型",
+    "MoVA架构",
+    "多模态",
+    "端侧部署",
+    "企业级AI"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型开源",
+  "key_insight": "通过开放全链路训练和MoVA架构，IFM为不同规模场景提供统一且可定制的多模态AI基座。"
+}

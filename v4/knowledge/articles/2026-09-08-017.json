@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-08-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520299&idx=1&sn=6e9c0214b9773a4f2f160066944e2b3b",
+  "title": "小米发布结构化数据大模型Xiaomi-TabLDM：开启表格数据Scaling Law",
+  "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520299&idx=1&sn=6e9c0214b9773a4f2f160066944e2b3b",
+  "summary": "小米发布结构化数据大模型Xiaomi-TabLDM，专注于表格数据（如数据库、电子表格）的生成与预测任务。该模型引入针对表格数据的Scaling Law，通过大规模预训练和自回归生成框架，显著提升表格数据的建模能力，在分类、回归、缺失值填补等下游任务上超越传统方法。项目展示了表格数据领域大模型的潜力，并为结构化数据智能处理提供新范式。",
+  "tags": [
+    "大模型",
+    "表格数据",
+    "Scaling Law",
+    "结构化数据",
+    "生成模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础模型",
+  "key_insight": "将大模型的Scaling Law首次系统应用于表格数据，证明结构化数据也能从规模扩展中持续获益。"
+}
