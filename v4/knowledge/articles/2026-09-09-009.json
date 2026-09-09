@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-09-009",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+  "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+  "summary": "OpenAI声称解决了纳维-斯托克斯问题，这是一个关于流体流动的数学难题，已困扰学界约90年。该消息由《纽约时报》和Wired报道，OpenAI在周二发布博客宣布了这一发现。纳维-斯托克斯问题描述了液体和气体的运动规律，是数学和物理学中的核心挑战之一，其解的存在性和光滑性至今未获严格证明。若OpenAI的解决方案属实，将具有重大理论意义，但外界对其真实性、验证过程及潜在争议（如是否涉及炒作）存在疑虑。目前细节尚未完全公开，学界正等待进一步验证。",
+  "tags": [
+    "OpenAI",
+    "数学",
+    "纳维-斯托克斯",
+    "流体力学",
+    "人工智能"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI研究突破",
+  "key_insight": "OpenAI声称攻克百年数学难题，但关键在于其解决方案能否通过严格的同行评审，而非仅靠公告。"
+}

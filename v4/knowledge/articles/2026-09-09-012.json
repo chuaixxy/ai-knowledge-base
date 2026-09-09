@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-09-012",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522261&idx=1&sn=e52d6b6f0d3c73d103f5e3ebc2e744ae",
+  "title": "字节跳动质量保障团队｜让 QA 真正用起来：测试用例生成 Agent 落地，我们做对了什么",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522261&idx=1&sn=e52d6b6f0d3c73d103f5e3ebc2e744ae",
+  "summary": "字节跳动质量保障团队分享了一款测试用例生成Agent的落地实践。该项目旨在解决传统QA工作中测试用例编写耗时、覆盖率不足等问题，通过引入AI Agent自动生成高质量、场景化的测试用例。文章核心在于总结其落地过程中的关键成功因素，包括与现有测试流程的深度集成、基于业务上下文的数据驱动、以及人机协作的反馈闭环，从而真正让QA工程师从繁琐的编写工作中解放，聚焦于更复杂的质量策略。该实践强调了Agent从‘能用’到‘好用’的工程化路径。",
+  "tags": [
+    "测试用例生成",
+    "AI Agent",
+    "质量保障",
+    "字节跳动",
+    "工程实践",
+    "LLM应用"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI工程实践 / 软件测试",
+  "key_insight": "测试用例生成Agent落地的核心不在于生成能力本身，而在于能否无缝嵌入QA工作流并形成有效的反馈闭环，使其成为QA的‘副驾驶’而非‘替代品’。"
+}

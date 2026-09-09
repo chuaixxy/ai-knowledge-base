@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-09-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803972&idx=1&sn=f8a3ce4b624eaba417331b2ece4cba4e",
+  "title": "我用腾讯 Kuikly，把 DeepSeek Harness装进了口袋",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803972&idx=1&sn=f8a3ce4b624eaba417331b2ece4cba4e",
+  "summary": "该项目利用腾讯的 Kuikly 框架开发了一款跨平台原生应用，实现了在手机端直接操控电脑端的 DeepSeek Harness，即一种用于开发、测试或运行 DeepSeek 模型的工作流工具。通过一套代码，应用可同时支持 iOS、Android 和桌面端，提供了移动化的远程管理界面。项目展示了 Kuikly 在快速构建原生应用方面的潜力，并解决了 AI 工具链移动访问的痛点，使开发者或运维人员能随时随地监控和操作模型任务。",
+  "tags": [
+    "Kuikly",
+    "DeepSeek",
+    "跨平台开发",
+    "原生应用",
+    "AI工具",
+    "远程控制",
+    "移动端"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工具与开发框架",
+  "key_insight": "利用跨平台框架将桌面级AI工具链无缝迁移至移动端，显著提升了AI开发的便捷性与灵活性。"
+}

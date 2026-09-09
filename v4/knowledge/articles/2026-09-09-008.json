@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-09-008",
+  "source_id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+  "summary": "该项目研究大语言模型的安全拒绝机制，指出当前模型在涉及敏感话题时往往过度拒绝整个话题，而非精准拒绝其中真正有害的子集。作者提出一种方法，使模型能够区分话题中的安全与不安全部分，仅对后者进行拒绝，从而提升模型的可用性和安全性。通过实验验证，该方法在保持安全性的同时显著减少了误拒率，平衡了安全与实用性。",
+  "tags": [
+    "大语言模型",
+    "安全拒绝",
+    "话题细分",
+    "AI对齐",
+    "误拒率"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与对齐",
+  "key_insight": "安全拒绝应细化到话题子集，而非一刀切地拒绝整个话题，以实现安全与可用性的平衡。"
+}

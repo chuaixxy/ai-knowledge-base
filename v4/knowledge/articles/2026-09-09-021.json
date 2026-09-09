@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-09-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518499&idx=1&sn=7e11157750ee29b12188306edb9f1f5d",
+  "title": "让AI接盘老游戏存档编辑器",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518499&idx=1&sn=7e11157750ee29b12188306edb9f1f5d",
+  "summary": "该项目旨在为经典游戏《怪物猎人XX》（MHXX）开发一个由AI辅助的存档编辑器。用户因重拾游戏而想自定义存档，通过AI技术简化编辑过程，可能涉及解析存档格式、修改角色属性或物品，并利用AI生成或优化编辑逻辑。项目兼具怀旧情怀和技术实践，属于游戏工具开发领域。",
+  "tags": [
+    "游戏存档",
+    "AI辅助",
+    "逆向工程",
+    "怪物猎人",
+    "工具开发"
+  ],
+  "relevance_score": 0.7,
+  "category": "游戏工具/AI应用",
+  "key_insight": "利用AI降低游戏存档编辑的技术门槛，体现个人兴趣驱动的创新实践。"
+}

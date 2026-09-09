@@ -21706,5 +21706,447 @@
     ],
     "status": "published",
     "collected_at": "2026-09-08T03:38:17.669Z"
+  },
+  {
+    "id": "2026-09-09-001",
+    "title": "Muse – Meta’s personal AI agent",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://ai.meta.com/muse/",
+    "category": "AI应用",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI代理",
+      "Meta",
+      "个人助理",
+      "自然语言处理",
+      "生态集成"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-002",
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "category": "软件行业趋势",
+    "relevance_score": 0.75,
+    "tags": [
+      "LibreOffice",
+      "开源软件",
+      "AI争议",
+      "用户偏好",
+      "隐私保护"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-003",
+    "title": "We Must Return to the Office to Use AI in Person",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    "category": "科技评论/职场文化",
+    "relevance_score": 0.6,
+    "tags": [
+      "远程办公",
+      "AI办公",
+      "讽刺",
+      "企业管理",
+      "科技文化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-004",
+    "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
+    "category": "AI 前沿突破",
+    "relevance_score": 0.95,
+    "tags": [
+      "OpenAI",
+      "Navier-Stokes",
+      "数学证明",
+      "千禧年难题",
+      "AI for Science",
+      "流体力学",
+      "基础数学"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-005",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/codex-quantum-computing-experiments",
+    "category": "AI与科学计算",
+    "relevance_score": 0.85,
+    "tags": [
+      "量子计算",
+      "AI辅助科研",
+      "自动化实验",
+      "GPT",
+      "Codex",
+      "量子比特校准"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-006",
+    "title": "The Work Now Within Reach",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/the-work-now-within-reach",
+    "category": "技术战略分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI普及",
+      "经济增长",
+      "生产力",
+      "成本效益",
+      "技术赋能"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-007",
+    "title": "Introducing ChatGPT Images 2.5",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "category": "AI应用/创意设计",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI图像生成",
+      "创意工具",
+      "文本到图像",
+      "图像编辑",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-008",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "安全拒绝",
+      "话题细分",
+      "AI对齐",
+      "误拒率"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-009",
+    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "category": "AI研究突破",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenAI",
+      "数学",
+      "纳维-斯托克斯",
+      "流体力学",
+      "人工智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-010",
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "category": "AI应用与产品",
+    "relevance_score": 0.9,
+    "tags": [
+      "OpenAI",
+      "ChatGPT",
+      "图像生成",
+      "草图转图像",
+      "多模态AI",
+      "创意工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-011",
+    "title": "Meta bets on AI agent Muse to catch up in AI race",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "category": "科技公司动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI助手",
+      "Meta",
+      "产品发布",
+      "战略调整",
+      "消费级AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-012",
+    "title": "字节跳动质量保障团队｜让 QA 真正用起来：测试用例生成 Agent 落地，我们做对了什么",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522261&idx=1&sn=e52d6b6f0d3c73d103f5e3ebc2e744ae",
+    "category": "AI工程实践 / 软件测试",
+    "relevance_score": 0.95,
+    "tags": [
+      "测试用例生成",
+      "AI Agent",
+      "质量保障",
+      "字节跳动",
+      "工程实践",
+      "LLM应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-013",
+    "title": "天猫技术大型 AI 项目的研发协同实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a",
+    "category": "AI工程与研发管理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI研发",
+      "研发协同",
+      "天猫",
+      "大型项目",
+      "四阶段",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-014",
+    "title": "面壁智能开源 MiniCPM5-2B：AA 榜单全球 4B 以下第一，初具端侧通用 Agent 能力",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512955&idx=1&sn=f0254c373f933ac3b4f72da675762f1c",
+    "category": "AI模型开发",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源模型",
+      "端侧AI",
+      "Agent",
+      "小模型",
+      "性能榜单"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-015",
+    "title": "K2 Horizon开源，6档模型全链路开放",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512922&idx=1&sn=1aaeb98e91822c3df18e8d37ec4f0505",
+    "category": "AI模型开源",
+    "relevance_score": 0.95,
+    "tags": [
+      "开源模型",
+      "MoE",
+      "数学推理",
+      "模型透明化",
+      "多尺寸",
+      "IFM"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-016",
+    "title": "我用腾讯 Kuikly，把 DeepSeek Harness装进了口袋",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803972&idx=1&sn=f8a3ce4b624eaba417331b2ece4cba4e",
+    "category": "AI工具与开发框架",
+    "relevance_score": 0.85,
+    "tags": [
+      "Kuikly",
+      "DeepSeek",
+      "跨平台开发",
+      "原生应用",
+      "AI工具",
+      "远程控制",
+      "移动端"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-017",
+    "title": "永生的代价",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998672&idx=1&sn=1f5dc9a482782637ef14cda20688c4e6",
+    "category": "科幻/未来学",
+    "relevance_score": 0.85,
+    "tags": [
+      "永生",
+      "死亡",
+      "伦理",
+      "科幻",
+      "技术反思"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-018",
+    "title": "OpenClaw 2.0：欠下的技术债，这次连本带利还清",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697390&idx=1&sn=40ecd2699a6b707996e262b662b25d53",
+    "category": "软件工程/系统架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "技术重构",
+      "技术债",
+      "架构设计",
+      "模块化",
+      "软件工程"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-019",
+    "title": "Xiaomi MiMo 桌面客户端开放邀测",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520308&idx=1&sn=4218479a12e39044a26d648eabe9b50c",
+    "category": "AI应用/智能助手",
+    "relevance_score": 0.85,
+    "tags": [
+      "小米",
+      "AI助手",
+      "桌面客户端",
+      "大模型",
+      "澎湃OS",
+      "邀测",
+      "智能办公"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-020",
+    "title": "雷军：小米澎程四款车型正式上市，还有小米18 Fold、小米平板9 Pro Max，首发搭载玄戒O3 AI 旗舰处理器",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520306&idx=1&sn=bc21fdcac1483cc462afa86393e55d95",
+    "category": "科技产品发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "小米",
+      "智能汽车",
+      "折叠屏",
+      "平板电脑",
+      "自研芯片",
+      "玄戒O3",
+      "AI处理器",
+      "人车家生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-021",
+    "title": "让AI接盘老游戏存档编辑器",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518499&idx=1&sn=7e11157750ee29b12188306edb9f1f5d",
+    "category": "游戏工具/AI应用",
+    "relevance_score": 0.7,
+    "tags": [
+      "游戏存档",
+      "AI辅助",
+      "逆向工程",
+      "怪物猎人",
+      "工具开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-022",
+    "title": "两个Token就让Kimi“变成”Claude？前Google DeepMind研究员意外撞上中国大模型的蒸馏疑云",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292579&idx=1&sn=ff5be918074720e0de77d20741305ce5",
+    "category": "AI安全与伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "蒸馏",
+      "链式推理",
+      "Kimi",
+      "Claude",
+      "AI安全",
+      "知识产权",
+      "透明性"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-023",
+    "title": "QQ 飞车 Agentic 研发转型过程中的 Loop Engineering",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292579&idx=2&sn=bc50de814c2b7281022e32a1cdcfdecc",
+    "category": "AI工程实践 / 游戏研发智能化",
+    "relevance_score": 0.85,
+    "tags": [
+      "Loop Engineering",
+      "QQ飞车",
+      "Agentic开发",
+      "游戏研发",
+      "闭环设计",
+      "场景化智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-024",
+    "title": "端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=1&sn=c26a061b944f571aabbcf2ae440fc96f",
+    "category": "AI模型与开源生态",
+    "relevance_score": 0.9,
+    "tags": [
+      "端侧AI",
+      "开源模型",
+      "通用Agent",
+      "强化学习",
+      "面壁智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-09-025",
+    "title": "Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=2&sn=da7bb74bb874248ea6466b4ba920b2d7",
+    "category": "AI基础设施与Agent工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "长时记忆",
+      "会话管理",
+      "任务一致性"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-09T03:42:38.436Z"
   }
 ]

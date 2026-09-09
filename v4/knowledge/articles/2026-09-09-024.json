@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-09-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=1&sn=c26a061b944f571aabbcf2ae440fc96f",
+  "title": "端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=1&sn=c26a061b944f571aabbcf2ae440fc96f",
+  "summary": "面壁智能开源了一款2B参数的端侧模型，被称为“小钢炮”，旨在推动通用Agent在端侧设备上的应用。该项目不仅开源了模型本身，还开放了训练数据、强化学习（RL）框架和训练方法，体现了全面的技术开放策略。这一举措有望降低端侧AI开发门槛，加速智能体在手机、IoT等设备上的部署，并可能通过社区协作进一步提升模型性能和生态发展。",
+  "tags": [
+    "端侧AI",
+    "开源模型",
+    "通用Agent",
+    "强化学习",
+    "面壁智能"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI模型与开源生态",
+  "key_insight": "通过全栈开源（模型+数据+框架），面壁智能试图构建端侧AI的开放生态，使2B小模型成为通用Agent的实用基石。"
+}

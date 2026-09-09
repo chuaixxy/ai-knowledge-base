@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-09-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a",
+  "title": "天猫技术大型 AI 项目的研发协同实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545718&idx=1&sn=97f7fc8fd31947c67deff2c77165be6a",
+  "summary": "天猫MDI项目是大型AI研发协同实践，聚焦于将AI能力深度整合进天猫业务。项目采用四阶段协同模式，覆盖从需求定义、模型开发、工程集成到业务验证的完整闭环，旨在解决大型组织中AI研发与业务脱节、交付周期长、协同成本高的痛点。通过标准化流程、工具链和跨职能团队协作，该项目提升了AI项目的可交付性和业务价值，为大型电商平台的AI落地提供了可复用的方法论。",
+  "tags": [
+    "AI研发",
+    "研发协同",
+    "天猫",
+    "大型项目",
+    "四阶段",
+    "工程实践"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程与研发管理",
+  "key_insight": "大型AI项目的成败关键在于建立跨职能的四阶段协同机制，而非单纯的算法优化。"
+}

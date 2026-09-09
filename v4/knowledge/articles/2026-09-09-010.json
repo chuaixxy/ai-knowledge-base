@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-09-010",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+  "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+  "summary": "OpenAI发布了ChatGPT Images 2.5，并新增了“Sketch”功能，允许用户直接在ChatGPT中绘制草图，然后通过自然语言指令将其转化为精细的AI生成图像。该功能降低了图像生成的门槛，使用户无需具备绘画技巧即可直观表达创意，并借助对话交互实现迭代优化。此举是OpenAI在多模态交互和创意工具领域的一次重要更新，旨在提升用户体验和创作效率。",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "图像生成",
+    "草图转图像",
+    "多模态AI",
+    "创意工具"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI应用与产品",
+  "key_insight": "草图与自然语言结合，让AI图像生成从“描述”升级为“可视化协作”，极大降低了创作门槛。"
+}

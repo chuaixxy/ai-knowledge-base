@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-09-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292579&idx=1&sn=ff5be918074720e0de77d20741305ce5",
+  "title": "两个Token就让Kimi“变成”Claude？前Google DeepMind研究员意外撞上中国大模型的蒸馏疑云",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292579&idx=1&sn=ff5be918074720e0de77d20741305ce5",
+  "summary": "该项目讨论了中国大模型Kimi被指控通过“蒸馏”技术模仿Claude的行为，即仅用两个特殊Token触发相似输出，引发关于AI模型训练中链式推理（CoT）是否应被隐藏的争议。前Google DeepMind研究员指出，前沿实验室可能出于商业或安全考虑，隐藏模型的内部推理过程，以防止竞争性蒸馏和滥用。该事件凸显了AI行业在模型透明性、知识产权保护与安全防范之间的紧张关系，并引发对蒸馏技术合法性及模型“指纹”识别方法的讨论。",
+  "tags": [
+    "大模型",
+    "蒸馏",
+    "链式推理",
+    "Kimi",
+    "Claude",
+    "AI安全",
+    "知识产权",
+    "透明性"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与伦理",
+  "key_insight": "蒸馏攻击暴露了CoT推理的脆弱性，推动前沿模型趋向隐藏推理细节，以平衡可解释性与安全防护。"
+}

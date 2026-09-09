@@ -1,0 +1,17 @@
+{
+  "id": "2026-09-09-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=2&sn=da7bb74bb874248ea6466b4ba920b2d7",
+  "title": "Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=2&sn=da7bb74bb874248ea6466b4ba920b2d7",
+  "summary": "WorkSwarm通过引入「永续会话」机制，为AI Agent提供长期记忆和上下文延续能力，解决其长时工作中因遗忘关键信息而偏离目标的问题。该项目强调会话状态的持续保存与动态回滚，使Agent在复杂多步任务中能保持一致性、可追溯性和自我纠错，避免“聊久必忘”导致的工作跑偏，从而提升自动化任务的可靠性与效率。",
+  "tags": [
+    "AI Agent",
+    "长时记忆",
+    "会话管理",
+    "任务一致性"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与Agent工程",
+  "key_insight": "永续会话将对话从瞬时交互升级为持久工作记忆，是Agent长时任务稳定性的关键锚点。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-09-004",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
+  "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
+  "summary": "OpenAI 宣称已破解数学领域“千禧年大奖难题”之一的纳维-斯托克斯方程（Navier-Stokes）的存在性与光滑性问题。据《纽约时报》报道，OpenAI 在 2026 年 9 月 8 日发布了官方公告，声称其 AI 系统给出了该问题的证明。该问题涉及描述流体运动的偏微分方程，长期以来是数学物理的核心难题。若证明属实，将深刻影响流体力学、气象学、工程学等众多领域，并可能重新定义 AI 在基础数学研究中的角色。目前，该证明尚未经过同行评议，学界普遍持谨慎态度，验证其严谨性将是下一步的关键。",
+  "tags": [
+    "OpenAI",
+    "Navier-Stokes",
+    "数学证明",
+    "千禧年难题",
+    "AI for Science",
+    "流体力学",
+    "基础数学"
+  ],
+  "relevance_score": 0.95,
+  "category": "AI 前沿突破",
+  "key_insight": "AI 首次宣称解决顶级纯数学难题，其意义不仅在于答案本身，更在于证明了 AI 可参与并可能改变基础理论的发现与验证范式，但“被验证”与“被承认”之间仍有巨大鸿沟。"
+}

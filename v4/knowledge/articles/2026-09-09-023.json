@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-09-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292579&idx=2&sn=bc50de814c2b7281022e32a1cdcfdecc",
+  "title": "QQ 飞车 Agentic 研发转型过程中的 Loop Engineering",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292579&idx=2&sn=bc50de814c2b7281022e32a1cdcfdecc",
+  "summary": "该项目聚焦于QQ飞车研发团队向Agentic（智能体驱动）模式转型过程中，将‘Loop Engineering’作为核心方法论。其核心主张是，Loop（闭环）的设计目标并非追求通用智能，而是针对具体场景中的具体问题，并且这些闭环在不同运行环境下具有高度的模式相似性。这种思路强调以场景问题为锚点，通过构建可复用、可迁移的反馈闭环来提升研发的自动化与智能化水平，降低系统复杂度，加速迭代效率，是游戏研发领域在智能体工程化上的一次务实探索。",
+  "tags": [
+    "Loop Engineering",
+    "QQ飞车",
+    "Agentic开发",
+    "游戏研发",
+    "闭环设计",
+    "场景化智能"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践 / 游戏研发智能化",
+  "key_insight": "Loop Engineering的本质不是追求通用智能，而是用‘场景问题’定义闭环边界，利用跨环境相似性实现工程化复用，从而在复杂研发体系中建立可落地的智能体协作范式。"
+}

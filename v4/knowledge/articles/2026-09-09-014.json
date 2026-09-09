@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-09-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512955&idx=1&sn=f0254c373f933ac3b4f72da675762f1c",
+  "title": "面壁智能开源 MiniCPM5-2B：AA 榜单全球 4B 以下第一，初具端侧通用 Agent 能力",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512955&idx=1&sn=f0254c373f933ac3b4f72da675762f1c",
+  "summary": "面壁智能联合 OpenBMB 开源了 MiniCPM5-2B 模型，该模型仅以 2B 参数就在 AA 榜单全球 4B 以下开源基座模型中综合排名第一，展现极高的智能密度。MiniCPM5-2B 不仅性能卓越，还初步具备了端侧通用 Agent 能力，意味着在手机、IoT 等设备上可运行轻量级智能体，执行多步任务。这一成果有望推动端侧 AI 应用的发展，降低对云端算力的依赖，同时为小模型的高效化提供了新范式。",
+  "tags": [
+    "开源模型",
+    "端侧AI",
+    "Agent",
+    "小模型",
+    "性能榜单"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI模型开发",
+  "key_insight": "2B 小模型凭借高智能密度登顶 4B 以下榜首，并初显端侧 Agent 潜力，预示端侧智能体时代加速到来。"
+}
