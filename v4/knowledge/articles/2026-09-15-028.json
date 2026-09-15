@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-15-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562398&idx=1&sn=34f5c3b7d6d20e44e6bd31a12738bcea",
+  "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562398&idx=1&sn=34f5c3b7d6d20e44e6bd31a12738bcea",
+  "summary": "DeepSeek-V4.1-Flash 正式上线千问 AI 平台，并同步开放 API 接口与 Token Plan 计费方案，标志着该模型在第三方平台的进一步生态扩展。V4.1-Flash 作为 DeepSeek 的轻量高速版本，主打低延迟与高性价比推理能力，适合对响应速度和成本敏感的实时应用场景。通过千问 AI 平台接入，开发者可直接调用 API 而无需自建部署环境，同时 Token Plan 提供了按量计费的灵活用量管理方式，降低了使用门槛。此举有助于 DeepSeek 扩大在中文大模型市场的分发渠道，也为千问平台丰富了模型供给，形成平台与模型方的双向赋能，对开发者而言则意味着更多模型选择与更低的集成成本。",
+  "tags": [
+    "DeepSeek",
+    "千问AI平台",
+    "API开放",
+    "Token Plan",
+    "大模型",
+    "模型部署",
+    "AI基础设施"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI大模型/平台生态",
+  "key_insight": "DeepSeek-V4.1-Flash 借道千问平台开放 API 与 Token 计费，以轻量高速模型抢占低成本推理入口，加速模型分发与生态绑定。"
+}

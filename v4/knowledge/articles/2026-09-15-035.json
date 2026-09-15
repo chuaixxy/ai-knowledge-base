@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-15-035",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804073&idx=1&sn=cb50dfd70925eaa04a791e9a1b03b382",
+  "title": "iPhone Duo来了，腾讯 Kuikly 助 App 从容适配",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804073&idx=1&sn=cb50dfd70925eaa04a791e9a1b03b382",
+  "summary": "腾讯 Kuikly 是一套跨端开发框架，在折叠屏生态加速演进的背景下，帮助应用实现「一码多端」适配，使安卓、iOS、鸿蒙三端能够同步提速。随着 iPhone 折叠屏（Duo）等新形态设备涌现，屏幕尺寸、分屏交互与形态切换带来大量适配成本，Kuikly 通过统一渲染与跨平台能力，让开发者无需为每个平台重复开发，从而更从容地应对多设备、多形态的碎片化挑战，提升研发效率与迭代速度。",
+  "tags": [
+    "跨端开发",
+    "Kuikly",
+    "腾讯",
+    "折叠屏适配",
+    "鸿蒙",
+    "iOS",
+    "安卓"
+  ],
+  "relevance_score": 0.8,
+  "category": "跨平台开发框架",
+  "key_insight": "折叠屏与多端生态的碎片化，正推动跨端框架从「降本工具」升级为应对硬件形态快速演进的适配基础设施。"
+}

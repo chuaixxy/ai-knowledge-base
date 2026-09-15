@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-15-018",
+  "source_id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+  "summary": "IBM 发布了新一代时序基础模型 Granite Time Series PatchTST-FM-r2，号称达到 SOTA 水平，并采用商业友好型许可证开放。该模型基于 PatchTST 架构，将时间序列切分为 patch 后输入 Transformer，属于时间序列基础模型（TSFM）路线，可支持零样本/少样本预测与微调迁移。相比前代 r1，r2 在预测精度、长序列建模和跨域泛化上做了改进。最关键的差异在于许可：采用商业友好条款意味着企业可将其集成到自有产品或 SaaS 中而无需担心授权限制，这直接对标 Chronos、TimesFM、Moirai 等竞品，降低企业落地门槛。对需要需求预测、异常检测、容量规划的场景具有较高实用价值。",
+  "tags": [
+    "时间序列",
+    "基础模型",
+    "IBM Granite",
+    "PatchTST",
+    "SOTA",
+    "商业友好许可",
+    "预测",
+    "Transformer"
+  ],
+  "relevance_score": 0.85,
+  "category": "时间序列基础模型 / 开源模型发布",
+  "key_insight": "模型能力之外，商业友好许可证才是本次发布对企业的最大价值点，直接降低了时序基础模型的商用落地门槛。"
+}

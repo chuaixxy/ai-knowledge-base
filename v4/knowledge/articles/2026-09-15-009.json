@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-009",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+  "title": "Teach ML! Community service project from Stanford [N]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+  "summary": "斯坦福大学AI实验室教授Chris Piech发起了一项名为「Teach ML!」的社区服务项目，并配套开设了一门名为「Probability for AI」的课程（pai.stanford.edu），计划于10月9日开课，申请截止到9月底。该项目最具特色的设计是「每10名学生配备1名志愿教师」，开放申请仅一周就有超过1000人报名担任教师，使项目有望实现较大规模。课程为数学背景较弱的学员提供了大量友好工具，例如申请者只需约1小时学习，就能借助免费编码智能体构建一个AI文本检测应用。项目还为志愿教师提供系统培训，目标是降低概率与AI教育门槛，推动社区化教学。",
+  "tags": [
+    "AI教育",
+    "概率论",
+    "斯坦福大学",
+    "社区服务",
+    "志愿教学",
+    "机器学习入门"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI教育/社区项目",
+  "key_insight": "通过「1名志愿教师对10名学生」的高密度师生比和低门槛工具，该项目试图将斯坦福级AI概率教育大规模社区化。"
+}

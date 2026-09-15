@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-15-030",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538261&idx=1&sn=be809c0f62b415a89f815fe93d7d78bd",
+  "title": "从“GPASS”到“灵影”，我们为AI终端铺设Agent基础设施",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538261&idx=1&sn=be809c0f62b415a89f815fe93d7d78bd",
+  "summary": "该项目以“从GPASS到灵影”为技术演进主线，聚焦于为AI终端构建Agent（智能体）基础设施，旨在解决AI应用在终端侧落地时面临的算力调度、任务编排、多模态交互与隐私安全等核心问题。GPASS可能代表一种早期的终端AI能力框架或调度方案，而“灵影”则可能是其升级后的Agent基础设施平台，强调轻量化、实时响应与端云协同。项目核心在于将大模型能力与终端硬件深度结合，通过统一的Agent运行时、工具调用接口和记忆管理机制，让AI终端从被动响应升级为主动服务。其价值在于降低开发者构建终端Agent的门槛，推动AI从云端向手机、PC、IoT等终端设备渗透，形成更完整的智能体生态。该方向与当前端侧AI、AIOS、智能体框架等趋势高度相关。",
+  "tags": [
+    "AI终端",
+    "Agent基础设施",
+    "端侧AI",
+    "智能体",
+    "端云协同",
+    "AIOS",
+    "GPASS",
+    "灵影"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施/端侧智能体",
+  "key_insight": "AI终端的下一阶段竞争核心在于Agent运行时与端云协同的基础设施，而非单一模型能力。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-052",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056978&idx=1&sn=3f375ee86e8f98ec325bdb7c84fdf2b9",
+  "title": "让企业拥有自己的模型！PyTRIO定义TaaS新范式：大模型训练进入API时代",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056978&idx=1&sn=3f375ee86e8f98ec325bdb7c84fdf2b9",
+  "summary": "PyTRIO提出TaaS（Training as a Service）新范式，旨在让企业通过API调用方式拥有和训练自己的大模型，降低大模型训练门槛。该方案将大模型训练能力封装为标准化API，使企业无需自建复杂训练基础设施，即可掌控模型训练过程，实现模型定制化。这标志着大模型训练进入API时代，企业可更灵活地开拓AI应用边界，同时保持对核心模型资产的控制权，推动AI民主化进程。",
+  "tags": [
+    "大模型训练",
+    "TaaS",
+    "API",
+    "企业AI",
+    "模型定制",
+    "AI基础设施"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与平台",
+  "key_insight": "PyTRIO通过API将大模型训练能力服务化，让企业以更低门槛拥有专属模型，重塑AI训练生态。"
+}

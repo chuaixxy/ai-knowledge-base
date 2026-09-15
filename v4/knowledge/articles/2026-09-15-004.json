@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-15-004",
+  "source_id": "https://nemin.hu/llm-letter/index.html",
+  "title": "A Letter from a Machine Learning Engineer",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://nemin.hu/llm-letter/index.html",
+  "summary": "这是一篇来自机器学习工程师的公开信，最初发布在 Lobste.rs 技术社区并引发讨论。作者以一线 ML 工程师的视角，分享了在工业界从事机器学习工作的真实体验与反思，内容很可能涉及模型从研发到上线的落差、数据质量与工程化的重要性、对 AI 炒作与实际落地之间差距的看法，以及对该职业发展方向的思考。这类文章通常旨在打破外界对 ML 岗位的浪漫化想象，强调扎实的软件工程能力、对业务问题的理解和对不确定性的管理往往比追逐最新算法更为关键，对从业者和团队管理者都有参考价值。",
+  "tags": [
+    "机器学习",
+    "工程实践",
+    "职业发展",
+    "AI 落地",
+    "技术社区"
+  ],
+  "relevance_score": 0.7,
+  "category": "行业观点/职业反思",
+  "key_insight": "机器学习工程师的核心价值在于把不完美的模型落地到真实业务中，而非追求算法本身的新颖。"
+}

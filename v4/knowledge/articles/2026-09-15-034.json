@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-034",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804088&idx=1&sn=bbe53279f2c8fe79fea751faca5a264f",
+  "title": "别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804088&idx=1&sn=bbe53279f2c8fe79fea751faca5a264f",
+  "summary": "该项目探讨了AI工程范式从Prompt Engineering向Context Engineering的跃迁，指出在Agent开发中，仅靠优化提示词已难以形成差异化竞争力，真正的差距在于如何系统性地设计、组织和管理上下文信息。Context Engineering涵盖上下文窗口内的信息选择、排序、压缩、检索增强、记忆机制以及工具调用结果的整合等工程实践，目标是让大模型在复杂任务中获取最相关、最精炼的上下文，从而提升Agent的推理质量、稳定性和任务完成率。这一范式强调从\"写好一句话\"转向\"构建一套上下文供给系统\"，是AI应用工程化的重要演进方向。",
+  "tags": [
+    "Context Engineering",
+    "Agent",
+    "Prompt Engineering",
+    "上下文管理",
+    "RAG",
+    "AI工程范式"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI工程/大模型应用",
+  "key_insight": "Agent的核心竞争力已从提示词技巧转向上下文工程能力——决定模型表现的不再是\"怎么问\"，而是\"喂给它什么、如何组织\"。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-15-041",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502909&idx=1&sn=b838661a6ad2be1e2d767424cc0f9d24",
+  "title": "AI 使用心得：B 端产品工作中的方法、边界与实践",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502909&idx=1&sn=b838661a6ad2be1e2d767424cc0f9d24",
+  "summary": "本文分享了B端产品经理在实际工作中使用AI的实战经验，核心成果是将同一批需求的工作量从34个人日压缩到15个人日。作者提出了'PRD四步法'，通过结构化的流程引导AI参与需求分析、文档撰写等环节，同时强调通过'Skill沉淀'将可复用的AI协作能力固化下来，让AI真正替代部分重复性工作。文章还探讨了AI在B端产品工作中的适用边界，指出哪些环节适合交给AI、哪些仍需人工判断，为B端产品从业者提供了可落地的方法论参考。",
+  "tags": [
+    "B端产品",
+    "AI提效",
+    "PRD方法论",
+    "Skill沉淀",
+    "工作流优化"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI应用实践",
+  "key_insight": "AI提效的关键不在于工具本身，而在于用结构化方法（如PRD四步法）将隐性经验转化为可复用的Skill，才能实现从34人到15人日的质变。"
+}

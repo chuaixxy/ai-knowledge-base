@@ -22148,5 +22148,958 @@
     ],
     "status": "published",
     "collected_at": "2026-09-09T03:42:38.436Z"
+  },
+  {
+    "id": "2026-09-15-001",
+    "title": "Pion, an agent designed to run any company autonomously",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://andonlabs.com/blog/why-we-built-pion",
+    "category": "AI Agent / 自主系统",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI Agent",
+      "自主企业",
+      "LLM",
+      "自动化运营",
+      "Andon Labs",
+      "多智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-002",
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "category": "AI行业动态",
+    "relevance_score": 0.8,
+    "tags": [
+      "Siri",
+      "Apple",
+      "ChatGPT",
+      "Claude",
+      "AI集成",
+      "大语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-003",
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "category": "AI 政策与生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI 开源",
+      "模型蒸馏",
+      "中美竞争",
+      "Y Combinator",
+      "AI 政策"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-004",
+    "title": "A Letter from a Machine Learning Engineer",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://nemin.hu/llm-letter/index.html",
+    "category": "行业观点/职业反思",
+    "relevance_score": 0.7,
+    "tags": [
+      "机器学习",
+      "工程实践",
+      "职业发展",
+      "AI 落地",
+      "技术社区"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-005",
+    "title": "Why don’t machine learning research agents overfit?",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "category": "机器学习理论",
+    "relevance_score": 0.7,
+    "tags": [
+      "机器学习",
+      "研究智能体",
+      "过拟合",
+      "自动化研究",
+      "泛化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-006",
+    "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.11977",
+    "category": "大语言模型/代理系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "协作代理",
+      "长时程任务",
+      "高效推理",
+      "后训练",
+      "Qwen3",
+      "MoE",
+      "帕累托前沿"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-007",
+    "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.11987",
+    "category": "AI Agent 评测与基准研究",
+    "relevance_score": 0.9,
+    "tags": [
+      "Agentic Coding",
+      "Harness",
+      "LLM评测",
+      "抗污染基准",
+      "同模型对比",
+      "软件工程智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-008",
+    "title": "Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2609.12035",
+    "category": "医学人工智能/多模态自监督学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态学习",
+      "掩码自编码器",
+      "自监督预训练",
+      "心脏表征学习",
+      "潜在注意力",
+      "医学基础模型",
+      "缺失模态处理"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-009",
+    "title": "Teach ML! Community service project from Stanford [N]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+    "category": "AI教育/社区项目",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI教育",
+      "概率论",
+      "斯坦福大学",
+      "社区服务",
+      "志愿教学",
+      "机器学习入门"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-010",
+    "title": "RSI is not happening [R]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
+    "category": "AI安全与能力评估",
+    "relevance_score": 0.75,
+    "tags": [
+      "递归自我改进",
+      "RSI",
+      "AI智能体",
+      "机器学习研究",
+      "论文讨论"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-011",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/fyxer",
+    "category": "AI 应用 / 生产力工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI 助理",
+      "邮件自动化",
+      "OpenAI",
+      "微调",
+      "记忆机制",
+      "用户反馈",
+      "个性化写作",
+      "生产力工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-012",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "category": "AI Agent / 自主系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "GPT-6",
+      "Astra",
+      "Perplexity",
+      "AI代理",
+      "自主系统",
+      "生产监控",
+      "端到端自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-013",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "category": "分布式系统与存储架构",
+    "relevance_score": 0.9,
+    "tags": [
+      "分布式存储",
+      "系统架构",
+      "可扩展性",
+      "OpenAI",
+      "ChatGPT",
+      "在线存储",
+      "高并发"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-014",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "category": "科技活动/行业对话",
+    "relevance_score": 0.72,
+    "tags": [
+      "太空探索",
+      "前沿技术",
+      "科学发现",
+      "谷歌",
+      "NASA",
+      "跨界对话"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-015",
+    "title": "DevFest is back",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "category": "开发者社区活动/技术大会",
+    "relevance_score": 0.8,
+    "tags": [
+      "DevFest",
+      "Google开发者社区",
+      "智能体AI",
+      "开发者大会",
+      "技术社区",
+      "AI安全",
+      "规模化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-016",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "category": "机器学习/分布式训练",
+    "relevance_score": 0.8,
+    "tags": [
+      "异步训练",
+      "GRPO",
+      "LoRA",
+      "Hugging Face Jobs",
+      "分布式训练",
+      "无NCCL"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-017",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/gradio-workflow-1111",
+    "category": "AI应用开发/前端重构",
+    "relevance_score": 0.8,
+    "tags": [
+      "Stable Diffusion",
+      "Gradio",
+      "AUTOMATIC1111",
+      "WebUI",
+      "重构",
+      "AI绘画"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-018",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "category": "时间序列基础模型 / 开源模型发布",
+    "relevance_score": 0.85,
+    "tags": [
+      "时间序列",
+      "基础模型",
+      "IBM Granite",
+      "PatchTST",
+      "SOTA",
+      "商业友好许可",
+      "预测",
+      "Transformer"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-019",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "category": "科技政策与伦理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI监管",
+      "科技巨头",
+      "AI安全",
+      "反垄断",
+      "行业竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-020",
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "category": "AI政策与治理",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI安全",
+      "AI治理",
+      "发展节奏",
+      "行业辩论",
+      "政策监管"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-021",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "category": "科技新闻/产业动态",
+    "relevance_score": 0.75,
+    "tags": [
+      "英伟达",
+      "黄仁勋",
+      "特朗普",
+      "人工智能",
+      "机器人",
+      "科技政策"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-022",
+    "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+    "category": "AI技术/评测与基准",
+    "relevance_score": 0.8,
+    "tags": [
+      "Agent评测",
+      "AI Agent",
+      "评测体系",
+      "技术白皮书",
+      "落地指南"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-023",
+    "title": "TLS 全链路可观测体系：破解 LLM 应用黑盒，实现会话透明复盘",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522374&idx=1&sn=33c26eab48cc34d99c8e25423a715489",
+    "category": "AI 基础设施 / LLM 可观测性与运维",
+    "relevance_score": 0.82,
+    "tags": [
+      "LLM 可观测性",
+      "全链路追踪",
+      "会话复盘",
+      "TLS",
+      "AIOps",
+      "大模型工程化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-024",
+    "title": "火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522374&idx=2&sn=eb309174c350b07a904cdc890f771b43",
+    "category": "AI 应用 / 媒体与内容生成",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI 内容创作",
+      "汽车媒体",
+      "多媒体工具",
+      "视频生成",
+      "智能剪辑",
+      "火山引擎",
+      "懂车帝"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-025",
+    "title": "淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545951&idx=1&sn=4155d46609b020e686bf4153cebb3142",
+    "category": "多媒体技术/视频编码",
+    "relevance_score": 0.85,
+    "tags": [
+      "视频编码",
+      "S266",
+      "MSU冠军",
+      "淘天集团",
+      "内容体验",
+      "自研技术"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-026",
+    "title": "让 Agent 像人一样记忆：本地长期记忆系统 HL-Mem 的设计与取舍",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab",
+    "category": "AI Agent / 记忆系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "长期记忆",
+      "Agent",
+      "认知科学",
+      "本地部署",
+      "记忆系统",
+      "LLM"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-027",
+    "title": "Apache Paimon C++ ：从阿里数据湖走向开源社区",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511420&idx=1&sn=c2f443c3f1b8fd5d034671cc8de2c0f8",
+    "category": "数据湖/大数据存储",
+    "relevance_score": 0.8,
+    "tags": [
+      "Apache Paimon",
+      "数据湖",
+      "C++",
+      "流批一体",
+      "开源社区",
+      "阿里"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-028",
+    "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562398&idx=1&sn=34f5c3b7d6d20e44e6bd31a12738bcea",
+    "category": "AI大模型/平台生态",
+    "relevance_score": 0.8,
+    "tags": [
+      "DeepSeek",
+      "千问AI平台",
+      "API开放",
+      "Token Plan",
+      "大模型",
+      "模型部署",
+      "AI基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-029",
+    "title": "重磅产品首发、Qwen共创计划发布——千问AI平台分论坛，邀您云栖见",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562390&idx=1&sn=fdeef6cd7a4bb535a84df96c831eace1",
+    "category": "技术生态活动",
+    "relevance_score": 0.75,
+    "tags": [
+      "云栖大会",
+      "千问AI平台",
+      "Qwen",
+      "产品发布",
+      "生态共创",
+      "AI平台"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-030",
+    "title": "从“GPASS”到“灵影”，我们为AI终端铺设Agent基础设施",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538261&idx=1&sn=be809c0f62b415a89f815fe93d7d78bd",
+    "category": "AI基础设施/端侧智能体",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI终端",
+      "Agent基础设施",
+      "端侧AI",
+      "智能体",
+      "端云协同",
+      "AIOS",
+      "GPASS",
+      "灵影"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-031",
+    "title": "2026蚂蚁InTech奖揭晓，祝贺这些闪耀的青年新星！",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538256&idx=1&sn=1bb3042d14c481b69d8d2e00605de3b5",
+    "category": "行业动态/科技奖项",
+    "relevance_score": 0.55,
+    "tags": [
+      "蚂蚁InTech奖",
+      "青年科学家",
+      "人工智能",
+      "科研奖项",
+      "产学研"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-032",
+    "title": "最懂科学的开源基础大模型『书生-S2』发布：科学能力比肩顶尖闭源，通用性能居开源第一梯队",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247513224&idx=1&sn=d5c007beb496e98396e0b659ad676dff",
+    "category": "人工智能",
+    "relevance_score": 0.8,
+    "tags": [
+      "开源大模型",
+      "科学计算",
+      "通专融合",
+      "基础模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-033",
+    "title": "一图速览｜魔搭社区@2026云栖大会",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247513143&idx=1&sn=e01941d6e6f8fdc10ec1cc69ee411205",
+    "category": "社区活动/会议展览",
+    "relevance_score": 0.6,
+    "tags": [
+      "魔搭社区",
+      "云栖大会",
+      "AI开源生态",
+      "大模型",
+      "开发者社区",
+      "杭州"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-034",
+    "title": "别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804088&idx=1&sn=bbe53279f2c8fe79fea751faca5a264f",
+    "category": "AI工程/大模型应用",
+    "relevance_score": 0.9,
+    "tags": [
+      "Context Engineering",
+      "Agent",
+      "Prompt Engineering",
+      "上下文管理",
+      "RAG",
+      "AI工程范式"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-035",
+    "title": "iPhone Duo来了，腾讯 Kuikly 助 App 从容适配",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804073&idx=1&sn=cb50dfd70925eaa04a791e9a1b03b382",
+    "category": "跨平台开发框架",
+    "relevance_score": 0.8,
+    "tags": [
+      "跨端开发",
+      "Kuikly",
+      "腾讯",
+      "折叠屏适配",
+      "鸿蒙",
+      "iOS",
+      "安卓"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-036",
+    "title": "恩格斯停顿的本质是“社会肌少性肥胖”",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998802&idx=1&sn=33623c01ac45a8b796c39dadc9d033fe",
+    "category": "社会批判理论",
+    "relevance_score": 0.8,
+    "tags": [
+      "政治经济学",
+      "社会结构",
+      "恩格斯停顿",
+      "技术异化",
+      "不平等"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-037",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998793&idx=1&sn=15806aff5ee9e82a65e90a0e20102480",
+    "category": "行业报告",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI动态",
+      "行业趋势",
+      "关键词",
+      "腾讯研究院",
+      "周报"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-038",
+    "title": "2分钟到20秒！AI Agent让工单处理可提效9倍",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697427&idx=1&sn=8a0abdf2e3970eb3a5db760645548377",
+    "category": "AI应用/企业自动化",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "工单处理",
+      "自动化",
+      "效率提升",
+      "智能客服",
+      "企业服务"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-039",
+    "title": "48小时数百万浏览：Graph Engineering是真趋势还是又一轮造词？",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697420&idx=1&sn=5ce86628c0ceb8cb9df0e3027192de3d",
+    "category": "技术趋势分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "Graph Engineering",
+      "技术趋势",
+      "概念炒作",
+      "知识图谱",
+      "图计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-040",
+    "title": "8 月产品月报｜MQTT 支持 QUIC 协议，弱网、跨网连接更稳定，消息查询与轨迹、客户端能力全面增强",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247506957&idx=1&sn=887c2be1b8a32ffd0fcc9564a285ebc4",
+    "category": "物联网/消息中间件",
+    "relevance_score": 0.8,
+    "tags": [
+      "MQTT",
+      "QUIC",
+      "物联网",
+      "弱网优化",
+      "消息通信",
+      "协议升级"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-041",
+    "title": "AI 使用心得：B 端产品工作中的方法、边界与实践",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247502909&idx=1&sn=b838661a6ad2be1e2d767424cc0f9d24",
+    "category": "AI应用实践",
+    "relevance_score": 0.82,
+    "tags": [
+      "B端产品",
+      "AI提效",
+      "PRD方法论",
+      "Skill沉淀",
+      "工作流优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-042",
+    "title": "对话更流畅，控车更懂你——超级小爱背后技术解读",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520323&idx=1&sn=8296fe6b213d9ac8d00a899bbbd6ca86",
+    "category": "人工智能/智能汽车",
+    "relevance_score": 0.9,
+    "tags": [
+      "语音交互",
+      "智能座舱",
+      "大模型",
+      "多模态",
+      "车控"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-043",
+    "title": "启动申报丨2026 CCF-快手大模型探索者基金",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501320&idx=1&sn=6c4198a4a72aa728ecea9b290eb12379",
+    "category": "科研基金/学术合作",
+    "relevance_score": 0.8,
+    "tags": [
+      "大模型",
+      "科研基金",
+      "CCF",
+      "快手",
+      "产学研合作",
+      "项目申报"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-044",
+    "title": "议题详解｜快手技术沙龙：Data Agent 如何重构数据生产与智能决策？",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501319&idx=1&sn=6a215bf0bcb8e0998f03043ef4da3d35",
+    "category": "技术活动/行业分享",
+    "relevance_score": 0.8,
+    "tags": [
+      "Data Agent",
+      "数据生产",
+      "智能决策",
+      "快手",
+      "技术沙龙"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-045",
+    "title": "守护濒危物种：第六年，更进一步",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670134&idx=1&sn=a5afa941a696f002996602f413381df6",
+    "category": "环境保护/生态保护",
+    "relevance_score": 0.6,
+    "tags": [
+      "濒危物种保护",
+      "生物多样性",
+      "生态保护",
+      "长期项目"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-046",
+    "title": "看我干啥，老师脸上有答案吗！",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670086&idx=1&sn=bee283cad1b83fb5176ed1772283fd66",
+    "category": "AI教育应用/产品营销",
+    "relevance_score": 0.72,
+    "tags": [
+      "百度AI",
+      "教育科技",
+      "教师节营销",
+      "AI教育套件",
+      "文心助手",
+      "秒哒",
+      "GUI通识卡片",
+      "班级管理",
+      "课件制作"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-047",
+    "title": "DeepSeek V4.1 Flash：更强、更快、更普惠",
+    "source": "rss-deepseek",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485817&idx=1&sn=627dd80114901f3fd8717e2c13feaf6a",
+    "category": "大模型 / 多模态基础模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "多模态",
+      "基座模型",
+      "大语言模型",
+      "高效推理",
+      "DeepSeek",
+      "低成本"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-048",
+    "title": "让前沿智能抵达「最后一公里」",
+    "source": "rss-kimi",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487494&idx=1&sn=9fc28b464eb6cb7fb24d7bde34b5ea0d",
+    "category": "AI商业化与生态",
+    "relevance_score": 0.8,
+    "tags": [
+      "大模型",
+      "企业合作",
+      "AI落地",
+      "Kimi",
+      "生态合作"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-049",
+    "title": "企业级 MultiAgent 落地：Plan 模式与主子 Agent 协作｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546765&idx=1&sn=2089591cd6fb7dafeb246e40c4d18e63",
+    "category": "AI Agent / 多智能体系统",
+    "relevance_score": 0.9,
+    "tags": [
+      "MultiAgent",
+      "AgentScope",
+      "企业级AI",
+      "任务编排",
+      "Plan模式",
+      "主子Agent协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-050",
+    "title": "70% 的项目注定被砍：Anthropic 养了一支 20 人的“失败团队”，项目超过 4 人就“毕业”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292926&idx=1&sn=d75930197627a49cb1c659245d71a9e3",
+    "category": "AI 组织与研发管理",
+    "relevance_score": 0.8,
+    "tags": [
+      "Anthropic",
+      "Labs",
+      "快速试错",
+      "小团队",
+      "AI研发",
+      "失败管理",
+      "创新机制"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-051",
+    "title": "刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651292926&idx=2&sn=d22c4b903143686f62fdf8103b77d327",
+    "category": "AI与人文思辨",
+    "relevance_score": 0.75,
+    "tags": [
+      "人工智能",
+      "人机关系",
+      "创造力",
+      "学习本质",
+      "文学与AI",
+      "人类价值"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-052",
+    "title": "让企业拥有自己的模型！PyTRIO定义TaaS新范式：大模型训练进入API时代",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056978&idx=1&sn=3f375ee86e8f98ec325bdb7c84fdf2b9",
+    "category": "AI基础设施与平台",
+    "relevance_score": 0.9,
+    "tags": [
+      "大模型训练",
+      "TaaS",
+      "API",
+      "企业AI",
+      "模型定制",
+      "AI基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
+  },
+  {
+    "id": "2026-09-15-053",
+    "title": "告别「只会相似度检索」：腾讯最新T-Mem让AI学会「联想回忆」",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056978&idx=2&sn=901b4973ad6d9c8cae04509443643876",
+    "category": "AI智能体/记忆机制",
+    "relevance_score": 0.85,
+    "tags": [
+      "大语言模型",
+      "智能体记忆",
+      "长期对话",
+      "联想检索",
+      "腾讯",
+      "AI陪伴"
+    ],
+    "status": "published",
+    "collected_at": "2026-09-15T03:57:54.831Z"
   }
 ]

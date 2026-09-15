@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522374&idx=1&sn=33c26eab48cc34d99c8e25423a715489",
+  "title": "TLS 全链路可观测体系：破解 LLM 应用黑盒，实现会话透明复盘",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522374&idx=1&sn=33c26eab48cc34d99c8e25423a715489",
+  "summary": "该项目围绕 TLS（Trained LLM Stack）全链路可观测体系展开，旨在破解 LLM 应用在真实运行中的「黑盒」难题。通过采集请求、推理、工具调用、上下文拼接、Token 消耗、延迟与错误等多维度链路数据，构建端到端的会话级追踪能力，使开发者能够对每一次 LLM 会话进行透明复盘。体系强调从输入到输出的全链路可视化，帮助定位幻觉、上下文丢失、性能瓶颈与成本异常等问题，从而提升 LLM 应用的稳定性、可调试性与可优化性，为大模型工程化落地提供关键基础设施支撑。",
+  "tags": [
+    "LLM 可观测性",
+    "全链路追踪",
+    "会话复盘",
+    "TLS",
+    "AIOps",
+    "大模型工程化"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 基础设施 / LLM 可观测性与运维",
+  "key_insight": "LLM 应用的可观测性必须从单点日志升级为会话级全链路追踪，才能让黑盒推理过程变得可复盘、可归因、可优化。"
+}

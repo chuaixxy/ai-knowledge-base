@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-15-012",
+  "source_id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "summary": "该项目描述了 Perplexity 如何信任 GPT-6 Astra 模型来处理端到端的系统任务，包括撰写沟通内容、修改软件以及监控生产系统。与早期模型相比，Perplexity 对 Astra 的检查频率大幅降低，表明该模型在自主性和可靠性方面取得了显著提升，能够独立完成复杂的多步骤工作流程。这一案例展示了 AI 代理从辅助工具向可信赖的自主系统操作者转变的趋势，也反映了企业对大模型信任度的演进。",
+  "tags": [
+    "GPT-6",
+    "Astra",
+    "Perplexity",
+    "AI代理",
+    "自主系统",
+    "生产监控",
+    "端到端自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / 自主系统",
+  "key_insight": "GPT-6 Astra 使 AI 从需要频繁监督的助手进化为可被低频率检查的端到端自主系统操作者。"
+}

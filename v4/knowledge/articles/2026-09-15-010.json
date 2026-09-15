@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-15-010",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
+  "title": "RSI is not happening [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
+  "summary": "该项目讨论了一篇关于递归自我改进（RSI）是否即将到来的论文。作者选取了 NeurIPS 已接收但未发表的论文，让 Codex/GPT-5.6 Sol 和 OpenClaw/Opus 4.8 等智能体尝试复现相同的研究工作，并由原作者进行评分。结果显示，这些智能体无法完成开放式的机器学习研究。论文据此论证：由于当前智能体不具备开放式 ML 研究能力，因此无法实现递归自我改进，RSI 并非近在眼前。发帖者同时表达了对该论坛缺乏有意义讨论的失望。",
+  "tags": [
+    "递归自我改进",
+    "RSI",
+    "AI智能体",
+    "机器学习研究",
+    "论文讨论"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI安全与能力评估",
+  "key_insight": "当前AI智能体尚无法胜任开放式机器学习研究，因此递归自我改进（RSI）短期内难以实现。"
+}

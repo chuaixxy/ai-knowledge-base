@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-15-003",
+  "source_id": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+  "source": "rss-hacker-news-best",
+  "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "summary": "该文章报道了 Y Combinator 的 Garry Tan 呼吁美国开源权重 AI 实验室也应像中国实验室一样，通过“蒸馏”前沿模型来加速自身发展。文章指出，中国开源模型（如 DeepSeek）通过蒸馏美国前沿模型取得了显著进展，而美国开源社区却受限于法律和伦理顾虑。Tan 认为，美国若要在开源 AI 领域保持竞争力，应允许甚至鼓励对前沿模型进行蒸馏，并建议修改相关服务条款。文章在 Hacker News 上引发激烈讨论，涉及知识产权、创新公平性以及中美 AI 竞争等议题。",
+  "tags": [
+    "AI 开源",
+    "模型蒸馏",
+    "中美竞争",
+    "Y Combinator",
+    "AI 政策"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 政策与生态",
+  "key_insight": "美国开源 AI 若要在与中国的竞争中不落下风，需重新审视对前沿模型蒸馏的限制，在创新与合规之间找到新平衡。"
+}

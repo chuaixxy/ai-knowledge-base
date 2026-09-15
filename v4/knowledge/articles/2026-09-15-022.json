@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-15-022",
+  "source_id": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+  "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+  "summary": "本文是《Agent评测白皮书》系列博客的第一篇，旨在为Agent评测提供体系化的落地指南。该系列共四篇，包括《评测全览》《冷启动篇》《扩量篇》《自进化篇》，覆盖从评测入门到规模化再到自我进化的完整路径。作为开篇，本文对Agent评测进行全局性概述，帮助读者建立整体认知框架，为后续深入实践奠定基础。内容聚焦于评测方法论与工程落地，适合AI应用开发者、评测工程师及技术管理者参考。",
+  "tags": [
+    "Agent评测",
+    "AI Agent",
+    "评测体系",
+    "技术白皮书",
+    "落地指南"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI技术/评测与基准",
+  "key_insight": "Agent评测需要体系化、分阶段的落地路径，从全览认知到冷启动、扩量与自进化逐步推进。"
+}

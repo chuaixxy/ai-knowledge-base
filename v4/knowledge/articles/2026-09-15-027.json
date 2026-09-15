@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511420&idx=1&sn=c2f443c3f1b8fd5d034671cc8de2c0f8",
+  "title": "Apache Paimon C++ ：从阿里数据湖走向开源社区",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511420&idx=1&sn=c2f443c3f1b8fd5d034671cc8de2c0f8",
+  "summary": "Apache Paimon C++ 是源自阿里巴巴内部数据湖实践、后贡献给 Apache 开源社区的项目。它旨在为 Flink、Spark 等多计算引擎提供统一的湖存储格式与流批一体能力，C++ 版本主要面向高性能、低延迟的本地读写与跨语言集成场景。项目从阿里内部的大规模数据湖需求中孵化，逐步走向社区化，通过开放治理吸引更多引擎和开发者参与，降低多语言生态接入门槛，推动数据湖技术在开源社区的标准化与普及。",
+  "tags": [
+    "Apache Paimon",
+    "数据湖",
+    "C++",
+    "流批一体",
+    "开源社区",
+    "阿里"
+  ],
+  "relevance_score": 0.8,
+  "category": "数据湖/大数据存储",
+  "key_insight": "Paimon 的 C++ 化与社区化，是把阿里内部数据湖能力转化为多引擎、多语言通用基础设施的关键一步。"
+}

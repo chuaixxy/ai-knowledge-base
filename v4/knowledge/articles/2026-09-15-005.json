@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-15-005",
+  "source_id": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "title": "Why don’t machine learning research agents overfit?",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "summary": "该项目探讨了一个关于机器学习研究智能体（research agents）为何不会过拟合的有趣问题。传统机器学习模型在训练数据上容易过拟合，但用于自动化机器学习研究、超参数搜索或架构设计的智能体，却往往能持续产生具有泛化能力的新发现。讨论可能涉及智能体的搜索空间、评价机制、探索与利用的平衡、以及研究任务本身的开放性和多样性，导致其难以简单地记忆训练集。核心观点可能在于：研究智能体的目标不是拟合固定数据集，而是生成可验证的新知识，因此过拟合的定义和风险与传统监督学习不同。",
+  "tags": [
+    "机器学习",
+    "研究智能体",
+    "过拟合",
+    "自动化研究",
+    "泛化"
+  ],
+  "relevance_score": 0.7,
+  "category": "机器学习理论",
+  "key_insight": "研究智能体的目标不是拟合数据而是生成可验证的新知识，因此传统过拟合概念不直接适用。"
+}

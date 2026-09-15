@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-002",
+  "source_id": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+  "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+  "source": "rss-hacker-news-best",
+  "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+  "summary": "根据 MacRumors 报道，苹果代码显示 Siri 的 AI 后端可以被替换为 Claude 或 ChatGPT 等第三方大模型。这一发现来自对系统代码的分析，暗示苹果可能正在构建模块化的 AI 架构，允许用户或开发者选择偏好的 AI 助手来驱动 Siri。该消息在 Hacker News 上引发热议，获得 219 分和 155 条评论，反映出业界对苹果 AI 战略走向、第三方模型集成可能性以及 Siri 未来竞争力的高度关注。若属实，这将是苹果在 AI 领域开放生态的重要信号。",
+  "tags": [
+    "Siri",
+    "Apple",
+    "ChatGPT",
+    "Claude",
+    "AI集成",
+    "大语言模型"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI行业动态",
+  "key_insight": "苹果可能正将 Siri 从封闭自研转向模块化 AI 架构，允许第三方大模型接入，标志着其 AI 战略向开放生态迈出关键一步。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-017",
+  "source_id": "https://huggingface.co/blog/gradio-workflow-1111",
+  "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/gradio-workflow-1111",
+  "summary": "该项目旨在使用 Gradio 工作流重新实现（Rebuilding）AUTOMATIC1111 的 WebUI 界面。AUTOMATIC1111 是当前最流行的 Stable Diffusion 图像生成前端，基于 Gradio 构建，功能丰富但代码结构较为复杂。此项目尝试以 Gradio 的 Workflow 模式重新组织界面与交互逻辑，探索更模块化、可维护的架构方式。通过重构，可以更清晰地分离参数配置、模型加载、图像生成与后处理等环节，降低二次开发门槛，同时保留原有核心功能。该工作有助于推动 AI 绘画工具向更工程化、可扩展的方向演进，为开发者提供更友好的定制与集成基础。",
+  "tags": [
+    "Stable Diffusion",
+    "Gradio",
+    "AUTOMATIC1111",
+    "WebUI",
+    "重构",
+    "AI绘画"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI应用开发/前端重构",
+  "key_insight": "用 Gradio Workflow 重构 AUTOMATIC1111，是在保留功能的前提下提升可维护性与可扩展性的工程化尝试。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab",
+  "title": "让 Agent 像人一样记忆：本地长期记忆系统 HL-Mem 的设计与取舍",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545942&idx=1&sn=059fb0899702c46fe339f0a80aef90ab",
+  "summary": "HL-Mem 是一套借鉴认知科学原理设计的本地长期记忆系统，旨在让 Agent 具备类似人类的记忆能力。项目围绕记忆的编码、存储、检索与遗忘机制展开，在本地化部署的前提下实现长期记忆的持久化管理。设计上强调对认知科学中情景记忆、语义记忆等概念的工程化映射，并在性能、隐私与可扩展性之间做出取舍。该方案适合需要长期上下文保持、隐私敏感或离线运行的 Agent 场景，为构建具备持续学习与个性化能力的智能体提供了基础设施层面的参考。",
+  "tags": [
+    "长期记忆",
+    "Agent",
+    "认知科学",
+    "本地部署",
+    "记忆系统",
+    "LLM"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / 记忆系统",
+  "key_insight": "借鉴人类认知机制（编码-存储-检索-遗忘）来设计 Agent 的本地长期记忆，是平衡隐私、成本与持续学习能力的关键路径。"
+}

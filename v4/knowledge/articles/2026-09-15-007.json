@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-007",
+  "source_id": "https://arxiv.org/abs/2609.11987",
+  "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.11987",
+  "summary": "该研究针对「厂商原生 harness 是否优于通用 harness」这一业界假设，构建了一个包含 256 个仓库任务与后训练截止竞赛题的私有、抗污染测试套件。在同模型配对对比下，claude-opus-4-8 分别运行于 claude-agent-sdk 与 deepagents，gpt-5.5 分别运行于 openai-codex SDK 与 deepagents，并以 gemini-3.5-flash、deepseek-v3.2 作为旁支对照。800 次计划运行中 792 次由隔离 oracle 评分。结果显示两种 harness 均未取得平均优势：Opus 4.8 为 -1.25 个百分点，GPT-5.5 为 +1.25 个百分点，置信区间均跨越零。Opus 的平均值还掩盖了方向相反的分层效应，说明 harness 效应高度依赖任务类型而非普遍存在。",
+  "tags": [
+    "Agentic Coding",
+    "Harness",
+    "LLM评测",
+    "抗污染基准",
+    "同模型对比",
+    "软件工程智能体"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI Agent 评测与基准研究",
+  "key_insight": "厂商原生 harness 并不天然优于通用 harness，其效应因任务分层而相互抵消，模型能力而非工具编排才是智能体编程表现的主导因素。"
+}

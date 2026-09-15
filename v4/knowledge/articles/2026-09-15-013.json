@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-15-013",
+  "source_id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "summary": "OpenAI 分享了其在线存储系统 Habitat 的演进历程：从最初的一个 Python 库，逐步发展成支撑全球 ChatGPT 用户的分布式存储平台。随着 ChatGPT 用户规模突破 10 亿、请求量高达每秒 2200 万次，存储系统面临极致的扩展性、一致性和可用性挑战。Habitat 通过分层架构、数据分片、缓存优化和自动化运维等手段，实现了从单机库到全球分布式平台的跃迁，保障了海量用户下低延迟、高可靠的在线存储服务。该案例为超大规模互联网服务的存储架构设计提供了宝贵经验。",
+  "tags": [
+    "分布式存储",
+    "系统架构",
+    "可扩展性",
+    "OpenAI",
+    "ChatGPT",
+    "在线存储",
+    "高并发"
+  ],
+  "relevance_score": 0.9,
+  "category": "分布式系统与存储架构",
+  "key_insight": "从 Python 库到支撑每秒 2200 万请求的全球存储平台，Habitat 的演进揭示了超大规模在线服务中存储系统必须通过分层、分片与自动化实现弹性扩展。"
+}

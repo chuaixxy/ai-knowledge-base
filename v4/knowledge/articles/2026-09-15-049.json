@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-15-049",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546765&idx=1&sn=2089591cd6fb7dafeb246e40c4d18e63",
+  "title": "企业级 MultiAgent 落地：Plan 模式与主子 Agent 协作｜得物技术",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247546765&idx=1&sn=2089591cd6fb7dafeb246e40c4d18e63",
+  "summary": "得物技术基于 AgentScope Java 构建了企业级 MultiAgent 平台，面向研发、数据分析和知识问答等场景，提供统一的模型调用、工具接入、任务编排、流式输出与运行追踪能力。该平台的核心在于 Plan 模式与主子 Agent 协作机制：主 Agent 负责全局规划与任务分解，子 Agent 各司其职执行具体子任务，通过结构化协作完成复杂业务流程。这种架构既保证了任务的可控性与可观测性，又提升了多智能体系统的工程化落地能力，为大模型在企业生产环境中的规模化应用提供了可复用的参考范式。",
+  "tags": [
+    "MultiAgent",
+    "AgentScope",
+    "企业级AI",
+    "任务编排",
+    "Plan模式",
+    "主子Agent协作"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI Agent / 多智能体系统",
+  "key_insight": "Plan 模式加主子 Agent 协作，是企业级 MultiAgent 从 Demo 走向生产落地的关键工程范式。"
+}
