@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-006",
+  "source_id": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+  "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+  "source": "rss-hacker-news-best",
+  "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+  "summary": "该文章报道了微软一位高管在未删节的法律文件中将AI数据抓取行为称为“人类历史上最大的劳动力盗窃”。这一表述出现在相关诉讼的法庭文件中，揭示了科技公司在训练AI模型时大规模抓取互联网内容所引发的版权与伦理争议。文章在Hacker News上获得920分和816条评论，引发广泛讨论。核心争议在于：AI公司未经授权使用创作者的作品进行模型训练，是否构成对原创劳动成果的系统性剥削。支持者认为这是技术创新的必要代价，反对者则强调这是对知识产权和创作者权益的严重侵犯，呼吁建立更公平的数据使用与补偿机制。",
+  "tags": [
+    "AI伦理",
+    "数据抓取",
+    "版权争议",
+    "知识产权",
+    "微软",
+    "法律诉讼"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI伦理与法律",
+  "key_insight": "AI训练数据的无偿抓取正在被重新定义为对创作者劳动的系统性剥削，这将推动数据使用授权与补偿机制的立法变革。"
+}

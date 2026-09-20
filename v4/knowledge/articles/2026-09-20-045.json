@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-045",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518513&idx=1&sn=d540b8ce97bc739dad4927a975830417",
+  "title": "DeepSeek Harness：从“会回答”到“能持续做事”的 Agent 运行时",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518513&idx=1&sn=d540b8ce97bc739dad4927a975830417",
+  "summary": "DeepSeek Harness 是一个面向 Agent 场景的运行时系统，旨在让大模型从“单次问答”进化为“能够持续执行任务”。传统大模型交互以一次性提问-回答为主，虽能给出合理答案，却缺乏长期记忆、任务编排、工具调用与状态管理能力，难以支撑复杂多步任务。Harness 通过提供运行时框架，把模型能力封装为可调度、可循环、可观测的执行单元，使其能在多轮交互中规划、调用工具、维护上下文并持续推进目标。该项目的核心价值在于补齐大模型从“会回答”到“能做事”之间的工程化缺口，为构建真正可用的自主 Agent 提供基础设施。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "运行时",
+    "DeepSeek",
+    "工具调用",
+    "任务编排"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent 基础设施",
+  "key_insight": "大模型的能力瓶颈不在回答质量，而在于缺少一个能持续调度、记忆与执行任务的运行时层。"
+}

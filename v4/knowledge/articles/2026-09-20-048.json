@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-20-048",
+  "source_id": "https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4",
+  "title": "The guest journey, updated in real time: extending Airbnb’s sequence recommender with Chronon",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/the-guest-journey-updated-in-real-time-extending-airbnbs-sequence-recommender-with-chronon-8f1582578553?source=rss----53c7c27702d5---4",
+  "summary": "该项目介绍了 Airbnb 如何将 Chronon（一个开源的特征工程与实时特征平台）与其现有的序列推荐系统（sequence recommender）相结合，以实现对房客旅程（guest journey）的实时更新与建模。传统推荐系统通常依赖批处理生成的特征，存在延迟高、无法及时反映用户最新行为的问题。通过引入 Chronon，Airbnb 能够以流式方式计算用户行为序列特征，将最新的浏览、点击、预订等交互实时注入推荐模型，从而在用户访问过程中动态调整推荐结果。这一改进显著提升了推荐的时效性与相关性，使系统能够捕捉用户兴趣的即时变化，优化从搜索到预订的整个旅程体验，同时保持工程架构的可扩展性与可维护性。",
+  "tags": [
+    "推荐系统",
+    "实时特征",
+    "Chronon",
+    "序列推荐",
+    "Airbnb",
+    "特征工程",
+    "流式计算"
+  ],
+  "relevance_score": 0.8,
+  "category": "推荐系统/实时机器学习",
+  "key_insight": "通过将 Chronon 的实时流式特征能力注入序列推荐模型，Airbnb 实现了对用户旅程的动态建模，让推荐从'基于历史'转向'跟随当下'。"
+}

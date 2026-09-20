@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-20-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562423&idx=1&sn=fd4d5fc3fa8fd7e370403839473f2bcf",
+  "title": "云栖大会 Skill 上线：带着你的Agent来参会",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562423&idx=1&sn=fd4d5fc3fa8fd7e370403839473f2bcf",
+  "summary": "该项目是云栖大会期间上线的 Skill 能力，允许参会者将自己的 Agent 接入大会场景，实现智能体与大会内容、日程、互动等环节的联动。用户可携带自研或第三方 Agent 参与，通过 Skill 机制扩展 Agent 在大会中的服务能力，如信息查询、日程推荐、社交匹配等。项目体现了 Agent 生态与线下大型活动场景的融合趋势，强调开放接入与场景化落地，为开发者提供展示与实战机会，也推动 Agent 从工具向活动伙伴角色演进。",
+  "tags": [
+    "Agent",
+    "Skill",
+    "云栖大会",
+    "智能体",
+    "生态开放"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI Agent / 应用生态",
+  "key_insight": "Agent 正从通用工具走向场景化活动伙伴，Skill 机制成为连接智能体与线下大会的关键接口。"
+}

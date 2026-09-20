@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-20-049",
+  "source_id": "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
+  "title": "Beyond the model: Engineering AI infra with scientific judgement",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/beyond-the-model-engineering-ai-infra-with-scientific-judgement-371316d43261?source=rss----53c7c27702d5---4",
+  "summary": "该项目探讨了在构建AI基础设施时，超越单纯模型优化，强调工程实践中科学判断力的重要性。它指出，AI基础设施的成功不仅依赖于算法和模型，更需要对系统性能、可扩展性、可靠性及成本效益进行科学评估与权衡。项目可能涉及分布式训练、推理优化、资源调度、数据管道等工程挑战，并提倡通过实验、度量和迭代来指导决策，避免盲目跟风。其核心在于将工程严谨性与科学方法结合，以构建高效、稳健且可持续的AI系统。",
+  "tags": [
+    "AI基础设施",
+    "工程实践",
+    "科学判断",
+    "系统设计",
+    "MLOps"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI工程",
+  "key_insight": "AI基础设施的卓越不仅源于模型创新，更取决于工程中科学判断驱动的系统化权衡与迭代。"
+}

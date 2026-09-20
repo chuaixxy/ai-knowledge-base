@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-20-010",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+  "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+  "summary": "该项目是 AWS 首席应用科学家 James Gung 在 r/MachineLearning 发起的 AMA 问答帖。他于 2021 年加入亚马逊，先后参与 Lex、Bedrock、Q Business 和 Amazon Quick 等 AI 服务的研发，研究方向涵盖任务型对话、智能体评估、对话模拟与主动式智能体。此前他从事对话式 AI 系统相关工作。该帖面向机器学习社区，旨在分享 AWS 大规模 AI 服务落地的工程与研究经验，并回答社区关于 Bedrock 等生成式 AI 平台的技术问题，属于经验分享与行业交流性质的内容。",
+  "tags": [
+    "AWS",
+    "Amazon Bedrock",
+    "对话式AI",
+    "智能体",
+    "应用科学家",
+    "AMA",
+    "生成式AI"
+  ],
+  "relevance_score": 0.55,
+  "category": "行业交流/经验分享",
+  "key_insight": "来自 AWS 一线科学家的视角，揭示了 Bedrock、Lex 等企业级 AI 服务在智能体评估与对话系统上的真实工程实践。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-20-037",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697554&idx=1&sn=78f66fec6cc85f3fbe642283b7d91cc2",
+  "title": "换一套 Harness，比换两代模型还管用",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697554&idx=1&sn=78f66fec6cc85f3fbe642283b7d91cc2",
+  "summary": "该项目探讨了在AI智能体（Agent）开发中，Harness（即围绕大模型的编排框架、工具调用层与执行环境）的更换对整体性能的提升，可能比单纯升级两代底层模型更为显著。核心观点在于：模型能力固然重要，但真正决定Agent实际表现的，往往是提示词组织、工具接口设计、上下文管理、错误重试机制、状态维护等Harness层面的工程细节。一个设计良好的Harness能够充分释放现有模型潜力，弥补模型本身的不足；反之，糟糕的Harness会让强模型也表现平庸。该观点对AI工程实践具有重要启发：在追逐新模型之前，应先审视并优化自身的Agent架构与工程实现。",
+  "tags": [
+    "AI Agent",
+    "Harness",
+    "大模型工程",
+    "提示词工程",
+    "工具调用",
+    "上下文管理",
+    "Agent架构"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "Agent的实际表现更多取决于Harness的工程设计，优化编排框架的收益往往超过升级底层模型。"
+}

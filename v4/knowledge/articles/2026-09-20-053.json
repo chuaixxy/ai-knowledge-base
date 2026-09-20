@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-053",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651293381&idx=2&sn=c1e0badc2217e7cb8e7c623712f212cc",
+  "title": "单个机柜到底能跑多少个 Agent？答案不在 GPU 身上",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651293381&idx=2&sn=c1e0badc2217e7cb8e7c623712f212cc",
+  "summary": "该项目以「单个机柜能跑多少个 Agent」为切入点，探讨 AI Agent 大规模部署中的硬件瓶颈问题，指出答案的关键不在 GPU，而可能在于 CPU、内存带宽、网络互连或系统级整合能力。内容与 Intel Connection 大会（9 月 22 日）相关联，暗示 Intel 将围绕 Agent 负载的算力基础设施给出方案或数据。该议题反映了业界从「堆 GPU」转向关注整机柜系统效率与异构计算协同的趋势，对数据中心规划、Agent 推理成本评估具有参考价值。",
+  "tags": [
+    "AI Agent",
+    "数据中心",
+    "机柜算力",
+    "Intel",
+    "异构计算",
+    "推理部署"
+  ],
+  "relevance_score": 0.72,
+  "category": "AI 基础设施",
+  "key_insight": "Agent 规模化部署的真正瓶颈可能不在 GPU，而在整机柜的系统级协同与 CPU/内存/网络等配套能力。"
+}

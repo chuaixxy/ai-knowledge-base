@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-20-013",
+  "source_id": "https://openai.com/index/cooley-gopublic",
+  "title": "How Cooley is accelerating IPO work with ChatGPT",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/cooley-gopublic",
+  "summary": "该案例介绍了美国知名律所Cooley利用ChatGPT Work构建名为GO Public的智能工具，将人工智能引入IPO（首次公开募股）流程。通过这一工具，律师能够在IPO准备阶段更早地识别和暴露潜在法律与合规问题，从而将有限的时间和专业判断力集中投入到最关键的决策环节。这一实践展示了生成式AI在法律专业服务领域的落地应用，核心价值在于提升尽职调查与文件审查效率、降低遗漏风险，并优化律师工作分配，使人类专家专注于高价值判断，而非重复性信息筛查。",
+  "tags": [
+    "法律科技",
+    "生成式AI",
+    "ChatGPT",
+    "IPO",
+    "专业服务自动化"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI行业应用",
+  "key_insight": "生成式AI在专业服务中的价值不是替代判断，而是把专家从信息筛查中解放出来，让判断力用在最关键处。"
+}

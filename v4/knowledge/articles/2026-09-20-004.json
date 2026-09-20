@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-004",
+  "source_id": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "title": "US Military had close call after using AI for hallucinated intelligence report",
+  "source": "rss-hacker-news-best",
+  "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+  "summary": "该文章报道了美国军方在使用人工智能系统生成情报报告时发生的一起严重事故。AI系统在分析中国舰船相关数据时产生了虚假情报（幻觉），即编造了并不存在的信息，并将其作为真实情报输出。这一错误情报险些导致军事决策失误，所幸在最后关头被相关人员发现并纠正，避免了可能的严重后果。事件在Hacker News上引发广泛讨论，获得499个点赞和382条评论，反映出业界对AI在军事和关键领域应用可靠性的高度关注。该案例凸显了大语言模型在生成内容时存在幻觉问题的现实风险，尤其是在情报分析、军事决策等高风险场景中，AI输出的准确性直接关系到国家安全。文章呼吁在关键任务中必须建立严格的人工审核机制，不能盲目信任AI生成的内容。",
+  "tags": [
+    "AI幻觉",
+    "军事AI",
+    "情报分析",
+    "AI安全",
+    "大语言模型",
+    "人机协作"
+  ],
+  "relevance_score": 0.92,
+  "category": "AI安全与风险",
+  "key_insight": "AI幻觉在高风险军事场景中可能引发灾难性后果，关键决策必须保留人工审核环节。"
+}

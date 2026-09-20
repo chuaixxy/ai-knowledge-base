@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-20-009",
+  "source_id": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+  "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+  "summary": "本文是作者对 Jev（原名 Jevko，TypeSafe 提出的 System One 模型）进行的一次实践探索，通过用它实现经典游戏 2048 来检验该技术的实际可用性。System One 模型试图在传统类型系统之外，提供一种更贴近数据、更简洁的建模方式，作者在实现过程中记录了语法的表达力、组合方式以及与常规编程范式的差异，并分享了在真实项目中使用 Jev 的体验、遇到的限制和潜在优势。整体属于一次「试水式」的技术评测，适合对新型数据/类型建模语言感兴趣的开发者参考。",
+  "tags": [
+    "Jev",
+    "System One",
+    "TypeSafe",
+    "2048",
+    "类型系统",
+    "数据建模",
+    "DSL"
+  ],
+  "relevance_score": 0.65,
+  "category": "编程语言与类型系统",
+  "key_insight": "通过用 Jev 实现 2048，可以直观评估 System One 模型在真实场景中的表达力与实用性边界。"
+}

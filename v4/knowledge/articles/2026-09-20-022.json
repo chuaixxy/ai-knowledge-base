@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522649&idx=1&sn=bf5be5b2b912342f3263ee49c0c5728c",
+  "title": "日志服务 TLS AgentLoop：让多模态调用清晰可见",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522649&idx=1&sn=bf5be5b2b912342f3263ee49c0c5728c",
+  "summary": "该项目介绍字节跳动日志服务 TLS 推出的 AgentLoop 工具，用于提升多模态大模型调用链路的可观测性。随着 Agent 应用日益复杂，模型调用涉及文本、图像、音频等多种模态，以及多轮工具调用、外部 API 交互等环节，传统日志难以完整还原调用全貌。AgentLoop 通过结构化记录每一次多模态请求与响应、工具调用参数与结果、上下文传递关系，形成清晰的调用闭环视图，帮助开发者快速定位问题、分析性能瓶颈、优化 Prompt 与工具编排。该能力降低了多模态 Agent 调试与运维门槛，是 LLM 应用可观测性方向的重要工程实践。",
+  "tags": [
+    "LLM可观测性",
+    "多模态",
+    "Agent",
+    "日志服务",
+    "TLS",
+    "调用链路追踪"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI工程/可观测性",
+  "key_insight": "让多模态 Agent 的每一次调用链路像日志一样可追溯，是可观测性从文本走向多模态的关键一步。"
+}

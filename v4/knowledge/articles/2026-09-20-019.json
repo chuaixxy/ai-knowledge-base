@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-20-019",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+  "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+  "summary": "Meta推出的AI助手Muse虽然功能强大，却因新发布的Mac应用可访问Messages、Calendar和Notes等敏感数据而引发隐私担忧，被用户形容为\"令人毛骨悚然\"。文章指出，这种不安感部分源于应用对个人信息的深度访问权限，但更深层的问题在于Muse缺乏清晰的自我定位——它甚至无法准确描述自己是什么、能做什么。Inc杂志特约编辑Jason Aten在Threads上对此发表了评论。这一事件折射出AI助手在能力扩展与用户信任之间的张力：当AI深入个人数字生活时，产品定位的模糊性反而比数据访问本身更令人不安。",
+  "tags": [
+    "AI助手",
+    "隐私安全",
+    "Meta",
+    "产品定位",
+    "Mac应用"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI产品与伦理",
+  "key_insight": "AI助手的真正\"恐怖\"不在于访问数据，而在于它连自己是谁都说不清楚。"
+}

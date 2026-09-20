@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-018",
+  "source_id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "summary": "该项目聚焦于AI智能体（Agent）在任务执行中的可靠性问题，核心追问是：当Agent成功完成一次任务后，能否在重复执行或环境变化下保持稳定表现？项目揭示了当前Agent系统普遍存在的“一次性成功”现象——即依赖特定上下文、随机采样或偶然路径达成目标，却缺乏可复现性与鲁棒性。其价值在于将评估视角从单次成功率转向可重复性、一致性与泛化能力，推动Agent研究从“演示级”走向“生产级”。对开发者而言，这意味着需要关注状态管理、错误恢复、确定性推理与回归测试等工程实践，而非仅追求benchmark分数。",
+  "tags": [
+    "AI Agent",
+    "可靠性",
+    "可复现性",
+    "鲁棒性",
+    "评估基准",
+    "泛化能力"
+  ],
+  "relevance_score": 0.88,
+  "category": "AI Agent 评估与可靠性",
+  "key_insight": "Agent的真正能力不在于一次成功，而在于可重复、可泛化的稳定成功。"
+}

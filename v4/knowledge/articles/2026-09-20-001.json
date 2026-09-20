@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-001",
+  "source_id": "JuliusBrussee/caveman",
+  "title": "JuliusBrussee/caveman",
+  "source": "github",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "summary": "JuliusBrussee/caveman 是一个面向编码智能体（coding agents）的开源技能与代理工具，其核心思路是用极简、类似原始人的表达方式来压缩提示词与交互内容。项目名与描述都强调“少 token 办大事”，通过精简语言风格，在不损失关键语义的前提下大幅降低 token 消耗，官方宣称可减少约 65% 的 token 使用量。它既可作为一项可复用的“技能”集成到现有 agent 工作流中，也可作为代理层拦截和改写请求，从而降低 API 调用成本、提升响应速度。该项目因理念新颖、效果直观而走红，适合关注 LLM 成本优化、提示工程与 agent 效率的开发者。",
+  "tags": [
+    "token优化",
+    "编码智能体",
+    "提示工程",
+    "成本压缩",
+    "LLM效率",
+    "开源工具"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI开发工具/LLM效率优化",
+  "key_insight": "用极简表达换取 token 大幅压缩，是降低 agent 调用成本的一条低成本高回报路径。"
+}

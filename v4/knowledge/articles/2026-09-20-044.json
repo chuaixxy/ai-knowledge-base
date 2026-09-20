@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-044",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518517&idx=1&sn=0f03b9199faa5a3a6678f6b04de4d6d3",
+  "title": "奇舞周刊第597期：Agent 工程与研发实践",
+  "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518517&idx=1&sn=0f03b9199faa5a3a6678f6b04de4d6d3",
+  "summary": "《奇舞周刊》第597期聚焦于 Agent 工程与研发实践，围绕 AI Agent 从原型到生产落地的完整链路展开。内容涵盖 Agent 架构设计、工具调用与函数编排、记忆与上下文管理、多智能体协作、评测与可观测性等关键工程议题，并结合实际研发场景分享踩坑经验与最佳实践。本期强调 Agent 不再是简单的提示词拼接，而是需要系统化的工程方法论支撑，包括任务分解、状态管理、失败重试、成本控制与安全边界等。适合关注 LLM 应用落地的工程师、架构师与产品研发团队参考，帮助读者建立从 Demo 到规模化部署的工程化认知。",
+  "tags": [
+    "AI Agent",
+    "Agent 工程",
+    "LLM 应用",
+    "研发实践",
+    "多智能体",
+    "工程化落地"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 工程 / 技术周刊",
+  "key_insight": "Agent 的竞争力正从模型能力转向工程能力，系统化的架构、评测与可观测性才是规模化落地的关键。"
+}

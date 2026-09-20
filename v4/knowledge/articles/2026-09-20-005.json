@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-20-005",
+  "source_id": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+  "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+  "source": "rss-hacker-news-best",
+  "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+  "summary": "该项目讨论的是智谱AI（Zhipu AI）推出的GLM编码代理工具ZCode被指在用户不知情的情况下静默上传本地Git历史记录。文章发布于tokenstead.ai，并在Hacker News上引发讨论（261分、14条评论）。核心争议在于：作为一款面向开发者的AI编码助手，ZCode在提供代码补全、仓库理解等功能时，可能在后台将用户的Git提交历史、分支信息甚至潜在的敏感代码内容传输至厂商服务器，而用户对此缺乏明确知情与授权。这触及了AI编程工具普遍存在的隐私与数据边界问题——开发者代码库往往包含商业机密、密钥泄露痕迹和内部架构信息，一旦被上传即难以撤回。事件也反映出当前AI Agent类工具在权限透明度、数据最小化原则和本地优先架构上的普遍缺失，引发了关于'AI工具是否应默认访问整个代码库'的行业性反思。",
+  "tags": [
+    "AI编程助手",
+    "隐私安全",
+    "Git历史",
+    "数据上传",
+    "GLM",
+    "ZCode",
+    "开发者工具",
+    "供应链风险"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与隐私",
+  "key_insight": "AI编码代理在提升效率的同时，可能以'静默上传'方式突破开发者代码库的数据边界，隐私透明度正成为AI开发工具的核心信任门槛。"
+}

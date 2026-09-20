@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-20-047",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494219&idx=1&sn=f42bab9190e6e13f6db5cf5c90d850a9",
+  "title": "GLM-5.3-FlashX上线：大大方方、好好用用、嗖嗖嗖嗖",
+  "source": "rss-433d2134dca54d80804daf32e8be546155be3300",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg==&mid=2247494219&idx=1&sn=f42bab9190e6e13f6db5cf5c90d850a9",
+  "summary": "GLM-5.3-FlashX 是智谱推出的新版本大模型上线发布，从标题的「大大方方、好好用用、嗖嗖嗖嗖」可以看出其主打卖点：开放使用（大大方方）、易用性强（好好用用）、推理速度快（嗖嗖嗖嗖）。该版本属于 GLM-5 系列的 FlashX 变体，定位为兼顾性能与效率的快速推理模型，面向开发者和普通用户提供更流畅的交互体验。作为 Flash 系列的升级版本，它在保持模型能力的同时重点优化了响应速度和调用成本，适合对延迟敏感的应用场景，如实时对话、代码补全、Agent 工作流等。",
+  "tags": [
+    "GLM",
+    "大语言模型",
+    "智谱AI",
+    "快速推理",
+    "模型发布"
+  ],
+  "relevance_score": 0.75,
+  "category": "大语言模型",
+  "key_insight": "GLM-5.3-FlashX 以「快」和「易用」为核心卖点，是面向低延迟场景的效率优化型大模型版本。"
+}

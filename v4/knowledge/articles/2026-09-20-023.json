@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522604&idx=1&sn=6ea201d826647e12047227cd3d386ba4",
+  "title": "从“做过”到“会做”：用 OpenViking 经验记忆构建 Agent 的进化闭环",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522604&idx=1&sn=6ea201d826647e12047227cd3d386ba4",
+  "summary": "该项目围绕 OpenViking 经验记忆机制，探讨如何让 AI Agent 从“做过”任务进化到真正“会做”任务，构建持续进化的闭环。核心思路是通过结构化的经验存储与检索，将 Agent 历史执行中的成功路径、失败教训与上下文信息沉淀为可复用的记忆资产，并在新任务中主动调用，从而减少重复试错、提升决策质量。项目强调经验记忆不仅是日志记录，更应形成“执行—反思—抽象—复用”的循环，使 Agent 具备跨任务迁移能力。其价值在于把一次性任务执行转化为可积累的能力增长，推动 Agent 从工具型助手向具备学习进化能力的智能体演进。",
+  "tags": [
+    "AI Agent",
+    "经验记忆",
+    "OpenViking",
+    "持续学习",
+    "闭环进化",
+    "任务迁移"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI Agent 与记忆系统",
+  "key_insight": "Agent 的进化关键在于把历史经验转化为可检索、可复用的结构化记忆，形成执行与反思的闭环。"
+}

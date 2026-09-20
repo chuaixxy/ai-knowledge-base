@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-050",
+  "source_id": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
+  "title": "Analyzing rising fraud attempts among travel and leisure businesses on Stripe",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
+  "summary": "Stripe基于超过20万家旅游休闲企业的支付数据分析显示，针对该行业的欺诈尝试升至四年最高点。报告揭示了欺诈上升的具体环节、现有风控体系的拦截效果，以及企业可采取的应对策略。旅游休闲行业因交易金额大、退款频繁、跨境支付多、服务交付与付款存在时间差等特点，成为欺诈分子重点攻击目标。Stripe通过分析真实支付活动，量化了欺诈趋势并评估了机器学习风控模型的拦截能力，为商户提供了数据驱动的反欺诈参考。",
+  "tags": [
+    "支付风控",
+    "反欺诈",
+    "旅游休闲",
+    "Stripe",
+    "数据分析",
+    "支付安全"
+  ],
+  "relevance_score": 0.8,
+  "category": "支付安全与风控",
+  "key_insight": "旅游休闲行业欺诈尝试创四年新高，企业需借助数据驱动的风控手段主动应对上升的支付欺诈风险。"
+}

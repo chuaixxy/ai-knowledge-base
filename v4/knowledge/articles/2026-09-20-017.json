@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-20-017",
+  "source_id": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+  "title": "Making global data easier to explore",
+  "source": "rss-google-ai-blog",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+  "summary": "Google与联合国系统联合推出了\"联合国系统数据共享平台\"（UN System Data Commons），这是一个全新的开放平台，旨在让全球统计数据变得易于访问和检索。该平台整合了联合国各机构分散的统计数据资源，通过统一的数据接口和搜索功能，降低了全球数据获取的门槛。用户无需在多个机构网站间切换，即可一站式查询涵盖经济、社会、环境等领域的权威全球统计数据。该项目的核心价值在于打破数据孤岛，提升数据可发现性和可用性，为研究者、政策制定者、记者和公众提供便捷的数据探索体验，推动数据驱动的决策与全球发展透明度。",
+  "tags": [
+    "开放数据",
+    "联合国",
+    "Google",
+    "数据共享平台",
+    "全球统计",
+    "数据可访问性",
+    "数据搜索"
+  ],
+  "relevance_score": 0.82,
+  "category": "开放数据平台",
+  "key_insight": "通过整合联合国系统分散的统计数据资源，该平台以开放共享的方式大幅降低了全球权威数据的获取门槛，推动数据民主化与跨机构协作。"
+}

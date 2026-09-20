@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-007",
+  "source_id": "https://laya.convaiinnovations.com/",
+  "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://laya.convaiinnovations.com/",
+  "summary": "Laya 是一个面向多语言场景的 System 1 决策引擎，核心卖点是将端到端决策延迟压缩至 33ms，接近人类直觉式（System 1）反应速度。它面向需要实时响应的多语言应用，如对话式 AI、实时翻译、智能客服与游戏 NPC 等，通过轻量化模型、预计算策略与低延迟推理管线，在保证多语言覆盖的同时实现毫秒级决策。项目在 Lobste.rs 上引发讨论，关注点集中在延迟与准确率的权衡、多语言一致性、以及 System 1/System 2 架构分工的工程可行性。其价值在于为实时交互系统提供低延迟决策层，可嵌入现有 LLM 管线作为快速路由或意图判定组件。",
+  "tags": [
+    "多语言",
+    "实时推理",
+    "决策引擎",
+    "低延迟",
+    "System 1",
+    "LLM 架构"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI 推理系统 / 实时决策引擎",
+  "key_insight": "用 33ms 级延迟把多语言决策拉近人类直觉反应，本质是在 LLM 时代重新划分 System 1 与 System 2 的工程边界。"
+}

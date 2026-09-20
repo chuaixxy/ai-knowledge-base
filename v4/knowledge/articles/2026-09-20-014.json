@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-20-014",
+  "source_id": "https://openai.com/index/astra-for-law",
+  "title": "Introducing Astra for Law",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/astra-for-law",
+  "summary": "Astra for Law 是由 OpenAI 推出的面向法律行业的专业 AI 解决方案，旨在为律师事务所和企业法务团队提供前沿的智能能力。该产品结合了定制化的律所工作流、可连接的法律数据源，以及符合法律行业标准的管控机制，专门用于处理涉及客户机密的高敏感法律工作。其核心定位是将通用大模型能力转化为法律领域的专业工具，帮助法律从业者在保密合规的前提下提升研究、文档处理和事务管理的效率，标志着 OpenAI 从通用 AI 向垂直行业深度定制的重要布局。",
+  "tags": [
+    "法律科技",
+    "OpenAI",
+    "垂直行业AI",
+    "法律工作流",
+    "数据安全"
+  ],
+  "relevance_score": 0.85,
+  "category": "垂直行业AI应用",
+  "key_insight": "OpenAI 正从通用模型提供者转向为高敏感专业行业提供合规化、定制化的垂直解决方案。"
+}

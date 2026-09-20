@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-011",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+  "title": "I wanted to watch a neural network learn [P]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+  "summary": "该项目是一个交互式神经网络学习可视化演示，作者希望直观展示神经网络如何逼近不同函数。用户可以自由调整网络架构（如隐藏层宽度、层数）以及待拟合的目标函数。演示基于全连接网络配合 ReLU 激活函数，其输出本质上是分段线性函数。单隐藏层网络最多能产生「1 + 层宽」个线性分段，例如宽度为 3 时最多 4 段；增加第二隐藏层后，分段数量会按乘法方式增长，从而显著提升拟合复杂函数的能力。该演示将抽象的训练过程转化为可视化图形，帮助学习者建立对网络容量、深度与表达能力之间关系的直觉，适合机器学习入门教学与概念理解。",
+  "tags": [
+    "神经网络",
+    "可视化",
+    "ReLU",
+    "交互式演示",
+    "函数逼近",
+    "深度学习教学"
+  ],
+  "relevance_score": 0.82,
+  "category": "机器学习教育与可视化",
+  "key_insight": "ReLU 网络的表达能力可由分段线性函数的分段数精确刻画，层宽与层深共同决定其拟合复杂度。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-003",
+  "source_id": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "title": "AI-generated posters don’t have to be horrible",
+  "source": "rss-hacker-news-best",
+  "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "summary": "这是一篇探讨 AI 生成活动海报设计质量的技术文章，作者以自身实践为例，说明 AI 生成的海报并非必然丑陋或业余，关键在于设计流程与提示词工程。文章指出，许多 AI 海报之所以效果糟糕，是因为用户直接让模型一次性输出成品图像，而忽略了排版、字体、层级、留白等平面设计基本原则。作者主张将 AI 定位为辅助工具而非替代者：先由人确定视觉概念、构图与信息层级，再借助图像生成模型产出素材或背景，最后用传统设计工具完成文字排版与细节打磨。文中还讨论了提示词的具体写法、常见失败模式以及如何规避 AI 生成图像中文字错乱、风格趋同等问题。该文在 Hacker News 上引发近 800 条评论，讨论集中在 AI 与设计师的关系、生成式工具对创意工作的影响，以及如何提升 AI 产出的设计水准。",
+  "tags": [
+    "AI 生成图像",
+    "平面设计",
+    "提示词工程",
+    "生成式 AI",
+    "设计工作流",
+    "Hacker News"
+  ],
+  "relevance_score": 0.72,
+  "category": "AI 应用与设计实践",
+  "key_insight": "AI 生成海报的成败不在于模型能力，而在于是否把设计原则和人工把控嵌入生成流程。"
+}

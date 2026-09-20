@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-20-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511523&idx=1&sn=a78781dc2ab31142b71033d962b257a9",
+  "title": "把「达标判定」从大模型手里收回来：Graph Engineering实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511523&idx=1&sn=a78781dc2ab31142b71033d962b257a9",
+  "summary": "该项目记录了作者从「Loop Engineering」演进到「Graph Engineering」的工程实践探索。核心观点是：在涉及「达标判定」这类需要确定性结果的环节，不应交由大模型自由发挥，而应将其从大模型的职责中「收回」，改由显式的图结构（Graph）来编排和裁决。作者通过踩坑发现，单纯依赖循环式的大模型调用容易在判定标准上产生漂移和不稳定，而将流程拆解为有向图节点、由确定性代码负责判定、大模型只负责其擅长的生成与理解任务，能显著提升系统的可靠性与可控性。该实践对构建生产级 LLM 应用具有参考价值。",
+  "tags": [
+    "Graph Engineering",
+    "Loop Engineering",
+    "LLM 应用架构",
+    "达标判定",
+    "工作流编排",
+    "Agent",
+    "工程实践"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 工程实践 / LLM 应用架构",
+  "key_insight": "把需要确定性结果的「达标判定」从大模型手中收回，交由图结构中的确定性节点裁决，大模型只做它擅长的生成与理解。"
+}

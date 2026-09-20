@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-20-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a",
+  "title": "agent优化之GEPA——一种提示词自进化的优化方案",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545973&idx=1&sn=01a23266cadd126c68a1a14dd0db544a",
+  "summary": "GEPA是一种面向智能体（Agent）的提示词自进化优化方案，核心目标是实现提示词的零配置自动优化。传统提示词工程依赖人工反复调试，成本高且难以适应动态任务。GEPA通过构建自进化机制，让Agent在运行过程中根据反馈信号自动迭代和优化提示词，无需人工预设复杂规则或超参数。该方案强调开箱即用，降低了提示词优化的门槛，使Agent能够在不同任务场景下持续提升表现。其价值在于将提示词工程从静态手工调优转变为动态自动演进，为Agent的长期自主优化提供了新思路。",
+  "tags": [
+    "提示词优化",
+    "Agent",
+    "自进化",
+    "零配置",
+    "LLM"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI Agent / 提示词工程",
+  "key_insight": "GEPA让提示词从人工调优走向零配置自进化，使Agent能随任务反馈持续自我优化。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-034",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804100&idx=1&sn=bce397be1020053865a4ec471848e589",
+  "title": "看完我的AGENTS.md，你将看到我和不说人话且over-engineering的模型搏斗的这一生",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804100&idx=1&sn=bce397be1020053865a4ec471848e589",
+  "summary": "该项目以一份 AGENTS.md 规则文件为核心，记录了作者与 AI 编程助手（模型）协作过程中积累的强制性约束规则。标题以调侃语气揭示了核心矛盾：模型倾向于输出晦涩难懂（不说人话）且过度设计（over-engineering）的代码与方案，而作者通过逐条制定强制规则来纠正这些行为。这些规则覆盖了代码风格、沟通方式、架构决策等多个维度，本质上是一份面向 AI Agent 的行为规范文档，旨在让模型输出更简洁、更可读、更贴合实际需求，而非堆砌不必要的抽象和复杂度。项目反映了当前 AI 辅助开发中普遍存在的'指令调优'实践，具有一定的工程参考价值。",
+  "tags": [
+    "AI Agent",
+    "提示工程",
+    "代码规范",
+    "AGENTS.md",
+    "AI 辅助开发",
+    "工程实践"
+  ],
+  "relevance_score": 0.72,
+  "category": "AI 工程实践",
+  "key_insight": "用强制性规则约束 AI 模型的过度设计与晦涩输出，是将提示工程从'建议'升级为'规范'的典型实践。"
+}

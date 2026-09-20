@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-20-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545998&idx=1&sn=05272ad46f69aaf5424bb9446b165b8b",
+  "title": "让Agent可评、可控、可迭代：业务效果导向的评测体系与场景实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650545998&idx=1&sn=05272ad46f69aaf5424bb9446b165b8b",
+  "summary": "该项目围绕业务效果导向的Agent评测体系展开，旨在解决AI Agent在实际落地过程中难以评估、难以控制、难以持续迭代的核心痛点。项目提出了一套系统化的评测方法论，涵盖评测指标设计、评测数据集构建、自动化评测流程以及基于评测结果的迭代优化闭环。通过将业务效果作为评测的核心导向，帮助团队在真实场景中量化Agent表现，及时发现能力短板，并驱动Agent的持续改进。项目还结合具体场景实践，展示了如何从零搭建可评、可控、可迭代的Agent工程体系，为Agent产品的规模化落地提供了可复用的方法论和工具支撑。",
+  "tags": [
+    "Agent评测",
+    "评测体系",
+    "LLM应用",
+    "可迭代系统",
+    "业务效果导向",
+    "AI工程化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化/Agent评测",
+  "key_insight": "Agent的核心竞争力不在于单次表现，而在于建立以业务效果为导向的评测闭环，让每一次迭代都有据可依。"
+}
