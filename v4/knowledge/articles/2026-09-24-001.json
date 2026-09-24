@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-24-001",
+  "source_id": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+  "title": "FLAWED’s Flaws and What This Means for Industry Research — Suha Sabi Hussain",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+  "summary": "本文是对2025年论文《FLAWED》的批判性分析。FLAWED提出了一种面向AI智能体的模糊测试方法，声称能自动发现LLM智能体框架中的漏洞。作者Suha Sabi Hussain指出该工作存在方法论缺陷：实验设计缺乏合理的基线对比，评测指标可能无法真实反映智能体安全性的提升，且对\"漏洞\"的定义过于宽泛，导致结论的泛化性存疑。文章进一步讨论了这一现象对工业界研究的影响——当学术论文的实验严谨性不足时，工业界若盲目采纳其方法，可能导致安全投入的错配。作者呼吁建立更严格的智能体安全评测标准。",
+  "tags": [
+    "AI Agent安全",
+    "模糊测试",
+    "论文批判",
+    "评测方法论",
+    "工业研究"
+  ],
+  "relevance_score": 0.7,
+  "category": "AI安全与评测",
+  "key_insight": "AI智能体安全领域的论文若缺乏严格的实验设计和基线对比，其结论可能误导工业界的安全实践。"
+}

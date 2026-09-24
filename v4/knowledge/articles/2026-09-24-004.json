@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-24-004",
+  "source_id": "https://arxiv.org/abs/2609.25010",
+  "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.25010",
+  "summary": "该研究针对营销领域日益流行的\"合成人物画像\"（synthetic personas）方法展开验证，即利用大语言模型模拟特定受众以预测文案效果。研究者以Upworthy Research Archive中数千个真实标题A/B测试（含实际点击率）作为留出基准，对比了一个基于真实受众人口统计特征构建的十人画像面板与一个无画像的零样本基线（仅询问模型典型读者点击的可能性）。结果发现两点：其一，真实数据的可靠性是核心约束——大多数A/B测试并无统计上可区分的胜者，因此有效性只能在可靠子集（n=399）上衡量；其二，与预期相反，无画像基线在预测真实受众反应上反而优于基于画像的文案模拟。这表明人物画像机制未必提升预测效度，简单直接提问可能更可靠。",
+  "tags": [
+    "合成人物画像",
+    "大语言模型",
+    "模拟到现实",
+    "A/B测试",
+    "点击率预测",
+    "受众建模",
+    "效度研究"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用与评估",
+  "key_insight": "在预测真实受众反应时，无人物画像的零样本基线反而优于精心构建的合成画像面板，揭示了画像机制可能引入噪声而非提升效度。"
+}

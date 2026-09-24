@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-054",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059152&idx=2&sn=749ad51193995789f64cdff1b4bbcd98",
+  "title": "Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059152&idx=2&sn=749ad51193995789f64cdff1b4bbcd98",
+  "summary": "openJiuwen 发布了首个开源智能体资产平台，被称为 Agent 版的 Hugging Face。该平台旨在将 Agent 能力转化为可流通的资源，让开发者能够像分享和复用模型一样，共享、发现和调用各类智能体资产。这一举措有望降低 Agent 开发门槛，推动智能体生态从封闭走向开放协作，加速 AI Agent 在各行业的落地应用。平台的开源属性也意味着社区可以共同参与建设，形成类似 Hugging Face 的模型与资产共享网络效应，为智能体经济的形成奠定基础设施。",
+  "tags": [
+    "智能体",
+    "开源平台",
+    "AI Agent",
+    "资产流通",
+    "Hugging Face",
+    "开发者生态"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI基础设施与平台",
+  "key_insight": "智能体资产的可流通化，将复制 Hugging Face 在模型层的网络效应，成为 Agent 生态爆发的基础设施。"
+}

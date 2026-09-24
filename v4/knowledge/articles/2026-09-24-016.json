@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-016",
+  "source_id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+  "summary": "该项目提出了一种新颖的大语言模型（LLM）结构化剪枝方法，将模型中的模块（如Transformer层或注意力头）移除问题类比为物理学中的Ising模型优化问题。研究者从统计物理的视角出发，把每个模块视为一个自旋变量，模块间的相互依赖关系则构成自旋间的耦合项，从而将剪枝问题转化为寻找Ising系统最低能量态的组合优化问题。通过这一映射，可以借助模拟退火、平均场近似等成熟的物理求解技术，在全局层面搜索最优的模块移除方案，而非依赖贪心的逐层重要性评估。该方法有望在保持模型性能的同时实现更高的压缩率，为LLM压缩提供了跨学科的新思路。",
+  "tags": [
+    "LLM剪枝",
+    "模型压缩",
+    "Ising模型",
+    "统计物理",
+    "组合优化",
+    "结构化剪枝"
+  ],
+  "relevance_score": 0.85,
+  "category": "模型压缩与优化",
+  "key_insight": "将LLM模块剪枝建模为Ising自旋系统的能量最小化问题，用物理优化方法替代贪心策略实现全局最优的结构化压缩。"
+}

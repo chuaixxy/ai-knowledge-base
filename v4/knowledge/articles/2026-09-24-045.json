@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-045",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501413&idx=1&sn=c03cb1304a1cda569d853dd3b3e2f586",
+  "title": "EuroSys 2027｜快手联合北航提出 TB 级推荐模型 Checkpoint 系统 AdaptCP",
+  "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501413&idx=1&sn=c03cb1304a1cda569d853dd3b3e2f586",
+  "summary": "AdaptCP 是快手联合北京航空航天大学为 EuroSys 2027 提出的面向 TB 级工业推荐模型训练的高性能自适应检查点（Checkpoint）系统。针对推荐模型参数量巨大、训练周期长、故障恢复代价高的痛点，该系统通过自适应策略动态调整检查点频率、粒度与存储布局，在保证训练容错能力的同时显著降低 I/O 开销与存储占用。其核心在于根据模型状态变化速率、训练阶段与硬件资源状况智能决策，避免传统固定周期检查点带来的性能浪费。该工作体现了工业界大规模推荐系统与学术界系统优化研究的深度结合，对提升超大规模模型训练效率与稳定性具有重要工程价值。",
+  "tags": [
+    "Checkpoint",
+    "推荐系统",
+    "大规模训练",
+    "容错",
+    "系统优化",
+    "EuroSys"
+  ],
+  "relevance_score": 0.85,
+  "category": "分布式训练系统 / 存储与容错",
+  "key_insight": "通过自适应检查点策略，在容错保障与 I/O 开销之间实现动态最优平衡，破解 TB 级推荐模型训练的检查点性能瓶颈。"
+}

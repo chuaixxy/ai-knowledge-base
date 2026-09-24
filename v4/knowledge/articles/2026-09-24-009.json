@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-009",
+  "source_id": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "summary": "OpenAI 宣布将其 Daybreak 项目扩展至乌克兰政府，旨在支持民用基础设施的网络防御。此举标志着 AI 技术在地缘政治冲突中的实战化应用进一步深化，从通用能力输出转向针对特定国家关键基础设施的安全防护。该合作可能涵盖威胁检测、异常流量分析、漏洞识别与响应辅助等场景，帮助乌方在持续的网络攻击压力下提升防御效率。同时也引发关于 AI 军事与民用边界、技术出口管制及伦理治理的讨论。",
+  "tags": [
+    "OpenAI",
+    "网络安全",
+    "乌克兰",
+    "民用基础设施",
+    "AI治理",
+    "地缘政治"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI安全与地缘政治",
+  "key_insight": "AI 正从通用工具演变为国家关键基础设施网络防御的战略资产，但技术介入冲突也加剧了治理与伦理争议。"
+}

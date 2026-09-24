@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-24-002",
+  "source_id": "https://github.com/volotat/mini-AGI/",
+  "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://github.com/volotat/mini-AGI/",
+  "summary": "该项目展示了一种在仅8GB显存的笔记本上从零开始训练的持续学习（Continual Learning）模型，其独特之处在于采用batch-1的数据流进行训练，即每次仅处理一个样本，模拟了真实世界中数据逐步到达的场景。这种设置极大降低了显存需求，使得在消费级硬件上进行持续学习研究成为可能。项目关注的核心挑战是灾难性遗忘（Catastrophic Forgetting），即在连续学习新任务时如何保留旧知识。通过batch-1流式训练，模型需要在极端资源受限条件下平衡稳定性与可塑性。该工作对边缘设备上的在线学习和隐私保护场景具有潜在价值，同时也为低资源环境下的深度学习研究提供了新思路。",
+  "tags": [
+    "持续学习",
+    "低显存训练",
+    "灾难性遗忘",
+    "在线学习",
+    "边缘计算"
+  ],
+  "relevance_score": 0.75,
+  "category": "机器学习/持续学习",
+  "key_insight": "在8GB显存笔记本上用batch-1数据流从零训练持续学习模型，证明了极端资源受限下实现增量学习的可行性。"
+}

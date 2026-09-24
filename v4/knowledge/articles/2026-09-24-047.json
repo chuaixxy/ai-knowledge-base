@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-047",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487615&idx=1&sn=1969ad8d7fe3d87d538e983fb6c1963f",
+  "title": "Kimi Code Desktop 正式与你见面",
+  "source": "rss-kimi",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487615&idx=1&sn=1969ad8d7fe3d87d538e983fb6c1963f",
+  "summary": "Kimi Code Desktop 是月之暗面（Moonshot AI）推出的桌面端编程助手应用，本次正式发布同时上线 macOS 和 Windows 两个平台版本，标志着 Kimi 从网页端、移动端进一步向本地开发环境延伸。作为一款面向开发者的 AI 编程工具，它大概率集成了代码生成、补全、解释、调试与对话式编程等能力，并可直接在桌面 IDE 或独立窗口中调用 Kimi 大模型。桌面版的推出意味着更低的调用门槛、更好的本地文件与项目上下文访问能力，以及与开发工作流的深度整合。此举也反映出国内大模型厂商正加速布局 AI Coding 赛道，与 Cursor、GitHub Copilot、Claude Code 等产品展开正面竞争，开发者工具市场进入新一轮密集竞争期。",
+  "tags": [
+    "AI编程",
+    "Kimi",
+    "桌面应用",
+    "开发者工具",
+    "Moonshot AI",
+    "代码助手"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 开发工具",
+  "key_insight": "Kimi 借桌面端切入本地开发场景，是国内大模型厂商正面争夺 AI Coding 入口的关键一步。"
+}

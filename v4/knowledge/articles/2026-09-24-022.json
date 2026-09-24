@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522837&idx=2&sn=bad9384fcc463a40aca07d4a442c7121",
+  "title": "OpenViking × LLM-Wiki：让团队文档不再“各说各话”",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522837&idx=2&sn=bad9384fcc463a40aca07d4a442c7121",
+  "summary": "该项目将 OpenViking（一个面向团队的知识/文档管理或协作平台）与 LLM-Wiki（基于大语言模型构建的智能维基系统）相结合，旨在解决团队文档中常见的\"各说各话\"问题——即同一概念在不同文档中定义不一致、信息冗余、版本混乱、缺乏统一知识源。通过引入 LLM 自动整合、归纳、对齐和生成文档内容，系统能够构建一个语义一致、动态更新的团队知识库，让成员在查询或编辑时获得统一口径的答案，减少沟通成本与认知偏差，提升协作效率。",
+  "tags": [
+    "LLM",
+    "知识管理",
+    "团队协作",
+    "文档一致性",
+    "AI Wiki",
+    "RAG"
+  ],
+  "relevance_score": 0.78,
+  "category": "AI 应用 / 知识管理",
+  "key_insight": "用 LLM 作为团队知识的\"单一事实源\"，将分散文档收敛为语义一致的统一口径。"
+}

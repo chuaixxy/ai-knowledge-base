@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-24-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546258&idx=1&sn=3b972197775c805cb4a58bdfdf69618a",
+  "title": "Loop engineering：把 agent 放进工程循环",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546258&idx=1&sn=3b972197775c805cb4a58bdfdf69618a",
+  "summary": "该项目探讨如何将 AI Agent 嵌入到工程自动化循环中，构建可靠的 Loop Engineering 体系。核心思路是让 Agent 不再只是单次执行任务的工具，而是成为持续运行在工程闭环里的参与者：接收信号（如 CI 失败、告警、Issue）、自主决策、执行动作（改代码、提 PR、回滚）、再根据反馈迭代。设计难点在于可靠性：需要明确的终止条件、幂等操作、可观测性、错误恢复与人类审核介入点，避免 Agent 陷入死循环或做出破坏性变更。项目强调把 Agent 当作工程系统的一环来设计，而非孤立的智能体，涉及编排、状态管理、权限隔离与反馈回路等工程实践。",
+  "tags": [
+    "Agent",
+    "自动化工程",
+    "CI/CD",
+    "闭环系统",
+    "可靠性设计"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI Agent 工程化",
+  "key_insight": "把 Agent 当工程循环中的一等公民来设计，可靠性来自闭环控制而非单次智能。"
+}

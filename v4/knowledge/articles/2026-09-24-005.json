@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-24-005",
+  "source_id": "https://arxiv.org/abs/2609.25013",
+  "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.25013",
+  "summary": "该研究针对生物医学表格数据的基础模型TabPFN v2.5，系统评估了五种基于AdamW的预条件优化策略在微调中的效果。实验覆盖59个生物医学数据集，涵盖阿尔茨海默病、乳腺癌、精神分裂症、显著记忆担忧、KEEL及UCI基准，从预测性能、计算效率和统计显著性三方面展开分析。结果表明，原始AdamW优化器在整体性能和统计排名上始终最优，而现有的曲率感知预条件方法未能带来改进，甚至可能损害性能。该工作为生物医学低数据场景下表格基础模型的优化选择提供了重要的实证依据，提示复杂预条件策略未必优于简单基线。",
+  "tags": [
+    "TabPFN",
+    "生物医学表格数据",
+    "预条件优化",
+    "AdamW",
+    "微调",
+    "表格基础模型",
+    "实证研究"
+  ],
+  "relevance_score": 0.85,
+  "category": "生物医学AI/表格基础模型优化",
+  "key_insight": "在生物医学表格数据的TabPFN微调中，原始AdamW优于所有曲率感知预条件器，复杂优化策略未必带来收益。"
+}

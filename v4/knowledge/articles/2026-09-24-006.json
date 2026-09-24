@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-006",
+  "source_id": "https://arxiv.org/abs/2609.25036",
+  "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2609.25036",
+  "summary": "4DGS-JEPA 提出了一种面向动态高斯泼溅（Dynamic Gaussian Splatting）的高斯原生联合嵌入预测架构，旨在从动态3D场景中学习可复用的预测性动力学，而非仅做重建、未来状态生成或渲染。模型采用场景级、运动组级和高斯级的层次化表示，并引入以时间为条件的转移算子，支持直接预测与递归展开两种多时间跨度推断方式。其核心原则是时间组合性：不同时间顺序的转移路径若到达同一未来端点，应产生兼容的预测状态。方法通过端点监督与多跨度路径监督将预测锚定到未来目标嵌入，并用选择性几何解码器和几何级组合约束所学动力学。该工作将JEPA思想扩展到4D高斯表示，强调因果多跨度预测与时间一致性。",
+  "tags": [
+    "4D Gaussian Splatting",
+    "Joint-Embedding Predictive Architecture",
+    "动态场景预测",
+    "时间组合性",
+    "多跨度预测",
+    "世界模型"
+  ],
+  "relevance_score": 0.82,
+  "category": "动态3D表示与预测性世界模型",
+  "key_insight": "用时间组合性约束不同时序路径的预测状态，使动态高斯场景获得可复用、可递归展开的因果动力学表示。"
+}

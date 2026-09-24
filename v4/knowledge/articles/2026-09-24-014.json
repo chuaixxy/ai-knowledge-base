@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-014",
+  "source_id": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "title": "Transformers now runs llama.cpp quants",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "summary": "该项目展示了如何将 llama.cpp 的量化模型（GGUF 格式）直接加载到 Hugging Face Transformers 中运行。通过集成 llama.cpp 的量化内核，Transformers 可以在不依赖额外推理引擎的情况下，支持 2-bit 至 8-bit 的量化 Llama 等模型。这大幅降低了显存占用，使消费级 GPU 甚至 CPU 也能运行大模型，同时保留了 Transformers 生态的易用性（如 pipeline、generate 接口）。该工作简化了量化模型的部署流程，避免了格式转换，对本地推理和边缘部署具有重要意义。",
+  "tags": [
+    "llama.cpp",
+    "量化",
+    "Transformers",
+    "GGUF",
+    "本地推理",
+    "模型压缩"
+  ],
+  "relevance_score": 0.9,
+  "category": "模型推理与优化",
+  "key_insight": "Transformers 原生集成 llama.cpp 量化，让 GGUF 模型无需转换即可直接推理，兼顾低资源与易用性。"
+}

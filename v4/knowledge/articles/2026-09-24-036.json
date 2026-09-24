@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-24-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498548&idx=1&sn=558b3cfdc594a8f1d4a91ea892702b4d",
+  "title": "WebCraftBench：给 AI 生成的网页来一场「实测大考」",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498548&idx=1&sn=558b3cfdc594a8f1d4a91ea892702b4d",
+  "summary": "WebCraftBench 是一个面向 AI 生成网页质量的评测基准项目，核心思路是让 AI 自己来为 AI 生成的网页打分，从而构建可扩展、低成本的自动化评估体系。项目围绕网页生成任务设计了多维度评测标准，可能涵盖视觉还原度、布局合理性、交互完整性、代码可运行性等指标，并通过大模型作为评判者（LLM-as-a-Judge）对生成结果进行系统化评分。其价值在于填补了 AI 网页生成领域缺乏统一、客观评价标准的空白，为模型迭代、Prompt 优化和产品选型提供可量化依据，同时探索了「AI 自评」这一评测范式的可行性与边界。",
+  "tags": [
+    "AI评测",
+    "网页生成",
+    "LLM-as-a-Judge",
+    "Benchmark",
+    "前端自动化"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI评测基准 / 代码生成",
+  "key_insight": "用 AI 当裁判评测 AI 生成的网页，是规模化验证生成质量的关键范式，但需警惕自评偏差。"
+}

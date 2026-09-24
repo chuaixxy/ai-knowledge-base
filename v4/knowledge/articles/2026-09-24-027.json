@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562437&idx=1&sn=a97c04361677ea8b140e891fff08e79e",
+  "title": "阿里文征：面向Agent全面升级模型服务、Agent服务、AI应用",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562437&idx=1&sn=a97c04361677ea8b140e891fff08e79e",
+  "summary": "阿里文征是阿里巴巴推出的面向Agent（智能体）全面升级的技术项目，核心围绕模型服务、Agent服务和AI应用三个层面展开。项目强调平台化思维，主张平台的价值不在于定义所有应用，而在于为开发者提供基础设施与能力支撑，让更多AI应用能够自主生长与繁荣。通过对模型服务和Agent服务的全面升级，该项目旨在降低AI应用开发门槛，构建开放生态，推动Agent技术在各类场景中的规模化落地。其核心理念体现了从'平台定义应用'向'平台赋能生态'的转变，契合当前AI行业从模型能力竞争转向应用生态竞争的趋势。",
+  "tags": [
+    "Agent",
+    "模型服务",
+    "AI应用",
+    "平台生态",
+    "阿里",
+    "AI基础设施"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI平台与Agent基础设施",
+  "key_insight": "平台的核心竞争力不在于定义应用，而在于构建让应用自由生长的Agent服务生态。"
+}

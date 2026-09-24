@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-24-003",
+  "source_id": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "title": "A study of sequence weighting at scale",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "summary": "该项目《A study of sequence weighting at scale》探讨了在大规模语言模型训练中，对训练序列进行加权（sequence weighting）的方法与效果。序列加权旨在通过调整不同训练样本在损失函数中的权重，来提升模型的数据效率与最终性能。研究在规模化（at scale）条件下系统比较了多种加权策略，分析其对训练动态、收敛速度以及下游任务表现的影响。核心问题在于：当数据规模极大时，均匀采样往往并非最优，合理的加权能否带来显著收益，以及这种收益是否随模型与数据规模扩大而持续存在。该研究为数据高效训练和大模型数据配比提供了实证依据。",
+  "tags": [
+    "序列加权",
+    "大模型训练",
+    "数据效率",
+    "训练动态",
+    "规模化"
+  ],
+  "relevance_score": 0.8,
+  "category": "机器学习/大模型训练",
+  "key_insight": "在大规模训练中，合理的序列加权策略能有效提升数据效率与模型性能，但其收益需在规模化条件下重新评估。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-24-041",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247507009&idx=1&sn=e05ec3cb61234ede1367c02f1c01f1ce",
+  "title": "MQTT over QUIC 正式商业化：让弱网连接更稳、更快",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247507009&idx=1&sn=e05ec3cb61234ede1367c02f1c01f1ce",
+  "summary": "该项目宣布 MQTT over QUIC 正式进入商业化阶段，旨在解决物联网和移动场景下的弱网连接问题。通过将 MQTT 协议运行在 QUIC 传输层之上，利用 QUIC 的 0-RTT/1-RTT 快速握手、多路复用无队头阻塞、连接迁移等特性，显著缩短终端失联窗口和服务端重连时间。相比传统 MQTT over TCP/TLS，在丢包、高延迟、网络切换等弱网环境下，连接恢复速度和稳定性大幅提升，适用于车联网、工业物联网、移动推送等对实时性敏感的场景。",
+  "tags": [
+    "MQTT",
+    "QUIC",
+    "物联网",
+    "弱网优化",
+    "传输协议"
+  ],
+  "relevance_score": 0.85,
+  "category": "网络协议与物联网通信",
+  "key_insight": "用 QUIC 替代 TCP 承载 MQTT，本质是用传输层握手与多路复用能力换取弱网下的连接连续性。"
+}

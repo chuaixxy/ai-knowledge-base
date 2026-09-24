@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522837&idx=1&sn=9a517deecee420b33ef098ae4fc00802",
+  "title": "TWIST 入选 ACM CCS 2026：面向云上大模型服务的隐私保护新方案",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522837&idx=1&sn=9a517deecee420b33ef098ae4fc00802",
+  "summary": "TWIST 是一篇入选 ACM CCS 2026 的隐私保护技术方案，面向云上大模型（LLM）推理服务场景。该方案旨在解决用户将敏感数据提交给云端大模型时面临的隐私泄露风险，可能结合了安全多方计算、同态加密、可信执行环境或差分隐私等密码学与系统优化技术，在保证模型推理正确性的同时隐藏用户输入与模型参数。其核心挑战在于平衡隐私开销与推理效率，使方案能实际部署于大规模云服务。若成功，TWIST 有望推动隐私保护大模型服务的实用化，为金融、医疗等合规敏感行业提供可信 AI 基础设施。",
+  "tags": [
+    "隐私保护",
+    "大模型推理",
+    "云计算安全",
+    "密码学",
+    "ACM CCS",
+    "可信执行环境"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与隐私",
+  "key_insight": "TWIST 试图在云端大模型推理中实现隐私与效率的实用平衡，让敏感数据也能安全地调用大模型能力。"
+}

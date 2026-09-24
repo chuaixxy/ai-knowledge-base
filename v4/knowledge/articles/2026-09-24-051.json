@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-051",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651293845&idx=1&sn=ec018a1c076098d95ad6c1a4e20ea5b9",
+  "title": "2026 年的云栖，阿里给 AI 行业递了一把新尺子",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651293845&idx=1&sn=ec018a1c076098d95ad6c1a4e20ea5b9",
+  "summary": "2026 年云栖大会上，阿里提出「智能价值密度」这一新衡量标准，公式为单任务价值 × Token 生产效率 × Token 单位能力。该指标试图突破传统以参数规模、Token 消耗量或跑分成绩评估 AI 能力的局限，转而从实际商业价值、推理效率与单位 Token 承载的智能水平三个维度综合衡量模型价值。这一「新尺子」反映出 AI 行业正从追求规模扩张转向追求性价比与落地价值，也意味着云厂商在算力、模型与应用的竞争中，开始以效率与价值密度作为核心叙事，引导行业重新定义 AI 能力的评价体系。",
+  "tags": [
+    "AI 评估标准",
+    "Token 效率",
+    "智能价值密度",
+    "阿里云",
+    "云栖大会",
+    "AI 商业化"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI 行业标准与趋势",
+  "key_insight": "AI 竞争的评价维度正从「模型有多大」转向「每个 Token 能创造多少价值」。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-09-24-013",
+  "source_id": "https://huggingface.co/blog/evaleval-aisi",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/evaleval-aisi",
+  "summary": "该项目介绍了英国人工智能安全研究所（UK AISI）与EvalEval合作，致力于让AI基准测试结果具备可复现性的工作。在AI评估领域，不同团队使用不同测试环境、模型版本和评分方法，导致基准结果难以横向比较或验证。双方通过建立标准化评估流程、公开测试数据与代码、规范模型配置记录等方式，推动评估结果透明化与可重复。这一努力有助于提升AI安全研究的可信度，为政策制定者和研究者提供更可靠的模型能力与风险证据，是AI治理基础设施建设的重要一步。",
+  "tags": [
+    "AI安全",
+    "基准测试",
+    "可复现性",
+    "模型评估",
+    "AI治理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与评估",
+  "key_insight": "可复现的基准测试是AI安全评估可信度的基石，标准化流程比单次评测结果更具长期价值。"
+}

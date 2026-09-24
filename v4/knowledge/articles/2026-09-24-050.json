@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-24-050",
+  "source_id": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
+  "title": "New trends in global card fraud: How 3D Secure and regional mandates are affecting risk",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
+  "summary": "该项目基于Stripe在2022年1月至2026年3月期间处理的数十亿笔交易数据，系统分析了全球信用卡欺诈模式在不同地区和国家之间的差异，并深入探讨了造成这些差异的驱动因素。研究重点关注3D Secure（3DS）身份验证机制以及各地区监管强制要求（如PSD2、SCA等）对欺诈风险分布的影响，揭示了不同市场在欺诈率、攻击手法和防护效果上的显著分化。同时，报告为跨境和本地企业提供了针对性的风险应对策略建议，帮助商户在合规与转化率之间取得平衡，优化支付风控体系。",
+  "tags": [
+    "支付安全",
+    "信用卡欺诈",
+    "3D Secure",
+    "风控",
+    "区域监管",
+    "Stripe",
+    "交易数据"
+  ],
+  "relevance_score": 0.85,
+  "category": "支付风控与合规",
+  "key_insight": "3D Secure与区域监管强制要求正在重塑全球卡欺诈风险格局，企业需按地区差异化部署风控策略。"
+}

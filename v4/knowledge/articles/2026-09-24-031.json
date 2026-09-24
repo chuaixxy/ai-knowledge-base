@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514126&idx=1&sn=702d47a144fb8c4c2154f959e2d99001",
+  "title": "jina-ocr-v1：在低成本 GPU 上更快解析文档",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514126&idx=1&sn=702d47a144fb8c4c2154f959e2d99001",
+  "summary": "jina-ocr-v1 是 Jina AI 推出的 OCR 文档解析模型，主打在低成本 GPU 上实现更快的文档解析速度。该模型采用 570M 激活参数的架构设计，在吞吐量与精度之间寻求最优平衡，将性能推向帕累托前沿。其核心价值在于降低文档解析的硬件门槛，使中小企业和个人开发者也能在消费级或低端 GPU 上高效处理大批量文档识别任务，兼顾成本与效率，适用于文档数字化、信息抽取等场景。",
+  "tags": [
+    "OCR",
+    "文档解析",
+    "Jina AI",
+    "低成本GPU",
+    "高效推理",
+    "570M参数"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机视觉/文档理解",
+  "key_insight": "以570M激活参数在低成本GPU上实现高吞吐文档解析，将OCR效率推向帕累托前沿。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2026-09-24-052",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651293845&idx=2&sn=fe62a3a11fde47c611a7dc8c4004f361",
+  "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651293845&idx=2&sn=fe62a3a11fde47c611a7dc8c4004f361",
+  "summary": "该项目探讨了在 AI 辅助编码让开发速度大幅提升的背景下，软件交付的瓶颈已从「写代码」转移到「稳定运行」。项目提出构建 AI Native 的 SRE Agent，将大模型能力引入运维与可靠性工程领域，通过智能化的故障检测、根因分析、告警降噪与自动修复，缓解传统 SRE 高度依赖人工经验的痛点。其核心在于把 AI Agent 的感知—决策—执行闭环嵌入到可观测性与运维流程中，实现从被动响应到主动治理的转变，是 AI 与 DevOps/SRE 深度融合的工程实践探索。",
+  "tags": [
+    "AI Agent",
+    "SRE",
+    "DevOps",
+    "AIOps",
+    "可观测性",
+    "自动化运维",
+    "LLM 应用",
+    "可靠性工程"
+  ],
+  "relevance_score": 0.85,
+  "category": "AIOps / AI 工程实践",
+  "key_insight": "当编码不再是瓶颈，AI 的价值正从「生成代码」转向「守护运行」，SRE Agent 是 AI Native 落地的下一个关键战场。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-09-24-030",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538298&idx=1&sn=86a57b8e991a07bb7a63419f910ebe87",
+  "title": "蚂蚁AI安全实验室登顶CyberGym榜单，漏洞验证成功率达98.5%！",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538298&idx=1&sn=86a57b8e991a07bb7a63419f910ebe87",
+  "summary": "蚂蚁集团AI安全实验室凭借其研发的天工Cyber模型与天工Harness系统，在CyberGym安全评测榜单中登顶，漏洞验证成功率达到98.5%。该成果展示了AI技术在自动化漏洞挖掘与验证领域的重大突破，标志着大模型在网络安全攻防场景中已具备接近实用化水平的能力。天工Cyber模型可能结合了代码理解、漏洞推理与自动化验证能力，而天工Harness则提供了一套高效的执行框架，使AI能够自主完成从漏洞发现到验证的闭环流程。这一进展对安全行业具有深远影响，有望大幅降低人工审计成本，提升漏洞响应速度，同时也引发了对AI驱动攻击与防御平衡的新思考。",
+  "tags": [
+    "AI安全",
+    "漏洞挖掘",
+    "大模型",
+    "网络安全",
+    "自动化验证",
+    "蚂蚁集团"
+  ],
+  "relevance_score": 0.92,
+  "category": "AI安全与网络安全",
+  "key_insight": "AI驱动的自动化漏洞验证已达到接近实用化的高成功率，安全攻防的AI化拐点正在到来。"
+}
