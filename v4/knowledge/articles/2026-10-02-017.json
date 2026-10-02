@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-017",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+  "title": "Google’s new Guided Vision feature can help you read the fine print",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+  "summary": "Google 在 Gemini Live 中推出 Guided Vision 功能，率先登陆兼容的 Android 设备。用户可在 Gemini Live 中共享手机摄像头画面，由 AI 对镜头所对准的任意内容进行实时语音描述。该功能可帮助用户阅读细小文字、描述周围环境、寻找或识别身边物体等，面向视障人群及日常辅助场景。其核心价值在于把多模态视觉理解与实时语音交互结合，降低信息获取门槛，也标志着 Gemini Live 从对话助手向现实世界感知助手延伸。",
+  "tags": [
+    "Google",
+    "Gemini Live",
+    "Guided Vision",
+    "多模态AI",
+    "无障碍辅助",
+    "Android",
+    "实时视觉描述"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI多模态应用",
+  "key_insight": "把摄像头变成实时语音描述通道，AI 助手正从屏幕内走向对现实环境的即时理解与无障碍辅助。"
+}

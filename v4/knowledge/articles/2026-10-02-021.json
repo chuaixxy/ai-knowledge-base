@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511846&idx=1&sn=e281c6ff590a8209e7d6e2719ee4e58a",
+  "title": "高德本地生活分析 Agent 的 AI Native 实践全景（万字长文回顾）",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511846&idx=1&sn=e281c6ff590a8209e7d6e2719ee4e58a",
+  "summary": "本文系统回顾了高德本地生活分析 Agent 的 AI Native 实践全景，涵盖整体架构设计、分析流程重构、知识与语义治理体系、以及经营分析智能体的具体建设路径。文章以万字篇幅详细阐述了如何将大模型能力深度嵌入本地生活业务的分析链路，实现从数据到决策的智能化跃迁，为行业提供了可落地的 Agent 工程化经验与方法论参考。",
+  "tags": [
+    "AI Agent",
+    "本地生活",
+    "高德",
+    "语义治理",
+    "经营分析",
+    "AI Native",
+    "大模型应用"
+  ],
+  "relevance_score": 0.88,
+  "category": "AI工程实践",
+  "key_insight": "AI Native 的核心不是给分析工具加一个对话入口，而是围绕大模型能力重新设计知识治理、语义层与分析流程的整条链路。"
+}

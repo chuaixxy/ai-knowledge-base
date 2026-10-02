@@ -25045,5 +25045,814 @@
     ],
     "status": "published",
     "collected_at": "2026-09-24T03:43:53.698Z"
+  },
+  {
+    "id": "2026-10-02-001",
+    "title": "firecrawl/firecrawl",
+    "source": "github",
+    "source_id": "firecrawl/firecrawl",
+    "category": "AI 基础设施 / 数据获取工具",
+    "relevance_score": 0.9,
+    "tags": [
+      "Web Scraping",
+      "RAG",
+      "AI Agent",
+      "数据采集",
+      "API",
+      "LLM",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-002",
+    "title": "Lists that keep track of their reversal",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://grim.cargocut.org/a/rev-list.html",
+    "category": "数据结构与算法",
+    "relevance_score": 0.75,
+    "tags": [
+      "数据结构",
+      "算法",
+      "惰性求值",
+      "列表反转",
+      "性能优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-003",
+    "title": "Typeclasses vs Modules",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+    "category": "编程语言理论",
+    "relevance_score": 0.75,
+    "tags": [
+      "类型类",
+      "模块系统",
+      "函数式编程",
+      "多态",
+      "Haskell",
+      "OCaml"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-004",
+    "title": "Text-to-meowdio models",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+    "category": "AI音频生成/创意应用",
+    "relevance_score": 0.55,
+    "tags": [
+      "文本到音频",
+      "生成式AI",
+      "TTS",
+      "趣味项目",
+      "多模态"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-005",
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.00010",
+    "category": "LLM智能体与记忆系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "长时程智能体",
+      "外部记忆",
+      "重尾分布",
+      "核心-尾部结构",
+      "记忆控制器",
+      "LLM策略",
+      "幂律",
+      "提示预算分配"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-006",
+    "title": "When Do Causal World Models Help Modular LLM Agents",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.00012",
+    "category": "AI基础理论/因果推理与智能体",
+    "relevance_score": 0.85,
+    "tags": [
+      "因果世界模型",
+      "LLM智能体",
+      "模块化系统",
+      "干预学习",
+      "因果推断"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-007",
+    "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.00015",
+    "category": "AI Agent 系统与治理",
+    "relevance_score": 0.78,
+    "tags": [
+      "AI Agent",
+      "执行治理",
+      "证据绑定",
+      "可靠性",
+      "Terminal-Bench",
+      "Agent Harness",
+      "可验证效果"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-008",
+    "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+    "category": "学术出版与科研政策",
+    "relevance_score": 0.78,
+    "tags": [
+      "arXiv",
+      "预印本政策",
+      "投稿限制",
+      "学术出版",
+      "科研生态",
+      "AI研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-009",
+    "title": "The eternal complement",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/the-eternal-complement",
+    "category": "技术趋势分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI",
+      "经济",
+      "创新",
+      "执行",
+      "自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-010",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/albertsons-reimagining-retail",
+    "category": "AI in Retail",
+    "relevance_score": 0.9,
+    "tags": [
+      "零售科技",
+      "生成式AI",
+      "企业数字化转型",
+      "客户体验",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-011",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/the-den-family-social",
+    "category": "AI企业应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "ChatGPT Work",
+      "AI办公自动化",
+      "中小企业",
+      "行政文书",
+      "合规材料",
+      "效率提升",
+      "生成式AI应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-012",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "category": "数据合成与Agent训练",
+    "relevance_score": 0.85,
+    "tags": [
+      "合成数据",
+      "企业Agent",
+      "数据生成",
+      "LLM微调",
+      "Agent训练",
+      "自动化标注"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-013",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/olmocore3",
+    "category": "AI基础设施与训练框架",
+    "relevance_score": 0.9,
+    "tags": [
+      "开源",
+      "大模型训练",
+      "MoE",
+      "分布式训练",
+      "基础设施",
+      "AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-014",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/open-tts-leaderboard",
+    "category": "语音合成与评测基准",
+    "relevance_score": 0.85,
+    "tags": [
+      "TTS",
+      "语音克隆",
+      "多语言",
+      "评测基准",
+      "Leaderboard",
+      "开源"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-015",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "category": "机器学习框架与工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "表格数据",
+      "深度学习",
+      "NVIDIA",
+      "图神经网络",
+      "AutoML",
+      "GPU加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-016",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "category": "AI安全与可信计算",
+    "relevance_score": 0.82,
+    "tags": [
+      "MCP",
+      "智能体验证",
+      "来源可信度",
+      "信息溯源",
+      "AI安全",
+      "幻觉缓解"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-017",
+    "title": "Google’s new Guided Vision feature can help you read the fine print",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "category": "AI多模态应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "Google",
+      "Gemini Live",
+      "Guided Vision",
+      "多模态AI",
+      "无障碍辅助",
+      "Android",
+      "实时视觉描述"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-018",
+    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "category": "科技法律与政策",
+    "relevance_score": 0.85,
+    "tags": [
+      "谷歌",
+      "反垄断",
+      "AI搜索",
+      "AI Overviews",
+      "法律诉讼",
+      "搜索流量"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-019",
+    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "category": "AI行业动态",
+    "relevance_score": 0.8,
+    "tags": [
+      "OpenAI",
+      "AI代理",
+      "DevDay",
+      "Meta",
+      "GPT-6",
+      "竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-020",
+    "title": "改变世界前先认识世界 : Ontology 决策结构化实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546371&idx=1&sn=85094a67b9574656ecf143cb0bc1ce49",
+    "category": "AI应用/知识工程",
+    "relevance_score": 0.85,
+    "tags": [
+      "Ontology",
+      "知识结构化",
+      "Agent",
+      "动态决策",
+      "业务建模",
+      "知识图谱",
+      "AI工作流"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-021",
+    "title": "高德本地生活分析 Agent 的 AI Native 实践全景（万字长文回顾）",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511846&idx=1&sn=e281c6ff590a8209e7d6e2719ee4e58a",
+    "category": "AI工程实践",
+    "relevance_score": 0.88,
+    "tags": [
+      "AI Agent",
+      "本地生活",
+      "高德",
+      "语义治理",
+      "经营分析",
+      "AI Native",
+      "大模型应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-022",
+    "title": "AI Native 回忆录：稳定性前端 S1 实践复盘",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511817&idx=1&sn=5284ab741c2a5ccd9520c86e9261770d",
+    "category": "前端工程 / AI 应用实践",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Native",
+      "前端稳定性",
+      "工程实践",
+      "质量保障",
+      "团队协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-023",
+    "title": "为Agent而生，千问AI平台发布全新服务方式",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562466&idx=1&sn=5e7f953ce9f4d70b52108432474318b0",
+    "category": "AI平台/智能体生态",
+    "relevance_score": 0.8,
+    "tags": [
+      "Agent",
+      "千问AI平台",
+      "智能体",
+      "AI基础设施",
+      "服务模式"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-024",
+    "title": "蚂蚁集团联合中国信通院AI所重磅发布Token效率研究报告",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538336&idx=1&sn=f28d27168ae3c7f8b28160dd5450ec5a",
+    "category": "AI基础设施与可持续性",
+    "relevance_score": 0.8,
+    "tags": [
+      "Token效率",
+      "AI能耗",
+      "大模型优化",
+      "绿色AI",
+      "蚂蚁集团",
+      "中国信通院",
+      "评估框架"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-025",
+    "title": "AMD GPU x 魔搭联合激励计划 2.0｜热门大模型畅跑，算力已就位！（文末抽奖）",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514370&idx=1&sn=bbf08fbbd43894db403f812e371395d1",
+    "category": "AI基础设施与算力服务",
+    "relevance_score": 0.8,
+    "tags": [
+      "AMD GPU",
+      "魔搭社区",
+      "大模型推理",
+      "API Inference",
+      "DeepSeek",
+      "GLM",
+      "算力激励"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-026",
+    "title": "魔搭社区 AI+∞ 开发者创作大赛圆满收官，获奖作品亮相云栖大会",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514340&idx=1&sn=8b4d40a92d0ce90da590b2c0bb82ace9",
+    "category": "AI 社区与赛事活动",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI创作",
+      "开发者大赛",
+      "魔搭社区",
+      "云栖大会",
+      "AIGC",
+      "内容创作"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-027",
+    "title": "腾讯 Hy 翻译 APP 上线",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498660&idx=1&sn=ee2ec0ab958eb1fed8e59076391e89ec",
+    "category": "AI 应用产品",
+    "relevance_score": 0.82,
+    "tags": [
+      "腾讯",
+      "Hy-MT2",
+      "机器翻译",
+      "大模型应用",
+      "AI 产品化",
+      "翻译 APP"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-028",
+    "title": "人类体验的消失：我们是否正在失去真实的世界？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998935&idx=1&sn=e95b809fcd72306603abdfc8478cefd2",
+    "category": "技术哲学与社会批判",
+    "relevance_score": 0.8,
+    "tags": [
+      "技术哲学",
+      "数字异化",
+      "真实体验",
+      "媒介批判",
+      "人文反思"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-029",
+    "title": "对话中国首部AI长剧导演：三年后，99%影视内容都要用上AIGC",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650998929&idx=1&sn=6e6d59dfda7ea51e00b7606ce6467a31",
+    "category": "AI影视应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "AIGC",
+      "影视制作",
+      "AI长剧",
+      "行业变革",
+      "生成式AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-030",
+    "title": "JEV：一个不会写代码的模型，为什么拿下4000万美元？",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697634&idx=1&sn=022fbaed7d8c0612ad874c717c92419e",
+    "category": "AI行业与商业分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI模型",
+      "融资",
+      "商业模式",
+      "垂直场景",
+      "非代码生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-031",
+    "title": "81.8 秒、15 个版本：一次纯 Codex 驱动的 AI-native 视频实践",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503074&idx=1&sn=06d69c5d7da34dacfc0c621ca269b7ba",
+    "category": "AI应用/多模态内容生成",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI视频生成",
+      "Codex",
+      "AI-native",
+      "自动化工作流",
+      "多模态",
+      "内容创作",
+      "Skill复用"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-032",
+    "title": "数据涅槃：Agentic 重塑搜推数据生产体系",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503036&idx=1&sn=881cd5a94eef0fc882c10c595e4df1fc",
+    "category": "AI工程/数据基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agentic AI",
+      "搜索推荐",
+      "数据生产",
+      "数据研发",
+      "可靠性",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-033",
+    "title": "HySparse2：Xiaomi MiMo-V3 新架构预览",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520397&idx=1&sn=586bffd5f97e396711c400816f7d1262",
+    "category": "大模型推理优化 / 架构创新",
+    "relevance_score": 0.85,
+    "tags": [
+      "稀疏注意力",
+      "KV Cache 优化",
+      "长上下文",
+      "Agent",
+      "推理加速",
+      "小米 MiMo"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-034",
+    "title": "AI改图，终于懂点「用户心理学」了",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501436&idx=1&sn=7c6d74bc5cd77ef6e83cf725aa8210e2",
+    "category": "AI应用/图像编辑",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI图像编辑",
+      "用户心理学",
+      "个性化推荐",
+      "快手",
+      "KwaiMind",
+      "审美偏好建模",
+      "内容创作工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-035",
+    "title": "快手探索者LLM-Rec挑战赛决赛收官：20强齐聚北京，总冠军诞生",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501430&idx=1&sn=0fd41005b9e3060aca00008ffcd8515e",
+    "category": "AI竞赛与行业动态",
+    "relevance_score": 0.75,
+    "tags": [
+      "LLM",
+      "推荐系统",
+      "快手",
+      "竞赛",
+      "RecSys",
+      "大模型应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-036",
+    "title": "别找攻略了，直接用百度地图，耍起！",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670275&idx=1&sn=4c2605fc7dbf7692e0321c7ce76cf9f0",
+    "category": "生活服务/地图应用",
+    "relevance_score": 0.6,
+    "tags": [
+      "百度地图",
+      "出行工具",
+      "LBS",
+      "路线规划",
+      "游玩推荐"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-037",
+    "title": "DeepSeek 开源昇腾基础组件",
+    "source": "rss-deepseek",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276",
+    "category": "AI基础设施 / 国产算力生态",
+    "relevance_score": 0.9,
+    "tags": [
+      "DeepSeek",
+      "华为昇腾",
+      "国产算力",
+      "AI基础设施",
+      "开源",
+      "大模型",
+      "NPU",
+      "自主可控"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-038",
+    "title": "发一张图，它居然&#34;跃&#34;出屏幕了？一文读懂得物 3D 空间图片技术实践",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547232&idx=1&sn=b1464a8f98c4c1d6726e4ffbd4b331b6",
+    "category": "计算机视觉/移动端3D渲染",
+    "relevance_score": 0.8,
+    "tags": [
+      "3D高斯重建",
+      "移动端渲染",
+      "3D空间图片",
+      "端侧优化",
+      "60FPS",
+      "得物技术",
+      "模型压缩"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-039",
+    "title": "Personalization without user identity",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+    "category": "隐私增强技术",
+    "relevance_score": 0.85,
+    "tags": [
+      "隐私保护",
+      "个性化推荐",
+      "无身份识别",
+      "会话推荐",
+      "联邦学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-040",
+    "title": "Why I tried to kill token billing (and why we kept it)",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/where-pricing-is-headed",
+    "category": "商业模式与定价",
+    "relevance_score": 0.8,
+    "tags": [
+      "定价策略",
+      "Token计费",
+      "SaaS商业模式",
+      "价值定价",
+      "成本核算"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-041",
+    "title": "OUSD is now the default stablecoin on Stripe",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/ousd-now-live-on-stripe",
+    "category": "金融科技/支付基础设施",
+    "relevance_score": 0.8,
+    "tags": [
+      "稳定币",
+      "Stripe",
+      "跨境支付",
+      "金融科技",
+      "OUSD"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-042",
+    "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294363&idx=1&sn=836549714bcf8394007984a84a52e3cd",
+    "category": "大模型技术动态",
+    "relevance_score": 0.82,
+    "tags": [
+      "Gemini",
+      "谷歌",
+      "大模型",
+      "代码迁移",
+      "AI编程",
+      "GPT-6",
+      "模型评测"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-043",
+    "title": "一个忘关的开关，与企业Agent的全栈技术账单",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294323&idx=1&sn=4ae602e442b0886211edb1bcba525d57",
+    "category": "AI工程与架构",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Agent",
+      "企业级应用",
+      "全栈协同",
+      "成本治理",
+      "LLMOps"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-044",
+    "title": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=1&sn=97c7644875a4ba12ac962fc49172e0cb",
+    "category": "AI行业趋势/开源生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源模型",
+      "成本优化",
+      "AI行业趋势",
+      "中国AI",
+      "企业级AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-02-045",
+    "title": "首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=2&sn=f8bdc8bd6f0ed7280678d85a54beb567",
+    "category": "AI Agent / 多模态交互框架",
+    "relevance_score": 0.8,
+    "tags": [
+      "多模态",
+      "全双工交互",
+      "Agent",
+      "昇腾",
+      "任务编排"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-02T04:39:02.934Z"
   }
 ]

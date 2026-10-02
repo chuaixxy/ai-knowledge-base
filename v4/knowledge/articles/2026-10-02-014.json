@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-014",
+  "source_id": "https://huggingface.co/blog/open-tts-leaderboard",
+  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/open-tts-leaderboard",
+  "summary": "Open TTS Leaderboard 是一个面向多语言文本转语音（TTS）与语音克隆的开源评测榜单，旨在提供可扩展、可复现的标准化评估框架。项目针对当前 TTS 领域评测分散、指标不统一、多语言覆盖不足等痛点，构建了统一的评测流水线，支持自动化的模型提交、推理与打分。其核心价值在于通过可扩展的架构降低评测门槛，使研究者能够公平比较不同模型在多语言场景下的合成质量、自然度、说话人相似度等指标，并推动语音克隆技术的规范化发展。该榜单强调开放性与可复现性，为社区提供持续更新的基准，有助于加速多语言 TTS 与语音克隆技术的迭代与落地。",
+  "tags": [
+    "TTS",
+    "语音克隆",
+    "多语言",
+    "评测基准",
+    "Leaderboard",
+    "开源"
+  ],
+  "relevance_score": 0.85,
+  "category": "语音合成与评测基准",
+  "key_insight": "通过可扩展的标准化评测框架，解决多语言 TTS 与语音克隆领域缺乏统一公平基准的问题。"
+}

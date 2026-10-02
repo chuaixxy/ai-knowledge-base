@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-011",
+  "source_id": "https://openai.com/index/the-den-family-social",
+  "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/the-den-family-social",
+  "summary": "The Den 是一家正在拓展新门店的社交俱乐部，其核心痛点在于行政事务耗时巨大：以往准备拨款申请需要3天、酒类许可证材料需要4天，严重挤占了团队用于业务增长的时间。通过引入 ChatGPT Work，该俱乐部将拨款申请压缩至2小时、酒类许可证材料压缩至3小时，每周释放出10-15小时用于业务拓展。这一案例展示了生成式AI在中小企业行政文书处理中的实际价值：它并非替代专业判断，而是通过快速起草、整理和格式化文档，把重复性写作负担转化为可复用的工作流，使小团队能够以更低成本完成合规性材料准备，从而将稀缺的人力资源重新配置到增长性活动上。",
+  "tags": [
+    "ChatGPT Work",
+    "AI办公自动化",
+    "中小企业",
+    "行政文书",
+    "合规材料",
+    "效率提升",
+    "生成式AI应用"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI企业应用",
+  "key_insight": "生成式AI对中小企业最直接的价值，是把数天级的合规文书工作压缩到小时级，从而释放人力投入增长。"
+}

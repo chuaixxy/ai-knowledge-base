@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-004",
+  "source_id": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+  "title": "Text-to-meowdio models",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://www.kmjn.org/notes/text_to_meowdio_models.html",
+  "summary": "Text-to-meowdio models 是一个在 Lobste.rs 社区引发讨论的技术项目，从名称推测其目标是将文本输入转换为猫叫声（meow audio）的音频生成模型。该项目属于文本到音频（Text-to-Audio）生成领域的一个趣味化、娱乐化变体，可能基于现有的 TTS（文本转语音）或音频生成模型进行微调，将语音特征替换为猫叫音色。此类项目通常展示了生成式 AI 在非传统音频场景中的灵活应用，也反映了社区对轻量级、趣味性 AI 实验的关注。由于原始链接仅为评论页面，具体技术细节（如模型架构、训练数据、是否开源）尚不明确，但可归入多模态生成与创意 AI 应用方向。",
+  "tags": [
+    "文本到音频",
+    "生成式AI",
+    "TTS",
+    "趣味项目",
+    "多模态"
+  ],
+  "relevance_score": 0.55,
+  "category": "AI音频生成/创意应用",
+  "key_insight": "将文本转语音技术迁移到猫叫生成，体现了生成模型在娱乐化场景中的低门槛复用潜力。"
+}

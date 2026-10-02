@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-018",
+  "source_id": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+  "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+  "summary": "美国联邦法官Amit Mehta驳回了Chegg和Penske Media Corporation（滚石母公司）对谷歌提起的两起反垄断诉讼。原告指控谷歌利用AI驱动的搜索功能（AI Overviews）减少网站流量，构成反竞争行为。法官在周三的裁决中支持谷歌立场，认为原告未能充分证明谷歌的行为损害了市场竞争。这一裁决对谷歌在AI搜索领域的业务拓展构成利好，同时也反映出监管机构和法院在如何界定AI搜索功能与传统网络流量分配之间的法律边界上仍持谨慎态度。案件结果可能影响未来出版商针对AI搜索功能提起类似诉讼的可行性。",
+  "tags": [
+    "谷歌",
+    "反垄断",
+    "AI搜索",
+    "AI Overviews",
+    "法律诉讼",
+    "搜索流量"
+  ],
+  "relevance_score": 0.85,
+  "category": "科技法律与政策",
+  "key_insight": "法院驳回诉讼表明，当前法律框架下AI搜索功能导致的流量变化尚不足以构成反垄断违规，但出版商与AI平台之间的利益博弈仍将持续。"
+}

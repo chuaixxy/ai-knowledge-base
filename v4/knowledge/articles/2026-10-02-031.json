@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503074&idx=1&sn=06d69c5d7da34dacfc0c621ca269b7ba",
+  "title": "81.8 秒、15 个版本：一次纯 Codex 驱动的 AI-native 视频实践",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503074&idx=1&sn=06d69c5d7da34dacfc0c621ca269b7ba",
+  "summary": "该项目展示了一次完全由 Codex 驱动的 AI-native 视频制作实践。用户只需提供产品资料，并明确目标、选择方向、给出反馈，AI 即可自动完成从分镜设计、画面生成、配音到混音的全流程视频制作。最终成片时长 81.8 秒，经过 15 个版本迭代打磨，并附带可直接复用的 ai-video-director Skill，体现了 AI 在视频创作领域的端到端自动化能力，大幅降低了视频制作门槛，为内容创作者和企业提供了一种高效、可迭代的 AI 原生视频生产范式。",
+  "tags": [
+    "AI视频生成",
+    "Codex",
+    "AI-native",
+    "自动化工作流",
+    "多模态",
+    "内容创作",
+    "Skill复用"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI应用/多模态内容生成",
+  "key_insight": "AI 已能端到端接管视频制作全流程，人类角色从执行者转变为目标设定与反馈评审者。"
+}

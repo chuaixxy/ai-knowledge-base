@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520397&idx=1&sn=586bffd5f97e396711c400816f7d1262",
+  "title": "HySparse2：Xiaomi MiMo-V3 新架构预览",
+  "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520397&idx=1&sn=586bffd5f97e396711c400816f7d1262",
+  "summary": "HySparse2 是小米 MiMo-V3 推出的新架构预览，核心面向长程多轮 Agent 场景。该架构通过稀疏注意力机制，显著降低 Prefill 阶段的算力开销，同时压缩 KV Cache 的显存占用，并在长上下文与多轮交互中保持更高的推理精度。相比传统全注意力方案，HySparse2 在长序列处理上兼顾效率与效果，适合需要频繁上下文复用、长时间记忆的智能体应用。作为 MiMo-V3 的关键组件，它体现了小米在大模型推理效率与 Agent 能力上的工程优化方向，为长程任务提供了更经济的部署路径。",
+  "tags": [
+    "稀疏注意力",
+    "KV Cache 优化",
+    "长上下文",
+    "Agent",
+    "推理加速",
+    "小米 MiMo"
+  ],
+  "relevance_score": 0.85,
+  "category": "大模型推理优化 / 架构创新",
+  "key_insight": "HySparse2 用稀疏化同时削减 Prefill 算力与 KV Cache，让长程多轮 Agent 在精度不降的前提下更省显存、更快响应。"
+}

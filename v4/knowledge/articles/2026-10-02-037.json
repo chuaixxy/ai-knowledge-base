@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-02-037",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276",
+  "title": "DeepSeek 开源昇腾基础组件",
+  "source": "rss-deepseek",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276",
+  "summary": "DeepSeek 正式开源面向华为昇腾（Ascend）算力平台的基础设施组件，这标志着国产大模型厂商与国产 AI 芯片生态的深度协同。该组件旨在打通 DeepSeek 模型在昇腾 NPU 上的部署、推理与训练链路，降低开发者迁移成本，提升国产算力平台的软件栈成熟度。此举对缓解对英伟达 CUDA 生态的依赖、推动国产 AI 全栈自主可控具有战略意义，也为昇腾生态补齐了来自头部模型厂商的工程实践支持，有望加速国产算力在大模型场景中的规模化落地。",
+  "tags": [
+    "DeepSeek",
+    "华为昇腾",
+    "国产算力",
+    "AI基础设施",
+    "开源",
+    "大模型",
+    "NPU",
+    "自主可控"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施 / 国产算力生态",
+  "key_insight": "头部大模型厂商主动适配国产芯片，是国产 AI 全栈生态从'能用'走向'好用'的关键信号。"
+}

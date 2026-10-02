@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503036&idx=1&sn=881cd5a94eef0fc882c10c595e4df1fc",
+  "title": "数据涅槃：Agentic 重塑搜推数据生产体系",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503036&idx=1&sn=881cd5a94eef0fc882c10c595e4df1fc",
+  "summary": "该项目聚焦于利用 Agentic AI 重塑搜索与推荐系统的数据生产体系，核心目标是在保障数据可靠性的前提下，让 AI 真正接管数据研发链路。项目围绕搜推场景中海量、多源、高时效的数据处理需求，探索将智能体（Agent）引入数据采集、清洗、特征构建、质量监控等环节，实现从人工驱动到 AI 自主驱动的范式转变。文章强调可靠性是 AI 接管数据链路的关键门槛，需通过可观测性、校验机制、回滚策略等手段构建信任基础，从而推动数据研发效率与质量的双重跃升。",
+  "tags": [
+    "Agentic AI",
+    "搜索推荐",
+    "数据生产",
+    "数据研发",
+    "可靠性",
+    "智能体"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程/数据基础设施",
+  "key_insight": "让 AI 接管数据链路的核心不是能力问题，而是如何在可靠性保障机制下建立可信的自主执行闭环。"
+}

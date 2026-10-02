@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-042",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294363&idx=1&sn=836549714bcf8394007984a84a52e3cd",
+  "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294363&idx=1&sn=836549714bcf8394007984a84a52e3cd",
+  "summary": "该项目报道了谷歌发布的 Gemini 4 Argon 模型，宣称其在多项基础测试中表现超过 GPT-6 Astra，并已参与谷歌内部 80 万行内核代码的迁移工作。文章强调谷歌在 AI 大模型竞争中的强势回归，突出新模型在代码理解与迁移等工程任务上的能力，暗示其在自动化软件开发、系统重构等场景具备实际落地价值。整体属于大模型技术进展与产业竞争动态类信息，核心看点在于模型性能对标、代码级应用规模以及谷歌生态整合能力。",
+  "tags": [
+    "Gemini",
+    "谷歌",
+    "大模型",
+    "代码迁移",
+    "AI编程",
+    "GPT-6",
+    "模型评测"
+  ],
+  "relevance_score": 0.82,
+  "category": "大模型技术动态",
+  "key_insight": "Gemini 4 Argon 的竞争力不仅体现在基准测试超越对手，更在于其已进入谷歌核心代码迁移这类高价值工程场景。"
+}

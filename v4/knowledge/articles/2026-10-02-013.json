@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-013",
+  "source_id": "https://huggingface.co/blog/allenai/olmocore3",
+  "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/olmocore3",
+  "summary": "Olmo-core 3 是 Allen AI 推出的开源大规模训练基础设施，专为训练大型混合专家（MoE）模型而设计。该项目提供了可扩展的分布式训练框架，支持高效并行策略、容错机制和资源调度，旨在降低大模型训练门槛，推动开放研究。其核心亮点包括对 MoE 架构的原生优化、模块化组件以及可复现的训练流程，使研究者和开发者能够在自有集群上训练千亿参数级模型。该基础设施强调开放性与可扩展性，有望加速 MoE 模型的创新与落地。",
+  "tags": [
+    "开源",
+    "大模型训练",
+    "MoE",
+    "分布式训练",
+    "基础设施",
+    "AI"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施与训练框架",
+  "key_insight": "Olmo-core 3 通过开源可扩展的 MoE 训练基础设施，降低了大规模稀疏模型训练的工程门槛。"
+}

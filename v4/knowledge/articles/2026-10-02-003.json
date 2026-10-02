@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-003",
+  "source_id": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+  "title": "Typeclasses vs Modules",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+  "summary": "该项目讨论了函数式编程中类型类（Typeclasses）与模块系统（Modules）之间的对比，源于 Lobste.rs 上的技术讨论。类型类源自 Haskell，通过隐式参数解析实现特设多态，允许为已有类型添加新接口而无需修改原类型定义，但可能导致全局一致性（coherence）问题与解析歧义。模块系统以 OCaml、SML 等 ML 系语言为代表，通过显式参数传递和函子（functor）实现模块化抽象，支持局部实例化与更细粒度的封装，但使用时需显式传递模块参数。讨论聚焦两者在可扩展性、抽象能力、隐式与显式设计权衡、类型推断影响等方面的优劣，并探讨如何结合二者优势。",
+  "tags": [
+    "类型类",
+    "模块系统",
+    "函数式编程",
+    "多态",
+    "Haskell",
+    "OCaml"
+  ],
+  "relevance_score": 0.75,
+  "category": "编程语言理论",
+  "key_insight": "类型类以隐式解析换取简洁，模块系统以显式传递换取可控，二者本质是抽象机制在隐式与显式谱系上的不同取舍。"
+}

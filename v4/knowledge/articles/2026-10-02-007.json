@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-007",
+  "source_id": "https://arxiv.org/abs/2610.00015",
+  "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.00015",
+  "summary": "Praxa 是一个面向 LLM 智能体的执行治理框架（harness），其核心主张是将「提议、授权、派发、已验证的外部效果、服务上线」视为彼此独立的声明，并通过确定性准入、代理执行、外部回读、对账与评审式晋升等机制显式表达各状态。论文报告了四条证据链：其一，作者自跑的仓库本地审计在固定版本上通过 1027/1027 单元测试与 89/89 Workerd 测试，覆盖全部 363 个预期源文件并达到四项覆盖率下限，但原始逐测记录与独立复现不可得；其二，在 Terminal-Bench Core 0.1.1 的 12 项精选任务试点中，基线与可靠性层各通过 17/36 严格试验，可靠性层多消耗 37.49% 输入与 50.73% 输出 token，故不支持其优越性；其三为调试后双……（摘要截断）。整体上，该工作提出了有意义的「证据绑定」治理抽象，但现有实证尚不足以证明其性能优势，属于概念贡献突出、验证强度有限的系统类研究。",
+  "tags": [
+    "AI Agent",
+    "执行治理",
+    "证据绑定",
+    "可靠性",
+    "Terminal-Bench",
+    "Agent Harness",
+    "可验证效果"
+  ],
+  "relevance_score": 0.78,
+  "category": "AI Agent 系统与治理",
+  "key_insight": "Praxa 的价值在于把「提议」与「已验证的外部效果」显式分离并绑定证据，但其试点数据表明可靠性层以更高 token 成本换取了与基线持平的通过率，治理收益尚未转化为性能优势。"
+}

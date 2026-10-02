@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-045",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=2&sn=f8bdc8bd6f0ed7280678d85a54beb567",
+  "title": "首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=2&sn=f8bdc8bd6f0ed7280678d85a54beb567",
+  "summary": "openJiuwen WorkSwarm 是一个全双工多模态 Agent 交互框架，核心亮点在于支持用户像聊天一样与 Agent 实时互动：既能展示眼前画面（视觉输入），又能随时插话打断（全双工语音），实现更自然的多人协作式体验。同时，系统支持将需要进一步处理的任务转交给后台 Core Agent 异步执行，形成前台交互与后台处理的协同架构。项目强调对昇腾算力的原生亲和，意味着在国产 AI 芯片上具备更好的性能与部署适配性。整体定位偏向多模态实时交互 + 任务分发的 Agent 工作流平台，适用于需要边看、边说、边处理的复杂场景。",
+  "tags": [
+    "多模态",
+    "全双工交互",
+    "Agent",
+    "昇腾",
+    "任务编排"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI Agent / 多模态交互框架",
+  "key_insight": "全双工多模态交互加上后台 Agent 任务分发，让 Agent 从单轮问答走向可打断、可协作的实时工作流。"
+}

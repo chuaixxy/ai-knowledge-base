@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-040",
+  "source_id": "https://stripe.com/blog/where-pricing-is-headed",
+  "title": "Why I tried to kill token billing (and why we kept it)",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/where-pricing-is-headed",
+  "summary": "本文探讨了「Token 计费」这一基础设施的价值与其作为面向客户定价模型的弊端。作者曾试图彻底放弃 Token 计费，但最终选择保留它。核心观点是：Token 计费作为底层基础设施非常有用，但通常是一种糟糕的客户定价方式。因为发票应当体现产品为客户创造的价值，而不是罗列厂商生产该产品的成本明细。以 Token 用量计费会让客户关注成本结构而非价值收益，容易引发价格争议、抑制使用，并模糊产品真正的价值主张。作者的结论是：可以保留 Token 计费作为内部成本核算与资源管理工具，但对外定价应围绕价值而非 Token 数量来设计。",
+  "tags": [
+    "定价策略",
+    "Token计费",
+    "SaaS商业模式",
+    "价值定价",
+    "成本核算"
+  ],
+  "relevance_score": 0.8,
+  "category": "商业模式与定价",
+  "key_insight": "Token 计费适合做内部成本基础设施，但对外定价应体现产品价值而非生产成本。"
+}

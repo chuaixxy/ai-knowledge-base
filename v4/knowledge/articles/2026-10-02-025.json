@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514370&idx=1&sn=bbf08fbbd43894db403f812e371395d1",
+  "title": "AMD GPU x 魔搭联合激励计划 2.0｜热门大模型畅跑，算力已就位！（文末抽奖）",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514370&idx=1&sn=bbf08fbbd43894db403f812e371395d1",
+  "summary": "该项目是AMD GPU与魔搭社区联合推出的激励计划2.0，旨在为开发者提供基于AMD Instinct GPU的算力支持。开发者可通过API Inference直接调用运行在AMD Instinct GPU上的DeepSeek、GLM等热门大模型，获得推理服务，无需自行部署硬件即可畅跑大模型。活动还包含抽奖环节以吸引开发者参与。该计划降低了开发者使用高性能GPU算力和主流大模型的门槛，推动了AMD GPU生态与国内大模型社区的结合，为AI应用开发提供了便捷的算力与模型服务入口。",
+  "tags": [
+    "AMD GPU",
+    "魔搭社区",
+    "大模型推理",
+    "API Inference",
+    "DeepSeek",
+    "GLM",
+    "算力激励"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI基础设施与算力服务",
+  "key_insight": "通过API化封装AMD Instinct GPU算力与热门大模型，降低开发者使用门槛，推动GPU厂商与大模型社区的生态协同。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-015",
+  "source_id": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "summary": "NVIDIA Kumo 是 NVIDIA 推出的面向表格数据预测的深度学习框架，旨在在准确率与效率之间建立新的前沿。传统表格任务长期由 XGBoost、LightGBM 等梯度提升树模型主导，而 Kumo 通过图神经网络与元学习技术，将表格数据建模为异构图结构，自动学习列间关系与语义嵌入，从而在无需大量特征工程的情况下实现高精度预测。其核心优势在于：一是显著降低人工调参和特征工程成本；二是借助 GPU 加速，训练与推理效率大幅提升；三是在多个公开基准上达到或超越 GBDT 的准确率。该项目标志着 NVIDIA 将深度学习能力从图像、语言领域进一步拓展到企业级表格数据场景，对金融风控、推荐系统、供应链预测等应用具有重要意义。",
+  "tags": [
+    "表格数据",
+    "深度学习",
+    "NVIDIA",
+    "图神经网络",
+    "AutoML",
+    "GPU加速"
+  ],
+  "relevance_score": 0.85,
+  "category": "机器学习框架与工具",
+  "key_insight": "Kumo 用图神经网络与元学习重构表格预测范式，在准确率与效率上同时挑战 GBDT 的长期统治地位。"
+}

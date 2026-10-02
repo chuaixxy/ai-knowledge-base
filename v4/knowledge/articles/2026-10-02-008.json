@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-008",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+  "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+  "summary": "arXiv 官方博客发布更新后的投稿频率限制政策，规定每位提交者每个自然月最多只能提交两篇论文。此前 arXiv 对提交频率的限制相对宽松，主要针对批量灌水和自动脚本滥用，但新政策将上限明确收紧至每月两篇，且以「自然月」为计算周期。该政策在 Reddit 的 r/MachineLearning 社区引发讨论，社区关注点集中在其对高产研究者、跨领域合作者以及依赖预印本快速迭代的 AI 研究的影响。此举被视为 arXiv 在投稿量持续激增、审核与运营资源有限背景下，对平台质量与可持续性的主动调控，也可能间接推动研究者更谨慎地选择投稿内容与时机。",
+  "tags": [
+    "arXiv",
+    "预印本政策",
+    "投稿限制",
+    "学术出版",
+    "科研生态",
+    "AI研究"
+  ],
+  "relevance_score": 0.78,
+  "category": "学术出版与科研政策",
+  "key_insight": "arXiv 以每月两篇的硬性上限收紧投稿，意在遏制灌水、缓解运营压力，但可能改变高产研究者与快速迭代领域的预印本发布节奏。"
+}

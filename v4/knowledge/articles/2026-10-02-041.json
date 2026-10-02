@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-041",
+  "source_id": "https://stripe.com/blog/ousd-now-live-on-stripe",
+  "title": "OUSD is now the default stablecoin on Stripe",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/ousd-now-live-on-stripe",
+  "summary": "Open USD（OUSD）是一种专为全球资金流动而设计的稳定币，现已在 Stripe 平台上全面可用，并成为 Stripe 的默认稳定币。企业可以通过 OUSD 管理资金、进行支付，并基于其构建新的金融服务。这一整合意味着 Stripe 的商户和开发者能够直接使用 OUSD 完成跨境结算、收付款和资金托管等操作，无需依赖传统银行通道。OUSD 的定位是服务于全球范围内的资金流转效率，降低跨境交易的成本与延迟。此举也标志着主流支付基础设施对稳定币的进一步接纳，可能推动更多企业将稳定币纳入其财务和产品体系。",
+  "tags": [
+    "稳定币",
+    "Stripe",
+    "跨境支付",
+    "金融科技",
+    "OUSD"
+  ],
+  "relevance_score": 0.8,
+  "category": "金融科技/支付基础设施",
+  "key_insight": "Stripe 将 OUSD 设为默认稳定币，意味着稳定币正从加密原生场景加速进入主流商业支付轨道。"
+}

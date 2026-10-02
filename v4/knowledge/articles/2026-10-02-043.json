@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-043",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294323&idx=1&sn=4ae602e442b0886211edb1bcba525d57",
+  "title": "一个忘关的开关，与企业Agent的全栈技术账单",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294323&idx=1&sn=4ae602e442b0886211edb1bcba525d57",
+  "summary": "该项目以“一个忘关的开关”为隐喻，探讨企业在部署AI Agent时因忽视全栈协同而产生的隐性技术成本。随着基础模型能力不断增强，企业Agent的表现不再仅取决于模型本身，而是依赖模型、工具调用、记忆管理、权限控制、可观测性、成本治理等全栈环节的紧密配合。任何一环的疏漏——如未及时关闭的开关——都可能导致资源浪费、安全风险或账单失控。项目强调企业需要建立端到端的Agent工程体系，将模型能力转化为稳定、可控、可计费的生产力，而非单纯追求模型参数与基准分数。",
+  "tags": [
+    "AI Agent",
+    "企业级应用",
+    "全栈协同",
+    "成本治理",
+    "LLMOps"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI工程与架构",
+  "key_insight": "企业Agent的竞争力不在模型单点强度，而在全栈协同的工程化能力。"
+}

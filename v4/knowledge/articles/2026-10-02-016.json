@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-016",
+  "source_id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "summary": "该项目聚焦于MCP（Model Context Protocol）智能体在验证信息时的一个关键盲区：仅核实事实本身是否准确，却忽视了信息来源的可靠性。项目提出“来源感知验证”（Source-Aware Verification）理念，主张智能体不仅要判断一条事实是否成立，还应追溯并评估其来源的可信度、权威性与潜在偏见。通过为MCP代理引入来源溯源与分级机制，系统能够在多源信息冲突时做出更审慎的判断，避免被看似正确但来源可疑的内容误导。该工作对提升AI代理在开放环境中的信息鉴别能力、降低幻觉与虚假信息传播风险具有实践意义，也为构建更可信的智能体验证框架提供了思路。",
+  "tags": [
+    "MCP",
+    "智能体验证",
+    "来源可信度",
+    "信息溯源",
+    "AI安全",
+    "幻觉缓解"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI安全与可信计算",
+  "key_insight": "验证事实正确性远不够，智能体必须同时评估信息来源的可信度，才能真正避免被误导。"
+}

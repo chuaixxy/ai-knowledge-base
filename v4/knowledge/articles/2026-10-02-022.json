@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511817&idx=1&sn=5284ab741c2a5ccd9520c86e9261770d",
+  "title": "AI Native 回忆录：稳定性前端 S1 实践复盘",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511817&idx=1&sn=5284ab741c2a5ccd9520c86e9261770d",
+  "summary": "该项目复盘了团队在 AI Native 背景下构建回忆录产品的稳定性前端实践（S1 阶段）。当 AI 让内容生产门槛大幅降低、人人都能借助 AI 快速产出时，团队面临的核心挑战从「能否生产」转向「如何保证交付质量」。文章分享了前端侧在稳定性方面的工程经验与流程设计，包括质量保障机制、异常兜底策略、协作规范等，为 AI 时代下团队如何平衡效率与质量提供了可参考的实践路径。",
+  "tags": [
+    "AI Native",
+    "前端稳定性",
+    "工程实践",
+    "质量保障",
+    "团队协作"
+  ],
+  "relevance_score": 0.8,
+  "category": "前端工程 / AI 应用实践",
+  "key_insight": "AI 降低生产门槛后，团队的核心竞争力从「产出速度」转向「交付质量」，稳定性工程成为 AI Native 时代的关键基础设施。"
+}

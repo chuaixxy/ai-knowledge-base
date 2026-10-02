@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-039",
+  "source_id": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+  "title": "Personalization without user identity",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4",
+  "summary": "该项目探讨了在不依赖用户身份信息（如登录账号、设备ID）的前提下实现个性化推荐的技术方案。核心思路是通过会话级行为建模、上下文感知和群体智能来推断用户即时意图，而非长期画像。典型方法包括基于会话的推荐、联邦学习、差分隐私以及利用浏览器本地存储的轻量级个性化。项目可能涉及冷启动问题、隐私保护与推荐效果的平衡，并适用于广告、内容分发等场景。其价值在于满足日益严格的隐私法规（如GDPR、CCPA），同时提升用户体验。",
+  "tags": [
+    "隐私保护",
+    "个性化推荐",
+    "无身份识别",
+    "会话推荐",
+    "联邦学习"
+  ],
+  "relevance_score": 0.85,
+  "category": "隐私增强技术",
+  "key_insight": "通过会话上下文和群体行为替代用户身份，实现隐私合规的个性化。"
+}
