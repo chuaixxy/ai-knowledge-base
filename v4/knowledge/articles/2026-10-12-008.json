@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-008",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+  "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+  "summary": "该项目是一篇来自 r/MachineLearning 的讨论帖，围绕机器人学习领域的最新范式转变展开。文章将「世界动作模型（World Action Models）」与「视觉-语言-动作模型（VLA）」进行深度对比，认为机器人领域刚刚迎来了属于自己的「GPT-2 时刻」，即类似 GPT-2 展示出规模化预训练潜力那样，机器人基础模型开始展现出通用性与涌现能力。作者通过博客深度剖析了世界动作模型可能成为 VLA 之后的新方向，强调对物理世界的建模与动作预测的融合，可能比单纯依赖视觉-语言对齐更接近通用机器人智能。帖子引发社区对机器人基础模型路线选择的讨论。",
+  "tags": [
+    "机器人学习",
+    "世界模型",
+    "VLA",
+    "基础模型",
+    "具身智能",
+    "预训练"
+  ],
+  "relevance_score": 0.85,
+  "category": "机器人学习/具身智能",
+  "key_insight": "机器人领域正从 VLA 范式向世界动作模型演进，预示通用机器人基础模型迎来类似 GPT-2 的规模化拐点。"
+}

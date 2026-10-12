@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-12-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523063&idx=1&sn=70910f0ca4b9f5fb519c7d4d94f481f6",
+  "title": "三篇重磅论文，拆解 OpenViking 核心技术",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523063&idx=1&sn=70910f0ca4b9f5fb519c7d4d94f481f6",
+  "summary": "该项目围绕 OpenViking 的三篇重磅论文展开技术拆解，深入剖析其核心技术架构与创新点。内容可能涵盖 OpenViking 在模型设计、训练范式、推理优化或系统级工程方面的关键突破，通过论文解读揭示其背后的算法原理与技术路线选择。三篇论文分别从不同维度切入，例如高效注意力机制、多模态融合、分布式训练或智能体协作等方向，形成完整的技术拼图。该分析旨在帮助开发者与研究者快速理解 OpenViking 的技术优势、设计权衡及适用场景，为后续复现、改进或应用提供参考，具有较强的技术深度与工程指导价值。",
+  "tags": [
+    "OpenViking",
+    "论文解读",
+    "核心技术",
+    "架构设计",
+    "AI系统"
+  ],
+  "relevance_score": 0.8,
+  "category": "技术论文分析",
+  "key_insight": "通过三篇论文的交叉解读，系统还原 OpenViking 从算法创新到工程落地的完整技术链路。"
+}

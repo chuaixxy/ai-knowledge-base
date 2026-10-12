@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-12-020",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+  "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+  "summary": "该项目记录了作者从对本地AI持犹豫态度到开始实际使用的个人探索历程。作者一直对将个人数据交给云端服务感到顾虑，这成为其长期未深入使用AI的主要障碍。随着本地运行强大模型的技术日益成熟，作者决定亲自尝试本地AI，以了解其真实能力。文章分享了这一过程中的兴奋、不知所措与挫败感交织的体验，探讨本地AI是否足够实用，并反映了隐私意识较强的用户在拥抱AI技术时所面临的心理挣扎与现实挑战。",
+  "tags": [
+    "本地AI",
+    "隐私保护",
+    "个人数据",
+    "AI使用体验",
+    "开源模型"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI应用与体验",
+  "key_insight": "本地AI的成熟正在降低隐私敏感用户使用AI的门槛，但可用性与体验仍待打磨。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-016",
+  "source_id": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "title": "Multimodal open d1 decision models for the edge",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "summary": "该项目聚焦于面向边缘计算场景的多模态开放式D1决策模型，旨在将视觉、文本、传感器等多种模态信息融合到轻量化的决策模型中，使其能够在算力、功耗和存储受限的边缘设备上高效运行。核心技术可能涉及多模态特征对齐、跨模态注意力、模型量化与剪枝、知识蒸馏以及端侧推理优化，从而在机器人、自动驾驶、智能穿戴和工业物联网等场景中实现低延迟、低带宽依赖的实时决策。其价值在于推动多模态大模型从云端下沉到边缘，兼顾隐私保护与响应速度，为开放式决策任务提供可扩展的端侧解决方案。",
+  "tags": [
+    "多模态",
+    "边缘计算",
+    "决策模型",
+    "模型压缩",
+    "端侧推理",
+    "具身智能"
+  ],
+  "relevance_score": 0.82,
+  "category": "多模态边缘AI",
+  "key_insight": "把多模态决策能力压缩到边缘设备，是解锁实时、隐私安全的具身智能的关键一步。"
+}

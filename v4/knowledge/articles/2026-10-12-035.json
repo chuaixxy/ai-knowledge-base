@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-12-035",
+  "source_id": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+  "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+  "summary": "Airbnb 分享了其从合成测试转向捕获和回放真实数据库工作负载的实践。传统合成测试难以覆盖生产环境中复杂、动态且长尾的 SQL 查询与事务模式，导致性能回归和容量规划失真。Airbnb 构建了一套工作负载捕获与回放系统，在代理层无侵入地记录生产数据库的真实流量（包括查询、事务序列、并发时序），经过脱敏和归一化后，在预发或影子环境中按原始节奏回放，用于验证数据库迁移、版本升级、配置调优和容量评估。该系统显著提升了变更上线的信心，降低了故障风险，并让性能测试更贴近真实业务场景。",
+  "tags": [
+    "数据库",
+    "工作负载回放",
+    "真实流量捕获",
+    "性能测试",
+    "Airbnb",
+    "影子环境",
+    "容量规划"
+  ],
+  "relevance_score": 0.85,
+  "category": "数据库工程 / 测试与运维",
+  "key_insight": "用生产真实流量的捕获与回放替代合成测试，才能暴露长尾查询和并发时序问题，让数据库变更验证更可信。"
+}

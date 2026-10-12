@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-12-021",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "summary": "微软CEO萨提亚·纳德拉在X平台发表长文，阐述了他对高度先进AI模型所带来风险的看法。纳德拉认为，我们应当假设所有AI模型都已被“攻陷”，不能再接受将AI视为“嵌套黑箱”的世界——即我们只能被动接受其建议和行动。他呼吁建立新的机制来应对AI安全挑战，强调透明度和可验证性的重要性，并主张行业与监管机构共同合作，确保AI系统的行为可被理解和审计。这一观点反映了业界对AI安全治理日益增长的担忧。",
+  "tags": [
+    "AI安全",
+    "微软",
+    "萨提亚·纳德拉",
+    "AI治理",
+    "模型透明度"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与治理",
+  "key_insight": "纳德拉主张以“所有AI模型都已被攻陷”为前提假设，推动AI系统从黑箱走向可验证、可审计的透明治理框架。"
+}

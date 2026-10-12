@@ -25854,5 +25854,715 @@
     ],
     "status": "published",
     "collected_at": "2026-10-02T04:39:02.934Z"
+  },
+  {
+    "id": "2026-10-12-001",
+    "title": "unclecode/crawl4ai",
+    "source": "github",
+    "source_id": "unclecode/crawl4ai",
+    "category": "AI 开发工具 / 数据采集",
+    "relevance_score": 0.9,
+    "tags": [
+      "网页爬虫",
+      "数据抓取",
+      "LLM",
+      "AI Agent",
+      "Markdown",
+      "开源",
+      "RAG",
+      "自托管"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-002",
+    "title": "Consistency is not a localized property",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+    "category": "分布式系统理论",
+    "relevance_score": 0.8,
+    "tags": [
+      "分布式系统",
+      "一致性",
+      "共识协议",
+      "系统设计",
+      "CAP定理"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-003",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/html/2610.05978v1",
+    "category": "自然语言处理",
+    "relevance_score": 0.9,
+    "tags": [
+      "字节语言模型",
+      "Transformer",
+      "分词器",
+      "缩放定律",
+      "涌现抽象",
+      "信息分配"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-004",
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://cactuscompute.com/blog/whistle",
+    "category": "AI/机器学习工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "语音识别",
+      "Speech-to-Text",
+      "轻量模型",
+      "端侧AI",
+      "模型压缩",
+      "离线推理"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-005",
+    "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.12493",
+    "category": "可解释人工智能与AI评估",
+    "relevance_score": 0.85,
+    "tags": [
+      "可解释AI",
+      "忠实性度量",
+      "特征重要性",
+      "XAI评估",
+      "立场论文"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-006",
+    "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.12536",
+    "category": "AI/强化学习与程序搜索",
+    "relevance_score": 0.78,
+    "tags": [
+      "程序搜索",
+      "大语言模型",
+      "进化算法",
+      "强化学习",
+      "控制策略",
+      "自改进系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-007",
+    "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.12542",
+    "category": "调度算法与实验方法学",
+    "relevance_score": 0.85,
+    "tags": [
+      "蒙特卡洛树搜索",
+      "DAG工作流调度",
+      "等预算对比",
+      "随机重启列表调度",
+      "可复现实验"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-008",
+    "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+    "category": "机器人学习/具身智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "机器人学习",
+      "世界模型",
+      "VLA",
+      "基础模型",
+      "具身智能",
+      "预训练"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-009",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/sophos",
+    "category": "AI安全应用",
+    "relevance_score": 0.88,
+    "tags": [
+      "OpenAI",
+      "Sophos",
+      "网络安全",
+      "MDR",
+      "威胁调查",
+      "安全自动化",
+      "生成式AI",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-010",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/asana-browser-agent",
+    "category": "AI工程优化",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Agent",
+      "成本优化",
+      "浏览器自动化",
+      "GPT-6",
+      "Codex",
+      "推理加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-011",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/oracle",
+    "category": "企业AI应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "企业级AI",
+      "ChatGPT",
+      "Codex",
+      "工作流自动化",
+      "知识沉淀",
+      "效率提升"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-012",
+    "title": "Introducing Playground: Create and play custom games",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "category": "游戏开发/平台",
+    "relevance_score": 0.85,
+    "tags": [
+      "游戏平台",
+      "UGC",
+      "Google",
+      "实验性项目",
+      "无代码开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-013",
+    "title": "The latest AI news we announced in September 2026",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "category": "行业资讯",
+    "relevance_score": 0.6,
+    "tags": [
+      "谷歌",
+      "AI新闻",
+      "月度汇总",
+      "生成式AI",
+      "产品更新"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-014",
+    "title": "Impactful scheduling for GPU clusters",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "category": "系统与基础设施",
+    "relevance_score": 0.8,
+    "tags": [
+      "GPU 集群",
+      "任务调度",
+      "资源分配",
+      "AI 基础设施",
+      "分布式训练",
+      "利用率优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-015",
+    "title": "The model that didn't exist, so you made it yourself",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/building-with-ml-intern",
+    "category": "AI/机器学习",
+    "relevance_score": 0.8,
+    "tags": [
+      "自研模型",
+      "从零训练",
+      "开源项目",
+      "模型定制",
+      "AI开发"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-016",
+    "title": "Multimodal open d1 decision models for the edge",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "category": "多模态边缘AI",
+    "relevance_score": 0.82,
+    "tags": [
+      "多模态",
+      "边缘计算",
+      "决策模型",
+      "模型压缩",
+      "端侧推理",
+      "具身智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-017",
+    "title": "Introducing Falcon ASR",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "category": "语音技术 / 模型发布",
+    "relevance_score": 0.75,
+    "tags": [
+      "语音识别",
+      "ASR",
+      "Falcon",
+      "开源模型",
+      "语音转文本"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-018",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "category": "大模型微调与推理",
+    "relevance_score": 0.9,
+    "tags": [
+      "Nemotron",
+      "模型微调",
+      "IOI",
+      "IMO",
+      "竞赛推理",
+      "数学推理",
+      "代码生成",
+      "大语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-019",
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "category": "科技政策与政治",
+    "relevance_score": 0.8,
+    "tags": [
+      "人工智能",
+      "特朗普",
+      "硅谷",
+      "品牌重塑",
+      "科技政治"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-020",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "category": "AI应用与体验",
+    "relevance_score": 0.75,
+    "tags": [
+      "本地AI",
+      "隐私保护",
+      "个人数据",
+      "AI使用体验",
+      "开源模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-021",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "category": "AI安全与治理",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI安全",
+      "微软",
+      "萨提亚·纳德拉",
+      "AI治理",
+      "模型透明度"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-022",
+    "title": "从看日志猜问题到基于证据链调试：Agentic AI 如何重塑 OpenBMC 软件诊断",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523100&idx=1&sn=b5ad83d4997a6f503ff106af2d9cae2f",
+    "category": "AI驱动运维/嵌入式系统诊断",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agentic AI",
+      "OpenBMC",
+      "智能诊断",
+      "证据链调试",
+      "AIOps",
+      "固件运维",
+      "日志分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-023",
+    "title": "三篇重磅论文，拆解 OpenViking 核心技术",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523063&idx=1&sn=70910f0ca4b9f5fb519c7d4d94f481f6",
+    "category": "技术论文分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "OpenViking",
+      "论文解读",
+      "核心技术",
+      "架构设计",
+      "AI系统"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-024",
+    "title": "淘宝直播数字人互动Harness-Aware Training实践：让Agent Model随Harness一起进化",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546378&idx=1&sn=acbf0c13b09390b7057ed41e41e3cd52",
+    "category": "AI训练方法/Agent系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agent",
+      "模型训练",
+      "HAT",
+      "数字人",
+      "淘宝直播",
+      "小模型",
+      "Harness",
+      "LLM应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-025",
+    "title": "Qwen-Image-2.1 Pro、Turbo API 正式上线，让图像生成与编辑走进你的应用",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562479&idx=1&sn=98a5d92db5270a9cabb048cb8a99f0e0",
+    "category": "多模态生成模型 / AI 基础设施",
+    "relevance_score": 0.9,
+    "tags": [
+      "Qwen-Image",
+      "图像生成",
+      "图像编辑",
+      "API",
+      "多模态",
+      "通义千问",
+      "开发者工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-026",
+    "title": "清华团队开源VeriLoop E2：以循证收敛递归迈向可验证智能",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514438&idx=1&sn=0cc0b190881a795e205228ede24ff038",
+    "category": "AI基础模型与推理",
+    "relevance_score": 0.88,
+    "tags": [
+      "大模型推理",
+      "可验证AI",
+      "循证收敛递归",
+      "Qwen3.8-27B",
+      "数学推理",
+      "科学发现",
+      "开源模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-027",
+    "title": "JEV-27B-VL 开源：多模态决策模型，Jev Decision Index 0.3 视觉榜单第一",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514413&idx=1&sn=2326603d46cded1b4a1439921da911e2",
+    "category": "多模态大模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态",
+      "决策模型",
+      "开源",
+      "Qwen",
+      "双系统推理",
+      "视觉语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-028",
+    "title": "别只盯着AI Coding，真正的变化发生在整个研发流程",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804241&idx=1&sn=9938f93cb8517ac9dafb033f20535936",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI研发流程",
+      "端到端研发",
+      "AI Coding",
+      "研发效能",
+      "DevOps",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-029",
+    "title": "中国房地产市场的中长期前景依然值得期待",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999032&idx=1&sn=45798931b5bf92b08687265ecae84bb3",
+    "category": "房地产科技",
+    "relevance_score": 0.8,
+    "tags": [
+      "房地产",
+      "高质量发展",
+      "好房子",
+      "好服务",
+      "智能建造",
+      "绿色建筑",
+      "数字化转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-030",
+    "title": "直播预告｜AI能否为寒门学子开一扇窗？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999032&idx=2&sn=3f5de4da281c5f389908bbf6ad82e31b",
+    "category": "科技与社会",
+    "relevance_score": 0.72,
+    "tags": [
+      "AI教育",
+      "教育公平",
+      "直播活动",
+      "科技向善",
+      "数字鸿沟"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-031",
+    "title": "JDD Oxygen智能零售论坛 | 《Agentic广告营销新范式》",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503094&idx=1&sn=1fd6242381230fe0623b7a3cb32c6054",
+    "category": "AI应用/智能营销",
+    "relevance_score": 0.82,
+    "tags": [
+      "Agentic AI",
+      "广告营销",
+      "智能投放",
+      "推荐系统",
+      "业务Agent",
+      "架构设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-032",
+    "title": "雷军：小米18 Pro 系列正式发布，还有最新小米平板、多款科技家电及可穿戴新品",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520397&idx=2&sn=f67389575260f2677b7e00f9a6455bd5",
+    "category": "消费电子/智能硬件",
+    "relevance_score": 0.8,
+    "tags": [
+      "小米",
+      "小米18 Pro",
+      "新品发布会",
+      "影像旗舰",
+      "小米平板",
+      "科技家电",
+      "可穿戴设备",
+      "智能生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-033",
+    "title": "EMNLP 2026 Oral｜HOMURA：面向时间受限场景的 LLM 翻译强化学习优化",
+    "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504425&idx=1&sn=00e091f6f49d042e070bfb345f4369f6",
+    "category": "自然语言处理/机器翻译",
+    "relevance_score": 0.9,
+    "tags": [
+      "LLM翻译",
+      "强化学习",
+      "时间受限翻译",
+      "字幕翻译",
+      "视频原声翻译",
+      "合规性",
+      "工业级应用",
+      "EMNLP 2026"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-034",
+    "title": "AI专栏 | 单点模型越堆越乱？携程酒店多模态平台如何让内容资产可治理",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277613&idx=1&sn=cad2fd2a98d3530a2d55e729ae3ae778",
+    "category": "AI工程与平台架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态AI",
+      "AI平台化",
+      "内容治理",
+      "携程",
+      "酒店内容",
+      "灰度发布",
+      "模型评测",
+      "MLOps"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-035",
+    "title": "Beyond synthetic testing: Capturing and replaying real database workloads at Airbnb",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4",
+    "category": "数据库工程 / 测试与运维",
+    "relevance_score": 0.85,
+    "tags": [
+      "数据库",
+      "工作负载回放",
+      "真实流量捕获",
+      "性能测试",
+      "Airbnb",
+      "影子环境",
+      "容量规划"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-036",
+    "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294765&idx=1&sn=f49a9a475ab611e59a6b7bf8bd08ec84",
+    "category": "AI行业趋势",
+    "relevance_score": 0.9,
+    "tags": [
+      "个人Agent",
+      "AGI",
+      "前沿模型",
+      "Context",
+      "Harness",
+      "Meta",
+      "OpenAI",
+      "Google",
+      "YC"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-037",
+    "title": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294765&idx=2&sn=3cc1678f0a5f9e49e35b9d8896fd8964",
+    "category": "AI 与开发者生态",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Agent",
+      "开发者工具",
+      "技术品牌",
+      "编程智能体",
+      "工具选择"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-038",
+    "title": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062101&idx=1&sn=4fa34c4604540b68c52a577eec0cead7",
+    "category": "AI科研应用",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI for Science",
+      "科学发现",
+      "自动化实验",
+      "材料科学",
+      "大语言模型",
+      "科研范式"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
+  },
+  {
+    "id": "2026-10-12-039",
+    "title": "从「刷榜」到「做科研」：研究员还有多久被 AI超越？",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062101&idx=2&sn=ddd637c88b87e377fe89256311381c12",
+    "category": "AI前沿趋势",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI科研",
+      "自动化研究",
+      "AI Agent",
+      "科研范式",
+      "大语言模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-12T04:57:09.713Z"
   }
 ]

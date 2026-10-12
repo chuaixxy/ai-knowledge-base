@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-12-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562479&idx=1&sn=98a5d92db5270a9cabb048cb8a99f0e0",
+  "title": "Qwen-Image-2.1 Pro、Turbo API 正式上线，让图像生成与编辑走进你的应用",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562479&idx=1&sn=98a5d92db5270a9cabb048cb8a99f0e0",
+  "summary": "Qwen-Image-2.1 Pro 与 Turbo API 正式上线，标志着通义千问系列图像生成与编辑能力以标准化 API 形式对外开放，开发者可将其直接集成到自有应用中。Pro 版本侧重高质量图像生成与精细编辑，Turbo 版本则主打低延迟与高吞吐，满足实时交互场景需求。二者共同覆盖从创意设计、电商素材、内容生产到智能体多模态交互等多种落地场景。此次上线的核心价值在于降低多模态能力接入门槛，让图像生成与编辑从独立工具转变为可嵌入业务流程的基础能力，推动 AI 图像应用从 Demo 走向规模化生产。",
+  "tags": [
+    "Qwen-Image",
+    "图像生成",
+    "图像编辑",
+    "API",
+    "多模态",
+    "通义千问",
+    "开发者工具"
+  ],
+  "relevance_score": 0.9,
+  "category": "多模态生成模型 / AI 基础设施",
+  "key_insight": "图像生成与编辑正从独立产品演变为可被任意应用调用的标准化 API 能力，多模态基础设施化是下一阶段竞争焦点。"
+}

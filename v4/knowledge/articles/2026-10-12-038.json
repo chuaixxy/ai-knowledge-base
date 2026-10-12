@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062101&idx=1&sn=4fa34c4604540b68c52a577eec0cead7",
+  "title": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062101&idx=1&sn=4fa34c4604540b68c52a577eec0cead7",
+  "summary": "该项目聚焦于ChatGPT共同创造者Liam Fedus关于AI发展方向的观点。文章指出，当前AI在纯数学和理论推理领域已展现出惊人能力，例如能够批量处理大量数学论文，但在需要与物理世界交互、进行实验验证的科学领域（如材料科学、超导研究）仍存在明显短板。Fedus认为AI的下一阶段应从抽象的数学推理走向真实的实验室场景，通过与实验设备、自动化平台结合，让AI参与假设提出、实验设计、数据分析与迭代优化的完整科研闭环。这一转变意味着AI需要具备跨模态理解、因果推理、机器人操作与不确定性管理等能力，也预示着AI for Science将从理论辅助走向实验主导，推动材料、化学、生物等领域的发现范式变革。",
+  "tags": [
+    "AI for Science",
+    "科学发现",
+    "自动化实验",
+    "材料科学",
+    "大语言模型",
+    "科研范式"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI科研应用",
+  "key_insight": "AI的下一站不是更强的数学推理，而是走进实验室，把理论能力转化为可验证的科学发现。"
+}

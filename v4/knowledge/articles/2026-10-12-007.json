@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-12-007",
+  "source_id": "https://arxiv.org/abs/2610.12542",
+  "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.12542",
+  "summary": "该研究针对DAG工作流调度中MCTS方法常被推荐但缺乏公平对比的问题，设计了一套等预算的受控实验协议。所有对比方法获得相同数量的候选调度方案构建与评估预算：主实验组为MCTS调度方法，对照组为无搜索树的随机重启列表调度器，后续实验组为教科书式UCT MCTS。分析计划在数据收集前锁定，独立检查者验证了768个确认阶段调度的有效性与完工时间正确性。在2048次评估调度的主预算下，MCTS比随机重启方法差2.88%（95% CI [-3.62%, -2.15%]），且该差距并非源于预算不足。结果表明，在等预算条件下，简单的随机重启列表调度可超越MCTS，对MCTS在DAG调度中的优势提出有力质疑。",
+  "tags": [
+    "蒙特卡洛树搜索",
+    "DAG工作流调度",
+    "等预算对比",
+    "随机重启列表调度",
+    "可复现实验"
+  ],
+  "relevance_score": 0.85,
+  "category": "调度算法与实验方法学",
+  "key_insight": "在等搜索预算的受控对比下，简单随机重启列表调度反而优于MCTS，挑战了MCTS在DAG调度中的默认优势假设。"
+}

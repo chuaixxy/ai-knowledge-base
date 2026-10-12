@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514413&idx=1&sn=2326603d46cded1b4a1439921da911e2",
+  "title": "JEV-27B-VL 开源：多模态决策模型，Jev Decision Index 0.3 视觉榜单第一",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514413&idx=1&sn=2326603d46cded1b4a1439921da911e2",
+  "summary": "AutoTrust AI Lab 开源了基于 Qwen3.8-27B 构建的多模态决策模型 JEV-27B-VL。该模型的核心创新在于融合了认知科学中的双系统理论：System 1 负责快速直觉决策，System 2 负责深度推理分析，从而在复杂视觉决策场景中兼顾响应速度与推理质量。在 Jev Decision Index 0.3 视觉榜单中，JEV-27B-VL 取得第一名的成绩，表明其在多模态决策任务上具备领先性能。该模型的开源为多模态决策研究提供了新的基线，也推动了双系统架构在视觉语言模型中的落地探索。",
+  "tags": [
+    "多模态",
+    "决策模型",
+    "开源",
+    "Qwen",
+    "双系统推理",
+    "视觉语言模型"
+  ],
+  "relevance_score": 0.85,
+  "category": "多模态大模型",
+  "key_insight": "将 System 1/System 2 双系统认知架构引入多模态决策模型，是提升视觉推理效率与质量的一种有效路径。"
+}

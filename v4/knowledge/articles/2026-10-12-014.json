@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-014",
+  "source_id": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "title": "Impactful scheduling for GPU clusters",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "summary": "该项目聚焦于 GPU 集群中具有实际影响力的调度问题，核心在于通过更智能的任务编排与资源分配策略，提升 GPU 利用率、降低作业等待时间并优化整体吞吐。传统调度器常以公平性或简单优先级为目标，容易忽视任务间的相互影响、GPU 内存碎片、通信拓扑以及异构硬件差异等因素。该研究可能引入影响感知的调度模型，结合任务画像、拓扑感知放置、抢占与迁移机制，在保证服务质量的同时最大化集群有效算力。其价值在于直接缓解大模型训练与推理场景下 GPU 资源紧张、利用率不均的痛点，为云厂商和 AI 基础设施团队提供可落地的调度优化思路，并可能通过仿真或真实集群实验验证收益。",
+  "tags": [
+    "GPU 集群",
+    "任务调度",
+    "资源分配",
+    "AI 基础设施",
+    "分布式训练",
+    "利用率优化"
+  ],
+  "relevance_score": 0.8,
+  "category": "系统与基础设施",
+  "key_insight": "GPU 集群调度的关键不只是分配资源，而是量化并优化任务之间的相互影响，从而把有限算力转化为实际训练与推理产出。"
+}

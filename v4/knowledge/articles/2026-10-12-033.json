@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-12-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504425&idx=1&sn=00e091f6f49d042e070bfb345f4369f6",
+  "title": "EMNLP 2026 Oral｜HOMURA：面向时间受限场景的 LLM 翻译强化学习优化",
+  "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504425&idx=1&sn=00e091f6f49d042e070bfb345f4369f6",
+  "summary": "HOMURA 是面向时间受限场景的大语言模型翻译强化学习优化方法，已被大规模应用于哔哩哔哩（Bilibili）视频原声翻译场景。该项目针对字幕翻译中严格的时间轴约束，通过强化学习对 LLM 翻译进行优化，在保证译文质量的同时满足时长限制与合规性要求。其核心在于将时间约束、翻译质量与合规性纳入统一的优化目标，使模型能够在有限时间窗口内生成自然流畅、长度可控的译文。作为 EMNLP 2026 Oral 论文成果，HOMURA 为视频原声翻译等工业级时间受限翻译任务提供了可落地的技术路径，兼具学术创新性与大规模工程应用价值。",
+  "tags": [
+    "LLM翻译",
+    "强化学习",
+    "时间受限翻译",
+    "字幕翻译",
+    "视频原声翻译",
+    "合规性",
+    "工业级应用",
+    "EMNLP 2026"
+  ],
+  "relevance_score": 0.9,
+  "category": "自然语言处理/机器翻译",
+  "key_insight": "将时间约束、翻译质量与合规性统一建模为强化学习目标，是 LLM 在工业级时间受限翻译场景落地的关键。"
+}

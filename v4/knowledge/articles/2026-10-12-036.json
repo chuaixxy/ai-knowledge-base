@@ -1,0 +1,22 @@
+{
+  "id": "2026-10-12-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294765&idx=1&sn=f49a9a475ab611e59a6b7bf8bd08ec84",
+  "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651294765&idx=1&sn=f49a9a475ab611e59a6b7bf8bd08ec84",
+  "summary": "该项目探讨了 Meta、OpenAI、Google 等科技巨头集体布局个人 Agent 领域，以及 YC CEO 关于「真正的 AGI 已经在你电脑里」的观点。文章提出未来十年 AI 发展的核心方程：前沿模型 + Context（上下文/个人数据）+ Harness（工具调用与执行框架）= 一个超级加速版的你。这意味着个人 Agent 将不再只是聊天机器人，而是能理解用户个人情境、调用工具、自主执行任务的数字分身。其爆红反映出 AI 正从「通用对话」走向「个性化执行」，个人数据与上下文成为竞争关键，谁能更好地整合模型能力与用户私有场景，谁就能在 Agent 赛道占据优势。",
+  "tags": [
+    "个人Agent",
+    "AGI",
+    "前沿模型",
+    "Context",
+    "Harness",
+    "Meta",
+    "OpenAI",
+    "Google",
+    "YC"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI行业趋势",
+  "key_insight": "个人 Agent 的竞争核心不在模型本身，而在于 Context 与 Harness 的结合——谁能把前沿模型接入个人数据并赋予执行能力，谁就能定义下一代 AGI 形态。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-011",
+  "source_id": "https://openai.com/index/oracle",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/oracle",
+  "summary": "该项目介绍了 Oracle 在招聘、工程和运营等多个业务领域，利用 ChatGPT Work 和 Codex 将专家知识转化为快速、可重复的自动化工作流。核心价值在于把原本需要数天完成的专业任务压缩到几分钟内完成，显著提升效率。通过将领域专家的经验沉淀为可复用的 AI 工作流，Oracle 实现了跨部门的规模化应用，让非专家也能快速执行原本依赖资深人员的复杂任务。这体现了企业级 AI 从单点工具向流程化、平台化落地的趋势，也说明大模型在真实业务场景中已具备可衡量的生产力价值。该实践为其他企业推进 AI 转型提供了可借鉴的范式：以专家知识为输入，以工作流自动化为输出。",
+  "tags": [
+    "企业级AI",
+    "ChatGPT",
+    "Codex",
+    "工作流自动化",
+    "知识沉淀",
+    "效率提升"
+  ],
+  "relevance_score": 0.8,
+  "category": "企业AI应用",
+  "key_insight": "将专家知识封装为可复用的AI工作流，是把大模型转化为企业级生产力的关键路径。"
+}

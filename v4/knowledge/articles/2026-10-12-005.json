@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-12-005",
+  "source_id": "https://arxiv.org/abs/2610.12493",
+  "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.12493",
+  "summary": "该立场论文系统审视了可解释人工智能（XAI）中特征重要性解释的忠实性度量问题。作者指出，XAI工具虽被宣传为增强模型信任的手段，但十年来的证据表明其目标整体失败，反而助长了对错误预测的过度依赖，并可能引发算法厌恶。论文认为XAI本质上更适合作为调试工具，用于获取模型所学特征的轶事性洞察。核心问题在于XAI方法常过度简化模型内部机制，导致解释与模型本身错位，即不忠实。作者主张忠实性应被理解为解释与模型之间的近似程度，并探讨了在缺乏锚点情况下严格计算忠实性所面临的结构性错位挑战。",
+  "tags": [
+    "可解释AI",
+    "忠实性度量",
+    "特征重要性",
+    "XAI评估",
+    "立场论文"
+  ],
+  "relevance_score": 0.85,
+  "category": "可解释人工智能与AI评估",
+  "key_insight": "XAI忠实性度量因缺乏可靠锚点而存在结构性错位，使其难以严格衡量解释与模型间的真实近似程度。"
+}

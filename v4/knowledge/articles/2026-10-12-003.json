@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-003",
+  "source_id": "https://arxiv.org/html/2610.05978v1",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://arxiv.org/html/2610.05978v1",
+  "summary": "该论文挑战了语言模型需要显式分词器才能高效运行的假设，证明标准扁平Transformer可以直接处理原始字节序列，并且随着参数规模扩大，其性能实际上优于传统的子词模型。传统观点认为处理原始字节计算效率低，因为序列更长（一个子词约四个字节）。但作者认为，这种额外的序列长度实际上是一种优势，能在相同参数预算下提供更多计算。通过实现token-superposition训练和哈希嵌入，字节模型在匹配参数数量时始终达到比子词模型更低的最优损失。此外，字节模型在缺乏显式文本抽象的情况下，隐式地发展出了有意义的抽象。",
+  "tags": [
+    "字节语言模型",
+    "Transformer",
+    "分词器",
+    "缩放定律",
+    "涌现抽象",
+    "信息分配"
+  ],
+  "relevance_score": 0.9,
+  "category": "自然语言处理",
+  "key_insight": "原始字节序列的额外长度在相同参数预算下提供了更多计算，使字节Transformer能够超越子词模型并隐式学习抽象。"
+}

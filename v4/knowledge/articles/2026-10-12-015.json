@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-12-015",
+  "source_id": "https://huggingface.co/blog/building-with-ml-intern",
+  "title": "The model that didn't exist, so you made it yourself",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/building-with-ml-intern",
+  "summary": "这是一个关于开发者自主构建模型的技术项目，标题暗示了一个有趣的叙事：某个模型原本不存在，开发者便亲手将其创造出来。项目可能涉及从零开始训练或微调一个AI模型，以填补现有工具链中的空白，或满足特定领域需求。这类项目通常涵盖数据准备、模型架构选择、训练流程搭建、评估与部署等环节，体现了开源社区中「自己动手、按需造轮子」的精神。其价值在于展示了个体开发者如何在资源有限的情况下，通过现有框架（如PyTorch、Hugging Face等）实现定制化模型，并为同类需求提供可复用的思路与代码参考。",
+  "tags": [
+    "自研模型",
+    "从零训练",
+    "开源项目",
+    "模型定制",
+    "AI开发"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI/机器学习",
+  "key_insight": "当现成模型无法满足需求时，自己动手构建往往是推动创新与个性化落地的最直接路径。"
+}

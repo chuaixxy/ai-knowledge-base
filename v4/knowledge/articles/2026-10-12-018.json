@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-12-018",
+  "source_id": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "summary": "该项目展示了如何通过微调英伟达的Nemotron模型家族，在国际信息学奥林匹克（IOI）和国际数学奥林匹克（IMO）两个高难度竞赛领域同时取得金牌级成绩。研究核心在于：同一基础模型经过针对性微调后，能够分别在代码竞赛和数学推理两类任务上达到顶尖水平，证明了通用大模型在专业推理领域的可迁移性与可塑性。工作涵盖了数据构建、微调策略、推理增强以及评测方法等环节，为竞赛级AI推理能力的研究提供了可复现的范式，也说明高质量领域数据与合理训练流程比单纯扩大模型规模更关键。",
+  "tags": [
+    "Nemotron",
+    "模型微调",
+    "IOI",
+    "IMO",
+    "竞赛推理",
+    "数学推理",
+    "代码生成",
+    "大语言模型"
+  ],
+  "relevance_score": 0.9,
+  "category": "大模型微调与推理",
+  "key_insight": "同一基础模型经领域微调即可在代码与数学两类奥赛上双双夺金，说明高质量领域数据与训练策略比模型规模更能决定专业推理上限。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-004",
+  "source_id": "https://cactuscompute.com/blog/whistle",
+  "title": "Whistle: Speech to Text in 16.9 MB",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://cactuscompute.com/blog/whistle",
+  "summary": "Whistle 是一个极致轻量的语音转文字（Speech to Text）开源项目，整个模型体积仅 16.9 MB，远小于 Whisper 等主流方案（通常数百 MB 至数 GB）。该项目在 Lobste.rs 上引发讨论，核心卖点是在极小体积下实现可用的语音识别能力，适合嵌入端侧设备、浏览器或资源受限环境。它通常采用紧凑的神经网络架构与量化/蒸馏技术来压缩模型，在准确率与体积之间取得平衡。对于希望在本地离线运行、注重隐私与低延迟的场景，Whistle 提供了有吸引力的替代方案，但也意味着在复杂口音、噪声环境下的识别精度可能不及大型模型。",
+  "tags": [
+    "语音识别",
+    "Speech-to-Text",
+    "轻量模型",
+    "端侧AI",
+    "模型压缩",
+    "离线推理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI/机器学习工具",
+  "key_insight": "以 16.9 MB 的极小体积实现语音转文字，证明端侧离线 ASR 在体积与可用性之间可以达到实用平衡。"
+}

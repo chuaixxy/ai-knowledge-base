@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503094&idx=1&sn=1fd6242381230fe0623b7a3cb32c6054",
+  "title": "JDD Oxygen智能零售论坛 | 《Agentic广告营销新范式》",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503094&idx=1&sn=1fd6242381230fe0623b7a3cb32c6054",
+  "summary": "该文章聚焦于Agentic广告营销新范式，探讨了广告Agent进入实际投放流程后面临的核心工程问题：如何拆解投放目标、如何控制Agent的动作空间、以及如何判断何时停止投放动作。文章面向营销平台、推荐系统和业务Agent方向的开发者，重点分析了架构设计上的取舍，并建议读者结合自身业务场景评估文中所述收益。内容属于AI Agent在广告营销领域的落地实践分享，涉及目标分解、动作控制、终止条件判断等Agent系统的关键设计决策。",
+  "tags": [
+    "Agentic AI",
+    "广告营销",
+    "智能投放",
+    "推荐系统",
+    "业务Agent",
+    "架构设计"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI应用/智能营销",
+  "key_insight": "广告Agent的核心挑战不在于生成创意，而在于目标拆解、动作空间约束与停止策略的工程化设计。"
+}

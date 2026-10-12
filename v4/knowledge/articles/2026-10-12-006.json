@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-12-006",
+  "source_id": "https://arxiv.org/abs/2610.12536",
+  "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.12536",
+  "summary": "EliteTable 是一种由大语言模型（LLM）引导的自改进程序搜索算法，其核心机制是维护一个固定容量的高分解决方案表，用于指导新方案的生成、对现有方案的编辑以及多个方案的重新组合。该研究在六个 Gymnasium 控制任务上进行了评估，每个任务运行十代、每代五十个候选槽位，并独立初始化搜索十次。结果显示，六个任务的候选分数中位数从第一代到最终代均有上升，其中五个任务所选优胜者的搜索分数中位数上升。在 CartPole-v1 中，所有十次搜索的优胜者均在首代达到搜索分数上限。六个任务中有四个任务的十组配对留出端点全部改善。BipedalWalker-v3 和 CarRacing-v3 虽有改善但未达到报告目标。Acrobot-v1 的十次搜索中有六次在留出回合上出现下降，配对变化中位数为负。",
+  "tags": [
+    "程序搜索",
+    "大语言模型",
+    "进化算法",
+    "强化学习",
+    "控制策略",
+    "自改进系统"
+  ],
+  "relevance_score": 0.78,
+  "category": "AI/强化学习与程序搜索",
+  "key_insight": "利用固定容量高分解表引导LLM进行程序生成、编辑与重组，可在部分控制任务中实现自改进的可执行策略搜索，但跨任务泛化与稳定性仍有限。"
+}

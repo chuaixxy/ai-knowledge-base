@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-12-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523100&idx=1&sn=b5ad83d4997a6f503ff106af2d9cae2f",
+  "title": "从看日志猜问题到基于证据链调试：Agentic AI 如何重塑 OpenBMC 软件诊断",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523100&idx=1&sn=b5ad83d4997a6f503ff106af2d9cae2f",
+  "summary": "该项目探讨了Agentic AI（自主智能体）如何重塑OpenBMC软件诊断流程，核心转变是从传统的\"看日志猜问题\"模式升级为\"基于证据链调试\"模式。在传统OpenBMC诊断中，工程师依赖人工阅读海量日志、凭经验猜测根因，效率低且易遗漏。Agentic AI通过自主规划、工具调用和多步推理，能够自动收集日志、追踪调用链、关联硬件事件与软件状态，逐步构建可追溯的证据链条，最终定位问题根因。这一范式将诊断从被动猜测转变为主动求证，显著提升BMC固件问题的定位速度与准确性，同时降低对资深工程师经验的依赖，代表了AI驱动运维在嵌入式管理控制器领域的重要落地方向。",
+  "tags": [
+    "Agentic AI",
+    "OpenBMC",
+    "智能诊断",
+    "证据链调试",
+    "AIOps",
+    "固件运维",
+    "日志分析"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI驱动运维/嵌入式系统诊断",
+  "key_insight": "Agentic AI将OpenBMC诊断从依赖经验的日志猜测，升级为可自主构建和验证证据链的根因定位过程。"
+}

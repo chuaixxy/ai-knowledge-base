@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-12-002",
+  "source_id": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+  "title": "Consistency is not a localized property",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+  "summary": "该项目探讨了分布式系统中一致性（Consistency）这一核心概念的本质属性。作者的核心论点是：一致性并非一种可以局限于系统局部组件或单个操作的属性，而是系统整体行为的涌现特征。传统观点常将一致性视为某个节点、某个副本或某段代码的局部性质，但作者认为这种理解存在根本性缺陷。一致性涉及多个参与者之间的交互、时序关系以及全局状态的协调，任何局部视角都无法完整刻画其真实语义。文章可能通过具体案例（如分布式数据库、共识协议等）说明，仅关注局部一致性会导致系统设计中的错误假设和潜在缺陷。这一观点对分布式系统设计、CAP定理的理解以及一致性模型的正确应用具有重要启示，提醒工程师在设计和推理系统时需要采用全局视角。",
+  "tags": [
+    "分布式系统",
+    "一致性",
+    "共识协议",
+    "系统设计",
+    "CAP定理"
+  ],
+  "relevance_score": 0.8,
+  "category": "分布式系统理论",
+  "key_insight": "一致性是系统整体的涌现属性，而非任何局部组件可独立拥有的特征，必须从全局视角进行理解和设计。"
+}
