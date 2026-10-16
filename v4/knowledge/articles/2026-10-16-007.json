@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-16-007",
+  "source_id": "https://arxiv.org/abs/2610.18933",
+  "title": "The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.18933",
+  "summary": "该项目提出\"The Agentic Scientist\"，一个面向人类研究者与编码智能体协作开展计算研究的端到端分布式流水线。针对全自主研究智能体存在的\"构思半径有限\"和\"短视爬山搜索\"问题，系统将研究流程分解为任务起草、想法生成、规划、沙箱实验、结果聚合、基线与消融构建、事后分析及报告撰写等环节。每个环节均由新一代编码智能体驱动，并利用智能体自我验证机制保障质量。整体研究过程由人类研究者与智能体协同推动，旨在扩展科学发现的探索空间，实现人机协同的自动化科学（共同）发现。",
+  "tags": [
+    "AI Agent",
+    "自动化科研",
+    "编码智能体",
+    "科学发现",
+    "人机协作",
+    "分布式流水线",
+    "自我验证"
+  ],
+  "relevance_score": 0.88,
+  "category": "AI Agent / 自动化科学研究",
+  "key_insight": "通过将科研流程拆解为可自我验证的智能体流水线，突破单一自主智能体的构思局限与短视搜索，实现人机协同的规模化科学发现。"
+}

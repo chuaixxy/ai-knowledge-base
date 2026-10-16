@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-16-052",
+  "source_id": "https://stripe.com/blog/economics-of-ai-monetization",
+  "title": "The “alien” economics of AI monetization",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/economics-of-ai-monetization",
+  "summary": "本文探讨了AI商业化定价正在脱离传统SaaS模式的现象。随着使用量、成本和客户预期的变化，AI公司开始将订阅制与按使用量计费相结合，在产品中内置支出控制功能，并重新设计打包方式和价值度量指标。同时，定价信息需要同时面向人类买家和AI买家保持可读性。来自Monetize 2026的行业领导者分享了这些实践，反映出AI时代定价策略正变得更加动态、透明和复合化，企业需要在灵活性与可预测性之间找到新的平衡点。",
+  "tags": [
+    "AI商业化",
+    "定价策略",
+    "SaaS",
+    "按使用量计费",
+    "订阅制"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI商业与产品策略",
+  "key_insight": "AI时代的定价正从固定订阅转向订阅与用量计费混合的动态模式，并需同时兼顾人类与AI买家的可读性。"
+}

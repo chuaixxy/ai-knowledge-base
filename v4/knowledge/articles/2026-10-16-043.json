@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-16-043",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575695&idx=1&sn=2c2279ea3efc802345b7a2d3dc126849",
+  "title": "Agent 缺的不是记忆，是“教训”：causal-memory 的设计与实战",
+  "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575695&idx=1&sn=2c2279ea3efc802345b7a2d3dc126849",
+  "summary": "该项目提出了一种名为 causal-memory（因果记忆）的 Agent 记忆设计思路，核心观点是：Agent 真正缺少的不是传统意义上对信息的记忆能力，而是从失败与教训中提炼因果规律的能力。传统记忆机制倾向于让 AI 存储和检索尽可能多的历史信息，但这种方式往往导致冗余、噪声和重复犯错。causal-memory 主张记忆的目标不应是「记住所有事」，而是「让人不必重复所有坑」，即通过结构化的因果表示，将过往的成功与失败经验抽象为可复用的因果规则，使 Agent 在新情境中能够主动规避已知的错误路径。项目从设计理念和实战两个层面展开，探讨了因果记忆的构建、存储、检索与推理机制，为构建更可靠、更少犯错的 AI Agent 提供了新的思路。",
+  "tags": [
+    "Agent",
+    "记忆机制",
+    "因果推理",
+    "LLM",
+    "AI 架构"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent 架构设计",
+  "key_insight": "Agent 的记忆价值不在于存储信息的多少，而在于能否将失败经验提炼为可复用的因果教训，从而避免重复踩坑。"
+}

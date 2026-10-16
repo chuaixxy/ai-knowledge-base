@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-16-015",
+  "source_id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "summary": "Granite Switch 4.1 是一个将聊天、决策与语音能力统一到单一端点的技术项目，核心目标是简化多模态 AI 交互的接入方式。开发者无需分别调用聊天模型、决策引擎和语音合成/识别服务，而是通过一个 API 端点即可完成从对话理解、逻辑决策到语音输出的完整链路。该项目可能基于 IBM Granite 系列模型或类似开源基座，强调低延迟与端到端集成，适用于智能客服、语音助手、自动化工作流等场景。其价值在于降低系统复杂度、减少服务间编排开销，并提升多模态任务的一致性与响应速度。对于需要快速构建语音交互应用的团队，Granite Switch 4.1 提供了一种开箱即用的整合方案。",
+  "tags": [
+    "多模态",
+    "语音交互",
+    "统一端点",
+    "AI Agent",
+    "模型集成"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 基础设施/多模态交互",
+  "key_insight": "用一个端点统一聊天、决策与语音，本质是降低多模态 AI 应用的集成与编排成本。"
+}

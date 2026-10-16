@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-16-006",
+  "source_id": "https://arxiv.org/abs/2610.18927",
+  "title": "Why Static Skill Inconsistencies Do Not Equate to Runtime Risks: A Behavioral Analysis of LLM Agent Execution",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.18927",
+  "summary": "本文针对LLM智能体框架中外部技能资产（文档、脚本、配置文件）存在的跨制品不一致问题展开系统性实证研究。作者对575个社区与基准技能进行大规模审计，人工验证出1182处契约不一致，并构建受控评估流水线，分析这些静态缺陷在运行时是否真正导致智能体性能下降。研究发现静态不一致数量并不能可靠反映实际执行风险，许多不一致在运行时被掩盖或无害化，从而为实践者评估缺陷技能的真实风险提供了严谨证据，避免过度依赖静态审计结论。",
+  "tags": [
+    "LLM Agent",
+    "技能一致性",
+    "静态审计",
+    "运行时风险",
+    "实证研究"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / 软件工程",
+  "key_insight": "静态技能不一致的数量并不等同于运行时风险，需以行为评估而非静态审计来判断智能体技能的真实危害。"
+}

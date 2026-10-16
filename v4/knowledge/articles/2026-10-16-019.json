@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-019",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+  "title": "ChatGPT can peek at your Chrome tabs now",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+  "summary": "OpenAI 为 ChatGPT 的 Google Chrome 扩展推出升级功能，允许 ChatGPT 访问用户当前已打开的浏览器标签页。此前 OpenAI 曾推出独立的 ChatGPT Atlas 浏览器，但该产品已停止运营。现在用户只需在 ChatGPT 网页版或桌面应用中 @Chrome，ChatGPT 即可查看并利用用户浏览器中打开的标签内容，OpenAI 还发布了演示视频展示这一功能。这意味着 ChatGPT 能更深入地融入用户的日常浏览工作流，直接读取多标签页上下文，从而在信息整理、跨页面问答和任务处理方面提供更连贯的协助，但同时也引发了关于数据隐私和权限边界的关注。",
+  "tags": [
+    "ChatGPT",
+    "Chrome扩展",
+    "浏览器集成",
+    "OpenAI",
+    "隐私",
+    "AI助手"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI产品与工具",
+  "key_insight": "ChatGPT 从独立浏览器退回扩展形态，通过读取已打开的标签页深度嵌入用户浏览场景，在提升上下文能力的同时也放大了隐私与权限风险。"
+}

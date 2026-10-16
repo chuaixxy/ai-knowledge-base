@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-009",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
+  "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
+  "summary": "一名博士生在Reddit的r/MachineLearning社区发帖抱怨大学GPU集群资源紧张，提交一个需要少量GPU的作业竟需等待3-4个工作日才能开始运行，严重拖慢研究进度。与此同时，其实习公司拥有充足的算力资源，于是产生了一个\"危险的想法\"：能否借用实习公司的GPU基础设施来跑自己的学术研究？发帖人坦言这是\"替朋友问的\"（担心HR看到），并希望了解是否有人有过类似经历。该帖反映了学术界算力资源短缺与工业界算力充裕之间的现实矛盾，也触及了实习期间利用公司资源做个人学术研究的伦理与合规边界问题。",
+  "tags": [
+    "GPU集群",
+    "学术算力",
+    "实习伦理",
+    "资源借用",
+    "机器学习研究",
+    "算力短缺"
+  ],
+  "relevance_score": 0.72,
+  "category": "学术与工业资源冲突",
+  "key_insight": "学术算力瓶颈正迫使研究者游走于公司资源的灰色地带，折射出科研基础设施供需失衡的结构性问题。"
+}

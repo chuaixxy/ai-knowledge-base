@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523422&idx=1&sn=8c031df41bdc0037b7451282eb430edc",
+  "title": "基于火山引擎 Managed Agents 搭建你的第一个主动式个人 Agent",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523422&idx=1&sn=8c031df41bdc0037b7451282eb430edc",
+  "summary": "该项目介绍如何利用火山引擎的 Managed Agents 服务，快速搭建一个主动式个人 AI Agent。Managed Agents 提供托管式的智能体运行环境，开发者无需自行处理底层编排、工具调用与状态管理，即可专注于定义 Agent 的目标、工具集与触发策略。项目核心在于「主动式」设计：Agent 不依赖用户每次显式提问，而是通过定时任务、事件监听或环境变化感知，自主发起行动，例如自动整理日程、监控信息源、推送提醒或执行预设工作流。教程覆盖从创建 Agent、配置工具与记忆、设定主动触发条件，到部署与调试的完整流程，适合希望低门槛体验 Agentic AI 的开发者。",
+  "tags": [
+    "火山引擎",
+    "Managed Agents",
+    "AI Agent",
+    "主动式智能体",
+    "Agentic AI",
+    "托管服务"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI Agent 开发 / 云服务",
+  "key_insight": "托管式 Agent 平台把编排复杂度交给云，让开发者只需定义「目标 + 工具 + 触发条件」即可构建主动式个人智能体。"
+}

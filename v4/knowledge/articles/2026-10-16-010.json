@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-010",
+  "source_id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "summary": "OpenAI 推出 Rosalind Academic Plan，面向符合条件的学术实验室提供赞助性的 GPT-Rosalind 访问权限及相关工具，旨在推动生命科学研究。该计划将前沿大模型能力引入高校和科研机构，降低学术团队使用高级 AI 进行生物医学、基因组学、药物发现等研究的门槛。通过赞助访问模式，研究者可借助 GPT-Rosalind 加速文献分析、实验设计、数据解读与假设生成等环节，促进 AI 与生命科学的交叉创新。此举反映出 AI 厂商正积极向学术生态渗透，以算力与模型资源支持基础科研，同时培育长期用户与生态影响力。",
+  "tags": [
+    "GPT-Rosalind",
+    "学术研究",
+    "生命科学",
+    "AI for Science",
+    "OpenAI",
+    "科研工具"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI for Science / 科研合作计划",
+  "key_insight": "AI 厂商通过赞助式学术访问，将前沿模型嵌入生命科学科研流程，加速基础研究并构建学术生态。"
+}

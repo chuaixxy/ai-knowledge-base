@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-033",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804299&idx=1&sn=e1808d10ae74ddad4c3b38a9e77d2c54",
+  "title": "把逆向工程交给 Agent：一文拆解爆火的 REA 技术原理",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804299&idx=1&sn=e1808d10ae74ddad4c3b38a9e77d2c54",
+  "summary": "REA（Reverse Engineering Agent）是一个将逆向工程任务交由 AI Agent 自主完成的技术框架，因在 GitHub 上获得 23 万星标而爆火。其核心思路是让 Agent 结合静态分析、动态调试与代码理解能力，自动完成二进制反汇编、函数识别、控制流恢复、漏洞定位等传统上高度依赖人工经验的逆向工作。REA 通常以大模型为推理中枢，配合工具调用（如 IDA、Ghidra 脚本、调试器）形成闭环，使 Agent 能迭代式地探索目标程序。该技术显著降低了逆向门槛，提升了分析效率，但也引发对自动化漏洞挖掘、恶意软件分析双刃剑效应的讨论。",
+  "tags": [
+    "逆向工程",
+    "AI Agent",
+    "大语言模型",
+    "二进制分析",
+    "自动化",
+    "安全"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI安全/逆向工程",
+  "key_insight": "REA 的本质是用 LLM 驱动的 Agent 闭环替代人工逆向的试错过程，把逆向工程从'专家手艺'推向'可编排的自动化流程'。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2026-10-16-040",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503109&idx=1&sn=42f0206a94c87bbbb9901bcaa3e7d6f6",
+  "title": "京东攻克业界难题：KMP组件交付从大仓模式到分仓模式",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503109&idx=1&sn=42f0206a94c87bbbb9901bcaa3e7d6f6",
+  "summary": "该项目分享了京东在KMP（Kotlin Multiplatform）组件交付方面从大仓模式向分仓模式演进的技术实践，重点剖析了鸿蒙与iOS平台上的关键难题：包括桥接编号错位、类型判断失效、stdlib按需裁剪等具体技术坑点，并阐述了Gradle构建、集成单元与CI/CD流水线的衔接方案。文章以实战经验为基础，为从事KMP跨端开发、多端组件化和原生包治理的工程师提供了一份可落地的设计检查清单，具有较强的工程参考价值。",
+  "tags": [
+    "KMP",
+    "跨平台开发",
+    "鸿蒙",
+    "iOS",
+    "组件化",
+    "Gradle",
+    "包治理",
+    "京东",
+    "多端交付"
+  ],
+  "relevance_score": 0.8,
+  "category": "移动端跨平台工程实践",
+  "key_insight": "KMP分仓交付的核心挑战不在业务代码，而在于跨平台桥接机制、类型系统差异与构建流水线的精细化治理。"
+}

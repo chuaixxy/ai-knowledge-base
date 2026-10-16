@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-16-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511873&idx=1&sn=8f45da7e2e5dc1513a6fb0ebc0490553",
+  "title": "深度解析 RSI：当 AI 开始实现自我迭代提升",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247511873&idx=1&sn=8f45da7e2e5dc1513a6fb0ebc0490553",
+  "summary": "该内容系统梳理了RSI（递归自我改进）这一概念，探讨了当AI系统具备自我迭代提升能力时的技术路径与潜在影响。作者从RSI的定义出发，分析了其与普通自动化优化的本质区别——即系统能够修改自身架构或训练流程，从而形成能力增长的反馈循环。文中可能涉及当前大模型自我对弈、自我批评、代码自生成等实现雏形，并讨论了失控风险与对齐难题。整体偏向概念科普与趋势研判，为理解AI自主进化提供了框架性视角。",
+  "tags": [
+    "RSI",
+    "递归自我改进",
+    "AI自我迭代",
+    "AI对齐",
+    "技术趋势"
+  ],
+  "relevance_score": 0.8,
+  "category": "人工智能技术分析",
+  "key_insight": "RSI的核心不是AI变强，而是AI获得改写自身改进算法的能力，从而将线性进步变为指数级跃迁。"
+}

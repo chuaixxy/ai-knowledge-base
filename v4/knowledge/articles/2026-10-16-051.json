@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-051",
+  "source_id": "https://stripe.com/blog/real-time-stripe-data-postgres",
+  "title": "Sync real-time Stripe data to Postgres with Stripe Data Pipeline",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/real-time-stripe-data-postgres",
+  "summary": "Stripe Data Pipeline 推出实时同步至 Postgres 的新功能，旨在解决应用依赖最新 Stripe 数据（如履行订单、更新客户账户、管理付费功能访问）的痛点。此前开发者需自行构建并维护自定义集成来保持应用数据库与 Stripe 同步，成本高且易出错。新功能允许开发者无需编写自定义集成，即可将 Stripe 数据实时同步到 Postgres 数据库，确保数据始终最新。这降低了开发复杂度，提升了数据一致性和应用可靠性，尤其适合依赖订阅、支付状态等实时数据的 SaaS 和电商应用。",
+  "tags": [
+    "Stripe",
+    "Postgres",
+    "实时同步",
+    "数据管道",
+    "支付集成",
+    "数据库"
+  ],
+  "relevance_score": 0.9,
+  "category": "数据集成与同步",
+  "key_insight": "Stripe 原生实时同步 Postgres 消除了自定义 ETL 的维护负担，让开发者聚焦业务逻辑而非数据管道。"
+}

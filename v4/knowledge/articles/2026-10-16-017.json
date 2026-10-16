@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-017",
+  "source_id": "https://huggingface.co/blog/flux-3",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/flux-3",
+  "summary": "该项目介绍在 Diffusers 库中引入 FLUX.3 Image Klein 模型的支持。FLUX.3 是 Black Forest Labs 推出的新一代文生图模型，Klein 版本主打轻量化与高效推理，在保持较高图像生成质量的同时显著降低参数量与显存占用。Diffusers 作为 Hugging Face 维护的主流扩散模型工具库，通过集成该模型，使开发者能够以统一 API 调用 FLUX.3 Klein，支持文本到图像生成、LoRA 微调及量化部署等场景。项目重点在于提供开箱即用的推理管线、权重加载方式与显存优化选项，降低社区使用门槛，推动轻量级高质量文生图模型的普及与应用落地。",
+  "tags": [
+    "Diffusers",
+    "FLUX.3",
+    "文生图",
+    "扩散模型",
+    "模型集成",
+    "轻量化推理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 模型与工具集成",
+  "key_insight": "Diffusers 对 FLUX.3 Klein 的集成，将轻量高效的新一代文生图能力纳入统一生态，显著降低开发者的使用与部署门槛。"
+}

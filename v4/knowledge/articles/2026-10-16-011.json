@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-16-011",
+  "source_id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "title": "Teaching students to think and learn through questions",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "summary": "该项目是面向巴西葡萄牙语教育者的AI教学工具推广活动，以庆祝教师节为契机，重点介绍“学习模式”（Study Mode）如何帮助教师引导学生进行主动的、分步骤的学习。项目核心理念是“通过提问教会学生思考和学习”，强调以问题驱动的方式激发学生的主动思考能力，而非被动接受知识。学习模式为教师提供了一种结构化的教学辅助手段，能够将复杂知识拆解为循序渐进的学习步骤，并通过提问互动促进深度理解。该工具面向教育场景，语言定位为巴西葡萄牙语，体现了AI技术在教育领域的本地化应用，旨在赋能教师、提升课堂教学质量，推动以学生为中心的探究式学习模式落地。",
+  "tags": [
+    "AI教育",
+    "学习模式",
+    "教师工具",
+    "提问式学习",
+    "主动学习",
+    "巴西葡萄牙语",
+    "教育科技"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI教育应用",
+  "key_insight": "以提问驱动学习，让AI成为教师引导学生主动思考的脚手架，而非答案提供者。"
+}

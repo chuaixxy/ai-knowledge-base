@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-004",
+  "source_id": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+  "title": "HOL Light Tutorial",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+  "summary": "HOL Light Tutorial 是一个面向定理证明与形式化验证的入门教学项目，围绕 HOL Light 这一经典的交互式定理证明器展开。HOL Light 由 John Harrison 开发，基于高阶逻辑（Higher-Order Logic），采用 OCaml 实现，广泛用于数学形式化、程序正确性验证以及硬件验证等领域。该教程旨在降低学习门槛，帮助初学者理解如何在该系统中定义类型、陈述定理并构造机器可检验的证明。项目本身在 Lobste.rs 上引发讨论，说明形式化方法社区对其教学价值有所关注。整体而言，这是一个偏学术、偏基础工具链的技术资源，适合对形式化验证、证明助手和可靠软件工程感兴趣的研究者与开发者。",
+  "tags": [
+    "定理证明",
+    "形式化验证",
+    "HOL Light",
+    "函数式编程",
+    "OCaml",
+    "高阶逻辑"
+  ],
+  "relevance_score": 0.62,
+  "category": "形式化方法与定理证明",
+  "key_insight": "HOL Light 教程的价值在于把高阶逻辑证明助手的陡峭学习曲线拆解为可上手的实践路径，是进入形式化验证领域的实用敲门砖。"
+}

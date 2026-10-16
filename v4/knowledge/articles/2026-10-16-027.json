@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-16-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512119&idx=1&sn=a4ac67dac7423d561fae8beb1cb626e4",
+  "title": "手把手带工程同学从零实现一个完整的 LLM（CS336）——Transformer 篇",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512119&idx=1&sn=a4ac67dac7423d561fae8beb1cb626e4",
+  "summary": "本文围绕斯坦福 CS336 课程中「从零实现一个完整 LLM」的 Transformer 部分展开，面向有工程背景的同学，提供了一条系统学习大语言模型底层原理的实践路径。文章不满足于调用现成 API，而是强调亲手实现注意力机制、多头注意力、前馈网络、残差连接、层归一化与位置编码等核心组件，帮助读者真正理解 Transformer 的数学本质与工程细节。通过代码级拆解，读者能够建立从张量运算到模型训练的整体认知，为后续预训练、微调与推理优化打下基础，是一份兼顾理论深度与动手实操的 LLM 入门指南。",
+  "tags": [
+    "LLM",
+    "Transformer",
+    "CS336",
+    "从零实现",
+    "深度学习",
+    "注意力机制",
+    "模型原理"
+  ],
+  "relevance_score": 0.9,
+  "category": "技术教程/深度学习",
+  "key_insight": "真正掌握 LLM 的关键不是调用 API，而是亲手从零实现 Transformer 的每个组件。"
+}

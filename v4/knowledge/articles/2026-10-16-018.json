@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-16-018",
+  "source_id": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "summary": "HiRO-ACEv2 是一个面向极端天气模拟的技术项目，核心目标是在约 3 公里分辨率下实现高精度气象仿真，同时将计算成本大幅降低。传统上，3 公里级别的对流可分辨模拟需要消耗巨大的算力资源，难以大规模开展。该项目很可能通过改进的神经算子、降阶建模或混合物理-机器学习方法，在保持关键极端天气事件（如暴雨、风暴、热浪）模拟保真度的前提下，显著减少计算开销。其价值在于让高分辨率气候与天气研究、风险评估和灾害预警变得更加可及，尤其适合需要大量集合模拟或长期气候情景推演的场景。",
+  "tags": [
+    "极端天气",
+    "高分辨率模拟",
+    "降本增效",
+    "气候建模",
+    "神经算子",
+    "科学计算"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI for Science / 气候与气象计算",
+  "key_insight": "用 AI 代理模型把 3 公里级极端天气模拟的成本压到可大规模部署的水平。"
+}

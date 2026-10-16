@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-16-056",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062870&idx=2&sn=bfccde7c324d1dcba2e68b1684ebbff9",
+  "title": "通用大模型要「降维打击」具身智能？首个AA-Robotics榜单来了",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062870&idx=2&sn=bfccde7c324d1dcba2e68b1684ebbff9",
+  "summary": "该项目报道了AA-Robotics榜单的发布，该榜单首次系统性地评估通用大语言模型在具身智能（Embodied AI）任务中的表现。文章探讨了GPT、Claude、Gemini等通用大模型是否会对专门的具身智能公司形成「降维打击」，即凭借强大的通用推理和语言理解能力直接切入机器人控制、任务规划等领域。榜单的推出意味着行业开始建立标准化的评测体系，来衡量通用模型在物理世界交互中的实际能力，也预示着通用AI与具身智能之间的竞争与融合正在加速。",
+  "tags": [
+    "具身智能",
+    "通用大模型",
+    "AA-Robotics",
+    "机器人",
+    "评测榜单",
+    "GPT",
+    "Claude",
+    "Gemini"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI行业动态",
+  "key_insight": "通用大模型正从语言与推理能力向物理世界延伸，AA-Robotics榜单的出现标志着具身智能赛道将面临来自通用AI的正面竞争与重塑。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-16-005",
+  "source_id": "https://openfatigue.ai/",
+  "title": "OpenFatigue™ — Open is the new closed",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://openfatigue.ai/",
+  "summary": "OpenFatigue™ 是一个以「Open is the new closed（开放即新封闭）」为口号的讽刺性技术项目，源自 Lobste.rs 社区讨论。它并非传统意义上的开源软件或工具，而是对当下开源文化过度膨胀、开源疲劳（open source fatigue）现象的批判性回应。项目名称借用商标符号™，暗讽「开放」本身被包装成营销标签、品牌话术甚至准封闭生态，导致开发者对「open」一词产生厌倦。它反映了社区对伪开源、开放洗白（open-washing）以及无休止维护负担的反思，提醒人们开放不应沦为口号，真正的开放性需要透明、可持续的治理与社区参与。",
+  "tags": [
+    "开源文化",
+    "开源疲劳",
+    "社区讨论",
+    "讽刺项目",
+    "open-washing"
+  ],
+  "relevance_score": 0.55,
+  "category": "开源文化/社区现象",
+  "key_insight": "当「开放」被滥用为营销标签时，开源精神反而可能走向新的封闭。"
+}
