@@ -27570,5 +27570,530 @@
     ],
     "status": "published",
     "collected_at": "2026-10-16T03:40:33.644Z"
+  },
+  {
+    "id": "2026-10-18-001",
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.20665",
+    "category": "AI智能体与强化学习",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM智能体",
+      "实时推理",
+      "基准测试",
+      "离线自我改进",
+      "教师-学生蒸馏",
+      "游戏环境"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-002",
+    "title": "Evaluating Model Capabilities After Benchmark Saturation",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.20667",
+    "category": "AI评测与安全",
+    "relevance_score": 0.85,
+    "tags": [
+      "基准饱和",
+      "模型评估",
+      "解题记录分析",
+      "AI安全",
+      "能力测评",
+      "LLM评测方法"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-003",
+    "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2610.20669",
+    "category": "生成模型/推理优化",
+    "relevance_score": 0.82,
+    "tags": [
+      "离散扩散模型",
+      "序列蒙特卡洛",
+      "奖励引导生成",
+      "稀疏引导",
+      "动态规划",
+      "测试时对齐",
+      "推理加速"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-004",
+    "title": "What is wrong with AI writing - ICLR edition [D]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+    "category": "学术写作与评审",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI写作",
+      "学术审稿",
+      "ICLR",
+      "写作质量",
+      "同行评审"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-005",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/itau-generative-ai",
+    "category": "金融科技/企业AI应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "生成式AI",
+      "金融科技",
+      "AI治理",
+      "对话式AI",
+      "合规风控",
+      "银行业",
+      "企业级AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-006",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/benefit-street-partners",
+    "category": "金融科技/AI应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "Codex",
+      "金融科技",
+      "代码审查",
+      "信贷分析",
+      "AI辅助编程"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-007",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "category": "AI 应用与开发者工具",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Agent",
+      "ChatGPT 插件",
+      "Codex",
+      "快速开发",
+      "用户增长",
+      "开发者社区"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-008",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/reflection-beam",
+    "category": "开源大语言模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "开源大模型",
+      "501B参数",
+      "可定制",
+      "私有化部署",
+      "模型扩展"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-009",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "category": "科技政策",
+    "relevance_score": 0.8,
+    "tags": [
+      "Meta",
+      "AI训练数据",
+      "条款更新",
+      "内容抓取",
+      "隐私"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-010",
+    "title": "Websites are closing their doors to AI agents",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "category": "AI行业趋势与生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "网络爬虫",
+      "内容访问控制",
+      "互联网治理",
+      "AI生态"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-011",
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "category": "硬件与芯片",
+    "relevance_score": 0.85,
+    "tags": [
+      "Nvidia",
+      "RTX Spark",
+      "Arm SoC",
+      "笔记本电脑",
+      "处理器",
+      "AI PC",
+      "硬件评测"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-012",
+    "title": "淘特端侧模型从微调到应用的全链路实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546397&idx=1&sn=4d759dc158611f9d20d68f2555b60028",
+    "category": "AI工程实践",
+    "relevance_score": 0.8,
+    "tags": [
+      "端侧模型",
+      "模型微调",
+      "模型部署",
+      "推理优化",
+      "淘特",
+      "全链路实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-013",
+    "title": "清华×阿里 AI Native人才培养计划暨格造社启动日活动举行",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512125&idx=1&sn=a67f42a3bf1bf5443e8558b6bd1846c7",
+    "category": "AI教育与合作",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI人才培养",
+      "产学研合作",
+      "清华大学",
+      "阿里巴巴",
+      "AI Native",
+      "格造社"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-014",
+    "title": "千问 AI Arena × 沙利文｜联合发布二期任务，聚焦“消费决策助手 Agent”",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562482&idx=1&sn=97225f4837d67d92f49753bec0744a52",
+    "category": "AI Agent / 消费科技",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Agent",
+      "消费决策",
+      "智能导购",
+      "大模型应用",
+      "千问",
+      "沙利文",
+      "竞赛任务"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-015",
+    "title": "AIE 把硅谷最夯的 AI 工程师大会带到上海了！| 含赠票福利",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514649&idx=1&sn=50cb3c9cdb7d66750214b3a98fe9c287",
+    "category": "技术会议/社区活动",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI工程师大会",
+      "技术会议",
+      "上海",
+      "开发者社区",
+      "AI工程实践",
+      "行业交流"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-016",
+    "title": "从真实问题到开源作品，魔搭社区与清华大学共建AI Native人才培养模式",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514645&idx=1&sn=dd5b3edaadcbd81c5bc834d7f2b24e4c",
+    "category": "AI人才培养与开源生态",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Native",
+      "人才培养",
+      "开源协作",
+      "魔搭社区",
+      "清华大学",
+      "产学研融合",
+      "真实课题驱动"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-017",
+    "title": "3 个月用Harness重构90万行旧项目：实战经验与踩坑总结",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804394&idx=1&sn=e5c46efb358d97b9f327f49175a8da53",
+    "category": "软件工程实践",
+    "relevance_score": 0.75,
+    "tags": [
+      "Harness",
+      "遗留系统重构",
+      "技术债务",
+      "工程实践",
+      "代码迁移",
+      "DevOps",
+      "软件现代化"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-018",
+    "title": "Hy Memory 2.0 发布：模型、框架、应用三层全开源",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498682&idx=1&sn=c05eb139c48a0ba10cf4434f6489ac63",
+    "category": "AI 应用 / 个人知识管理",
+    "relevance_score": 0.8,
+    "tags": [
+      "开源",
+      "个人记忆管理",
+      "AI 助手",
+      "全栈架构",
+      "知识管理",
+      "隐私"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-019",
+    "title": "腾讯研究院AI每周关键词Top50",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999102&idx=1&sn=c754465d22e6a85bd5620647c24a4780",
+    "category": "行业资讯",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI动态",
+      "关键词",
+      "行业报告",
+      "腾讯研究院",
+      "趋势分析"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-020",
+    "title": "这波“个人Agent ”集体转向，说明行业的底座换了？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999101&idx=1&sn=c49b4100be316db6186956d773b9d12f",
+    "category": "AI行业趋势分析",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI Agent",
+      "个人智能体",
+      "人机协作",
+      "范式转移",
+      "自主执行",
+      "行业趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-021",
+    "title": "3个月用Harness重写90万行旧代码：踩过的坑都在这",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247697780&idx=1&sn=e176f24449d27876dae786fb234773d6",
+    "category": "软件工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI辅助编程",
+      "遗留代码重构",
+      "Harness",
+      "大规模迁移",
+      "工程实践",
+      "代码质量",
+      "测试保障"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-022",
+    "title": "好的OCR，用了不烧心",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670346&idx=1&sn=79a04545b0cd34504d78c1f2359b79a2",
+    "category": "计算机视觉 / OCR 工具",
+    "relevance_score": 0.55,
+    "tags": [
+      "OCR",
+      "文字识别",
+      "计算机视觉",
+      "中文识别",
+      "工具类"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-023",
+    "title": "DeepSeek V4.1 Flash 新版本：许愿式编程一键成真",
+    "source": "rss-deepseek",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485876&idx=1&sn=2606d3fa9ac085f94290ddd1d94649cc",
+    "category": "AI 开发工具 / 大模型应用",
+    "relevance_score": 0.82,
+    "tags": [
+      "大模型",
+      "AI 编程",
+      "代码生成",
+      "搜索 API",
+      "低成本开发",
+      "快速原型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-024",
+    "title": "奇舞周刊第598期：别只盯着 AI Coding，真正的变化发生在整个研发流程",
+    "source": "rss-156a64fe3e95eebe4b85bf981d6ebb85441897bf",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247518525&idx=1&sn=5402683ec82fec5c422d7a30f8277257",
+    "category": "技术资讯/行业观察",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI Coding",
+      "研发流程",
+      "工程效能",
+      "DevOps",
+      "软件工程",
+      "技术周刊"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-025",
+    "title": "New ways for fintechs to move money and expand globally",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+    "category": "金融科技/支付基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "Stripe",
+      "金融科技",
+      "全球支付",
+      "稳定币",
+      "统一API",
+      "跨境支付"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-026",
+    "title": "干掉 Bun 和 Tauri，旧插件全部报废！OpenCode 2.0 正式发布：一次“重大改造”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295294&idx=1&sn=7ee15d8d6e2119e53b35255c35cf995c",
+    "category": "AI 开发工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "OpenCode",
+      "AI Agent",
+      "运行时",
+      "开源",
+      "重大重写",
+      "插件生态",
+      "Bun",
+      "Tauri"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-027",
+    "title": "利用 AI 代码智能体优化软件架构的五种方法",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295294&idx=2&sn=3bb12b13f32ebdeddc3d8fbc617b525c",
+    "category": "软件架构与AI工程",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI代码智能体",
+      "软件架构",
+      "遗留系统",
+      "代码理解",
+      "架构治理",
+      "技术债务"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-028",
+    "title": "李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063453&idx=1&sn=6cfe0625d6f43a0a07e6aaa09172f42c",
+    "category": "空间计算与3D感知硬件",
+    "relevance_score": 0.8,
+    "tags": [
+      "3D重建",
+      "空间相机",
+      "空间智能",
+      "数字孪生",
+      "国产硬件",
+      "AI空间计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-18-029",
+    "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063453&idx=2&sn=47364ac1026540b67b675fa686d100a0",
+    "category": "AI产品与技术演进",
+    "relevance_score": 0.8,
+    "tags": [
+      "Codex",
+      "OpenAI",
+      "AI编程",
+      "产品迭代",
+      "失败复盘",
+      "大模型应用",
+      "团队执行力"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-18T03:36:34.610Z"
   }
 ]

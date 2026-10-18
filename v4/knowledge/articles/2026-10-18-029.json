@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-18-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063453&idx=2&sn=47364ac1026540b67b675fa686d100a0",
+  "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063453&idx=2&sn=47364ac1026540b67b675fa686d100a0",
+  "summary": "该项目讲述了OpenAI旗下代码生成模型Codex在经历一次失败发布后，由Tibo接手主导，在不到一年时间内实现逆袭，最终在内部影响力上「吞掉」ChatGPT的过程。文章聚焦于Codex从产品定位、技术迭代到团队执行力的转变，剖析其如何通过强化代码能力、优化开发者体验和找准应用场景，从边缘项目成长为OpenAI核心产品之一。内容涵盖产品策略、工程文化、失败复盘与快速迭代等维度，揭示了AI产品在激烈竞争环境中如何通过聚焦垂直场景和高效执行实现翻盘，对理解大模型产品的演进路径和团队运营具有参考价值。",
+  "tags": [
+    "Codex",
+    "OpenAI",
+    "AI编程",
+    "产品迭代",
+    "失败复盘",
+    "大模型应用",
+    "团队执行力"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI产品与技术演进",
+  "key_insight": "垂直场景的深度聚焦与快速迭代，能让一个失败项目在短期内逆袭为核心产品。"
+}

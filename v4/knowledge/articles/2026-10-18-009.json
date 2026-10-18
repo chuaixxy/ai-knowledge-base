@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-18-009",
+  "source_id": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+  "title": "Meta removes language that may have allowed it to scrape news sites",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+  "summary": "Meta在受到批评后更新了其商业条款，删除了可能允许其从新闻网站等抓取内容以训练AI的措辞。此前条款称Meta可以使用来自此类域名、网页或URL的任何内容来提供、开发、改进其服务。这一修改回应了外界对AI训练数据来源的担忧，但未明确说明未来是否会以其他方式获取数据。事件反映了科技公司在AI训练数据收集上面临的监管和公众压力。",
+  "tags": [
+    "Meta",
+    "AI训练数据",
+    "条款更新",
+    "内容抓取",
+    "隐私"
+  ],
+  "relevance_score": 0.8,
+  "category": "科技政策",
+  "key_insight": "Meta删除争议条款是应对公众压力的妥协，但AI训练数据来源的合规性问题仍待解决。"
+}

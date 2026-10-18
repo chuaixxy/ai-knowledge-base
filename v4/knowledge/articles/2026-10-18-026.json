@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-18-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295294&idx=1&sn=7ee15d8d6e2119e53b35255c35cf995c",
+  "title": "干掉 Bun 和 Tauri，旧插件全部报废！OpenCode 2.0 正式发布：一次“重大改造”",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295294&idx=1&sn=7ee15d8d6e2119e53b35255c35cf995c",
+  "summary": "OpenCode 2.0 是一次彻底的重写，项目在 GitHub 上已获得 21.4 万星，是开源 Agent 领域的顶流。此次 2.0 版本以“重大改造”为代价，导致 1.x 插件全部报废，用户需要迁移适配。文章标题以“干掉 Bun 和 Tauri”为噱头，暗示其在运行时层面进行了深度替换或自研，标志着 AI 编程工具从简单的插件生态竞争，转向底层“硬核运行时”的性能与架构竞争。整体来看，这是一次激进但野心明确的技术升级，强调运行时能力而非兼容性，短期内会带来生态阵痛，长期则可能重塑 AI Agent 开发工具的技术底座。",
+  "tags": [
+    "OpenCode",
+    "AI Agent",
+    "运行时",
+    "开源",
+    "重大重写",
+    "插件生态",
+    "Bun",
+    "Tauri"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 开发工具",
+  "key_insight": "OpenCode 2.0 以牺牲插件兼容性为代价换取底层运行时自主可控，标志 AI 编程工具竞争从生态层下沉到运行时层。"
+}

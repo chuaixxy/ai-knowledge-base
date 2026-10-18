@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-18-007",
+  "source_id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "summary": "该项目由两名工程师在数周内使用 Codex 快速构建了 Stack Overflow for Agents，一个面向 AI 智能体的问答与知识共享平台。其核心亮点是推出的 ChatGPT 插件，使智能体的创建量实现了最高 10 倍的增长，注册量也增长了三倍。项目展示了借助 AI 编程工具（Codex）进行小团队快速开发的可行性，同时验证了将产品以插件形式嵌入 ChatGPT 生态所能带来的显著用户增长效应。整体体现了 AI 原生应用开发、平台生态集成与增长策略的有机结合，对探索智能体时代的开发者工具与社区形态具有参考价值。",
+  "tags": [
+    "AI Agent",
+    "ChatGPT 插件",
+    "Codex",
+    "快速开发",
+    "用户增长",
+    "开发者社区"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 应用与开发者工具",
+  "key_insight": "借助 Codex 数周内完成开发，并通过 ChatGPT 插件嵌入生态，实现智能体创建量 10 倍增长。"
+}

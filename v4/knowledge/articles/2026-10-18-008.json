@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-18-008",
+  "source_id": "https://huggingface.co/blog/reflection-beam",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "summary": "Welcome Beam 是一个拥有 5010 亿参数的开源大模型项目，主打用户可完全拥有、定制和扩展。其核心价值在于开放权重与可部署性，允许研究者和企业在自有基础设施上运行、微调并规模化扩展，摆脱对闭源 API 的依赖。项目强调模型的可控性与私有化部署，适合需要数据主权和深度定制的场景。501B 规模意味着较强的通用能力，但也带来显存与推理成本挑战，需配套量化、分布式推理等工程优化。总体而言，它为开源社区提供了接近前沿规模的可控基座模型。",
+  "tags": [
+    "开源大模型",
+    "501B参数",
+    "可定制",
+    "私有化部署",
+    "模型扩展"
+  ],
+  "relevance_score": 0.85,
+  "category": "开源大语言模型",
+  "key_insight": "501B 开源权重模型让用户真正拥有并自主扩展前沿规模的大模型能力。"
+}

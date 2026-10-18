@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-18-006",
+  "source_id": "https://openai.com/index/benefit-street-partners",
+  "title": "Benefit Street Partners answers questions faster with Codex",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/benefit-street-partners",
+  "summary": "该项目展示了Anant Kumar如何利用OpenAI Codex构建金融分析工具，用于比较贷款估值和解析信贷协议。通过Codex辅助代码审查与快速跟进，团队显著提升了回答复杂金融问题的效率。核心价值在于将AI编程助手嵌入金融工作流，加速代码迭代与合规文档分析，降低人工审查负担，使专业人员能更专注于高价值判断。该案例体现了AI在金融科技领域的实际落地，尤其适用于需要高频处理合同与估值数据的场景。",
+  "tags": [
+    "Codex",
+    "金融科技",
+    "代码审查",
+    "信贷分析",
+    "AI辅助编程"
+  ],
+  "relevance_score": 0.8,
+  "category": "金融科技/AI应用",
+  "key_insight": "Codex通过加速代码审查与文档分析，将金融专业人员的重复性工作转化为快速迭代的智能工作流。"
+}

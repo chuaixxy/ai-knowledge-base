@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-18-004",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+  "title": "What is wrong with AI writing - ICLR edition [D]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+  "summary": "该讨论帖聚焦于ICLR审稿过程中遇到的低质量AI生成学术写作问题。作者指出，许多论文的行文晦涩难懂、逻辑混乱，例如出现'在六个操作点上均未超越最佳基线且成本不更高，在三个置换安慰剂上也均未超越，增益最高约1.5未被排除'这类语义自相矛盾的表述。作者认为，简单批评'明显是AI写的'并不恰当，因为AI辅助编辑本身是被允许的，关键在于必须能指出写作在实质上到底哪里有问题，而不论作者是谁。帖子呼吁社区分享匿名化的AI写作过度使用案例，并探讨如何从内容实质层面进行有效批评。",
+  "tags": [
+    "AI写作",
+    "学术审稿",
+    "ICLR",
+    "写作质量",
+    "同行评审"
+  ],
+  "relevance_score": 0.82,
+  "category": "学术写作与评审",
+  "key_insight": "批评AI写作应聚焦于语义混乱与逻辑缺陷等实质问题，而非仅凭'像AI写的'这一表面判断。"
+}

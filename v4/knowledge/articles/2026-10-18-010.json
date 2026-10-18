@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-18-010",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "title": "Websites are closing their doors to AI agents",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "summary": "该项目探讨了自主AI代理（如OpenAI、Meta、Google等推出的代理）在互联网上执行任务时面临的现实阻力：越来越多的网站开始关闭对AI代理的访问大门。文章指出，尽管AI代理被宣传为能替用户完成订餐、清理收件箱、购物等各类任务，但当互联网上的其他参与者不配合时，这些代理的实际能力将大打折扣。近期多起网站封禁AI爬虫和代理的事件表明，内容提供方出于版权保护、流量变现、数据安全等考量，正主动设置技术壁垒。这暴露出AI代理生态的深层矛盾：代理的自主性依赖于对开放网络的广泛访问，而网络本身的商业逻辑和治理规则却在收紧。文章暗示，AI代理的规模化落地不仅取决于模型能力，更取决于与网站运营方之间的博弈与协议重构。",
+  "tags": [
+    "AI代理",
+    "网络爬虫",
+    "内容访问控制",
+    "互联网治理",
+    "AI生态"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI行业趋势与生态",
+  "key_insight": "AI代理的真正瓶颈不在模型能力，而在于开放互联网正因商业与安全考量而收紧访问权限。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-18-002",
+  "source_id": "https://arxiv.org/abs/2610.20667",
+  "title": "Evaluating Model Capabilities After Benchmark Saturation",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.20667",
+  "summary": "该论文研究AI基准测试饱和后的模型能力评估问题。随着模型分数趋近满分，基准测试失去区分能力，难以支撑安全论证与前沿政策。作者提出利用基准题目产生的完整解题记录（transcript）而非仅分数来评估能力。通过历史基准与模型发布进行回溯性饱和模拟，检验仅使用饱和基准中正确解题记录的方法，能否预测在未饱和留出题上的能力表现。评估了成对评判、单记录绝对打分等代表性记录信息提取方法。",
+  "tags": [
+    "基准饱和",
+    "模型评估",
+    "解题记录分析",
+    "AI安全",
+    "能力测评",
+    "LLM评测方法"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI评测与安全",
+  "key_insight": "基准分数饱和后，解题过程记录仍保留区分模型能力的额外信息，可作为饱和后评估的替代信号。"
+}

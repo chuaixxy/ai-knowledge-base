@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-18-005",
+  "source_id": "https://openai.com/index/itau-generative-ai",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/itau-generative-ai",
+  "summary": "巴西最大私营银行Itaú推行「AI First」战略，在高度监管的金融行业中面向全体客户与员工构建生成式AI能力。其核心包括两大组件：一是面向客户与员工的对话式界面ia.i，提供生成式AI交互入口；二是IARA治理平台，用于对AI应用进行合规、风险与安全管控。项目展示了受监管行业如何通过「应用层+治理层」双轨并行的方式规模化落地生成式AI，在保证合规的前提下将AI能力扩展至全量客户群，为金融业AI规模化部署提供了可参考的范式。",
+  "tags": [
+    "生成式AI",
+    "金融科技",
+    "AI治理",
+    "对话式AI",
+    "合规风控",
+    "银行业",
+    "企业级AI"
+  ],
+  "relevance_score": 0.85,
+  "category": "金融科技/企业AI应用",
+  "key_insight": "在强监管行业规模化落地生成式AI的关键，是让应用层（ia.i）与治理层（IARA）同步建设、相互支撑。"
+}

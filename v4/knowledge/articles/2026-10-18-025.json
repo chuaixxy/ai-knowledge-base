@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-18-025",
+  "source_id": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+  "title": "New ways for fintechs to move money and expand globally",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+  "summary": "该项目介绍Stripe面向金融科技公司的三项更新：一是Stripe Global Payouts简化全球付款管理，帮助fintech更便捷地发放资金；二是在更多国家支持稳定币卡，扩展加密资产在支付场景中的可用性；三是提供统一API，便于构建全球化金融产品。整体目标是降低fintech产品上线与国际扩张的门槛，提升跨境资金流转效率，并借助稳定币与统一接口增强全球金融基础设施的互操作性。",
+  "tags": [
+    "Stripe",
+    "金融科技",
+    "全球支付",
+    "稳定币",
+    "统一API",
+    "跨境支付"
+  ],
+  "relevance_score": 0.85,
+  "category": "金融科技/支付基础设施",
+  "key_insight": "Stripe通过统一API、全球付款与稳定币卡三项能力，降低fintech全球化扩张与跨境资金流转的门槛。"
+}
