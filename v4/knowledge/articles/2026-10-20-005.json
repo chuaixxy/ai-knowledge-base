@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-20-005",
+  "source_id": "https://sphinx-six-theta.vercel.app/",
+  "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "source": "rss-hacker-news-best",
+  "url": "https://sphinx-six-theta.vercel.app/",
+  "summary": "Sphinx 是一个开源（FOSS）工具，可接入现有的 AI 编码代理工作流。其核心机制是：每次向生产环境推送代码时，自动弹出一份问卷，考察开发者是否真正理解即将上线的 AI 生成代码的工作原理。项目由 Show HN 发布，获 252 分、89 条评论，引发社区对“AI 辅助编程时代如何保证开发者代码理解度”的讨论。它试图用强制测验的方式，防止开发者盲目合并、部署自己并未真正掌握的 AI 生成代码，从而降低生产事故与维护风险。",
+  "tags": [
+    "AI 编码代理",
+    "代码审查",
+    "开发者工具",
+    "开源",
+    "工程效能",
+    "代码理解"
+  ],
+  "relevance_score": 0.78,
+  "category": "开发者工具 / AI 辅助编程",
+  "key_insight": "用“上线前强制测验”把 AI 生成代码的理解责任重新压回开发者，是对抗盲目 vibe coding 的一种轻量治理手段。"
+}

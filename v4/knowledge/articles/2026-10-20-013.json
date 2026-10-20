@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-20-013",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546485&idx=1&sn=b679cea45f2b32788e0c3eb2d3568cac",
+  "title": "告别 AI Demo 页面：构建支持淘内货品运营、可C端投放的会场 Agent Harness",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546485&idx=1&sn=b679cea45f2b32788e0c3eb2d3568cac",
+  "summary": "该项目提出一种会场 Agent Harness，旨在解决 AI Demo 页面难以直接用于淘内货品运营和 C 端投放的问题。通过一句话输入即可生成可投放的会场，降低从演示到生产环境的落地门槛。其核心在于将货品运营逻辑、会场搭建流程与 Agent 能力结合，使生成的页面具备淘内投放所需的运营适配性与 C 端可用性，而非停留在静态展示。项目关注 AI 生成内容在真实电商场景中的工程化与运营闭环，强调可投放、可运营、可复用，为货品运营人员提供低门槛的会场生成工具。",
+  "tags": [
+    "AI Agent",
+    "电商运营",
+    "会场生成",
+    "淘内投放",
+    "C端落地",
+    "货品运营"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 应用工程 / 电商运营工具",
+  "key_insight": "把 AI 生成从 Demo 展示推进到可投放的运营会场，关键在于用 Agent Harness 封装货品运营与投放约束。"
+}

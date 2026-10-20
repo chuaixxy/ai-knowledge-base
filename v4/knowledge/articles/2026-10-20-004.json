@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-20-004",
+  "source_id": "https://arxiv.org/abs/2610.18861",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "source": "rss-hacker-news-best",
+  "url": "https://arxiv.org/abs/2610.18861",
+  "summary": "HybridAgent 是 Together Computer 提出的混合推理智能体框架，核心思想是让 LLM 智能体在潜空间中进行思考（latent reasoning），而通过文本与外部环境交互和行动。该工作试图结合连续潜表示的高效推理能力与离散文本的可解释性和工具调用能力，避免纯文本思维链带来的冗长 token 开销，同时保留可执行的行动接口。项目配套发布了模型集合、GitHub 代码库和 arXiv 评测论文，涵盖多步推理、工具使用等任务的评估。在 Hacker News 上获得 503 分和 236 条评论，引发社区对潜空间推理是否可解释、是否真正优于显式思维链的广泛讨论，是 agent 架构与推理范式交叉方向上的代表性尝试。",
+  "tags": [
+    "LLM Agents",
+    "Latent Reasoning",
+    "Hybrid Reasoning",
+    "Tool Use",
+    "Agent Architecture"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / 推理架构",
+  "key_insight": "让智能体在潜空间思考、用文本行动，试图兼得连续推理的效率与离散接口的可执行性。"
+}

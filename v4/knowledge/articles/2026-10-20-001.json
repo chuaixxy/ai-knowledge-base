@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-20-001",
+  "source_id": "https://news.ycombinator.com/item?id=50151036",
+  "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+  "source": "rss-hacker-news-best",
+  "url": "https://news.ycombinator.com/item?id=50151036",
+  "summary": "该讨论源自一位Meta工程师的LinkedIn帖子，他坦言在AI辅助编程时代感到前所未有的不安：代码越来越像黑箱，若逐行审查耗时过长，导致交付的系统虽然理解高层逻辑，却不掌握每处细节。这违背了软件工程师追求透彻理解的本能。该帖在Hacker News引发强烈共鸣，获得311分和460条评论。讨论核心是：在AI生成代码成为新常态的背景下，工程师需要理解到什么程度才能安心交付？如何在开发速度与代码可理解性、可维护性之间取得平衡？社区普遍关注AI代码审查、信任边界、责任归属以及工程文化如何适应这一变化。",
+  "tags": [
+    "AI辅助编程",
+    "代码审查",
+    "软件工程文化",
+    "可维护性",
+    "开发者体验",
+    "技术债务"
+  ],
+  "relevance_score": 0.92,
+  "category": "软件工程与AI实践",
+  "key_insight": "AI写码的真正挑战不是生成速度，而是工程师对代码的理解深度与责任边界需要被重新定义。"
+}

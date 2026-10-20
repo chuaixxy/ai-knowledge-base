@@ -28095,5 +28095,439 @@
     ],
     "status": "published",
     "collected_at": "2026-10-18T03:36:34.610Z"
+  },
+  {
+    "id": "2026-10-20-001",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://news.ycombinator.com/item?id=50151036",
+    "category": "软件工程与AI实践",
+    "relevance_score": 0.92,
+    "tags": [
+      "AI辅助编程",
+      "代码审查",
+      "软件工程文化",
+      "可维护性",
+      "开发者体验",
+      "技术债务"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-002",
+    "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+    "category": "公共安全与隐私技术",
+    "relevance_score": 0.8,
+    "tags": [
+      "Flock车牌识别",
+      "执法监控",
+      "隐私与数据治理",
+      "ICE",
+      "权限滥用"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-003",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "category": "AI 基础设施 / 工程实践",
+    "relevance_score": 0.78,
+    "tags": [
+      "LLM Proxy",
+      "可观测性",
+      "AI 基础设施",
+      "成本控制",
+      "供应商锁定",
+      "Hacker News"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-004",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://arxiv.org/abs/2610.18861",
+    "category": "AI Agent / 推理架构",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM Agents",
+      "Latent Reasoning",
+      "Hybrid Reasoning",
+      "Tool Use",
+      "Agent Architecture"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-005",
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://sphinx-six-theta.vercel.app/",
+    "category": "开发者工具 / AI 辅助编程",
+    "relevance_score": 0.78,
+    "tags": [
+      "AI 编码代理",
+      "代码审查",
+      "开发者工具",
+      "开源",
+      "工程效能",
+      "代码理解"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-006",
+    "title": "Introducing Clairic, a new System One class of extraction models",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.cloudflare.com/clairic-extraction-model/",
+    "category": "AI/机器学习模型",
+    "relevance_score": 0.65,
+    "tags": [
+      "信息抽取",
+      "System One",
+      "AI模型",
+      "低延迟推理",
+      "NLP"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-007",
+    "title": "Timestral: Mistral's time-series foundation models",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://mistral.ai/news/timestral/",
+    "category": "AI基础模型/时间序列",
+    "relevance_score": 0.75,
+    "tags": [
+      "时间序列",
+      "基础模型",
+      "Mistral",
+      "时序预测",
+      "预训练模型"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-008",
+    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+    "source": "rss-reddit-r-machinelearning",
+    "source_id": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+    "category": "AI科研工作流",
+    "relevance_score": 0.72,
+    "tags": [
+      "AI辅助科研",
+      "研究流程管理",
+      "实验自动化",
+      "ML工程",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-009",
+    "title": "Advancing coding in low‑resource programming languages",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/low-resource-programming-languages",
+    "category": "AI 编程与代码智能",
+    "relevance_score": 0.85,
+    "tags": [
+      "低资源编程语言",
+      "ChatGPT",
+      "代码生成",
+      "COBOL迁移",
+      "评测基准",
+      "软件工程",
+      "SQLite",
+      "遗留系统现代化"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-010",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/hf-torchneuron",
+    "category": "AI 基础设施与模型部署",
+    "relevance_score": 0.8,
+    "tags": [
+      "AWS Trainium",
+      "Hugging Face",
+      "模型部署",
+      "推理加速",
+      "PyTorch",
+      "Neuron SDK"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-011",
+    "title": "The fossil fuel comeback is here",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "category": "能源政策与基础设施",
+    "relevance_score": 0.82,
+    "tags": [
+      "化石燃料",
+      "可再生能源",
+      "电力需求",
+      "数据中心",
+      "电动汽车",
+      "能源转型",
+      "美国电网"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-012",
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "category": "AI产业与金融风险",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI基础设施",
+      "债务风险",
+      "私人信贷",
+      "CoreWeave",
+      "算力经济",
+      "资本市场"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-013",
+    "title": "告别 AI Demo 页面：构建支持淘内货品运营、可C端投放的会场 Agent Harness",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546485&idx=1&sn=b679cea45f2b32788e0c3eb2d3568cac",
+    "category": "AI 应用工程 / 电商运营工具",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI Agent",
+      "电商运营",
+      "会场生成",
+      "淘内投放",
+      "C端落地",
+      "货品运营"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-014",
+    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514765&idx=1&sn=bcf6e0b9553714548d67f0d84c6d3e25",
+    "category": "自然语言处理/大模型开源",
+    "relevance_score": 0.85,
+    "tags": [
+      "意图理解",
+      "大语言模型",
+      "开源模型",
+      "训练语料",
+      "推理镜像",
+      "对话系统",
+      "生成式分类"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-015",
+    "title": "「1024 模力工场・AI社区日」倒计时 5 天，一天看遍 10+ 行业 AI 落地现场，神秘嘉宾坐镇、玩法奖品管够",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514765&idx=2&sn=1d583735679725cd2c0771b5f6b261c1",
+    "category": "技术活动/社区",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI社区活动",
+      "技术落地",
+      "实战工作坊",
+      "行业案例",
+      "杭州"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-016",
+    "title": "从 BERT、GPT 到 Jev：一文看懂大模型架构的演进与分化",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804707&idx=1&sn=9291fb648a66fa13fa295fc5a2156b84",
+    "category": "技术综述/架构科普",
+    "relevance_score": 0.72,
+    "tags": [
+      "大模型架构",
+      "BERT",
+      "GPT",
+      "Jev",
+      "Transformer",
+      "技术综述"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-017",
+    "title": "AI 正在培养“祈使句一代”：习惯被服从，不习惯被拒绝",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999120&idx=1&sn=d51556214ffccacc420c449e539cc208",
+    "category": "技术与社会",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI伦理",
+      "人机交互",
+      "社会影响",
+      "语言习惯",
+      "技术趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-018",
+    "title": "从快手iWork实践出发：5场分享共探企业AI生产力规模化之路",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501491&idx=1&sn=f003d6bf2c6c980b5e081e76e045eed7",
+    "category": "企业AI实践/技术分享活动",
+    "relevance_score": 0.72,
+    "tags": [
+      "企业AI",
+      "快手iWork",
+      "AI生产力",
+      "规模化落地",
+      "技术分享",
+      "效率工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-019",
+    "title": "AI专栏 | AI写代码加速后，如何保障高质量交付？拆解携程 DevMaster 的企业级研发实践",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277668&idx=1&sn=aae6cb964a16222f76f57aa14161af14",
+    "category": "AI 工程实践 / 研发效能",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI 辅助研发",
+      "规格驱动开发",
+      "研发效能",
+      "企业级工程实践",
+      "DevMaster",
+      "质量保障",
+      "需求分析",
+      "测试反馈"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-020",
+    "title": "Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+    "category": "行业研究/商业趋势",
+    "relevance_score": 0.8,
+    "tags": [
+      "SaaS",
+      "AI",
+      "定价策略",
+      "Stripe",
+      "行业调查",
+      "客户留存",
+      "平台经济"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-021",
+    "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295407&idx=1&sn=b8c188b3e578205013431c43c98bc95d",
+    "category": "AI开发框架/智能体基础设施",
+    "relevance_score": 0.8,
+    "tags": [
+      "智能体框架",
+      "开源",
+      "AI编码",
+      "OpenCode",
+      "Codex",
+      "谷歌研究",
+      "开发者工具"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-022",
+    "title": "从 AI 办公到具身智能，10+ 落地现场10.24 杭州开放，社区与摊主招募中",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295407&idx=2&sn=68bc72e935e35a563472c76fcb0a3206",
+    "category": "社区活动/技术交流",
+    "relevance_score": 0.65,
+    "tags": [
+      "AI社区",
+      "具身智能",
+      "AI办公",
+      "线下活动",
+      "技术落地",
+      "杭州"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-023",
+    "title": "直播中｜Claude垫底，GPT表现不佳，PhAI Labs用DiscoveryRSI探索科研Agent自我进化",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068408&idx=1&sn=3d762a23bad4d8ea4a1ddd3d23e6ae50",
+    "category": "AI for Science / 智能体研究",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI for Science",
+      "科研Agent",
+      "自我进化",
+      "DiscoveryRSI",
+      "PhAI Labs",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
+  },
+  {
+    "id": "2026-10-20-024",
+    "title": "AI朝阳群众出动！陪骗子唠嗑，还套出25万条情报",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068408&idx=2&sn=5ac06b17454bdcff1d57bf62b22283ad",
+    "category": "AI安全与社会治理应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI反诈",
+      "大模型应用",
+      "对话式AI",
+      "情报采集",
+      "社会工程防御",
+      "公共安全",
+      "智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-10-20T03:58:07.475Z"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-20-009",
+  "source_id": "https://openai.com/index/low-resource-programming-languages",
+  "title": "Advancing coding in low‑resource programming languages",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/low-resource-programming-languages",
+  "summary": "该项目介绍了 OpenAI 如何提升 ChatGPT 在低资源编程语言上的能力，重点围绕软件工程、SQLite 以及 COBOL 迁移三个方面构建新的评测体系。低资源编程语言因训练数据稀缺，模型表现往往明显落后于 Python、JavaScript 等主流语言，而 COBOL 等语言在金融、政府等遗留系统中仍有大量存量代码，迁移与维护需求迫切。OpenAI 通过针对性的评测基准来衡量模型在真实工程任务中的表现，并据此改进模型能力。这一工作既有助于降低遗留系统现代化的成本，也为低资源语言的代码生成、理解与迁移提供了可量化的评估标准，对企业和开发者具有实际参考价值。",
+  "tags": [
+    "低资源编程语言",
+    "ChatGPT",
+    "代码生成",
+    "COBOL迁移",
+    "评测基准",
+    "软件工程",
+    "SQLite",
+    "遗留系统现代化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 编程与代码智能",
+  "key_insight": "低资源语言的瓶颈在于评测与数据稀缺，针对性基准是提升模型实际工程能力的关键抓手。"
+}

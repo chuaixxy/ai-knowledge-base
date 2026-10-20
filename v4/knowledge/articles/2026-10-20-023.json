@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-20-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068408&idx=1&sn=3d762a23bad4d8ea4a1ddd3d23e6ae50",
+  "title": "直播中｜Claude垫底，GPT表现不佳，PhAI Labs用DiscoveryRSI探索科研Agent自我进化",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068408&idx=1&sn=3d762a23bad4d8ea4a1ddd3d23e6ae50",
+  "summary": "PhAI Labs 是一家聚焦人工智能与科学发现深度融合的新型研究组织（Neo Lab），其直播活动围绕科研 Agent 的自我进化展开，推出 DiscoveryRSI 方法，并在评测中对比了 Claude、GPT 等模型的表现——Claude 垫底、GPT 表现不佳。该项目关注如何让科研智能体通过自我进化机制持续提升科学发现能力，属于 AI for Science 与智能体自进化交叉方向的前沿探索，具有一定的研究创新性与话题性。",
+  "tags": [
+    "AI for Science",
+    "科研Agent",
+    "自我进化",
+    "DiscoveryRSI",
+    "PhAI Labs",
+    "智能体"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI for Science / 智能体研究",
+  "key_insight": "科研 Agent 的竞争力正从模型基座转向自我进化机制，DiscoveryRSI 试图让智能体在科学发现任务中持续迭代超越通用大模型。"
+}

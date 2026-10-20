@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-20-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804707&idx=1&sn=9291fb648a66fa13fa295fc5a2156b84",
+  "title": "从 BERT、GPT 到 Jev：一文看懂大模型架构的演进与分化",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649804707&idx=1&sn=9291fb648a66fa13fa295fc5a2156b84",
+  "summary": "该内容以「从 BERT、GPT 到 Jev」为主线，梳理大模型架构的演进与分化路径。项目核心围绕 Jev 展开，属于对大模型架构谱系的科普与对比分析，涉及 Transformer 编码器、解码器及混合架构的差异，以及不同架构在训练目标、适用任务和工程取舍上的分化。整体偏向技术综述与架构科普，帮助读者建立从早期预训练模型到新兴架构的认知框架。",
+  "tags": [
+    "大模型架构",
+    "BERT",
+    "GPT",
+    "Jev",
+    "Transformer",
+    "技术综述"
+  ],
+  "relevance_score": 0.72,
+  "category": "技术综述/架构科普",
+  "key_insight": "大模型架构的分化本质是训练目标与任务适配的权衡，而非单纯的规模竞赛。"
+}

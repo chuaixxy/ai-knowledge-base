@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-20-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295407&idx=1&sn=b8c188b3e578205013431c43c98bc95d",
+  "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295407&idx=1&sn=b8c188b3e578205013431c43c98bc95d",
+  "summary": "该项目介绍谷歌研究团队开源的智能体框架 Harness²，其核心亮点在于对 OpenCode 与 Codex 两类编码智能体工具的支持，降低了开发者构建和调度 AI 编码代理的门槛。国内开发者实测接入 Jev（推测为某模型服务或 API 网关）后反馈“真行”，说明该框架在跨模型、跨工具链的兼容性上表现良好，具备实际可用性。整体来看，Harness² 定位为智能体编排与执行的基础设施，适合需要将大模型能力嵌入编码工作流的团队，尤其对国内开发者而言，其开放性和可适配性提供了绕开生态壁垒的实践路径。",
+  "tags": [
+    "智能体框架",
+    "开源",
+    "AI编码",
+    "OpenCode",
+    "Codex",
+    "谷歌研究",
+    "开发者工具"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI开发框架/智能体基础设施",
+  "key_insight": "Harness² 的价值不在模型本身，而在于用开放框架把编码智能体的“调度权”交还给开发者，兼容性即生产力。"
+}

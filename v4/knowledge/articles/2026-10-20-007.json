@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-20-007",
+  "source_id": "https://mistral.ai/news/timestral/",
+  "title": "Timestral: Mistral's time-series foundation models",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://mistral.ai/news/timestral/",
+  "summary": "Timestral 是 Mistral 推出的时间序列基础模型项目，旨在将大模型范式引入时间序列预测与分析领域。该项目在技术社区 Lobsters 上引发讨论，表明其受到开发者关注。作为基础模型，它可能支持零样本/少样本预测、多变量时序建模等能力，并有望像语言模型一样通过预训练适配多种下游时序任务。其核心价值在于降低时间序列应用的建模门槛，推动时序分析从专用模型向通用基础模型演进。目前公开信息有限，具体架构、训练数据与基准表现需进一步查阅官方文档与社区讨论。",
+  "tags": [
+    "时间序列",
+    "基础模型",
+    "Mistral",
+    "时序预测",
+    "预训练模型"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI基础模型/时间序列",
+  "key_insight": "将基础模型范式迁移至时间序列领域，有望统一并简化时序预测任务。"
+}

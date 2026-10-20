@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-20-020",
+  "source_id": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+  "title": "Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/saas-platform-trends-in-AI-era",
+  "summary": "Stripe 对 200 位平台领导者的调查显示，AI 正在加剧 SaaS 行业的竞争压力，平台方正被迫重新思考定价、收入增长与客户留存策略。调查总结出四大趋势：一是从按席位订阅转向按用量或混合定价，以匹配 AI 功能的价值交付；二是将 AI 能力嵌入产品以提升差异化与客单价；三是借助支付基础设施实现更灵活的计费与变现；四是通过数据驱动的客户成功与捆绑策略降低流失。整体而言，AI 时代的 SaaS 竞争核心从功能堆叠转向价值定价与平台化生态，平台需在定价敏捷性、AI 产品化和客户留存之间取得平衡。",
+  "tags": [
+    "SaaS",
+    "AI",
+    "定价策略",
+    "Stripe",
+    "行业调查",
+    "客户留存",
+    "平台经济"
+  ],
+  "relevance_score": 0.8,
+  "category": "行业研究/商业趋势",
+  "key_insight": "AI 正推动 SaaS 从按席位订阅转向按价值与用量定价，定价敏捷性成为平台竞争的新护城河。"
+}

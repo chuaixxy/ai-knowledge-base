@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-20-008",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+  "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+  "summary": "该项目讨论的是AI在ML研究中的效率瓶颈问题：AI能极快地生成研究方向和快速验证实现，但实验测试、训练运行、结果评估等环节仍受限于研究者人力，导致产生大量难以跟进的潜在想法。作者希望了解其他研究者是否遇到同样问题，以及如何管理这种'想法过剩'的局面。这本质上是研究流程中'生成端'与'验证端'速度不匹配的工程与管理问题，涉及实验编排、并行探索、结果理解与决策优先级等挑战。",
+  "tags": [
+    "AI辅助科研",
+    "研究流程管理",
+    "实验自动化",
+    "ML工程",
+    "人机协作"
+  ],
+  "relevance_score": 0.72,
+  "category": "AI科研工作流",
+  "key_insight": "AI把研究'想法生成'变成了廉价品，真正的稀缺资源转向了实验验证与结果理解能力。"
+}

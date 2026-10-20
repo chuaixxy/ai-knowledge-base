@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-20-006",
+  "source_id": "https://blog.cloudflare.com/clairic-extraction-model/",
+  "title": "Introducing Clairic, a new System One class of extraction models",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://blog.cloudflare.com/clairic-extraction-model/",
+  "summary": "该项目介绍了一个名为 Clairic 的新型提取模型，属于 System One 类。System One 通常指快速、直觉式的推理模式，因此 Clairic 可能专注于高效、低延迟的信息抽取任务。项目在 Lobste.rs 上发布并引发讨论，但提供的描述仅为评论链接，缺少模型架构、训练数据与性能基准等细节。从命名与定位看，它面向结构化信息抽取场景，强调响应速度与实用性，适合需要实时处理的文档解析、实体识别等应用。整体属于 AI 抽取模型领域的新尝试，值得关注其后续技术细节与评测结果。",
+  "tags": [
+    "信息抽取",
+    "System One",
+    "AI模型",
+    "低延迟推理",
+    "NLP"
+  ],
+  "relevance_score": 0.65,
+  "category": "AI/机器学习模型",
+  "key_insight": "Clairic 以 System One 式快速直觉推理定位，试图在信息抽取任务中兼顾速度与实用性。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-20-003",
+  "source_id": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+  "source": "rss-hacker-news-best",
+  "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "summary": "这是一篇来自 Hacker News 的讨论文章，作者主张开发者应当自行搭建 LLM 代理（proxy）而非依赖第三方服务。文章核心论点是：如果不自己运行代理层，就无法观测和控制发往大模型的请求流量，也就无从知晓实际发生了什么——包括成本消耗、延迟、提示词内容、数据流向、供应商切换、限流与重试等细节。自建代理可以带来可观测性、成本透明、故障排查能力、多供应商路由与降级、缓存与日志审计等好处，同时避免被单一厂商锁定。评论区（209 条）围绕自建代理的运维成本、安全与合规、以及是否值得为中小团队引入这一层展开争论。",
+  "tags": [
+    "LLM Proxy",
+    "可观测性",
+    "AI 基础设施",
+    "成本控制",
+    "供应商锁定",
+    "Hacker News"
+  ],
+  "relevance_score": 0.78,
+  "category": "AI 基础设施 / 工程实践",
+  "key_insight": "LLM 代理层是可观测性与成本控制的关键控制点，自建它意味着把对模型调用的知情权和控制权握在自己手里。"
+}
