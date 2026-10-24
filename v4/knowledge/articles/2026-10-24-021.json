@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-24-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523456&idx=1&sn=33fb7c4c1b2c914c92ab3bd1ae11a117",
+  "title": "火山引擎云数据库 Lakebase 正式发布：让 Agent 高效访问库、湖数据",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523456&idx=1&sn=33fb7c4c1b2c914c92ab3bd1ae11a117",
+  "summary": "火山引擎正式发布云数据库 Lakebase，定位为面向 AI Agent 场景的库湖一体化数据访问服务。该产品打通数据库与数据湖的数据壁垒，提供统一元数据、统一 SQL 引擎和统一权限体系，使 Agent 能够以自然语言或标准接口高效访问结构化与半结构化数据。Lakebase 支持多模数据管理、向量检索与实时分析能力，降低 Agent 构建数据管道的复杂度，并依托火山引擎弹性算力和安全合规能力，为企业智能化应用提供稳定、低成本的数据底座。",
+  "tags": [
+    "云数据库",
+    "数据湖",
+    "AI Agent",
+    "湖仓一体",
+    "火山引擎",
+    "向量检索",
+    "数据访问"
+  ],
+  "relevance_score": 0.85,
+  "category": "云原生数据平台 / AI 基础设施",
+  "key_insight": "Lakebase 的核心价值在于用统一的库湖数据访问层降低 Agent 获取企业数据的门槛，把数据基础设施从'人用'推向'Agent 用'。"
+}

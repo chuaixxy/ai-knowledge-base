@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-011",
+  "source_id": "https://huggingface.co/blog/allenai/litpivot",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "summary": "LitPivot 是一个面向科研构思阶段的技术项目，核心思路是将研究想法置于动态的文献语境中进行定位与打磨。它强调“动态语境化”（dynamic contextualization），即不只做静态文献检索，而是根据用户提出的研究想法，在文献景观中持续调整视角、识别相邻工作与空白点，从而帮助研究者迭代和细化研究问题。项目关注从文献到创意的转化路径，可能涉及文献表示、语义匹配、交互式探索等能力，目标是降低选题阶段的信息过载与定位困难，提升研究想法的原创性与可行性判断。",
+  "tags": [
+    "文献分析",
+    "研究构思",
+    "语义检索",
+    "科研辅助",
+    "知识图谱",
+    "人机交互"
+  ],
+  "relevance_score": 0.78,
+  "category": "科研工具 / 学术信息检索与知识发现",
+  "key_insight": "把文献检索从“找相关论文”升级为“在研究想法周围动态重构文献语境”，以支撑选题迭代。"
+}

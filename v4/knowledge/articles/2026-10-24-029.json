@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-24-029",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498710&idx=1&sn=f4e7e6d5084def4dcbb134ba6c7ba1c6",
+  "title": "大模型如何胜任职场？WorkForge让大模型进入真实职场工作流",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498710&idx=1&sn=f4e7e6d5084def4dcbb134ba6c7ba1c6",
+  "summary": "该项目WorkForge聚焦于让大模型真正融入真实职场工作流，而非停留在对话问答层面。其核心思路是将大模型嵌入具体业务流程与任务链路中，使其具备理解工作上下文、调用工具、执行多步骤任务的能力，从而胜任实际岗位工作。项目探讨了大模型从通用能力走向职场落地所面临的关键挑战，包括任务拆解、流程编排、结果可靠性以及与人协作的边界问题，并提出了以工作流为载体的工程化解决路径，为大模型在企业场景中的实用化提供了可参考的实践方向。",
+  "tags": [
+    "大模型应用",
+    "职场工作流",
+    "Agent",
+    "企业落地",
+    "任务编排"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI应用/智能体工程",
+  "key_insight": "大模型胜任职场的关键不在于模型本身更强，而在于将其嵌入可编排、可验证的真实工作流中。"
+}

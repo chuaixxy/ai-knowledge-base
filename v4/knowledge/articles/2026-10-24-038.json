@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+  "title": "DeepSeek 开源推理框架：走向真正普惠的未来",
+  "source": "rss-deepseek",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+  "summary": "DeepSeek 开源推理框架是一个全面支持开源社区优化部署的技术项目，旨在扩大服务范围、提升效率并降低能耗。该框架通过开源方式，让更多开发者和企业能够利用先进的推理优化技术，实现高效能的 AI 模型部署。项目强调普惠性，推动 AI 技术的民主化，使资源有限的团队也能受益。其核心价值在于社区驱动、性能优化和节能环保，有望加速 AI 推理在各行业的落地应用，促进技术创新和可持续发展。",
+  "tags": [
+    "开源",
+    "推理框架",
+    "模型部署",
+    "性能优化",
+    "节能",
+    "社区驱动"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI 基础设施",
+  "key_insight": "开源推理框架通过社区协作降低 AI 部署门槛，实现高效节能的普惠 AI。"
+}

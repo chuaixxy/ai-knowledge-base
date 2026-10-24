@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523647&idx=1&sn=f96a64e413be6cdbaf0936f0a2a69f23",
+  "title": "OpenViking 网关：让任意客户端用上 Agentic 记忆",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523647&idx=1&sn=f96a64e413be6cdbaf0936f0a2a69f23",
+  "summary": "OpenViking 网关是一个面向 Agentic 记忆系统的统一接入层项目，其核心目标是让任意客户端（如各类 LLM 应用、IDE 插件、聊天工具等）都能便捷地接入并使用具备智能体特性的记忆能力。项目通过网关形式屏蔽底层记忆存储与检索的复杂性，对上层客户端提供标准化接口，实现记忆的写入、检索、更新与上下文管理。该设计降低了 Agentic 记忆能力的集成门槛，使不同技术栈的客户端无需改造即可复用同一套记忆服务，从而提升智能体在多轮对话与长期任务中的上下文连续性与个性化表现。整体属于 AI 基础设施与中间件方向，强调兼容性、可扩展性与易集成性。",
+  "tags": [
+    "Agentic Memory",
+    "AI Gateway",
+    "LLM Infrastructure",
+    "上下文管理",
+    "中间件",
+    "智能体"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 基础设施 / 中间件",
+  "key_insight": "以网关抽象屏蔽记忆系统复杂度，让任意客户端零改造获得 Agentic 记忆能力。"
+}

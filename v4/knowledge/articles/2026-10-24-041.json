@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-041",
+  "source_id": "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
+  "title": "Trends from Money20/20 2026: The rise of “hidden” financial services",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
+  "summary": "该文章基于Money20/20 2026大会观察，指出金融科技产品能力不断增强的同时，其底层基础设施正逐渐“隐身”于后台。文章归纳三大趋势：一是稳定币作为支付与结算基础设施的普及，二是AI智能体（agents）在金融服务中的自主化应用，三是“始终在线”的实时资金流动模式。三者共同推动金融服务从显性产品走向隐形嵌入，用户感知到的是无缝体验，而复杂的技术与合规层则被封装在后端。这一“隐形化”趋势意味着竞争焦点从界面转向基础设施能力、互操作性与实时清算效率，金融机构需重构底层架构以支撑嵌入式、智能化的下一代服务。",
+  "tags": [
+    "金融科技",
+    "稳定币",
+    "AI智能体",
+    "实时支付",
+    "嵌入式金融",
+    "基础设施"
+  ],
+  "relevance_score": 0.85,
+  "category": "金融科技趋势",
+  "key_insight": "金融服务的未来竞争力在于“隐形”——稳定币、AI智能体与实时资金流正将复杂基础设施封装为无缝体验，胜负取决于后端能力而非前端界面。"
+}

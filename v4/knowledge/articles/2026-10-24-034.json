@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-034",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503159&idx=1&sn=88911d11c4ac9a6d867fe00474149110",
+  "title": "Jev：当 AI 不再&#34;写答案&#34;，而是直接做决策",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503159&idx=1&sn=88911d11c4ac9a6d867fe00474149110",
+  "summary": "该项目介绍 TypeSafe AI 的 Jev 框架，核心主张是让大语言模型不再生成自然语言答案，而是直接输出带有类型约束的决策结果与概率分布。文章剖析了 LLM 与决策模型的新型分工方式：LLM 负责理解与特征抽取，决策层负责输出结构化、可校验的判定。文中给出落地四步方法论，并列举四类适合试点的场景，强调工程化、可验证与克制务实，适合关注 AI 工程化落地的技术团队参考。",
+  "tags": [
+    "LLM",
+    "决策模型",
+    "TypeSafe AI",
+    "结构化输出",
+    "AI工程化",
+    "概率决策"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI工程化/LLM应用架构",
+  "key_insight": "让 LLM 输出有类型的决策而非自然语言文本，可显著提升 AI 系统的可校验性与工程可控性。"
+}

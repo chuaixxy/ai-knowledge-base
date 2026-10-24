@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-24-005",
+  "source_id": "https://arxiv.org/abs/2610.30157",
+  "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.30157",
+  "summary": "该论文系统比较了AI智能体接入外部系统（文件、API、数据库、云服务）的两大范式：直接执行Shell命令的CLI，与提供受治理、强类型工具访问的结构化JSON-RPC协议MCP。研究从14个评估维度展开，结合实例、对照合规框架的安全评估与经济建模。结论是：CLI在单用户、纯本地工作流中效率更优；而MCP满足CLI本质上无法覆盖的需求，包括细粒度访问控制、凭证隔离、结构化审计与多租户治理。论文还指出，渐进式披露技术可消除MCP在上下文窗口开销上的历史弱点，从而提升token效率。",
+  "tags": [
+    "MCP",
+    "CLI",
+    "AI Agent",
+    "工具集成",
+    "安全治理",
+    "访问控制",
+    "JSON-RPC",
+    "上下文窗口"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI Agent 工具集成与安全治理",
+  "key_insight": "CLI胜在单用户本地的效率，MCP胜在CLI无法实现的细粒度管控、凭证隔离与多租户治理，二者应按场景互补选用。"
+}

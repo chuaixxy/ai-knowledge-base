@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501517&idx=1&sn=f00a9af28982815a36672b6ceb00befc",
+  "title": "如何从构建AI到驾驭AI？快手8场工程实践亮相QCon 2026",
+  "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501517&idx=1&sn=f00a9af28982815a36672b6ceb00befc",
+  "summary": "该项目是快手在QCon 2026大会上分享的8场AI工程实践，主题围绕从\"构建AI\"到\"驾驭AI\"的转变，强调Harness AI时代的工程方法论。内容涵盖AI系统落地过程中的工程挑战、架构设计、模型应用与治理等实践方向，旨在展示如何将AI能力有效整合进实际业务系统并实现可控可管。整体偏向工程经验分享而非单一技术产品，适合关注AI工程化、大模型落地实践的开发者与架构师参考借鉴。",
+  "tags": [
+    "AI工程化",
+    "快手",
+    "QCon",
+    "Harness AI",
+    "大模型落地",
+    "工程实践"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI工程实践",
+  "key_insight": "AI竞争的下半场不在于构建模型，而在于用工程手段驾驭模型、让AI能力可控地融入业务系统。"
+}

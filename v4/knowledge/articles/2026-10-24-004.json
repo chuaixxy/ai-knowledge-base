@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-24-004",
+  "source_id": "https://arxiv.org/abs/2610.30151",
+  "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2610.30151",
+  "summary": "该论文首次对主流AI智能体通信协议（MCP 2025 initialize版与2026 discover版、A2A、ACP）的握手开销进行实证性分阶段基准测试，使用各协议官方SDK，在冷启动、热重复、能力不匹配和元数据降级四种场景下（每格N=50，回环与模拟50ms RTT）测量往返次数、各阶段延迟、线上字节数和token成本。核心发现是往返次数主导握手成本：旧版MCP握手需3次往返、50ms RTT下耗时230ms，而A2A仅需1次往返、61.0ms。研究填补了协议调查中仅将握手开销列为效率标准却无实测数据的空白。",
+  "tags": [
+    "AI Agent",
+    "通信协议",
+    "握手开销",
+    "基准测试",
+    "MCP",
+    "A2A",
+    "ACP",
+    "性能测量"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent 通信协议 / 性能基准测试",
+  "key_insight": "往返次数而非字节数或token数是AI智能体握手延迟的主导因素，减少往返是优化关键。"
+}

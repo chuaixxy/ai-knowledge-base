@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-002",
+  "source_id": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+  "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+  "summary": "该讨论源自 Lobste.rs 社区，聚焦欧盟成员国批准的一项被批评者称为“数字征收”（digital expropriation）的政策，该政策被认为允许 AI 公司大规模获取欧洲人的数据和内容用于模型训练。批评者指出，这实质上是以 AI 产业发展为名，对个人数据权益的集体剥夺，削弱了 GDPR 等既有隐私保护框架。讨论涉及政策透明度、创作者与普通公民的知情同意权、AI 训练数据的合法边界，以及监管在产业竞争压力下的妥协。核心争议在于：公共利益的产业扶持是否可以正当化对个人数字资产的强制性让渡，以及这种模式是否会成为其他司法辖区的先例。",
+  "tags": [
+    "AI 监管",
+    "数据隐私",
+    "欧盟政策",
+    "训练数据",
+    "GDPR",
+    "数字权利"
+  ],
+  "relevance_score": 0.82,
+  "category": "政策与伦理",
+  "key_insight": "以 AI 竞争力为名的数据强制开放，正在把隐私保护从权利问题改写为产业成本问题。"
+}

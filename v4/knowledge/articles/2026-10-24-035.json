@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-24-035",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504445&idx=1&sn=f75fce7106f8ba37e7ee3918ab5aa787",
+  "title": "Index-Translate：支持 150 种语言的多模态翻译模型是如何炼成的？",
+  "source": "rss-3a12ae4fde5bb74aab2fddc9f710a3c057eab82f",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504445&idx=1&sn=f75fce7106f8ba37e7ee3918ab5aa787",
+  "summary": "Index-Translate 是哔哩哔哩 Index LLM 团队推出的多模态翻译模型系列。其文本翻译能力覆盖 150 种语言，并提供 2B、9B 与 35B-A3B（preview）三种参数规模，兼顾轻量部署与高性能场景。除纯文本翻译外，该系列还支持图文翻译，并扩展出语音翻译、音节控制与长文档翻译等能力，体现出向多模态、多场景统一翻译系统演进的技术路线。其核心价值在于以统一模型家族覆盖广泛语种与多种输入形态，降低多语言、多模态翻译的部署与适配成本。",
+  "tags": [
+    "多模态翻译",
+    "多语言",
+    "语音翻译",
+    "图文翻译",
+    "长文档翻译",
+    "大语言模型",
+    "B站"
+  ],
+  "relevance_score": 0.85,
+  "category": "多模态大模型 / 机器翻译",
+  "key_insight": "以统一模型家族同时覆盖 150 种语言与文本、图像、语音多模态输入，是多语言翻译走向通用化的关键路径。"
+}

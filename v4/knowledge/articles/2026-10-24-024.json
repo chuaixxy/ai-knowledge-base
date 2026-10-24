@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512151&idx=1&sn=4141fadeb55100e34b5481d5543e28b3",
+  "title": "OpenSandbox 正式加入 AAIF，从阿里开源项目走向行业公共基础设施",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512151&idx=1&sn=4141fadeb55100e34b5481d5543e28b3",
+  "summary": "OpenSandbox 正式加入 AAIF（Agent 执行环境开放共建联盟），标志着该项目从阿里巴巴内部开源项目升级为行业公共基础设施。OpenSandbox 为 AI Agent 提供隔离、安全、可复现的执行环境，解决 Agent 在代码运行、工具调用和沙箱隔离中的信任与兼容问题。加入 AAIF 后，项目将采用更开放的治理模式，吸引多方厂商与社区共同制定接口标准、扩展运行时支持，并推动跨平台互操作。这一转变意味着 Agent 基础设施正从单一厂商主导走向标准化协作，有助于降低生态碎片化风险，加速 Agent 应用在企业场景中的规模化落地。",
+  "tags": [
+    "AI Agent",
+    "沙箱执行环境",
+    "开源治理",
+    "标准化",
+    "基础设施",
+    "AAIF"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 基础设施与开源生态",
+  "key_insight": "Agent 执行环境从厂商自建走向行业共建，标准化沙箱有望成为 Agent 生态的公共底座。"
+}

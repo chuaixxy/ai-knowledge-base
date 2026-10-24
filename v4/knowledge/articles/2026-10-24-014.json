@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-014",
+  "source_id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "title": "Ensemble forecasting with IBM Granite time-series models",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "summary": "该项目展示了如何利用 IBM Granite 时间序列基础模型进行集成预测（Ensemble forecasting）。核心思路是将多个 Granite 时序模型的预测结果进行组合，以提升单一模型在趋势、季节性和噪声处理上的稳健性。项目通常包含模型加载、推理调用、预测结果聚合（如加权平均或中位数集成）以及评估对比等环节，适用于需求预测、设备监测、金融时序等场景。其价值在于借助预训练大模型的零样本/少样本能力，降低训练成本，同时通过集成策略缓解单模型偏差，提高预测精度与泛化性，是基础模型在时序预测落地的一种实用范式。",
+  "tags": [
+    "时间序列预测",
+    "集成学习",
+    "IBM Granite",
+    "基础模型",
+    "零样本预测",
+    "模型集成"
+  ],
+  "relevance_score": 0.8,
+  "category": "时间序列基础模型应用",
+  "key_insight": "通过集成多个 Granite 时序基础模型的预测，以低成本方式提升预测稳健性与精度。"
+}

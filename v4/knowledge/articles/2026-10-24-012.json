@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-012",
+  "source_id": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "summary": "该项目是一个查询工具，旨在帮助用户判断某个机器学习模型是否能在 AWS Trainium 芯片上运行。Trainium 是 AWS 自研的 AI 训练加速器，对模型算子、框架和编译链路有特定要求，许多模型并不能开箱即用地迁移。该工具通过维护一个可查询的兼容性清单，让开发者快速检索目标模型的支持状态，从而在选型或迁移前评估可行性，减少试错成本。它本质上解决的是 AI 硬件生态碎片化下的兼容性信息不对称问题，适合需要评估 Trainium 部署成本或在多云/自研芯片策略中做技术决策的团队使用。",
+  "tags": [
+    "AWS Trainium",
+    "模型兼容性",
+    "AI 芯片",
+    "模型部署",
+    "推理优化",
+    "云基础设施"
+  ],
+  "relevance_score": 0.72,
+  "category": "AI 基础设施与硬件兼容性",
+  "key_insight": "把分散的 Trainium 模型兼容性信息做成可查询清单，降低自研芯片迁移的评估门槛。"
+}

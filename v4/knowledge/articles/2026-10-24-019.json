@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-019",
+  "source_id": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
+  "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html",
+  "summary": "本文介绍了一套面向算法模型的AutoResearch自进化系统，其架构经历了从LOOP式迭代到图探索式演进的转变。文章围绕设计理念、架构演进路径与可信度保障机制展开，阐述了系统如何通过图结构探索提升模型自动研究与自我进化的能力，并重点讨论了在自动化研究流程中确保结果可信、可解释的设计思路，为构建可自我迭代的算法研发体系提供了架构参考与实践启发。",
+  "tags": [
+    "AutoResearch",
+    "自进化系统",
+    "图探索",
+    "算法模型",
+    "架构演进",
+    "可信度设计"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI系统架构",
+  "key_insight": "从线性LOOP迭代走向图探索，是自进化研究系统兼顾搜索广度与结果可信度的关键架构跃迁。"
+}

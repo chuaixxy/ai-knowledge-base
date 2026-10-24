@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514909&idx=1&sn=d58600f61abd3ec5e583301d7688dae8",
+  "title": "MiniMax-M3.1-Flash开源：428B 参数 / 23B 激活，推理速度提升近3倍！",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247514909&idx=1&sn=d58600f61abd3ec5e583301d7688dae8",
+  "summary": "MiniMax 正式开源 MiniMax M3.1 Flash 模型权重，采用 MoE 架构，总参数量 428B、激活参数量仅 23B，推理速度较前代提升近 3 倍。该模型通过稀疏激活机制在保持大模型能力的同时显著降低推理算力开销，兼顾性能与效率，适合高并发、低延迟的生产级部署场景。开源权重意味着开发者可自行微调、私有化部署与二次开发，进一步降低大模型应用门槛，也反映出国内厂商在 MoE 高效推理方向上的持续投入与开源生态竞争加剧。",
+  "tags": [
+    "MoE",
+    "开源模型",
+    "大语言模型",
+    "推理加速",
+    "稀疏激活",
+    "MiniMax"
+  ],
+  "relevance_score": 0.9,
+  "category": "大模型/开源模型",
+  "key_insight": "428B 总参数仅激活 23B，以稀疏 MoE 架构实现近 3 倍推理提速，是大模型“大容量、低推理成本”路线的典型落地。"
+}

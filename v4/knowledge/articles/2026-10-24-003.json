@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-24-003",
+  "source_id": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+  "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+  "summary": "该项目探讨了如何在 PyTorch 的反向传播（backward pass）过程中运行图灵完备的恶意代码。核心思路是利用 PyTorch 自动微分机制中自定义 Function 的 backward 方法可以执行任意 Python 代码这一特性，将恶意逻辑嵌入到看似正常的模型训练流程中。由于反向传播通常被视为纯数学计算，安全审计往往只关注前向推理路径，从而形成检测盲区。作者展示了攻击者可在模型训练或微调阶段触发任意代码执行，且难以通过常规模型检查发现。这揭示了机器学习框架在供应链安全方面的深层风险，提醒业界需将自动微分钩子纳入威胁建模范围。",
+  "tags": [
+    "PyTorch",
+    "供应链安全",
+    "恶意代码",
+    "自动微分",
+    "机器学习安全"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与攻防",
+  "key_insight": "PyTorch 反向传播中的自定义 backward 钩子是常被忽视的任意代码执行面，模型文件本身即可成为恶意载荷的载体。"
+}

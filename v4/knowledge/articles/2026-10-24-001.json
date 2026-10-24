@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-24-001",
+  "source_id": "https://arxiv.org/abs/2610.14162",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://arxiv.org/abs/2610.14162",
+  "summary": "该项目提出“Next-Concept Modeling”（下一概念建模），一种从粗到细、快速并行的文本生成范式。传统自回归语言模型逐 token 串行生成，速度受限于序列长度。该方法改为先生成较粗粒度的“概念”单元，再并行细化到具体 token，从而在保持生成质量的同时显著提升推理速度。核心在于将生成过程分解为概念规划与并行解码两个阶段，利用概念级并行性突破逐 token 的串行瓶颈，属于文本生成加速与解码策略方向的研究工作。",
+  "tags": [
+    "文本生成",
+    "并行解码",
+    "粗到细生成",
+    "推理加速",
+    "语言模型"
+  ],
+  "relevance_score": 0.78,
+  "category": "自然语言处理/文本生成",
+  "key_insight": "用概念级粗粒度规划加并行细化替代逐 token 串行解码，在质量与速度间取得更好平衡。"
+}

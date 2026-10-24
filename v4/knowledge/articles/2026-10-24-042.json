@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-042",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295848&idx=1&sn=c39b9268097f1dbdf2c41b8f7190c6a4",
+  "title": "实测小艺 Work：从全媒体运营到深度研究的完整体验",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651295848&idx=1&sn=c39b9268097f1dbdf2c41b8f7190c6a4",
+  "summary": "该项目是对 openJiuwen 加持下小艺 Work 的实测体验报告，覆盖从全媒体运营到深度研究的完整工作流。作者以编辑部日常任务为场景，检验小艺 Work 在内容策划、素材整理、多平台分发及深度研究等环节的实际表现，评估其能否真正承担编辑部的日常协作任务。体验重点在于考察 openJiuwen 框架对智能体任务编排与执行能力的提升，以及在全媒体运营与深度研究两类差异较大的任务间切换时的稳定性与完成度。整体属于产品实测与能力评估类内容，为关注 AI 智能体落地办公场景的读者提供了一手参考。",
+  "tags": [
+    "AI Agent",
+    "小艺 Work",
+    "openJiuwen",
+    "全媒体运营",
+    "深度研究",
+    "产品实测"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 产品实测与评测",
+  "key_insight": "小艺 Work 的实测价值在于验证 openJiuwen 加持的智能体能否在编辑部真实任务中打通运营与研究的全链路。"
+}

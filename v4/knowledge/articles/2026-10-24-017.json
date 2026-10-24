@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-24-017",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+  "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+  "summary": "Block（Jack Dorsey 旗下公司）发布了一款名为 Dessa 的 AI 模型，该模型完全基于人类对话数据从零训练而成，而非依赖通用语料预训练。为展示效果，Block 公开了 Dessa 与人类的真实对话记录，其中呈现出略显尴尬、陌生的交流质感——类似与一个刚认识的新朋友聊天时的生涩感。Dessa 负责人 Ragavan Thurairatnam 分享了其中一段对话作为示例。这一项目强调以纯对话数据训练，追求更自然但也可能更不可控的交互风格，反映了 AI 对话模型在数据来源与训练范式上的差异化探索。",
+  "tags": [
+    "AI 对话模型",
+    "Block",
+    "Jack Dorsey",
+    "Dessa",
+    "从零训练",
+    "人机交互"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI 模型 / 对话系统",
+  "key_insight": "Dessa 用纯人类对话从零训练，刻意保留的'尴尬感'揭示了对话 AI 在自然性与可控性之间的新权衡。"
+}
