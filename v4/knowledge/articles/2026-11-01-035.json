@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-01-035",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247507060&idx=1&sn=5a368b3edb7115f9b549e03579f42e71",
+  "title": "AI Registry：给企业 AI 资产办一本 “户口”",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247507060&idx=1&sn=5a368b3edb7115f9b549e03579f42e71",
+  "summary": "AI Registry 是一个面向企业的 AI 资产登记与管理平台，旨在为 MCP 服务、Skill 和 Agent 等 AI 组件建立统一的“户口”体系。它解决企业内 AI 资产分散、权属不清、管理混乱的问题，通过集中登记实现资产的可见性、可管理性和高效利用。平台帮助追踪每个 AI 组件的位置、作者和责任人，从而提升 AI 治理水平，确保合规与安全，并促进资产复用。该项目属于 AI 治理与资产管理领域，适用于需要规范化 AI 资源的企业场景。",
+  "tags": [
+    "AI 资产管理",
+    "AI 治理",
+    "企业 AI",
+    "MCP",
+    "Agent 管理"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 治理与资产管理",
+  "key_insight": "AI Registry 通过统一登记与权属管理，让企业 AI 资产从“黑盒”变为“白盒”，是实现 AI 资产可见、可控、可用的关键基础设施。"
+}

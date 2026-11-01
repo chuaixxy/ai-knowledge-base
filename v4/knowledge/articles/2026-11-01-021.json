@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512313&idx=1&sn=d8564332f58af0201a766cc017da8529",
+  "title": "从模型优化到智能体协同：阿里 MaaS 团队的 WMT26 技术实践",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512313&idx=1&sn=d8564332f58af0201a766cc017da8529",
+  "summary": "该项目是阿里 ATH MaaS 团队联合 Qwen 团队为 WMT26（国际机器翻译评测）定制的参赛系统技术实践。工作围绕两条主线展开：一是模型优化，包括面向翻译任务的模型微调、数据工程与推理优化；二是智能体协同，通过多智能体（Agent）协作框架提升翻译质量，如多候选生成、评审与重写等。文章系统性介绍了系统架构、训练策略与评测结果，体现了从单一模型优化向 Agent 协同的演进思路，展示了 MaaS 平台在机器翻译场景下的工程落地能力。",
+  "tags": [
+    "机器翻译",
+    "WMT26",
+    "MaaS",
+    "智能体协同",
+    "模型优化",
+    "Qwen",
+    "多智能体系统"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 技术实践 / 机器翻译",
+  "key_insight": "从单模型优化走向多智能体协同，是提升机器翻译质量的新范式。"
+}

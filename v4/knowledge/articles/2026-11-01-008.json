@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-008",
+  "source_id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "summary": "Granite Switch 4.1.1 提出「像更新软件一样更新模型」的理念，聚焦于 AI 模型的可维护性与生命周期管理。该项目将软件工程中的版本控制、灰度发布、回滚机制等实践引入模型部署流程，使模型更新具备可追溯、可测试、可快速回退的工程化能力。其核心价值在于降低模型迭代的运维风险，让模型升级不再是「黑盒替换」，而是像发布软件版本一样可控、可审计。适用于需要频繁迭代模型的生产环境，尤其适合对稳定性和可回滚性有高要求的企业级 AI 应用场景。",
+  "tags": [
+    "模型部署",
+    "版本管理",
+    "MLOps",
+    "灰度发布",
+    "模型生命周期",
+    "工程化"
+  ],
+  "relevance_score": 0.78,
+  "category": "MLOps / 模型运维",
+  "key_insight": "把软件发布的版本控制与回滚范式迁移到模型更新上，是降低模型迭代风险的关键工程化思路。"
+}

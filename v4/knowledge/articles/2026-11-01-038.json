@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520628&idx=1&sn=82b316cb8ca7a6148323d9091fe74962",
+  "title": "小尺寸全能王：小米开源0.8B卷王OCR模型",
+  "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520628&idx=1&sn=82b316cb8ca7a6148323d9091fe74962",
+  "summary": "小米开源了一款仅0.8B参数的轻量级OCR模型，以极小体积实现高精度文字识别，被称为“卷王”。该模型在保持低算力、低部署成本的同时，兼顾多场景文字检测与识别能力，适合端侧和边缘设备运行。其开源策略降低了OCR应用门槛，为移动端、嵌入式及隐私敏感场景提供了高效替代方案，体现了小模型在垂直任务上的实用价值与工程优化潜力。",
+  "tags": [
+    "OCR",
+    "轻量级模型",
+    "开源",
+    "小米",
+    "端侧AI",
+    "文字识别"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机视觉/OCR",
+  "key_insight": "0.8B小模型通过极致工程优化，在OCR任务上实现体积与精度的平衡，推动端侧文字识别落地。"
+}

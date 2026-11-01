@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-006",
+  "source_id": "https://openai.com/index/fair-use-benefits-everyone",
+  "title": "Fair use benefits everyone",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/fair-use-benefits-everyone",
+  "summary": "该项目是 OpenAI 发布的一份法律与政策立场材料，汇编了创作者、学者、无障碍倡导者及法律专家等各方在法庭简报中的节选，论证合理使用（fair use）原则如何支持 AI 训练与创新。其核心在于通过多方主体的公开陈述，强调合理使用并非仅有利于 AI 企业，而是让创作者、研究者、残障群体和整个社会共同受益，从而为 AI 训练数据的版权合法性提供舆论与法理支撑。该材料属于政策倡导与法律论证性质，而非技术工具或产品。",
+  "tags": [
+    "合理使用",
+    "AI 训练",
+    "版权政策",
+    "法律论证",
+    "OpenAI",
+    "公共利益"
+  ],
+  "relevance_score": 0.8,
+  "category": "政策与法律",
+  "key_insight": "合理使用不是 AI 公司的单方特权，而是维系创作、研究与无障碍创新的公共制度基础。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-053",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=2&sn=9dacc8ad2d49132915dd05571bef77a7",
+  "title": "刚刚，Claude每月200美元套餐取消5小时限制",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071332&idx=2&sn=9dacc8ad2d49132915dd05571bef77a7",
+  "summary": "该项目报道了Anthropic对其Claude订阅计划的调整：原每月200美元的套餐取消了此前每5小时的使用限制，同时订阅计划进行了改名。这一变化意味着高付费用户在单位时间内可更自由地调用Claude，减少了使用频率上的约束，提升了重度用户与专业开发者的体验。从技术项目角度看，这属于AI服务商商业策略与产品配额政策的更新，反映出大模型厂商在算力供给改善或竞争压力下，通过放宽限额来增强付费套餐吸引力、争夺高端用户的趋势，对依赖Claude进行长时任务、批量调用或Agent开发的使用者具有直接影响。",
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "订阅计划",
+    "定价策略",
+    "AI服务",
+    "配额限制"
+  ],
+  "relevance_score": 0.62,
+  "category": "AI产品与商业动态",
+  "key_insight": "高价位套餐取消5小时限额，本质是厂商以放宽用量约束换取高端用户留存与竞争力的商业调整。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515097&idx=1&sn=0e42231255e86c0821eb6ee90424a1d5",
+  "title": "NVIDIA 开源 Nemotron 3.5 Transcribe：支持 40 语种转写，以 4B 激活参数登顶多项语音评测",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515097&idx=1&sn=0e42231255e86c0821eb6ee90424a1d5",
+  "summary": "NVIDIA 开源 Nemotron 3.5 Transcribe 语音模型，以 4B 激活参数在多项语音评测中登顶，支持 40 种语言的语音转写。该模型采用单一架构即可完成语音转写、说话人归属标注、翻译和音频问答等多任务，无需为不同功能部署独立模型，显著降低部署复杂度。配套发布的 Granary v2 多语言数据清单和可复用数据整理流水线，为多语言语音模型的训练与复现提供了高质量数据基础。该项目的开源有助于推动多语言语音理解与生成技术的普及，尤其在低资源语种场景下具有较高应用价值。",
+  "tags": [
+    "语音识别",
+    "多语言",
+    "开源模型",
+    "NVIDIA",
+    "多任务学习",
+    "数据流水线"
+  ],
+  "relevance_score": 0.88,
+  "category": "语音AI/多模态模型",
+  "key_insight": "单一 4B 激活参数模型统一转写、说话人标注、翻译与音频问答，配合开源数据流水线，大幅降低多语言语音应用的门槛。"
+}

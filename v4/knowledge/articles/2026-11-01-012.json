@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-012",
+  "source_id": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+  "title": "I built an AI Tamagotchi before Meta could",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+  "summary": "该项目是一个开发者自制的AI电子宠物（Tamagotchi）项目，灵感来源于Meta推出的Muse Charm AI伴侣设备。作者以幽默口吻表示不会购买Meta的产品，而是选择自己动手实现类似功能。项目核心是将AI助手拟人化为可随身携带的可爱小生物形态，具备面部表情和互动能力，模拟经典Tamagotchi电子宠物的养成体验。技术上涉及嵌入式硬件、AI对话模型集成、表情动画渲染以及便携式交互设计，体现了个人开发者对消费级AI硬件产品的复刻与再创造，也反映了AI拟人化、情感化陪伴产品的流行趋势。",
+  "tags": [
+    "AI电子宠物",
+    "嵌入式AI",
+    "DIY硬件",
+    "情感计算",
+    "Tamagotchi",
+    "AI陪伴"
+  ],
+  "relevance_score": 0.72,
+  "category": "AI硬件/创意DIY项目",
+  "key_insight": "消费级AI硬件正走向拟人化陪伴，而开源DIY方案让个人开发者也能复刻Meta级产品体验。"
+}

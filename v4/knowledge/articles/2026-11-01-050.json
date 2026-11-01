@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-050",
+  "source_id": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+  "title": "How the fastest-growing enterprises on Stripe scale globally",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally",
+  "summary": "该报告基于Stripe平台数据，分析了全球增长最快的企业如何在经济增长放缓与地缘政治碎片化的背景下实现全球化扩张。核心发现是：高增长企业并未收缩回本土市场，而是持续将业务拓展至海外，并系统性投资于能够加速扩张、提升可复制性的工具与工作流。这些企业通过标准化支付基础设施、自动化合规与运营流程、以及模块化的技术栈，降低了进入新市场的边际成本，使国际化从一次性项目转变为可重复的规模化能力。报告强调，全球化已不再是大型企业的专属，快速增长的初创与中型企业正借助平台化工具实现\"出生即全球\"的运营模式，支付、税务、风控等基础设施的成熟是关键使能因素。",
+  "tags": [
+    "全球化扩张",
+    "支付基础设施",
+    "企业增长",
+    "Stripe",
+    "跨境业务",
+    "运营自动化",
+    "可复制工作流"
+  ],
+  "relevance_score": 0.78,
+  "category": "商业与金融科技",
+  "key_insight": "高增长企业的全球化优势不在于市场选择，而在于将扩张流程工具化、可复制化，从而把国际化从项目变成能力。"
+}

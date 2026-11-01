@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-051",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651296315&idx=1&sn=ba792a45e31c45a6801235227c54d131",
+  "title": "“别再像 2024 年那样用 Claude 了！”Claude Cowork 工程负责人：有些 Skill 删掉反而更好",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651296315&idx=1&sn=ba792a45e31c45a6801235227c54d131",
+  "summary": "该项目围绕 Claude Cowork 工程负责人的观点展开，核心讨论是 AI 模型能力发挥高度依赖任务设计与上下文组织，而非单纯堆叠功能。文中提出一个反直觉的工程经验：部分 Skill（技能/工具模块）删除后效果反而更好，说明过度配置工具、提示或技能会增加模型决策负担、引入噪声并稀释关键指令，导致输出质量下降。文章强调应围绕具体任务精简能力集，让模型在清晰边界内聚焦，从而提升邮件撰写、复杂工程等不同场景的表现。整体传递的工程理念是：AI 应用效果取决于任务与能力的匹配度及上下文管理，做减法有时比做加法更有效。",
+  "tags": [
+    "Claude",
+    "AI Agent",
+    "Prompt Engineering",
+    "工具调用",
+    "上下文管理",
+    "工程实践"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 工程实践",
+  "key_insight": "AI 能力发挥取决于任务与工具的精准匹配，精简技能集、减少噪声往往比堆叠功能更能提升模型表现。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-016",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523892&idx=1&sn=f210923b89308ffa03e248ab36043d7b",
+  "title": "以电商客服为例，看 AgentKit 技能评测如何让 Skill 敢上生产！",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247523892&idx=1&sn=f210923b89308ffa03e248ab36043d7b",
+  "summary": "该项目以电商客服场景为例，剖析了 AgentKit 技能评测体系如何解决 Skill 上生产前的质量信任问题。核心围绕一个看似高分的 95.8 分 Skill 为何仍不敢上生产这一矛盾展开，说明单一评分不足以覆盖真实业务中的边界情况、多轮对话稳定性、工具调用正确性与安全性等风险。AgentKit 通过构建多维度评测集、模拟真实用户意图与异常输入、量化通过率与失败模式，帮助团队定位高分背后的盲区，建立可复现、可回归的评测闭环，从而让 Skill 从'分数达标'走向'生产可用'。",
+  "tags": [
+    "AgentKit",
+    "Skill评测",
+    "电商客服",
+    "生产就绪",
+    "AI Agent",
+    "质量保障"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent 工程与评测",
+  "key_insight": "高分不等于可上生产，只有覆盖真实边界与失败模式的系统性评测才能建立 Skill 的生产信任。"
+}

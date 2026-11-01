@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-014",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+  "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+  "summary": "OpenAI CEO Sam Altman在Cheeky Pint播客访谈中被问及供应链短缺（如持续的RAM内存短缺）时表示，将RAM放在个人PC而非数据中心是\"糟糕的\"。他提到很多人希望……（原文截断）。此番言论反映了AI行业对算力资源集中化的立场：在AI需求爆发、内存供给紧张的背景下，Altman认为内存资源应优先配置于数据中心以支撑大规模模型训练与推理，而非分散在消费级设备上。该观点可能引发关于资源分配优先级、消费硬件市场与AI基础设施竞争之间张力的讨论。",
+  "tags": [
+    "Sam Altman",
+    "OpenAI",
+    "RAM短缺",
+    "数据中心",
+    "AI算力",
+    "供应链",
+    "硬件资源分配"
+  ],
+  "relevance_score": 0.6,
+  "category": "行业观点/供应链",
+  "key_insight": "Altman的言论折射出AI产业与消费硬件争夺内存资源的矛盾，暗示算力集中化是AI发展的优先方向。"
+}

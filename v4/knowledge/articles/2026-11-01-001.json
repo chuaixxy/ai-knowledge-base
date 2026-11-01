@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-001",
+  "source_id": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+  "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+  "summary": "该项目探讨如何用 Rust 和 Cloudflare Durable Objects 为 AI Agent 构建细粒度版本控制系统。传统 Git 面向人类协作、以文件为粒度提交，难以适配 Agent 高频、小步、并发的状态变更。方案利用 Durable Objects 的单点强一致存储与 WebSocket 能力，为每个 Agent 会话维护可持久化的操作日志，并用 Rust 实现高效的差异计算与快照合并，从而实现按操作/步骤级别的版本追踪、回滚与分支。核心价值在于让 Agent 的推理轨迹、工具调用和中间状态可审计、可复现、可回退，为多 Agent 协作和调试提供底层基础设施。",
+  "tags": [
+    "Rust",
+    "Durable Objects",
+    "版本控制",
+    "AI Agent",
+    "Cloudflare",
+    "状态管理",
+    "可观测性"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 基础设施 / 开发者工具",
+  "key_insight": "把版本控制的粒度从文件下沉到 Agent 的每一步操作，是让自主 Agent 可审计、可回滚的关键基础设施。"
+}

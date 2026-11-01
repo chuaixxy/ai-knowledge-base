@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-01-037",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503203&idx=1&sn=0595dbbfced69555afefcc9ba0055779",
+  "title": "EMNLP 2026｜京东零售 AI Infra 团队提出分离式多模态训练框架 FlowTrain",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503203&idx=1&sn=0595dbbfced69555afefcc9ba0055779",
+  "summary": "京东零售 AI Infra 团队提出的 FlowTrain 是面向 EMNLP 2026 的分离式多模态训练框架。该工作针对多模态大模型训练中计算与通信负载不均衡、资源利用率低的问题，采用解耦式架构将不同模态的编码、对齐与融合阶段拆分到独立资源池，并通过流水线调度与异步通信隐藏数据搬运开销。框架强调可扩展性与异构硬件适配，旨在提升大规模图文、视频等多模态预训练的吞吐与稳定性，为工业级多模态训练提供基础设施层面的系统优化方案。",
+  "tags": [
+    "多模态训练",
+    "分布式训练框架",
+    "AI Infra",
+    "分离式架构",
+    "系统优化"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI基础设施与系统",
+  "key_insight": "通过解耦多模态训练各阶段并流水线调度，FlowTrain 在异构资源上显著提升训练吞吐与资源利用率。"
+}

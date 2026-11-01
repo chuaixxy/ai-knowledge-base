@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-018",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546649&idx=1&sn=2976d10c9e33ceab48cd6ba5a82ead51",
+  "title": "从 AI Friendly 架构到可复制的 AI 迁移能力 - 淘宝直播搜推在线架构升级实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650546649&idx=1&sn=2976d10c9e33ceab48cd6ba5a82ead51",
+  "summary": "该项目分享了淘宝直播搜推在线架构从“AI Friendly”架构设计到形成可复制 AI 迁移能力的实践。面对 362 万行存量代码的维护与迁移难题，团队借助 AI 辅助完成代码理解、改造与迁移，先让系统架构对 AI 友好（规范、模块化、上下文可获取），再沉淀出可复用的 AI 迁移方法论与工具链，从而降低大规模遗留系统升级的成本与风险，为其他团队提供可借鉴的范式。",
+  "tags": [
+    "AI迁移",
+    "架构升级",
+    "遗留代码",
+    "代码维护",
+    "淘宝直播",
+    "搜推系统",
+    "工程效能"
+  ],
+  "relevance_score": 0.85,
+  "category": "工程实践 / AI 辅助软件工程",
+  "key_insight": "让架构先对 AI 友好，才能把一次性的 AI 辅助改造沉淀为可复制的迁移能力。"
+}

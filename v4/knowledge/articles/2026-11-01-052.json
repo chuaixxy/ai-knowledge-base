@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-052",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651296315&idx=2&sn=11ac933a7c81a823c8d24b51f26dcc39",
+  "title": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651296315&idx=2&sn=11ac933a7c81a823c8d24b51f26dcc39",
+  "summary": "该项目探讨了Agentic AI从认知到执行的演进趋势，强调AI Agent需要弹性、可信且具备状态管理能力的执行环境。腾讯云与英特尔合作，共同构建面向Agentic AI的执行新底座，旨在解决AI从“会想”到“会干”过程中的基础设施挑战。通过结合腾讯云的云原生能力与英特尔的硬件加速技术，为AI Agent提供高效、可靠的状态管理和执行支持，推动AI从理论推理走向实际任务自动化。",
+  "tags": [
+    "Agentic AI",
+    "腾讯云",
+    "英特尔",
+    "执行环境",
+    "状态管理",
+    "云原生",
+    "AI基础设施"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI基础设施",
+  "key_insight": "AI Agent的执行落地依赖于弹性、可信且状态感知的底层环境，腾讯云与英特尔的合作正为此提供关键支撑。"
+}

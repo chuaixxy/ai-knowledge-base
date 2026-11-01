@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-049",
+  "source_id": "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
+  "title": "Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts",
+  "summary": "该项目讲述了 Stripe 在 2026 年初将自身供应商付款迁移到自研产品 Global Payouts 的实践。Global Payouts 支持向 160 多个国家/地区的收款方付款。迁移后，新市场接入周期从六周缩短到一周，付款成功率达到 99.9%。文章总结了这一大规模内部落地过程中的经验教训，属于典型的“吃自己的狗粮”案例，展示了全球化支付基础设施在效率、可靠性和规模化运营上的价值。",
+  "tags": [
+    "Stripe",
+    "Global Payouts",
+    "供应商付款",
+    "跨境支付",
+    "支付成功率",
+    "内部实践",
+    "全球化"
+  ],
+  "relevance_score": 0.8,
+  "category": "支付基础设施/金融科技",
+  "key_insight": "自研全球付款平台将新市场接入从六周压缩到一周并实现 99.9% 成功率，验证了内部规模化落地对产品成熟度的强背书。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503220&idx=1&sn=8033f3511ff203d1cfc7fbcf9e0a85e5",
+  "title": "从“会生成”到“能生产”：萤火虫AIGC平台的 AI Infra 实践",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503220&idx=1&sn=8033f3511ff203d1cfc7fbcf9e0a85e5",
+  "summary": "本文系统介绍了京东AIGC产品“萤火虫”平台从简单的模型调用迈向规模化生产环境的工程实践。文章围绕AI基础设施（AI Infra）展开，详细阐述了编排调度、算力资源管理、数据处理流水线以及可观测性等关键环节的工程化方案。通过贯通这些模块，平台解决了AIGC内容生产在稳定性、效率和规模化方面的挑战，为从事AIGC内容生产的团队提供了从原型到生产的可落地经验。",
+  "tags": [
+    "AIGC",
+    "AI Infra",
+    "工程实践",
+    "内容生产",
+    "算力管理",
+    "编排调度",
+    "可观测性"
+  ],
+  "relevance_score": 0.9,
+  "category": "AI基础设施",
+  "key_insight": "AIGC规模化生产的关键在于将编排、算力、数据与观测贯通为可复用的工程体系，而非仅关注模型调用本身。"
+}

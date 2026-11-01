@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562567&idx=1&sn=66f9aa9e8cfbbbb6bda19db56d51514b",
+  "title": "深度解析 Codex Harness 架构及其全新上下文压缩记忆体系的设计思路",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562567&idx=1&sn=66f9aa9e8cfbbbb6bda19db56d51514b",
+  "summary": "该项目深入解析 Codex Harness 的架构设计，重点剖析其全新上下文压缩记忆体系。内容涵盖 Harness 的整体分层结构、各组件职责与交互方式，并聚焦上下文压缩机制如何通过摘要、分层存储与选择性遗忘来管理长对话记忆，从而在有限 token 预算下维持推理连贯性与信息完整性。文章还讨论了压缩触发时机、记忆检索策略及对模型表现的权衡，为构建可扩展的智能体运行框架提供设计参考。",
+  "tags": [
+    "Codex Harness",
+    "上下文压缩",
+    "记忆体系",
+    "智能体架构",
+    "长上下文管理",
+    "系统设计"
+  ],
+  "relevance_score": 0.82,
+  "category": "技术架构分析",
+  "key_insight": "通过分层压缩与选择性记忆管理，在有限上下文窗口内实现长程推理的连贯性与信息保留。"
+}

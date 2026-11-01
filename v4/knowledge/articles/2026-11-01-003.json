@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-003",
+  "source_id": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+  "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
+  "source": "rss-reddit-r-machinelearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+  "summary": "该讨论帖提出一个具有洞察力的元问题：机器学习中是否存在跨模态（文本、图像、音频）反复出现的基础技术模式，从而可以按底层机制而非模态来对技术进行归类和文献整理。作者列举了tokenization、masking（MLM/MAE/音频掩码）、diffusion、next-token/next-frame prediction等在不同模态间仅换名字的重复技术，并询问是否存在现成的分类法或心智模型。这本质上是在寻求一种'模态无关'的技术抽象层，对研究者跨领域迁移方法和组织文献具有实用价值。",
+  "tags": [
+    "跨模态学习",
+    "技术分类法",
+    "掩码建模",
+    "扩散模型",
+    "自回归预测",
+    "文献综述方法",
+    "机器学习方法论"
+  ],
+  "relevance_score": 0.72,
+  "category": "机器学习方法论/综述",
+  "key_insight": "许多ML技术是模态无关的底层模式，按机制（掩码、扩散、自回归、对比）而非模态归类可显著提升跨领域方法迁移与文献组织效率。"
+}

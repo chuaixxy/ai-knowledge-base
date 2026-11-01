@@ -1,0 +1,23 @@
+{
+  "id": "2026-11-01-026",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515185&idx=1&sn=4250de4785687f0d0a817eb9ee0de5e8",
+  "title": "Mistral Large 4 开源：万亿参数，激活 52B，编程得分持平GLM-5.3，Token 消耗减少47%",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515185&idx=1&sn=4250de4785687f0d0a817eb9ee0de5e8",
+  "summary": "Mistral 开源万亿参数模型 Large 4，采用 MoE 架构，总参数达万亿级但每次推理仅激活 52B 参数，在编程能力评分上与 GLM-5.3 持平，同时 Token 消耗降低 47%，显著提升推理效率与成本效益。同期，DiffuSpace 发布 Clover-35B 扩散模型，NVIDIA 推出 Nemotron 3.5 语音模型，守扣科技 OXR-1.0 与面壁 MiniCPM-OCR 在文档解析任务上刷新 SOTA。整体反映出大模型领域向超大规模稀疏激活、多模态与垂直场景优化的并行演进趋势。",
+  "tags": [
+    "Mistral",
+    "MoE",
+    "万亿参数",
+    "开源模型",
+    "稀疏激活",
+    "编程能力",
+    "Token效率",
+    "扩散模型",
+    "语音模型",
+    "文档解析"
+  ],
+  "relevance_score": 0.92,
+  "category": "大语言模型",
+  "key_insight": "万亿参数 MoE 架构以 52B 稀疏激活实现编程能力对标前沿模型，同时 Token 消耗降低 47%，标志着大模型在规模与推理效率间的平衡取得实质突破。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-01-040",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575745&idx=1&sn=9e8b94873bf4462b469be32a40920448",
+  "title": "滴滴开源 HelixHarness：让团队AI Coding稳定交付",
+  "source": "rss-b9a02e7d9e35178ef44fc560fcb5ec4995613af2",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1ODEzNjI2NA==&mid=2247575745&idx=1&sn=9e8b94873bf4462b469be32a40920448",
+  "summary": "滴滴开源的 HelixHarness 是一个面向团队 AI Coding 场景的工程化工具，目标是解决 AI 辅助编程在实际团队协作中「能写代码但难稳定交付」的问题。项目通过构建统一的 harness（测试/验证框架）层，把 AI 生成的代码纳入可复现、可验证、可管控的流程，从而提升交付稳定性。其开源意味着团队可以基于该框架搭建自己的 AI Coding 质量保障体系，适用于需要将 AI 编程能力落地到生产环境的研发团队。",
+  "tags": [
+    "AI Coding",
+    "开源工具",
+    "研发效能",
+    "代码质量",
+    "工程化",
+    "滴滴"
+  ],
+  "relevance_score": 0.78,
+  "category": "AI 工程化 / 研发效能工具",
+  "key_insight": "AI Coding 的瓶颈正从「生成能力」转向「交付确定性」，HelixHarness 用工程化验证框架为 AI 产出兜底。"
+}

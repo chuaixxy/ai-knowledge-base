@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-01-005",
+  "source_id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "title": "Community safety report and new protections for teens",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "summary": "该项目介绍OpenAI在ChatGPT中加强暴力预防机制的一系列举措，包括扩展安全防护措施、更早介入潜在风险对话，以及新增面向公众的安全报告承诺。核心在于通过技术手段与流程机制的结合，提前识别和干预可能涉及暴力的对话内容，同时建立透明的公共安全报告渠道，让外部能够了解和监督平台的安全表现。这体现了生成式AI产品在青少年保护与公共安全责任方面的持续投入，属于AI安全治理与内容风控领域的实践。",
+  "tags": [
+    "AI安全",
+    "内容风控",
+    "青少年保护",
+    "暴力预防",
+    "安全报告",
+    "OpenAI",
+    "ChatGPT"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI安全与治理",
+  "key_insight": "从被动过滤转向早期干预与公开报告，AI平台安全治理正走向主动防御与透明问责。"
+}
