@@ -1,550 +1,310 @@
 {
-  "generated_at": "2026-11-10T06:28:32.421Z",
-  "total_cost_yuan": 0.12475299999999999,
-  "total_prompt_tokens": 63675,
-  "total_completion_tokens": 30539,
-  "call_count": 104,
+  "generated_at": "2026-11-11T05:12:46.669Z",
+  "total_cost_yuan": 0.12165000000000004,
+  "total_prompt_tokens": 60772,
+  "total_completion_tokens": 30439,
+  "call_count": 102,
   "budget_yuan": 1,
-  "usage_ratio": 0.12475299999999999,
+  "usage_ratio": 0.12165000000000004,
   "records": [
     {
-      "timestamp": "2026-11-10T06:23:18.403Z",
+      "timestamp": "2026-11-11T05:08:23.366Z",
       "node_name": "analyze",
       "prompt_tokens": 87,
-      "completion_tokens": 236,
-      "cost_yuan": 0.000559,
+      "completion_tokens": 265,
+      "cost_yuan": 0.000617,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:23:21.021Z",
+      "timestamp": "2026-11-11T05:08:26.034Z",
       "node_name": "analyze",
       "prompt_tokens": 106,
-      "completion_tokens": 209,
-      "cost_yuan": 0.000524,
+      "completion_tokens": 231,
+      "cost_yuan": 0.000568,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:23:23.789Z",
+      "timestamp": "2026-11-11T05:08:28.214Z",
       "node_name": "analyze",
       "prompt_tokens": 126,
-      "completion_tokens": 251,
+      "completion_tokens": 252,
+      "cost_yuan": 0.00063,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:30.431Z",
+      "node_name": "analyze",
+      "prompt_tokens": 86,
+      "completion_tokens": 227,
+      "cost_yuan": 0.00054,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:32.594Z",
+      "node_name": "analyze",
+      "prompt_tokens": 106,
+      "completion_tokens": 190,
+      "cost_yuan": 0.000486,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:35.143Z",
+      "node_name": "analyze",
+      "prompt_tokens": 101,
+      "completion_tokens": 263,
+      "cost_yuan": 0.000627,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:37.674Z",
+      "node_name": "analyze",
+      "prompt_tokens": 102,
+      "completion_tokens": 263,
       "cost_yuan": 0.000628,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:23:26.445Z",
+      "timestamp": "2026-11-11T05:08:40.427Z",
       "node_name": "analyze",
-      "prompt_tokens": 86,
+      "prompt_tokens": 116,
+      "completion_tokens": 238,
+      "cost_yuan": 0.000592,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:42.721Z",
+      "node_name": "analyze",
+      "prompt_tokens": 92,
+      "completion_tokens": 239,
+      "cost_yuan": 0.00057,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:45.245Z",
+      "node_name": "analyze",
+      "prompt_tokens": 143,
+      "completion_tokens": 248,
+      "cost_yuan": 0.000639,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:48.066Z",
+      "node_name": "analyze",
+      "prompt_tokens": 134,
+      "completion_tokens": 229,
+      "cost_yuan": 0.000592,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:50.852Z",
+      "node_name": "analyze",
+      "prompt_tokens": 118,
+      "completion_tokens": 268,
+      "cost_yuan": 0.000654,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:53.011Z",
+      "node_name": "analyze",
+      "prompt_tokens": 118,
+      "completion_tokens": 192,
+      "cost_yuan": 0.000502,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:55.164Z",
+      "node_name": "analyze",
+      "prompt_tokens": 127,
       "completion_tokens": 236,
+      "cost_yuan": 0.000599,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:08:58.260Z",
+      "node_name": "analyze",
+      "prompt_tokens": 260,
+      "completion_tokens": 247,
+      "cost_yuan": 0.000754,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:00.990Z",
+      "node_name": "analyze",
+      "prompt_tokens": 290,
+      "completion_tokens": 295,
+      "cost_yuan": 0.00088,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:02.898Z",
+      "node_name": "analyze",
+      "prompt_tokens": 292,
+      "completion_tokens": 246,
+      "cost_yuan": 0.000784,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:05.062Z",
+      "node_name": "analyze",
+      "prompt_tokens": 106,
+      "completion_tokens": 194,
+      "cost_yuan": 0.000494,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:07.742Z",
+      "node_name": "analyze",
+      "prompt_tokens": 111,
+      "completion_tokens": 270,
+      "cost_yuan": 0.000651,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:10.164Z",
+      "node_name": "analyze",
+      "prompt_tokens": 101,
+      "completion_tokens": 240,
+      "cost_yuan": 0.000581,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:12.500Z",
+      "node_name": "analyze",
+      "prompt_tokens": 146,
+      "completion_tokens": 170,
+      "cost_yuan": 0.000486,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:14.411Z",
+      "node_name": "analyze",
+      "prompt_tokens": 159,
+      "completion_tokens": 203,
+      "cost_yuan": 0.000565,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:16.781Z",
+      "node_name": "analyze",
+      "prompt_tokens": 144,
+      "completion_tokens": 207,
       "cost_yuan": 0.000558,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:23:29.400Z",
+      "timestamp": "2026-11-11T05:09:19.370Z",
       "node_name": "analyze",
-      "prompt_tokens": 106,
-      "completion_tokens": 246,
-      "cost_yuan": 0.000598,
+      "prompt_tokens": 97,
+      "completion_tokens": 206,
+      "cost_yuan": 0.000509,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:23:31.733Z",
+      "timestamp": "2026-11-11T05:09:21.552Z",
       "node_name": "analyze",
-      "prompt_tokens": 101,
+      "prompt_tokens": 87,
+      "completion_tokens": 205,
+      "cost_yuan": 0.000497,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:23.696Z",
+      "node_name": "analyze",
+      "prompt_tokens": 82,
+      "completion_tokens": 199,
+      "cost_yuan": 0.00048,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:26.079Z",
+      "node_name": "analyze",
+      "prompt_tokens": 99,
+      "completion_tokens": 186,
+      "cost_yuan": 0.000471,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:28.021Z",
+      "node_name": "analyze",
+      "prompt_tokens": 89,
+      "completion_tokens": 159,
+      "cost_yuan": 0.000407,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:30.562Z",
+      "node_name": "analyze",
+      "prompt_tokens": 162,
+      "completion_tokens": 247,
+      "cost_yuan": 0.000656,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:32.800Z",
+      "node_name": "analyze",
+      "prompt_tokens": 154,
       "completion_tokens": 216,
+      "cost_yuan": 0.000586,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:34.691Z",
+      "node_name": "analyze",
+      "prompt_tokens": 163,
+      "completion_tokens": 178,
+      "cost_yuan": 0.000519,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:09:37.083Z",
+      "node_name": "analyze",
+      "prompt_tokens": 119,
+      "completion_tokens": 207,
       "cost_yuan": 0.000533,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:23:34.155Z",
-      "node_name": "analyze",
-      "prompt_tokens": 102,
-      "completion_tokens": 203,
-      "cost_yuan": 0.000508,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:36.933Z",
-      "node_name": "analyze",
-      "prompt_tokens": 116,
-      "completion_tokens": 240,
-      "cost_yuan": 0.000596,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:40.169Z",
-      "node_name": "analyze",
-      "prompt_tokens": 92,
-      "completion_tokens": 249,
-      "cost_yuan": 0.00059,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:42.792Z",
-      "node_name": "analyze",
-      "prompt_tokens": 143,
-      "completion_tokens": 250,
-      "cost_yuan": 0.000643,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:45.695Z",
-      "node_name": "analyze",
-      "prompt_tokens": 118,
-      "completion_tokens": 209,
-      "cost_yuan": 0.000536,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:48.287Z",
-      "node_name": "analyze",
-      "prompt_tokens": 127,
-      "completion_tokens": 205,
-      "cost_yuan": 0.000537,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:51.540Z",
-      "node_name": "analyze",
-      "prompt_tokens": 117,
-      "completion_tokens": 273,
-      "cost_yuan": 0.000663,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:54.104Z",
-      "node_name": "analyze",
-      "prompt_tokens": 274,
-      "completion_tokens": 209,
-      "cost_yuan": 0.000692,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:56.874Z",
-      "node_name": "analyze",
-      "prompt_tokens": 261,
-      "completion_tokens": 265,
-      "cost_yuan": 0.000791,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:23:59.267Z",
-      "node_name": "analyze",
-      "prompt_tokens": 250,
-      "completion_tokens": 233,
-      "cost_yuan": 0.000716,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:01.936Z",
-      "node_name": "analyze",
-      "prompt_tokens": 353,
-      "completion_tokens": 220,
-      "cost_yuan": 0.000793,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:04.964Z",
-      "node_name": "analyze",
-      "prompt_tokens": 360,
-      "completion_tokens": 237,
-      "cost_yuan": 0.000834,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:07.986Z",
-      "node_name": "analyze",
-      "prompt_tokens": 306,
-      "completion_tokens": 231,
-      "cost_yuan": 0.000768,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:10.298Z",
-      "node_name": "analyze",
-      "prompt_tokens": 103,
-      "completion_tokens": 170,
-      "cost_yuan": 0.000443,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:13.126Z",
-      "node_name": "analyze",
-      "prompt_tokens": 117,
-      "completion_tokens": 227,
-      "cost_yuan": 0.000571,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:15.737Z",
-      "node_name": "analyze",
-      "prompt_tokens": 118,
-      "completion_tokens": 218,
-      "cost_yuan": 0.000554,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:18.483Z",
-      "node_name": "analyze",
-      "prompt_tokens": 164,
-      "completion_tokens": 232,
-      "cost_yuan": 0.000628,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:21.276Z",
-      "node_name": "analyze",
-      "prompt_tokens": 139,
-      "completion_tokens": 209,
-      "cost_yuan": 0.000557,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:23.834Z",
-      "node_name": "analyze",
-      "prompt_tokens": 141,
-      "completion_tokens": 204,
-      "cost_yuan": 0.000549,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:26.606Z",
-      "node_name": "analyze",
-      "prompt_tokens": 99,
-      "completion_tokens": 243,
-      "cost_yuan": 0.000585,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:29.264Z",
-      "node_name": "analyze",
-      "prompt_tokens": 89,
-      "completion_tokens": 200,
-      "cost_yuan": 0.000489,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:32.180Z",
-      "node_name": "analyze",
-      "prompt_tokens": 87,
-      "completion_tokens": 218,
-      "cost_yuan": 0.000523,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:34.855Z",
-      "node_name": "analyze",
-      "prompt_tokens": 87,
-      "completion_tokens": 215,
-      "cost_yuan": 0.000517,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:37.792Z",
-      "node_name": "analyze",
-      "prompt_tokens": 101,
-      "completion_tokens": 203,
-      "cost_yuan": 0.000507,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:40.597Z",
-      "node_name": "analyze",
-      "prompt_tokens": 168,
-      "completion_tokens": 208,
-      "cost_yuan": 0.000584,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:43.284Z",
-      "node_name": "analyze",
-      "prompt_tokens": 158,
-      "completion_tokens": 204,
-      "cost_yuan": 0.000566,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:45.690Z",
-      "node_name": "analyze",
-      "prompt_tokens": 164,
-      "completion_tokens": 199,
-      "cost_yuan": 0.000562,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:48.125Z",
+      "timestamp": "2026-11-11T05:09:39.191Z",
       "node_name": "analyze",
       "prompt_tokens": 161,
-      "completion_tokens": 236,
-      "cost_yuan": 0.000633,
+      "completion_tokens": 248,
+      "cost_yuan": 0.000657,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:24:50.715Z",
-      "node_name": "analyze",
-      "prompt_tokens": 154,
-      "completion_tokens": 205,
-      "cost_yuan": 0.000564,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:53.198Z",
+      "timestamp": "2026-11-11T05:09:41.537Z",
       "node_name": "analyze",
       "prompt_tokens": 105,
-      "completion_tokens": 160,
-      "cost_yuan": 0.000425,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:56.133Z",
-      "node_name": "analyze",
-      "prompt_tokens": 88,
-      "completion_tokens": 218,
-      "cost_yuan": 0.000524,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:24:58.797Z",
-      "node_name": "analyze",
-      "prompt_tokens": 110,
-      "completion_tokens": 238,
-      "cost_yuan": 0.000586,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:00.944Z",
-      "node_name": "analyze",
-      "prompt_tokens": 111,
-      "completion_tokens": 220,
-      "cost_yuan": 0.000551,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:03.918Z",
-      "node_name": "analyze",
-      "prompt_tokens": 100,
-      "completion_tokens": 209,
-      "cost_yuan": 0.000518,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:06.594Z",
-      "node_name": "analyze",
-      "prompt_tokens": 108,
-      "completion_tokens": 257,
-      "cost_yuan": 0.000622,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:09.180Z",
-      "node_name": "analyze",
-      "prompt_tokens": 141,
-      "completion_tokens": 188,
-      "cost_yuan": 0.000517,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:11.461Z",
-      "node_name": "analyze",
-      "prompt_tokens": 151,
-      "completion_tokens": 182,
+      "completion_tokens": 205,
       "cost_yuan": 0.000515,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:25:14.064Z",
-      "node_name": "analyze",
-      "prompt_tokens": 91,
-      "completion_tokens": 186,
-      "cost_yuan": 0.000463,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:16.657Z",
-      "node_name": "analyze",
-      "prompt_tokens": 93,
-      "completion_tokens": 185,
-      "cost_yuan": 0.000463,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:19.240Z",
-      "node_name": "analyze",
-      "prompt_tokens": 121,
-      "completion_tokens": 207,
-      "cost_yuan": 0.000535,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:22.467Z",
-      "node_name": "analyze",
-      "prompt_tokens": 110,
-      "completion_tokens": 234,
-      "cost_yuan": 0.000578,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:25.140Z",
-      "node_name": "analyze",
-      "prompt_tokens": 114,
-      "completion_tokens": 195,
-      "cost_yuan": 0.000504,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:27.931Z",
+      "timestamp": "2026-11-11T05:09:43.568Z",
       "node_name": "analyze",
       "prompt_tokens": 88,
-      "completion_tokens": 206,
-      "cost_yuan": 0.0005,
+      "completion_tokens": 201,
+      "cost_yuan": 0.00049,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:25:30.893Z",
+      "timestamp": "2026-11-11T05:09:45.797Z",
       "node_name": "analyze",
-      "prompt_tokens": 158,
-      "completion_tokens": 251,
-      "cost_yuan": 0.00066,
+      "prompt_tokens": 110,
+      "completion_tokens": 240,
+      "cost_yuan": 0.00059,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:25:33.128Z",
-      "node_name": "analyze",
-      "prompt_tokens": 131,
-      "completion_tokens": 196,
-      "cost_yuan": 0.000523,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:35.428Z",
+      "timestamp": "2026-11-11T05:09:47.971Z",
       "node_name": "analyze",
       "prompt_tokens": 111,
-      "completion_tokens": 151,
-      "cost_yuan": 0.000413,
+      "completion_tokens": 222,
+      "cost_yuan": 0.000555,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:25:37.830Z",
-      "node_name": "analyze",
-      "prompt_tokens": 97,
-      "completion_tokens": 170,
-      "cost_yuan": 0.000437,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:40.737Z",
-      "node_name": "analyze",
-      "prompt_tokens": 90,
-      "completion_tokens": 212,
-      "cost_yuan": 0.000514,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:43.150Z",
-      "node_name": "analyze",
-      "prompt_tokens": 95,
-      "completion_tokens": 155,
-      "cost_yuan": 0.000405,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:45.318Z",
-      "node_name": "analyze",
-      "prompt_tokens": 96,
-      "completion_tokens": 154,
-      "cost_yuan": 0.000404,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:48.339Z",
-      "node_name": "analyze",
-      "prompt_tokens": 96,
-      "completion_tokens": 211,
-      "cost_yuan": 0.000518,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:51.248Z",
-      "node_name": "analyze",
-      "prompt_tokens": 92,
-      "completion_tokens": 214,
-      "cost_yuan": 0.00052,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:53.641Z",
-      "node_name": "analyze",
-      "prompt_tokens": 87,
-      "completion_tokens": 171,
-      "cost_yuan": 0.000429,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:56.352Z",
-      "node_name": "analyze",
-      "prompt_tokens": 120,
-      "completion_tokens": 233,
-      "cost_yuan": 0.000586,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:25:59.134Z",
-      "node_name": "analyze",
-      "prompt_tokens": 119,
-      "completion_tokens": 224,
-      "cost_yuan": 0.000567,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:01.599Z",
-      "node_name": "analyze",
-      "prompt_tokens": 108,
-      "completion_tokens": 192,
-      "cost_yuan": 0.000492,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:04.105Z",
-      "node_name": "analyze",
-      "prompt_tokens": 95,
-      "completion_tokens": 157,
-      "cost_yuan": 0.000409,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:06.783Z",
-      "node_name": "analyze",
-      "prompt_tokens": 94,
-      "completion_tokens": 220,
-      "cost_yuan": 0.000534,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:09.502Z",
-      "node_name": "analyze",
-      "prompt_tokens": 162,
-      "completion_tokens": 258,
-      "cost_yuan": 0.000678,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:11.674Z",
-      "node_name": "analyze",
-      "prompt_tokens": 131,
-      "completion_tokens": 195,
-      "cost_yuan": 0.000521,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:13.856Z",
-      "node_name": "analyze",
-      "prompt_tokens": 115,
-      "completion_tokens": 184,
-      "cost_yuan": 0.000483,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:16.745Z",
+      "timestamp": "2026-11-11T05:09:50.294Z",
       "node_name": "analyze",
       "prompt_tokens": 100,
       "completion_tokens": 224,
@@ -552,312 +312,536 @@
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:26:18.969Z",
+      "timestamp": "2026-11-11T05:09:52.735Z",
       "node_name": "analyze",
-      "prompt_tokens": 95,
-      "completion_tokens": 136,
-      "cost_yuan": 0.000367,
+      "prompt_tokens": 108,
+      "completion_tokens": 262,
+      "cost_yuan": 0.000632,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:26:22.005Z",
+      "timestamp": "2026-11-11T05:09:54.690Z",
       "node_name": "analyze",
-      "prompt_tokens": 106,
-      "completion_tokens": 215,
-      "cost_yuan": 0.000536,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:24.649Z",
-      "node_name": "analyze",
-      "prompt_tokens": 113,
-      "completion_tokens": 215,
-      "cost_yuan": 0.000543,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:27.137Z",
-      "node_name": "analyze",
-      "prompt_tokens": 120,
-      "completion_tokens": 217,
-      "cost_yuan": 0.000554,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:29.260Z",
-      "node_name": "analyze",
-      "prompt_tokens": 83,
-      "completion_tokens": 192,
-      "cost_yuan": 0.000467,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:31.910Z",
-      "node_name": "analyze",
-      "prompt_tokens": 391,
-      "completion_tokens": 224,
-      "cost_yuan": 0.000839,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:34.542Z",
-      "node_name": "analyze",
-      "prompt_tokens": 102,
-      "completion_tokens": 219,
-      "cost_yuan": 0.00054,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:37.636Z",
-      "node_name": "analyze",
-      "prompt_tokens": 114,
-      "completion_tokens": 265,
-      "cost_yuan": 0.000644,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:40.345Z",
-      "node_name": "analyze",
-      "prompt_tokens": 96,
-      "completion_tokens": 208,
-      "cost_yuan": 0.000512,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:42.833Z",
-      "node_name": "analyze",
-      "prompt_tokens": 91,
-      "completion_tokens": 182,
-      "cost_yuan": 0.000455,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:45.594Z",
-      "node_name": "analyze",
-      "prompt_tokens": 93,
-      "completion_tokens": 217,
-      "cost_yuan": 0.000527,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:48.303Z",
-      "node_name": "analyze",
-      "prompt_tokens": 104,
-      "completion_tokens": 180,
-      "cost_yuan": 0.000464,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:51.019Z",
-      "node_name": "analyze",
-      "prompt_tokens": 93,
-      "completion_tokens": 243,
-      "cost_yuan": 0.000579,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:53.347Z",
-      "node_name": "analyze",
-      "prompt_tokens": 96,
-      "completion_tokens": 204,
-      "cost_yuan": 0.000504,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:56.247Z",
-      "node_name": "analyze",
-      "prompt_tokens": 121,
-      "completion_tokens": 246,
-      "cost_yuan": 0.000613,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:26:58.557Z",
-      "node_name": "analyze",
-      "prompt_tokens": 90,
-      "completion_tokens": 154,
-      "cost_yuan": 0.000398,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:01.528Z",
-      "node_name": "analyze",
-      "prompt_tokens": 125,
-      "completion_tokens": 232,
-      "cost_yuan": 0.000589,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:04.286Z",
-      "node_name": "analyze",
-      "prompt_tokens": 96,
-      "completion_tokens": 233,
-      "cost_yuan": 0.000562,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:07.135Z",
-      "node_name": "analyze",
-      "prompt_tokens": 150,
-      "completion_tokens": 213,
-      "cost_yuan": 0.000576,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:09.709Z",
-      "node_name": "analyze",
-      "prompt_tokens": 143,
-      "completion_tokens": 201,
-      "cost_yuan": 0.000545,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:12.063Z",
-      "node_name": "analyze",
-      "prompt_tokens": 139,
-      "completion_tokens": 217,
-      "cost_yuan": 0.000573,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:14.648Z",
-      "node_name": "analyze",
-      "prompt_tokens": 132,
-      "completion_tokens": 181,
-      "cost_yuan": 0.000494,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:16.852Z",
-      "node_name": "analyze",
-      "prompt_tokens": 166,
-      "completion_tokens": 204,
-      "cost_yuan": 0.000574,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:19.945Z",
-      "node_name": "analyze",
-      "prompt_tokens": 99,
-      "completion_tokens": 239,
-      "cost_yuan": 0.000577,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:22.973Z",
-      "node_name": "analyze",
-      "prompt_tokens": 98,
-      "completion_tokens": 234,
-      "cost_yuan": 0.000566,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:26.014Z",
-      "node_name": "analyze",
-      "prompt_tokens": 88,
-      "completion_tokens": 266,
-      "cost_yuan": 0.00062,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:29.025Z",
-      "node_name": "analyze",
-      "prompt_tokens": 90,
-      "completion_tokens": 215,
-      "cost_yuan": 0.00052,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:31.531Z",
-      "node_name": "analyze",
-      "prompt_tokens": 121,
-      "completion_tokens": 200,
-      "cost_yuan": 0.000521,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:34.089Z",
-      "node_name": "analyze",
-      "prompt_tokens": 156,
-      "completion_tokens": 216,
-      "cost_yuan": 0.000588,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:36.382Z",
-      "node_name": "analyze",
-      "prompt_tokens": 136,
-      "completion_tokens": 198,
-      "cost_yuan": 0.000532,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:39.117Z",
-      "node_name": "analyze",
-      "prompt_tokens": 104,
-      "completion_tokens": 197,
-      "cost_yuan": 0.000498,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:42.052Z",
-      "node_name": "analyze",
-      "prompt_tokens": 102,
-      "completion_tokens": 198,
-      "cost_yuan": 0.000498,
-      "model": "deepseek-chat"
-    },
-    {
-      "timestamp": "2026-11-10T06:27:45.076Z",
-      "node_name": "analyze",
-      "prompt_tokens": 102,
-      "completion_tokens": 224,
+      "prompt_tokens": 108,
+      "completion_tokens": 221,
       "cost_yuan": 0.00055,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:27:49.963Z",
-      "node_name": "review",
-      "prompt_tokens": 1951,
-      "completion_tokens": 478,
-      "cost_yuan": 0.002907,
+      "timestamp": "2026-11-11T05:09:56.825Z",
+      "node_name": "analyze",
+      "prompt_tokens": 141,
+      "completion_tokens": 210,
+      "cost_yuan": 0.000561,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:28:27.952Z",
+      "timestamp": "2026-11-11T05:09:59.109Z",
+      "node_name": "analyze",
+      "prompt_tokens": 91,
+      "completion_tokens": 179,
+      "cost_yuan": 0.000449,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:01.282Z",
+      "node_name": "analyze",
+      "prompt_tokens": 93,
+      "completion_tokens": 173,
+      "cost_yuan": 0.000439,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:03.619Z",
+      "node_name": "analyze",
+      "prompt_tokens": 121,
+      "completion_tokens": 209,
+      "cost_yuan": 0.000539,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:06.463Z",
+      "node_name": "analyze",
+      "prompt_tokens": 110,
+      "completion_tokens": 285,
+      "cost_yuan": 0.00068,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:08.970Z",
+      "node_name": "analyze",
+      "prompt_tokens": 94,
+      "completion_tokens": 216,
+      "cost_yuan": 0.000526,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:10.903Z",
+      "node_name": "analyze",
+      "prompt_tokens": 114,
+      "completion_tokens": 217,
+      "cost_yuan": 0.000548,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:13.612Z",
+      "node_name": "analyze",
+      "prompt_tokens": 124,
+      "completion_tokens": 235,
+      "cost_yuan": 0.000594,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:16.130Z",
+      "node_name": "analyze",
+      "prompt_tokens": 158,
+      "completion_tokens": 282,
+      "cost_yuan": 0.000722,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:18.463Z",
+      "node_name": "analyze",
+      "prompt_tokens": 111,
+      "completion_tokens": 198,
+      "cost_yuan": 0.000507,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:20.967Z",
+      "node_name": "analyze",
+      "prompt_tokens": 111,
+      "completion_tokens": 180,
+      "cost_yuan": 0.000471,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:23.778Z",
+      "node_name": "analyze",
+      "prompt_tokens": 90,
+      "completion_tokens": 261,
+      "cost_yuan": 0.000612,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:25.737Z",
+      "node_name": "analyze",
+      "prompt_tokens": 95,
+      "completion_tokens": 171,
+      "cost_yuan": 0.000437,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:27.890Z",
+      "node_name": "analyze",
+      "prompt_tokens": 99,
+      "completion_tokens": 182,
+      "cost_yuan": 0.000463,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:30.009Z",
+      "node_name": "analyze",
+      "prompt_tokens": 96,
+      "completion_tokens": 153,
+      "cost_yuan": 0.000402,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:32.069Z",
+      "node_name": "analyze",
+      "prompt_tokens": 97,
+      "completion_tokens": 186,
+      "cost_yuan": 0.000469,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:34.009Z",
+      "node_name": "analyze",
+      "prompt_tokens": 92,
+      "completion_tokens": 180,
+      "cost_yuan": 0.000452,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:36.133Z",
+      "node_name": "analyze",
+      "prompt_tokens": 120,
+      "completion_tokens": 201,
+      "cost_yuan": 0.000522,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:38.390Z",
+      "node_name": "analyze",
+      "prompt_tokens": 137,
+      "completion_tokens": 223,
+      "cost_yuan": 0.000583,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:40.825Z",
+      "node_name": "analyze",
+      "prompt_tokens": 119,
+      "completion_tokens": 199,
+      "cost_yuan": 0.000517,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:43.125Z",
+      "node_name": "analyze",
+      "prompt_tokens": 95,
+      "completion_tokens": 185,
+      "cost_yuan": 0.000465,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:45.921Z",
+      "node_name": "analyze",
+      "prompt_tokens": 94,
+      "completion_tokens": 246,
+      "cost_yuan": 0.000586,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:48.073Z",
+      "node_name": "analyze",
+      "prompt_tokens": 162,
+      "completion_tokens": 241,
+      "cost_yuan": 0.000644,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:50.171Z",
+      "node_name": "analyze",
+      "prompt_tokens": 131,
+      "completion_tokens": 187,
+      "cost_yuan": 0.000505,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:52.446Z",
+      "node_name": "analyze",
+      "prompt_tokens": 115,
+      "completion_tokens": 203,
+      "cost_yuan": 0.000521,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:54.252Z",
+      "node_name": "analyze",
+      "prompt_tokens": 100,
+      "completion_tokens": 164,
+      "cost_yuan": 0.000428,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:56.290Z",
+      "node_name": "analyze",
+      "prompt_tokens": 111,
+      "completion_tokens": 197,
+      "cost_yuan": 0.000505,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:10:58.269Z",
+      "node_name": "analyze",
+      "prompt_tokens": 95,
+      "completion_tokens": 169,
+      "cost_yuan": 0.000433,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:00.781Z",
+      "node_name": "analyze",
+      "prompt_tokens": 113,
+      "completion_tokens": 227,
+      "cost_yuan": 0.000567,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:03.064Z",
+      "node_name": "analyze",
+      "prompt_tokens": 120,
+      "completion_tokens": 213,
+      "cost_yuan": 0.000546,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:05.478Z",
+      "node_name": "analyze",
+      "prompt_tokens": 86,
+      "completion_tokens": 256,
+      "cost_yuan": 0.000598,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:07.900Z",
+      "node_name": "analyze",
+      "prompt_tokens": 83,
+      "completion_tokens": 197,
+      "cost_yuan": 0.000477,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:10.105Z",
+      "node_name": "analyze",
+      "prompt_tokens": 102,
+      "completion_tokens": 197,
+      "cost_yuan": 0.000496,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:12.245Z",
+      "node_name": "analyze",
+      "prompt_tokens": 114,
+      "completion_tokens": 204,
+      "cost_yuan": 0.000522,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:14.949Z",
+      "node_name": "analyze",
+      "prompt_tokens": 96,
+      "completion_tokens": 245,
+      "cost_yuan": 0.000586,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:16.819Z",
+      "node_name": "analyze",
+      "prompt_tokens": 91,
+      "completion_tokens": 174,
+      "cost_yuan": 0.000439,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:19.271Z",
+      "node_name": "analyze",
+      "prompt_tokens": 93,
+      "completion_tokens": 219,
+      "cost_yuan": 0.000531,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:21.469Z",
+      "node_name": "analyze",
+      "prompt_tokens": 104,
+      "completion_tokens": 206,
+      "cost_yuan": 0.000516,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:24.040Z",
+      "node_name": "analyze",
+      "prompt_tokens": 93,
+      "completion_tokens": 249,
+      "cost_yuan": 0.000591,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:26.271Z",
+      "node_name": "analyze",
+      "prompt_tokens": 96,
+      "completion_tokens": 163,
+      "cost_yuan": 0.000422,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:28.721Z",
+      "node_name": "analyze",
+      "prompt_tokens": 121,
+      "completion_tokens": 190,
+      "cost_yuan": 0.000501,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:30.760Z",
+      "node_name": "analyze",
+      "prompt_tokens": 90,
+      "completion_tokens": 155,
+      "cost_yuan": 0.0004,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:33.045Z",
+      "node_name": "analyze",
+      "prompt_tokens": 125,
+      "completion_tokens": 213,
+      "cost_yuan": 0.000551,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:35.505Z",
+      "node_name": "analyze",
+      "prompt_tokens": 96,
+      "completion_tokens": 241,
+      "cost_yuan": 0.000578,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:38.300Z",
+      "node_name": "analyze",
+      "prompt_tokens": 150,
+      "completion_tokens": 271,
+      "cost_yuan": 0.000692,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:40.523Z",
+      "node_name": "analyze",
+      "prompt_tokens": 143,
+      "completion_tokens": 211,
+      "cost_yuan": 0.000565,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:42.272Z",
+      "node_name": "analyze",
+      "prompt_tokens": 139,
+      "completion_tokens": 197,
+      "cost_yuan": 0.000533,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:44.500Z",
+      "node_name": "analyze",
+      "prompt_tokens": 132,
+      "completion_tokens": 191,
+      "cost_yuan": 0.000514,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:46.582Z",
+      "node_name": "analyze",
+      "prompt_tokens": 166,
+      "completion_tokens": 224,
+      "cost_yuan": 0.000614,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:48.914Z",
+      "node_name": "analyze",
+      "prompt_tokens": 99,
+      "completion_tokens": 246,
+      "cost_yuan": 0.000591,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:51.574Z",
+      "node_name": "analyze",
+      "prompt_tokens": 98,
+      "completion_tokens": 232,
+      "cost_yuan": 0.000562,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:53.330Z",
+      "node_name": "analyze",
+      "prompt_tokens": 90,
+      "completion_tokens": 168,
+      "cost_yuan": 0.000426,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:55.491Z",
+      "node_name": "analyze",
+      "prompt_tokens": 88,
+      "completion_tokens": 179,
+      "cost_yuan": 0.000446,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:57.898Z",
+      "node_name": "analyze",
+      "prompt_tokens": 121,
+      "completion_tokens": 211,
+      "cost_yuan": 0.000543,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:11:59.789Z",
+      "node_name": "analyze",
+      "prompt_tokens": 156,
+      "completion_tokens": 209,
+      "cost_yuan": 0.000574,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:12:01.499Z",
+      "node_name": "analyze",
+      "prompt_tokens": 123,
+      "completion_tokens": 176,
+      "cost_yuan": 0.000475,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:12:03.412Z",
+      "node_name": "analyze",
+      "prompt_tokens": 121,
+      "completion_tokens": 162,
+      "cost_yuan": 0.000445,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:12:05.505Z",
+      "node_name": "analyze",
+      "prompt_tokens": 102,
+      "completion_tokens": 203,
+      "cost_yuan": 0.000508,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:12:08.405Z",
+      "node_name": "analyze",
+      "prompt_tokens": 102,
+      "completion_tokens": 250,
+      "cost_yuan": 0.000602,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:12:13.013Z",
+      "node_name": "review",
+      "prompt_tokens": 1951,
+      "completion_tokens": 540,
+      "cost_yuan": 0.003031,
+      "model": "deepseek-chat"
+    },
+    {
+      "timestamp": "2026-11-11T05:12:42.954Z",
       "node_name": "revise",
-      "prompt_tokens": 46909,
+      "prompt_tokens": 45187,
       "completion_tokens": 8192,
-      "cost_yuan": 0.063293,
+      "cost_yuan": 0.061571,
       "model": "deepseek-chat"
     },
     {
-      "timestamp": "2026-11-10T06:28:32.410Z",
+      "timestamp": "2026-11-11T05:12:46.658Z",
       "node_name": "review",
       "prompt_tokens": 1951,
-      "completion_tokens": 418,
-      "cost_yuan": 0.002787,
+      "completion_tokens": 457,
+      "cost_yuan": 0.002865,
       "model": "deepseek-chat"
     }
   ],
   "by_node": {
     "analyze": {
-      "call_count": 101,
-      "total_prompt_tokens": 12864,
-      "total_completion_tokens": 21451,
-      "total_cost_yuan": 0.05576599999999999
+      "call_count": 99,
+      "total_prompt_tokens": 11683,
+      "total_completion_tokens": 21250,
+      "total_cost_yuan": 0.05418300000000002
     },
     "review": {
       "call_count": 2,
       "total_prompt_tokens": 3902,
-      "total_completion_tokens": 896,
-      "total_cost_yuan": 0.005693999999999999
+      "total_completion_tokens": 997,
+      "total_cost_yuan": 0.005896
     },
     "revise": {
       "call_count": 1,
-      "total_prompt_tokens": 46909,
+      "total_prompt_tokens": 45187,
       "total_completion_tokens": 8192,
-      "total_cost_yuan": 0.063293
+      "total_cost_yuan": 0.061571
     }
   }
 }
