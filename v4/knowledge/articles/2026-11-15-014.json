@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-014",
+  "source_id": "https://huggingface.co/blog/3d-lora-finetuning",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "summary": "该项目是一份面向3D生成模型的微调指南，系统梳理了从数据准备、模型选择到训练策略与评估的完整流程。内容涵盖主流3D生成架构（如NeRF、Gaussian Splatting、扩散模型）的微调方法，并提供实践建议与常见问题解决方案，旨在帮助研究者和开发者高效定制3D生成模型。",
+  "tags": [
+    "3D生成",
+    "微调",
+    "扩散模型",
+    "NeRF",
+    "Gaussian Splatting",
+    "教程"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术指南/教程",
+  "key_insight": "该指南将分散的3D生成微调实践整合为可复用的系统化流程，降低了定制3D生成模型的门槛。"
+}

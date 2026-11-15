@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-061",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297277&idx=1&sn=d940ba0d58d8ae23f8f67d5c5b347fa9",
+  "title": "DeepSeek又来掀桌了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297277&idx=1&sn=d940ba0d58d8ae23f8f67d5c5b347fa9",
+  "summary": "DeepSeek于11月13日宣布开放\"全家桶应用API\"，将官方App的全套能力通过API对外开放，旨在减少开发者的集成工作量。其中最受关注的是联网搜索能力，其定价不到OpenAI和Claude同类服务的8%，延续了DeepSeek一贯的低价策略。这一举措意味着开发者可以直接调用DeepSeek在应用层已打磨好的能力（如联网搜索等），而无需自行搭建检索增强等基础设施，从而降低构建AI应用的门槛与成本。此举被视为DeepSeek在API市场对OpenAI、Claude等国际厂商的又一次价格与能力层面的冲击，可能进一步加剧大模型API市场的竞争，并推动联网搜索等增值能力成为API标配。",
+  "tags": [
+    "DeepSeek",
+    "API开放",
+    "联网搜索",
+    "大模型",
+    "价格战",
+    "开发者生态"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI大模型/API服务",
+  "key_insight": "DeepSeek以不到竞品8%的价格开放含联网搜索的全套应用API，用极致性价比将应用层能力商品化，进一步压低AI应用开发门槛并加剧API市场竞争。"
+}

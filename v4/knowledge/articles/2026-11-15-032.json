@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808188&idx=1&sn=9493b80e2a1e4c6ab409e77f2ac57584",
+  "title": "不只是Memory：Ontology如何让Coding Agent越用越懂项目？",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808188&idx=1&sn=9493b80e2a1e4c6ab409e77f2ac57584",
+  "summary": "该项目探讨如何将本体（Ontology）引入 Coding Agent 的研发实践，以突破传统 Memory 机制的局限。传统 Agent 的 Memory 多为对话历史或向量检索的扁平存储，难以表达项目中的实体、关系与约束。项目提出以本体构建结构化知识表示，让 Agent 理解代码结构、模块依赖、业务概念及其语义关联，从而在持续交互中沉淀对项目的深层理解。结合 Loop RSI（递归自我改进循环）机制，Agent 可借助本体反馈不断修正认知、优化行为策略，实现「越用越懂项目」的累积式学习。整体是从编码任务出发，向知识建模与自进化 Agent 演进的研发探索。",
+  "tags": [
+    "Ontology",
+    "Coding Agent",
+    "Memory",
+    "Loop RSI",
+    "知识表示",
+    "Agent 自进化"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / 知识工程",
+  "key_insight": "用本体替代扁平 Memory，让 Agent 以结构化知识持续积累项目理解，并通过 Loop RSI 实现自我改进。"
+}

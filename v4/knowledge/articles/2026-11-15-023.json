@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-023",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547008&idx=1&sn=88ed890da980cee1caa6c9c21b90e773",
+  "title": "Skill 自进化：基于执行轨迹与评测反馈的多代优化实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547008&idx=1&sn=88ed890da980cee1caa6c9c21b90e773",
+  "summary": "该项目提出一种 Skill 自进化机制，通过记录 Skill 执行过程中的轨迹数据，并结合评测反馈进行多代迭代优化，使 Skill 在反复自我改进中不断提升表现。核心思路是将执行轨迹作为优化依据、评测结果作为选择信号，形成“执行—反馈—优化—再执行”的闭环，让 Skill 像自我竞争一样越改越聪明。该实践强调自动化、数据驱动的迭代流程，减少人工调优成本，适用于需要持续提升能力的智能体技能或工具调用场景。",
+  "tags": [
+    "自进化",
+    "执行轨迹",
+    "评测反馈",
+    "多代优化",
+    "Skill优化",
+    "智能体"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / 自动化优化",
+  "key_insight": "用执行轨迹做优化输入、用评测反馈做选择信号，让 Skill 在多代迭代中自我竞争、持续进化。"
+}

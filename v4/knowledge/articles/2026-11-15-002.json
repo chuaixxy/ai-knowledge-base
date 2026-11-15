@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-002",
+  "source_id": "https://alexwang.ai/posts/associative-memory/",
+  "title": "You could have invented transformers from memory",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://alexwang.ai/posts/associative-memory/",
+  "summary": "该项目是一篇技术文章，标题为《You could have invented transformers from memory》，聚焦于从第一性原理出发、不依赖外部资料，逐步推导并重新发明 Transformer 架构的过程。文章通过引导读者从注意力机制、多头注意力、位置编码到残差连接与层归一化，逐层构建出完整的 Transformer 模型，旨在帮助读者建立对 Transformer 内部原理的直觉理解，而非死记硬背。内容适合具备一定深度学习基础、希望深入理解 Transformer 设计动机与结构演进的开发者阅读，属于教学与原理剖析类技术内容。",
+  "tags": [
+    "Transformer",
+    "深度学习",
+    "注意力机制",
+    "第一性原理",
+    "教程"
+  ],
+  "relevance_score": 0.85,
+  "category": "技术教程/原理解析",
+  "key_insight": "通过从零推导 Transformer，可将其复杂结构还原为一系列自然的设计选择，从而真正理解而非记忆其原理。"
+}

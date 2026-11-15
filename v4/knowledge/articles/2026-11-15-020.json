@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-15-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524273&idx=1&sn=00864fccfa91a8cf8533d53cf0a3c164",
+  "title": "OpenViking 3D理解模型上线轴测八视图及PMI解析",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524273&idx=1&sn=00864fccfa91a8cf8533d53cf0a3c164",
+  "summary": "该项目为OpenViking 3D理解模型新增轴测八视图生成与PMI（产品制造信息）解析能力。轴测八视图通过多角度投影增强模型对三维几何结构的感知，PMI解析则使模型能够读取工程图纸中的尺寸公差、形位公差、表面粗糙度等制造标注信息。二者结合提升了3D模型在工业制造场景下的语义理解与下游任务（如自动检测、工艺规划、CAD问答）的可用性，是3D视觉与工程语义融合的重要进展。",
+  "tags": [
+    "3D理解",
+    "轴测八视图",
+    "PMI解析",
+    "工业视觉",
+    "CAD",
+    "多视图投影",
+    "制造语义"
+  ],
+  "relevance_score": 0.8,
+  "category": "3D视觉与工业AI",
+  "key_insight": "将多视图几何投影与工程制造语义（PMI）结合，让3D模型从'看懂形状'迈向'读懂图纸'。"
+}

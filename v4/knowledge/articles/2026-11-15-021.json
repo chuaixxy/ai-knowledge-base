@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-021",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524166&idx=1&sn=a906ea8e660c7264fd65de893e7c82c2",
+  "title": "开发者实测｜把视频处理交给 Agent：AI MediaKit Skill 深度评测",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524166&idx=1&sn=a906ea8e660c7264fd65de893e7c82c2",
+  "summary": "该项目是一篇面向开发者的技术评测，聚焦 AI MediaKit Skill 这一视频处理 Agent 工具。评测通过实际测试展示其将视频处理任务（如转码、剪辑、格式转换等）交由 Agent 自动完成的能力，分析其集成方式、调用流程与使用体验，评估其在自动化视频处理场景中的实用性、性能表现与局限。文章面向开发者，兼具实操性与参考价值，帮助读者判断是否将其引入工作流。",
+  "tags": [
+    "AI Agent",
+    "视频处理",
+    "开发者工具",
+    "技术评测",
+    "自动化"
+  ],
+  "relevance_score": 0.8,
+  "category": "技术评测",
+  "key_insight": "将视频处理抽象为 Agent 可调用的 Skill，能显著降低开发者的集成与操作成本，但实际落地仍需权衡性能与场景适配度。"
+}

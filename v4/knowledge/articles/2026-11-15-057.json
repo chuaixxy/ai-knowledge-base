@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-057",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547614&idx=1&sn=d8132825fac2baa4814c999618ca1a14",
+  "title": "压测AI Agent 治理与评测调优实践",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547614&idx=1&sn=d8132825fac2baa4814c999618ca1a14",
+  "summary": "该项目针对压测调试这一用户反馈最集中的环节，构建了AI Agent治理与评测调优实践。平台支持10种常用协议和30多个脚本组件，新手在接触陌生协议、编排脚本或配置参数时频繁遭遇调试报错。传统排查方式需逐一核对场景配置、JMX脚本、请求响应、JMeter日志和Trace，链路冗长且耗费精力。项目通过引入AI Agent实现问题定位与调优的自动化，并配套治理与评测机制保障效果，从而缩短排查链路、降低使用门槛、提升压测调试效率。",
+  "tags": [
+    "AI Agent",
+    "性能测试",
+    "压测调试",
+    "评测调优",
+    "可观测性",
+    "自动化排障"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化/测试效能",
+  "key_insight": "用AI Agent串联多源诊断信息，把长链路人工排查转化为自动化定位与调优闭环。"
+}

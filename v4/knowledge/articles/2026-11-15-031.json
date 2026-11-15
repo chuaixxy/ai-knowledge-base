@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-15-031",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515638&idx=1&sn=9ccc22ec20a46d9165041649f5a5e19e",
+  "title": "上海创智学院开源Nex-N2.6！更省 Token、更强电脑操控能力，Agent 长程体验全新升级",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515638&idx=1&sn=9ccc22ec20a46d9165041649f5a5e19e",
+  "summary": "上海创智学院开源了能动性模型Nex-N2.6，针对Agent长程任务体验进行升级。其核心改进包括：推理复读率降低90%，显著减少Token消耗；跨框架工具调用精准率达到100%，提升工具使用可靠性；在OSWorld电脑操作评测中获得83分，跻身第一梯队，展现较强的电脑操控能力。该模型旨在解决Agent在长程任务中的稳定性与效率问题，通过降低冗余推理和提升工具调用精度，使Agent在复杂多步任务中表现更稳定、成本更低。开源发布有助于推动Agent生态发展，为开发者提供更省Token、更强电脑操控能力的能动性模型选择。",
+  "tags": [
+    "Agent",
+    "能动性模型",
+    "开源",
+    "工具调用",
+    "电脑操控",
+    "OSWorld",
+    "Token效率",
+    "长程任务"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / 开源模型",
+  "key_insight": "Nex-N2.6通过大幅降低推理复读率和实现100%工具调用精准率，在提升Agent长程稳定性的同时显著节省Token成本。"
+}

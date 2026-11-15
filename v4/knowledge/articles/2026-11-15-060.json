@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-060",
+  "source_id": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
+  "title": "Analyze your Stripe data directly with your agent",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent",
+  "summary": "该项目允许用户通过自然语言直接分析 Stripe 支付数据，无需编写 SQL 或使用 BI 工具。用户可以让 AI 代理生成投资人演示文稿，突出上一季度业务超预期表现，或构建自定义仪表盘以诊断收入变化原因。其核心是将 Stripe 数据与 LLM 代理结合，把结构化查询转化为自然语言交互，降低数据分析门槛，适合创始人和运营团队快速获取商业洞察。技术上依赖 Stripe API 数据接入、语义层映射与代理式查询编排，强调从数据到叙事的一体化输出。",
+  "tags": [
+    "Stripe",
+    "自然语言分析",
+    "AI Agent",
+    "商业智能",
+    "数据可视化",
+    "收入分析"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 数据分析工具",
+  "key_insight": "用自然语言代理替代传统 BI 查询，把 Stripe 数据直接转化为可讲述的商业叙事与决策看板。"
+}

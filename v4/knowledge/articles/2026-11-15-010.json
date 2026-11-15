@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-15-010",
+  "source_id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "summary": "该项目聚焦于使用 SimReady 资产构建机器人抓取与放置（Pick-and-Place）仿真环境。SimReady 资产是经过仿真优化的标准化 3D 模型，具备正确的物理属性、材质和层级结构，可直接用于机器人仿真训练。项目核心在于搭建一个完整的仿真流水线：导入 SimReady 资产、配置机械臂与夹爪、设置抓取姿态与运动规划、完成放置任务，并验证仿真结果的物理合理性。该技术可显著降低机器人抓取任务的数据采集与训练成本，适用于工业分拣、物流搬运等场景，是 Sim2Real 迁移的重要基础。",
+  "tags": [
+    "机器人仿真",
+    "SimReady",
+    "抓取与放置",
+    "物理仿真",
+    "Sim2Real",
+    "运动规划",
+    "合成数据"
+  ],
+  "relevance_score": 0.8,
+  "category": "机器人仿真与合成数据",
+  "key_insight": "SimReady 资产标准化了仿真环境的物理与语义信息，使机器人抓取任务的仿真搭建从'手工建模'转向'资产组装'，大幅提升仿真训练的可扩展性。"
+}

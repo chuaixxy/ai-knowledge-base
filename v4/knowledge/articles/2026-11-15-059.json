@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-059",
+  "source_id": "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4",
+  "title": "Skipper, Airbnb’s embedded workflow engine, is now open source",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4",
+  "summary": "Skipper 是 Airbnb 开发并开源的嵌入式工作流引擎，用于在服务内部编排和执行多步骤业务流程。它允许开发者以声明式方式定义工作流状态机，将复杂的业务逻辑（如订单处理、审批流、数据管道）拆解为可组合的步骤，并支持条件分支、并行执行、重试与超时等控制流语义。作为嵌入式引擎，Skipper 直接运行在应用进程内，无需独立部署的编排服务，降低了架构复杂度和调用延迟，同时提供可视化的工作流定义与运行状态追踪能力。该项目开源后，开发者可借鉴 Airbnb 在大规模微服务环境下管理业务流程的工程实践，适用于需要轻量级、低耦合流程编排的场景。",
+  "tags": [
+    "工作流引擎",
+    "开源",
+    "Airbnb",
+    "微服务",
+    "流程编排",
+    "嵌入式"
+  ],
+  "relevance_score": 0.8,
+  "category": "开发工具/工作流编排",
+  "key_insight": "Skipper 以嵌入式方式将工作流编排能力下沉到应用进程内，在保持低延迟和低架构复杂度的同时，提供了声明式的业务流程控制能力。"
+}

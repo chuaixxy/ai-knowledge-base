@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-15-053",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487927&idx=1&sn=6a811d29568ba749ef866f908d1b8d1c",
+  "title": "Kimi Hosted Agents 正式发布：Harness as a Service",
+  "source": "rss-kimi",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzcwMjM3ODEzOA==&mid=2247487927&idx=1&sn=6a811d29568ba749ef866f908d1b8d1c",
+  "summary": "Kimi Hosted Agents 是月之暗面推出的托管式智能体服务，核心理念为 Harness as a Service（智能体运行框架即服务）。该产品将智能体所需的执行框架、工具调用、上下文管理、沙箱环境与状态持久化等底层能力封装为云端服务，开发者无需自行搭建复杂的 Agent 运行时基础设施，只需定义任务逻辑与工具即可上线智能体。这一模式降低了智能体从原型到生产的工程门槛，把编排、调度、安全隔离和可观测性等运维负担交给平台，让团队聚焦于业务逻辑与模型能力本身。其发布反映了智能体基础设施正从自建框架走向托管化、平台化的趋势，类似云服务对传统部署方式的替代，有望加速 Agent 在企业场景中的规模化落地。",
+  "tags": [
+    "智能体",
+    "Agent 基础设施",
+    "托管服务",
+    "Harness as a Service",
+    "月之暗面",
+    "Kimi",
+    "AI 平台"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 基础设施 / 智能体平台",
+  "key_insight": "将智能体运行框架抽象为托管服务，把 Agent 工程从自建基础设施转向平台化交付，是智能体规模化的关键一步。"
+}

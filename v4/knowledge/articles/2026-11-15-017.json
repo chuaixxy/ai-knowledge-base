@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-017",
+  "source_id": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+  "title": "Amazon has a plan to index the world’s online shopping data",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+  "summary": "据路透社报道，亚马逊计划构建一个名为“World Product Graph”的项目，旨在建立一个涵盖互联网上所有销售产品的数据宝库，包括亚马逊不销售的产品，并通过其网站提供这些信息。该项目旨在减少购物者离开亚马逊去其他地方进行产品研究的情况，从而提升亚马逊作为购物搜索起点的地位，并可能对谷歌等搜索引擎构成挑战。",
+  "tags": [
+    "亚马逊",
+    "电商",
+    "数据索引",
+    "产品图谱",
+    "搜索"
+  ],
+  "relevance_score": 0.9,
+  "category": "电商科技",
+  "key_insight": "亚马逊通过索引全网商品数据，旨在成为购物搜索的终极入口，巩固其电商霸主地位。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-005",
+  "source_id": "https://openai.com/business/customer-stories/shield",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/business/customer-stories/shield",
+  "summary": "Shield 是一款面向 IT 技术人员的辅助工具，利用 OpenAI 模型驱动的 Forge 智能体在遗留门户系统中自动导航和操作，从而帮助技术人员完成工作交接。传统 IT 运维中，大量时间被耗费在操作老旧、界面复杂、缺乏 API 的遗留系统上，Shield 的 Forge 智能体通过理解界面和任务意图，代替人工执行重复性的系统操作，让技术人员能够将精力集中在真正需要专业判断的问题上。该项目的核心价值在于用 AI 智能体弥合遗留系统与现代自动化流程之间的鸿沟，降低交接成本、提升运维效率，同时避免对老旧系统进行昂贵的改造。",
+  "tags": [
+    "AI Agent",
+    "IT 运维",
+    "遗留系统",
+    "OpenAI",
+    "工作交接",
+    "自动化"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 智能体 / IT 运维自动化",
+  "key_insight": "用 AI 智能体代替人工操作遗留门户，把技术人员的判断力从重复劳动中解放出来。"
+}

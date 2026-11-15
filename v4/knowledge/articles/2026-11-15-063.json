@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-063",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074456&idx=1&sn=fd945abf7738045bba3669031d5ef7a2",
+  "title": "踢开具身Scaling的另一扇门：华为诺亚团队登顶Behavior Challenge 2026",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074456&idx=1&sn=fd945abf7738045bba3669031d5ef7a2",
+  "summary": "该项目介绍华为诺亚团队在Behavior Challenge 2026中登顶的技术成果，核心在于为具身智能（Embodied AI）的Scaling（规模化扩展）开辟了新路径。传统机器人方法多依赖手工设计的规则与任务特定模型，难以形成可扩展的知识体系。该工作提出将经典机器人方法与大规模学习相结合，通过构建可复用、可迁移的技能表征与知识库，使机器人能够在多样任务间共享经验，实现从单一任务向开放世界任务的泛化。这一思路突破了单纯依赖数据量堆叠的Scaling范式，强调结构化知识与学习算法的协同，为具身智能走向通用化、可扩展的知识体系提供了新方向，对机器人学习与基础模型融合具有重要参考价值。",
+  "tags": [
+    "具身智能",
+    "机器人学习",
+    "Scaling",
+    "知识体系",
+    "华为诺亚",
+    "Behavior Challenge"
+  ],
+  "relevance_score": 0.85,
+  "category": "具身智能/机器人学习",
+  "key_insight": "具身智能的Scaling不应只靠数据堆叠，而需将经典机器人方法与可复用技能知识体系结合，实现结构化知识的规模化扩展。"
+}

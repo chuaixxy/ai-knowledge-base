@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-003",
+  "source_id": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+  "title": "ML Modules for Mere Mortals",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
+  "summary": "该项目是一篇面向普通开发者的机器学习模块入门技术文章，发布在 Lobsters 社区并附有讨论链接。文章以通俗易懂的方式讲解机器学习模块的基本概念、组成结构及实际应用方法，旨在降低 ML 学习门槛，帮助缺乏深厚数学背景的开发者理解并使用机器学习组件。内容涵盖模块化设计思路、常见模块类型及其在项目中的集成方式，强调实用性与可操作性，适合初学者快速上手，也为有经验的工程师提供模块化视角的参考。",
+  "tags": [
+    "机器学习",
+    "模块化",
+    "入门教程",
+    "开发者工具",
+    "技术文章"
+  ],
+  "relevance_score": 0.72,
+  "category": "技术教程/机器学习",
+  "key_insight": "以模块化视角拆解机器学习，让非专家也能低成本理解并集成 ML 组件。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-039",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698197&idx=1&sn=9106492007434b730027437c061fb762",
+  "title": "维护3.3万字符的长Prompt？让优化Agent迭代执行Agent",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698197&idx=1&sn=9106492007434b730027437c061fb762",
+  "summary": "该项目探讨了在需要维护3.3万字符超长Prompt的场景下，如何通过优化Agent与执行Agent分工协作来提升效果。核心思路是将冗长的提示词拆解为可由优化Agent迭代改进的模块，再由执行Agent按需调用执行，避免单次上下文过长导致的注意力稀释与指令冲突。项目强调用Agent循环替代一次性静态Prompt，通过反馈驱动持续精炼指令，从而在复杂任务中兼顾可维护性与执行质量，代表了长上下文工程中从静态提示向动态Agent编排的演进方向。",
+  "tags": [
+    "Prompt Engineering",
+    "Agent",
+    "长上下文",
+    "迭代优化",
+    "LLM应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent / Prompt工程",
+  "key_insight": "超长Prompt的出路不是压缩，而是拆分为优化Agent迭代精炼、执行Agent按需调用的动态协作结构。"
+}

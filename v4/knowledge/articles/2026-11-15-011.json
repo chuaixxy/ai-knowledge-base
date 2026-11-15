@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-011",
+  "source_id": "https://huggingface.co/blog/allenai/xybench",
+  "title": "XYBench: Helping with the problem behind the question",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "summary": "XYBench 是一个面向评测与基准测试的技术项目，核心关注点在于“问题背后的问题”——即不仅评估模型对表面问题的回答质量，还考察其能否识别并处理用户真实意图、隐含约束与上下文歧义。项目通过构建基准任务与评测方法，帮助研究者诊断模型在需求理解、澄清提问与目标对齐方面的不足，从而提升 AI 系统在真实交互中的可靠性与有效性。",
+  "tags": [
+    "benchmark",
+    "评测基准",
+    "意图理解",
+    "问题澄清",
+    "AI对齐"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI评测与基准测试",
+  "key_insight": "真正有价值的评测不只是看答案对不对，而是看模型能否读懂问题背后真正要解决的问题。"
+}

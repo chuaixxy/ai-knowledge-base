@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-009",
+  "source_id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "source": "rss-google-ai-blog",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "summary": "Tabletop 是 Google Labs 推出的新实验项目，面向群体协作场景，提供可定制、可共享的互动空间，让团队一起规划、游玩和完成更多事情。用户可以在其中构建互动式行程表、投票和淘汰赛对阵表（brackets），并邀请团队成员共同参与和编辑。该产品强调实时协作与轻量化的互动组件，适用于活动策划、团队决策、游戏聚会等场景，目前通过候补名单（waitlist）方式开放体验。",
+  "tags": [
+    "Google Labs",
+    "协作工具",
+    "互动投票",
+    "活动策划",
+    "团队协作",
+    "实验性产品"
+  ],
+  "relevance_score": 0.75,
+  "category": "协作与生产力工具",
+  "key_insight": "将行程、投票、对阵表等轻量互动组件整合进一个共享空间，降低群体共同决策与规划的门槛。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-001",
+  "source_id": "https://arxiv.org/abs/2605.29713",
+  "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+  "source": "rss-lobsters-ai-ml",
+  "url": "https://arxiv.org/abs/2605.29713",
+  "summary": "该项目是一本关于生成式AI基础的开源小书，以直观的数学入门方式讲解生成式AI的核心概念。内容面向希望理解生成式模型数学原理的读者，强调直觉性而非繁重推导，帮助读者建立对生成式AI基础理论的整体认识。项目在Lobste.rs上引发讨论，适合作为学习生成式AI数学基础的入门材料。",
+  "tags": [
+    "生成式AI",
+    "数学基础",
+    "入门教程",
+    "开源书籍",
+    "机器学习"
+  ],
+  "relevance_score": 0.75,
+  "category": "教育/学习资源",
+  "key_insight": "用直观的数学讲解降低生成式AI基础理论的学习门槛。"
+}

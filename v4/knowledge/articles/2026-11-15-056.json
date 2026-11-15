@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-056",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547712&idx=1&sn=a848c96b1a7c2708b8e7ce689faf4aa2",
+  "title": "Jev实战：为AI工作流引入轻量决策层",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547712&idx=1&sn=a848c96b1a7c2708b8e7ce689faf4aa2",
+  "summary": "该项目介绍了一种为AI工作流设计的轻量决策层，名为Jev。它专注于执行零碎的判断任务，而非聊天交互。作者展示了三个用例：5秒内完成300个用例打标、7秒内为UI自动化选择元素、以及知识库召回后的用例精筛。这种轻量决策层能快速、经济地处理细分判断任务，提升AI工作流的效率。项目强调其实用性和高效性，并邀请读者讨论更多应用场景。",
+  "tags": [
+    "AI工作流",
+    "轻量决策层",
+    "用例打标",
+    "UI自动化",
+    "知识库精筛"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI工具",
+  "key_insight": "轻量决策层能高效处理零碎判断任务，显著提升AI工作流的速度和成本效益。"
+}

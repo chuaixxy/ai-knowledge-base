@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-15-041",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503308&idx=1&sn=c3d9562239cadc1f2f51a2f5b91deb60",
+  "title": "AI驱动“自动化测试后周期”诊治体系升级",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503308&idx=1&sn=c3d9562239cadc1f2f51a2f5b91deb60",
+  "summary": "该项目针对Vibe Coding模式下研发效率提升与质量保障之间的矛盾，构建了AI驱动的自动化测试后周期治理体系。实践围绕断言质量提升、冗余用例治理和覆盖度优化三条主线展开，完整呈现了从问题拆解、落地挑战到架构迭代的演进过程，并配有真实业务数据支撑。项目技术路径清晰，将AI能力嵌入测试后周期的诊断与治理环节，形成可复用的自动化测试质量提升方法论，对面临AI编码提效后测试债务累积的团队具有较强参考价值。",
+  "tags": [
+    "AI测试治理",
+    "自动化测试",
+    "断言质量",
+    "冗余用例治理",
+    "测试覆盖度",
+    "Vibe Coding",
+    "研发效能",
+    "质量保障"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程化 / 测试效能",
+  "key_insight": "AI提效带来的测试债务需用AI治理，测试后周期的断言与冗余治理是质量闭环的关键抓手。"
+}

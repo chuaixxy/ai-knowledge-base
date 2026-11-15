@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-051",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485910&idx=1&sn=529f50ba3b37e39319dad1faf7a122cf",
+  "title": "DeepSeek 发布全家桶应用 API",
+  "source": "rss-deepseek",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485910&idx=1&sn=529f50ba3b37e39319dad1faf7a122cf",
+  "summary": "DeepSeek 此次发布的全家桶应用 API，将联网搜索、文件处理、语音等原本集成在自家产品中的能力全面对外开放，并支持开发者独立调用单项功能。这意味着 DeepSeek 从单一模型服务商向应用能力平台延伸，开发者无需自建搜索、文件解析或语音链路，即可将成熟能力嵌入自有产品，显著降低构建 AI 应用的工程成本。该举措也反映出国内大模型厂商竞争重心从模型参数转向工具链与生态整合，API 的模块化设计有利于吸引更多第三方开发者并加速能力商业化落地。",
+  "tags": [
+    "大模型API",
+    "联网搜索",
+    "语音能力",
+    "开发者生态",
+    "DeepSeek",
+    "工具链开放"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI平台与API服务",
+  "key_insight": "DeepSeek 正以模块化应用 API 将模型能力升级为可独立组装的工具生态，争夺开发者入口。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-028",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562678&idx=1&sn=4bca2da2340d7065386940ee76a34d51",
+  "title": "Qwen4-Max 预览版首发上线千问AI平台Token Plan",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562678&idx=1&sn=4bca2da2340d7065386940ee76a34d51",
+  "summary": "该项目为Qwen4-Max预览版在千问AI平台首发上线，并配套推出Token Plan计费/使用方案，面向用户开放抢先体验。从信息看，这是一次新模型版本的早期发布与平台化接入，重点在于让开发者与用户提前试用Qwen4-Max的能力，并通过Token Plan明确调用额度与成本结构。由于描述较为简短，未披露模型参数规模、上下文长度、推理性能、价格档位及与上一代Qwen的对比数据，实际能力提升幅度与适用场景仍需后续评测验证。整体属于大模型产品迭代与平台运营层面的发布动作，对关注国产大模型进展的开发者具有一定吸引力。",
+  "tags": [
+    "Qwen4-Max",
+    "千问AI平台",
+    "大模型",
+    "预览版发布",
+    "Token Plan",
+    "模型API"
+  ],
+  "relevance_score": 0.8,
+  "category": "大模型产品发布",
+  "key_insight": "Qwen4-Max预览版上线并绑定Token Plan，本质是以抢先体验换取早期用户反馈与生态占位。"
+}

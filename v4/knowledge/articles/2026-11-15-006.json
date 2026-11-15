@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-15-006",
+  "source_id": "https://openai.com/business/customer-stories/amplitude",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/business/customer-stories/amplitude",
+  "summary": "Amplitude 基于 OpenAI 模型构建了主动式产品智能体 Wave，将产品改进的交付周期压缩至 1–2 天。Wave 贯穿产品迭代的三个核心环节：首先通过分析用户行为数据自动识别值得构建的功能与优化点；其次借助编码智能体辅助团队快速完成代码实现与变更交付；最后持续度量上线后的实际影响，形成数据驱动的闭环。该实践展示了 AI 智能体从需求发现到效果验证的全链路赋能，显著缩短了传统产品迭代中调研、开发与评估的周期，为 SaaS 团队提供了以模型能力驱动研发提效的可复用范式。",
+  "tags": [
+    "AI Agent",
+    "OpenAI",
+    "产品迭代",
+    "研发提效",
+    "数据分析",
+    "编码智能体"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 工程实践",
+  "key_insight": "用 AI 智能体打通“发现需求—辅助编码—度量影响”的闭环，是产品迭代提速到 1–2 天的关键。"
+}
