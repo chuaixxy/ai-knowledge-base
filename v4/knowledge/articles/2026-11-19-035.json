@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-035",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515895&idx=1&sn=9620e69f61e90a9a2ac2294d654e6923",
+  "title": "Hy4 flash 开源：224B 激活 12B，用户盲测满意度接近 Haiku 5.5",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515895&idx=1&sn=9620e69f61e90a9a2ac2294d654e6923",
+  "summary": "腾讯混元开源Hy4 flash多模态大模型，采用MoE稀疏架构，总参数量224B但每次推理仅激活12B，显著降低推理成本。模型支持1M超长上下文，可处理大规模文档与多模态输入。在用户盲测中，其日常任务满意度接近Claude Haiku 5.5水平，同时表现与成本均优于前代模型。该开源发布在效率与性能间取得平衡，为开发者提供了高性价比的多模态长上下文解决方案，也反映出国内大模型在稀疏架构与成本优化方向的持续进展。",
+  "tags": [
+    "多模态大模型",
+    "MoE稀疏架构",
+    "开源模型",
+    "长上下文",
+    "腾讯混元",
+    "推理成本优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "大语言模型/多模态AI",
+  "key_insight": "以224B总参数、12B激活的稀疏架构实现接近Haiku 5.5的用户满意度，证明低成本高效推理与实用体验可以兼得。"
+}

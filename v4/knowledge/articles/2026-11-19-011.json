@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-011",
+  "source_id": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "title": "Research acceleration: The jagged frontier",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "summary": "OpenAI 研究了编码智能体如何加速 AI 研究，发现其性能呈现“锯齿状前沿”：在部分任务上表现优异，但在其他任务上仍存在明显不足。这种不均衡表明智能体并非通用型加速器，而是依赖于任务特性。研究还探讨了这对递归自我改进（AI 自主提升 AI）的启示：虽然智能体可提升研究效率，但性能的不均匀性限制了完全自主的递归改进，需要人类监督与任务分解。该分析为理解 AI 研究自动化的发展阶段和瓶颈提供了实证基础。",
+  "tags": [
+    "编码智能体",
+    "AI 研究加速",
+    "递归自我改进",
+    "性能不均衡",
+    "OpenAI"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 研究自动化",
+  "key_insight": "编码智能体对 AI 研究的加速作用呈现锯齿状前沿，任务依赖性强，完全递归自我改进尚不现实。"
+}

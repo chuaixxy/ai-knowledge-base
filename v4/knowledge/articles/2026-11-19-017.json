@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-017",
+  "source_id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "summary": "该项目探讨了深度学习模型微调（fine-tuning）任务实际耗时往往超过基于FLOPs（浮点运算次数）理论估算的原因。分析指出，FLOPs仅衡量计算量，却忽略了内存带宽瓶颈、数据加载与预处理开销、GPU利用率不足、通信同步等待、kernel启动延迟以及小批量下并行度低等实际因素。微调通常使用较小batch size和较短序列，导致硬件难以满载，理论算力无法充分发挥。项目强调应结合roofline模型、profiling工具和端到端吞吐指标来评估真实性能，而非单纯依赖FLOPs。对优化训练效率、合理预估任务时间和资源规划具有实用价值。",
+  "tags": [
+    "深度学习",
+    "模型微调",
+    "性能分析",
+    "FLOPs",
+    "GPU利用率",
+    "训练优化"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI系统与性能优化",
+  "key_insight": "FLOPs只反映计算量，真实微调耗时由内存带宽、数据流水线和硬件利用率等系统瓶颈共同决定。"
+}

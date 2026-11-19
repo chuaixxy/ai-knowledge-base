@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-016",
+  "source_id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "summary": "DaisyRose-27B 是一个专注于提升后训练效率的大型语言模型项目，旨在推动后训练阶段（如指令微调、对齐等）的效率边界。该项目通过优化训练流程、减少计算开销，在保持模型性能的同时显著降低后训练成本。虽然具体技术细节未公开，但其命名和描述暗示了在27B参数规模下实现高效后训练的创新方法，可能涉及参数高效微调、数据筛选或分布式训练优化。该项目对于降低大模型部署门槛、促进可持续AI发展具有潜在意义，尤其适合资源受限的研究团队或企业参考。",
+  "tags": [
+    "后训练效率",
+    "大语言模型",
+    "27B参数",
+    "参数高效微调",
+    "训练优化"
+  ],
+  "relevance_score": 0.75,
+  "category": "大模型训练与优化",
+  "key_insight": "通过系统级优化，在27B参数规模下显著降低后训练计算成本，为高效大模型适配提供新思路。"
+}

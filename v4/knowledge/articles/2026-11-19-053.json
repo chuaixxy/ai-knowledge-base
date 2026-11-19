@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-053",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547734&idx=1&sn=b209c8551fd912752d56807e042bec74",
+  "title": "压测 AI Agent 治理与评测调优实践",
+  "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547734&idx=1&sn=b209c8551fd912752d56807e042bec74",
+  "summary": "该项目分享了压测平台接入智能分析 Agent 后的治理与调优实践。核心痛点在于 Agent 结论跑偏时难以定位故障环节。团队通过 Trace 回放定位错因，采用冻结现场、喂回重跑的方式验证修复效果，并从质量、延迟、成本三个维度建立评测体系。关键经验是单次高分不可信，需反复运行以验证稳定性，最终将经验沉淀为可回放、可对比的测试用例，形成闭环的 Agent 质量保障机制。",
+  "tags": [
+    "AI Agent",
+    "压测",
+    "可观测性",
+    "Trace 回放",
+    "评测体系",
+    "LLM 调优",
+    "质量保障"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 工程实践",
+  "key_insight": "Agent 治理的核心不是追求单次高分，而是建立可回放、可对比、可反复验证的闭环评测机制。"
+}

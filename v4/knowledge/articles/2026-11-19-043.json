@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-19-043",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698248&idx=1&sn=231ec6d5f27becee1515974608c85cfd",
+  "title": "AI时代，代码Review还有必要吗？",
+  "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698248&idx=1&sn=231ec6d5f27becee1515974608c85cfd",
+  "summary": "该项目探讨在AI辅助编程日益普及的背景下，传统代码Review是否仍有必要。从描述缺失来看，内容可能聚焦于AI生成代码的质量、安全与可维护性风险，以及人工审查在架构一致性、业务逻辑正确性、知识传递和团队协作中的不可替代价值。核心观点倾向于：AI可承担格式化、静态检查等重复性审查，但人工Review仍是质量把关与团队共识的关键环节，二者应结合而非替代。",
+  "tags": [
+    "代码审查",
+    "AI辅助编程",
+    "软件质量",
+    "工程实践"
+  ],
+  "relevance_score": 0.6,
+  "category": "软件工程实践",
+  "key_insight": "AI能提升代码审查效率，但无法替代人工审查在业务理解、架构判断与团队协作中的核心作用。"
+}

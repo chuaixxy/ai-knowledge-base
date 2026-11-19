@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-007",
+  "source_id": "https://arxiv.org/abs/2611.23322",
+  "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2611.23322",
+  "summary": "该论文从博弈论角度论证：随着AI能力增长，人与AI的互利共生关系并不稳定。讨价还价只能保证各方获得谈判破裂时的收益，而人类在AI出现前的既有福利可能高于此。模型显示，在无对齐情况下，人类仅靠两种杠杆维持原有福利：一是AI依赖人类供给，二是人类能对AI施加相对其产出足够大的成本。一旦两种杠杆皆失，唯有AI对齐才能保障人类福利；若AI目标无餍足，所需对齐程度随能力增长趋近完美对齐。因此互利共生不能替代对齐，且保留更多资源的AI变体扩散更快。",
+  "tags": [
+    "AI对齐",
+    "博弈论",
+    "人机关系",
+    "能力不对称",
+    "AI安全"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI安全与对齐",
+  "key_insight": "互利共生无法替代对齐：随着AI能力增强，人类仅靠谈判杠杆维持福利的路径终将失效。"
+}

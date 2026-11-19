@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-037",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808207&idx=1&sn=2e8dc64891bdc8488ea11e48c33711b4",
+  "title": "登上GitHub Trending｜腾讯开源 LoopForge",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808207&idx=1&sn=2e8dc64891bdc8488ea11e48c33711b4",
+  "summary": "LoopForge 是腾讯开源的一款云端自进化研发平台，因登上 GitHub Trending 而受到关注。该项目面向 AI 驱动的研发流程自动化，核心思路是将研发任务置于云端闭环中，通过循环式的自我迭代与反馈机制，让系统在持续运行中优化自身的研发流程与产出。它强调「自进化」能力，即平台能够根据任务执行结果自动调整策略、积累经验，减少人工干预。作为腾讯开源项目，LoopForge 具备企业级工程背景，适合探索 Agent 驱动的自动化研发、云端协作与持续集成场景。其价值在于将大模型能力与研发流水线结合，为开发者提供可复用的自进化基础设施，代表了 AI 原生研发工具链的一个新方向。",
+  "tags": [
+    "腾讯开源",
+    "自进化",
+    "云端研发平台",
+    "AI Agent",
+    "自动化研发",
+    "GitHub Trending"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 研发基础设施 / 自动化平台",
+  "key_insight": "LoopForge 的核心创新在于把「自进化循环」引入云端研发流程，让研发平台从被动执行工具转变为能持续自我优化的智能体系统。"
+}

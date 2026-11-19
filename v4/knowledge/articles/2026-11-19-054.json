@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-054",
+  "source_id": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+  "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+  "source": "rss-airbnb-engineering",
+  "url": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+  "summary": "Airbnb 工程博客介绍了其在大规模 AI 训练场景下对文本数据进行去标识化（de-identification）以保护用户个人数据的方案。核心思路是在文本进入模型训练前，通过自动化流程识别并移除或替换姓名、地址、联系方式等个人可识别信息（PII），兼顾数据可用性与隐私合规。方案强调规模化处理能力，需应对海量文本、多语言与误判权衡，通常结合规则匹配、命名实体识别（NER）模型与人工审核/评估来平衡召回率与精确率，并建立监控与迭代机制以降低过度脱敏导致的语义损失。该实践体现了隐私工程在 AI 数据管线中的落地方式，为其他平台在训练数据治理与合规方面提供参考。",
+  "tags": [
+    "数据隐私",
+    "去标识化",
+    "PII 识别",
+    "AI 训练数据",
+    "隐私工程",
+    "命名实体识别",
+    "数据治理"
+  ],
+  "relevance_score": 0.82,
+  "category": "隐私与数据安全工程",
+  "key_insight": "在规模化 AI 训练中，去标识化的关键不是彻底删除信息，而是在隐私保护与文本语义可用性之间建立可度量、可迭代的自动化平衡。"
+}

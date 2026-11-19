@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-034",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538692&idx=1&sn=cc55a7cf75629cbc07ec7108eab1183d",
+  "title": "HARTS：面向长程 Agentic RL 的混合注意力前缀共享训练系统",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538692&idx=1&sn=cc55a7cf75629cbc07ec7108eab1183d",
+  "summary": "HARTS 是一个面向长程 Agentic 强化学习（Agentic RL）的训练系统，核心解决长程 Agent 在执行任务时需反复读取历史操作与环境反馈所带来的计算与显存开销问题。系统采用混合注意力机制，对不同历史片段使用不同注意力策略（如全局注意力与滑动窗口/局部注意力结合），并通过前缀共享（prefix sharing）复用跨轨迹或跨时间步的公共前缀 KV 缓存，从而显著降低重复计算。该设计在保持长程依赖建模能力的同时提升训练吞吐、降低显存占用，适用于多轮工具调用、长序列决策等 Agentic RL 场景。",
+  "tags": [
+    "Agentic RL",
+    "长程上下文",
+    "混合注意力",
+    "前缀共享",
+    "KV 缓存复用",
+    "训练系统",
+    "强化学习基础设施"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 训练系统 / 强化学习基础设施",
+  "key_insight": "通过混合注意力与跨轨迹前缀共享复用 KV 缓存，在保留长程依赖建模的同时大幅削减长程 Agentic RL 的重复计算与显存开销。"
+}

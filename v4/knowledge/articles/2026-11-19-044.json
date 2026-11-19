@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-044",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247507130&idx=1&sn=bebe797975d1a93950475ebea1ff382d",
+  "title": "9-10 月产品月报｜Pulsar 上线标准版 S2，覆盖轻量业务场景；RabbitMQ 上线 AI 诊断助手，降低排障门槛",
+  "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247507130&idx=1&sn=bebe797975d1a93950475ebea1ff382d",
+  "summary": "腾讯云消息队列发布9-10月产品月报，核心更新包括Pulsar上线标准版S2，面向轻量业务场景提供更经济的消息队列方案；RabbitMQ上线AI诊断助手，通过智能化手段降低故障排查门槛，提升运维效率。两项更新分别从产品规格下沉与运维智能化两个方向完善消息队列产品矩阵，兼顾成本敏感型业务与运维体验优化，体现腾讯云在消息中间件领域持续降低使用门槛、提升易用性的产品策略。",
+  "tags": [
+    "消息队列",
+    "Pulsar",
+    "RabbitMQ",
+    "AI运维",
+    "腾讯云",
+    "产品月报"
+  ],
+  "relevance_score": 0.8,
+  "category": "云服务/消息中间件",
+  "key_insight": "Pulsar以标准版S2下探轻量场景，RabbitMQ用AI诊断降低排障门槛，腾讯云消息队列正从规格分层与智能运维两端同时降低使用门槛。"
+}

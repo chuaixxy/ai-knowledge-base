@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-024",
+  "source_id": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
+  "title": "《Agent评测白皮书》系列02：商家 AI 助手的评测与优化闭环实践",
+  "source": "rss-meituan",
+  "url": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
+  "summary": "本文以商家 AI 助手的巡检任务为贯穿案例，系统介绍了构建业务 Benchmark 的完整方法论。文章围绕评测与优化的闭环实践展开，首先阐述如何针对具体业务场景设计评测基准，随后通过评测器校准确保评测结果的准确性与可靠性。在此基础上，通过错误分析定位 Agent 的薄弱环节，推动评测体系本身与 Agent 能力的双向提升。此外，文章还介绍了借助图灵支撑平台实现持续回归测试与模型选型，为评测方法在真实业务中的落地提供了可操作的参考路径。",
+  "tags": [
+    "Agent评测",
+    "Benchmark构建",
+    "错误分析",
+    "评测器校准",
+    "持续回归",
+    "模型选型",
+    "AI助手"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "评测体系与Agent能力应在错误分析的驱动下双向迭代，形成持续优化的闭环。"
+}

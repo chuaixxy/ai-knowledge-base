@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-004",
+  "source_id": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "source": "rss-hacker-news-best",
+  "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "summary": "该文章报道了哈佛大学研究人员的一项发现：随着AI编码代理（AI coding agents）的普及，软件开发中的瓶颈正从编写代码转移到代码审查环节。AI能够快速生成大量代码，但人类审查者需要花费大量时间来验证这些代码的正确性、安全性和质量，导致代码审查成为新的效率瓶颈。文章在Hacker News上引发广泛讨论（320分，441条评论），反映出业界对AI辅助开发工具实际工作流影响的关注。研究提示团队需要重新设计开发流程，例如加强自动化测试、改进代码审查工具或调整人机协作方式，以应对AI生成代码带来的审查压力。",
+  "tags": [
+    "AI编码代理",
+    "代码审查",
+    "软件开发流程",
+    "人机协作",
+    "工程效率"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI工程实践",
+  "key_insight": "AI编码代理提升了代码产出速度，却将效率瓶颈转移到了人类代码审查环节，团队需重构流程以匹配新的产出节奏。"
+}

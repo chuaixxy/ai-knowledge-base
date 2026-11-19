@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-058",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=2&sn=3c605eec20f55342d9385a5f813e17ac",
+  "title": "openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=2&sn=3c605eec20f55342d9385a5f813e17ac",
+  "summary": "openJiuwen AgentOS 提出「Harnessless」开发范式，旨在让开发者无需自建 Harness（代理运行框架/脚手架），即可直接构建 Agent 原生应用。该平台覆盖从应用开发到统一管理的全链路能力，降低 Agent 应用的构建门槛与运维复杂度，使智能体应用更易触达。其核心价值在于将底层运行、调度与管理能力平台化，让开发者聚焦业务逻辑与场景创新，而非重复搭建基础设施。",
+  "tags": [
+    "AgentOS",
+    "Harnessless",
+    "Agent 原生应用",
+    "开发范式",
+    "统一管理",
+    "AI 平台",
+    "openJiuwen"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI Agent 平台/开发框架",
+  "key_insight": "以「Harnessless」将代理运行框架平台化，让开发者跳过自建脚手架，直击 Agent 原生应用开发。"
+}

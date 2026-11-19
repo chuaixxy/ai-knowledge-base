@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-038",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808189&idx=1&sn=bde97fbc46f8cb2e118267dce763042c",
+  "title": "用 Super-agent 的理念，拆解 Octop 团队模式",
+  "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808189&idx=1&sn=bde97fbc46f8cb2e118267dce763042c",
+  "summary": "该项目以 Super-agent 的理念为分析框架，拆解 Octop 的「团队模式」。核心在于将多智能体协作类比为超级智能体的组织方式，探讨 Octop 团队如何通过角色分工、任务拆解与协同机制实现整体能力超越单个个体。分析可能涉及团队结构、协作流程、决策机制与信息流转等维度，揭示团队模式在复杂任务中的优势与潜在瓶颈。该拆解有助于理解多智能体系统的设计原则，并为 AI 驱动的团队协作模式提供参考。",
+  "tags": [
+    "多智能体",
+    "团队协作",
+    "Super-agent",
+    "Octop",
+    "组织模式"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 多智能体系统",
+  "key_insight": "用 Super-agent 视角拆解 Octop 团队模式，本质是将多智能体协作视为一个更高阶智能体的组织化运作。"
+}

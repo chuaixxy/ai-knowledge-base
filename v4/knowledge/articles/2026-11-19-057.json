@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-057",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=1&sn=87c3aecd0cd20bbd7c0957c8e131d71c",
+  "title": "Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=1&sn=87c3aecd0cd20bbd7c0957c8e131d71c",
+  "summary": "该项目分享了 Ankole 的 Business Agent 架构设计，聚焦于解决多人共用 Agent 时容易失控的问题。它面向整个组织运行，支持多角色成员与多个专职 Agent 在同一套数据、权限与责任边界上协同工作。核心在于通过统一的权限模型、责任边界和数据共享机制，让 Agent 从个人工具升级为组织级协作基础设施，避免多 Agent 多用户场景下的权限越界、责任不清与行为失控。",
+  "tags": [
+    "多Agent协作",
+    "企业级Agent",
+    "权限管理",
+    "责任边界",
+    "组织协同",
+    "Agent架构"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI Agent架构与企业应用",
+  "key_insight": "多人多 Agent 失控的根源在于权限与责任边界缺失，而非 Agent 能力不足。"
+}

@@ -31469,5 +31469,1045 @@
     ],
     "status": "published",
     "collected_at": "2026-11-15T05:26:14.734Z"
+  },
+  {
+    "id": "2026-11-19-001",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "category": "AI应用与行业影响",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI代理",
+      "审计",
+      "专业服务",
+      "自动化",
+      "KPMG",
+      "人机对比"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-002",
+    "title": "AI is killing All About Berlin",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://nicolasbouliane.com/blog/death-by-ai",
+    "category": "AI 社会影响 / 内容生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "生成式AI",
+      "内容创作",
+      "独立网站",
+      "流量变现",
+      "搜索引擎",
+      "AI对创作者的影响"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-003",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://revscope.co/blog/search-seo-geo-2026/",
+    "category": "AI与搜索/内容生态",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI搜索",
+      "SEO",
+      "GEO",
+      "流量下降",
+      "内容生态",
+      "谷歌",
+      "生成式AI"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-004",
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "source": "rss-hacker-news-best",
+    "source_id": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编码代理",
+      "代码审查",
+      "软件开发流程",
+      "人机协作",
+      "工程效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-005",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://energy-based-reasoners.github.io/",
+    "category": "人工智能/机器学习理论",
+    "relevance_score": 0.8,
+    "tags": [
+      "能量基模型",
+      "循环推理",
+      "推理系统",
+      "深度学习理论",
+      "架构设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-006",
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://arxiv.org/abs/2607.02512",
+    "category": "编程语言与范式",
+    "relevance_score": 0.75,
+    "tags": [
+      "编程范式",
+      "模糊函数",
+      "程序合成",
+      "权重学习",
+      "神经符号"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-007",
+    "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2611.23322",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI对齐",
+      "博弈论",
+      "人机关系",
+      "能力不对称",
+      "AI安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-008",
+    "title": "Training Language Models for Introspective Oversight",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2611.23365",
+    "category": "AI安全与对齐",
+    "relevance_score": 0.82,
+    "tags": [
+      "语言模型监督",
+      "内省",
+      "AI安全",
+      "奖励黑客",
+      "欺骗检测",
+      "模型可解释性"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-009",
+    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2611.23375",
+    "category": "AI 理论与评测方法",
+    "relevance_score": 0.72,
+    "tags": [
+      "软件热力学",
+      "智能体编程",
+      "token 成本",
+      "代码智能体",
+      "麦克斯韦妖",
+      "随机热力学",
+      "LLM 评测"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-010",
+    "title": "The Silent Consensus",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/the-silent-consensus",
+    "category": "AI治理与政策分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI治理",
+      "社会影响",
+      "政策前瞻",
+      "制度设计",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-011",
+    "title": "Research acceleration: The jagged frontier",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "category": "AI 研究自动化",
+    "relevance_score": 0.85,
+    "tags": [
+      "编码智能体",
+      "AI 研究加速",
+      "递归自我改进",
+      "性能不均衡",
+      "OpenAI"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-012",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/business/customer-stories/sumitomo-life",
+    "category": "企业AI应用案例",
+    "relevance_score": 0.72,
+    "tags": [
+      "ChatGPT Enterprise",
+      "企业AI采用",
+      "保险科技",
+      "生成式AI",
+      "领导力推动",
+      "金融科技"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-013",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "category": "AI产品与移动应用",
+    "relevance_score": 0.75,
+    "tags": [
+      "Google Gemini",
+      "Android",
+      "AI助手",
+      "低内存设备",
+      "移动端AI",
+      "Gemini Live",
+      "图像生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-014",
+    "title": "Put Gemini to work for you",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "category": "AI 生产力工具",
+    "relevance_score": 0.85,
+    "tags": [
+      "Gemini",
+      "Google Workspace",
+      "AI Agent",
+      "生产力工具",
+      "任务自动化",
+      "智能助手"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-015",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "category": "AI 应用 / 地图导航",
+    "relevance_score": 0.75,
+    "tags": [
+      "Google Maps",
+      "AI 助手",
+      "假日出行",
+      "路线规划",
+      "本地服务",
+      "自然语言搜索"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-016",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "category": "大模型训练与优化",
+    "relevance_score": 0.75,
+    "tags": [
+      "后训练效率",
+      "大语言模型",
+      "27B参数",
+      "参数高效微调",
+      "训练优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-017",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "category": "AI系统与性能优化",
+    "relevance_score": 0.82,
+    "tags": [
+      "深度学习",
+      "模型微调",
+      "性能分析",
+      "FLOPs",
+      "GPU利用率",
+      "训练优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-018",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "category": "技术架构与机器学习",
+    "relevance_score": 0.78,
+    "tags": [
+      "时间序列",
+      "Streamhouse",
+      "流处理",
+      "实时分析",
+      "机器学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-019",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/moe-expert-streaming",
+    "category": "大模型推理优化",
+    "relevance_score": 0.9,
+    "tags": [
+      "MoE",
+      "模型推理",
+      "内存优化",
+      "专家卸载",
+      "Transformers",
+      "大模型部署",
+      "量化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-020",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/rumble-2-flash",
+    "category": "语音AI/开源模型",
+    "relevance_score": 0.75,
+    "tags": [
+      "语音模型",
+      "多语言",
+      "开源",
+      "轻量化",
+      "0.5B"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-021",
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "category": "科技政策与教育",
+    "relevance_score": 0.82,
+    "tags": [
+      "教育科技",
+      "Google",
+      "AI功能捆绑",
+      "数据隐私",
+      "供应商锁定",
+      "K-12",
+      "搜索引擎"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-022",
+    "title": "Nvidia’s rise, visualized",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "category": "科技商业分析",
+    "relevance_score": 0.75,
+    "tags": [
+      "英伟达",
+      "数据可视化",
+      "AI芯片",
+      "商业分析",
+      "盈利能力",
+      "科技公司"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-023",
+    "title": "EMNLP 2026 | 美团技术团队学术论文精选",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/11/18/Papers-EMNLP-2026.html",
+    "category": "学术成果汇总",
+    "relevance_score": 0.75,
+    "tags": [
+      "自然语言处理",
+      "EMNLP",
+      "学术论文",
+      "大模型",
+      "美团",
+      "工业界研究"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-024",
+    "title": "《Agent评测白皮书》系列02：商家 AI 助手的评测与优化闭环实践",
+    "source": "rss-meituan",
+    "source_id": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
+    "category": "AI工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "Agent评测",
+      "Benchmark构建",
+      "错误分析",
+      "评测器校准",
+      "持续回归",
+      "模型选型",
+      "AI助手"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-025",
+    "title": "把 80+ 项音视频能力装进 Claude Code 后，我合上了 FFmpeg 手册",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524506&idx=1&sn=0d9dab639998e69bde48db3e1dadf652",
+    "category": "AI 开发工具 / 音视频工程",
+    "relevance_score": 0.82,
+    "tags": [
+      "Claude Code",
+      "音视频处理",
+      "FFmpeg",
+      "AI 工具集成",
+      "开发者效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-026",
+    "title": "让数据按业务流动：EFS 数据流动重塑 AI 时代的文件存储",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524318&idx=1&sn=e834fd29a169549dd609f81979109eb9",
+    "category": "云存储与AI基础设施",
+    "relevance_score": 0.8,
+    "tags": [
+      "EFS",
+      "文件存储",
+      "数据流动",
+      "AI基础设施",
+      "弹性文件系统",
+      "云存储"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-027",
+    "title": "Seed STEM 计划｜分子逆合成挑战赛启动",
+    "source": "rss-seed",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494806&idx=1&sn=9b57db3402f949df03267776d153f1ef",
+    "category": "AI for Science / 化学信息学竞赛",
+    "relevance_score": 0.75,
+    "tags": [
+      "逆合成",
+      "化学信息学",
+      "AI for Science",
+      "竞赛",
+      "分子设计",
+      "图神经网络"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-028",
+    "title": "动线Agent：AI驱动的全链路用户转化引导",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547136&idx=1&sn=4f8cce99ec2730b9ecda294f3e2c604e",
+    "category": "AI应用/电商增长",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "用户增长",
+      "转化引导",
+      "电商",
+      "智能运营",
+      "个性化推荐",
+      "淘特"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-029",
+    "title": "构建 AI 时代的知识底座：直播数据 LLM Wiki 实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547016&idx=1&sn=87008183732e768da164f04a4deabaa6",
+    "category": "AI知识工程/检索增强生成",
+    "relevance_score": 0.8,
+    "tags": [
+      "LLM",
+      "知识库",
+      "RAG",
+      "直播数据",
+      "知识编译",
+      "知识管理"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-030",
+    "title": "淘宝闪购本体平台：让人与 AI Agent 共用一份实时可信的业务知识",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512538&idx=1&sn=e647beb5607a2116473bddad4cb04719",
+    "category": "数据平台与AI基础设施",
+    "relevance_score": 0.82,
+    "tags": [
+      "本体平台",
+      "业务知识管理",
+      "AI Agent",
+      "数据口径",
+      "实时数据",
+      "淘宝闪购"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-031",
+    "title": "AI 写代码越来越快，谁来守住章法？",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512530&idx=1&sn=8b68130297282a0c27a8648c649b22e4",
+    "category": "软件工程与开发实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI编程",
+      "代码质量",
+      "软件工程",
+      "质量保障",
+      "开发流程",
+      "技术债务"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-032",
+    "title": "Qwen4-Max首发上线千问AI平台，API服务、Token Plan同步开放",
+    "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562716&idx=1&sn=c26e9cb992b7f32c9ab6f7d3f82d390a",
+    "category": "AI平台与模型服务",
+    "relevance_score": 0.8,
+    "tags": [
+      "大模型",
+      "API服务",
+      "千问AI平台",
+      "Qwen4-Max",
+      "Token计费",
+      "模型发布"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-033",
+    "title": "双向世界模型开源，原生支持实时交互",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538725&idx=1&sn=f1c114adf823a39f09cfbb8dfb9ae488",
+    "category": "AI基础模型/世界模型",
+    "relevance_score": 0.85,
+    "tags": [
+      "世界模型",
+      "开源",
+      "实时交互",
+      "双向建模",
+      "多智能体"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-034",
+    "title": "HARTS：面向长程 Agentic RL 的混合注意力前缀共享训练系统",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538692&idx=1&sn=cc55a7cf75629cbc07ec7108eab1183d",
+    "category": "AI 训练系统 / 强化学习基础设施",
+    "relevance_score": 0.82,
+    "tags": [
+      "Agentic RL",
+      "长程上下文",
+      "混合注意力",
+      "前缀共享",
+      "KV 缓存复用",
+      "训练系统",
+      "强化学习基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-035",
+    "title": "Hy4 flash 开源：224B 激活 12B，用户盲测满意度接近 Haiku 5.5",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515895&idx=1&sn=9620e69f61e90a9a2ac2294d654e6923",
+    "category": "大语言模型/多模态AI",
+    "relevance_score": 0.85,
+    "tags": [
+      "多模态大模型",
+      "MoE稀疏架构",
+      "开源模型",
+      "长上下文",
+      "腾讯混元",
+      "推理成本优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-036",
+    "title": "Haru-4B开源：边听边说的全双工语音模型，支持160多种语言，MacBook 延迟仅 65 毫秒",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515872&idx=1&sn=db684b7c28edbd081a8c951ede026fa0",
+    "category": "语音AI/大模型",
+    "relevance_score": 0.9,
+    "tags": [
+      "全双工语音",
+      "语音模型",
+      "多语言",
+      "低延迟",
+      "开源",
+      "实时交互",
+      "Haru-4B"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-037",
+    "title": "登上GitHub Trending｜腾讯开源 LoopForge",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808207&idx=1&sn=2e8dc64891bdc8488ea11e48c33711b4",
+    "category": "AI 研发基础设施 / 自动化平台",
+    "relevance_score": 0.82,
+    "tags": [
+      "腾讯开源",
+      "自进化",
+      "云端研发平台",
+      "AI Agent",
+      "自动化研发",
+      "GitHub Trending"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-038",
+    "title": "用 Super-agent 的理念，拆解 Octop 团队模式",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808189&idx=1&sn=bde97fbc46f8cb2e118267dce763042c",
+    "category": "AI 多智能体系统",
+    "relevance_score": 0.8,
+    "tags": [
+      "多智能体",
+      "团队协作",
+      "Super-agent",
+      "Octop",
+      "组织模式"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-039",
+    "title": "Hy4 flash 发布：日常工作的极致性价比模型",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247499006&idx=1&sn=519fe6d2987d39a281519089539a1f8d",
+    "category": "AI模型发布",
+    "relevance_score": 0.8,
+    "tags": [
+      "性价比模型",
+      "日常工作",
+      "轻量级AI",
+      "成本优化",
+      "办公自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-040",
+    "title": "AI 给游戏开发按下了乘号键｜行业圆桌对谈02",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999677&idx=1&sn=979816c12ece15498a5e7c14d141dbf8",
+    "category": "行业趋势与AI应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI游戏开发",
+      "生成式AI",
+      "游戏行业",
+      "圆桌对谈",
+      "创作工具",
+      "行业趋势"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-041",
+    "title": "工作不是人生意义的唯一来源",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999613&idx=1&sn=7618f2f15a1f74e52f7e712ff695d0c5",
+    "category": "职业发展/人生哲学",
+    "relevance_score": 0.65,
+    "tags": [
+      "工作观",
+      "人生意义",
+      "职业规划",
+      "生活平衡",
+      "心理健康"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-042",
+    "title": "当AI生成快到溢出，大Agent时代该讨论些什么？",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698254&idx=1&sn=dd24e1e431864f43db656bab8737adb4",
+    "category": "技术趋势分析",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Agent",
+      "生成式AI",
+      "技术伦理",
+      "大模型",
+      "系统设计"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-043",
+    "title": "AI时代，代码Review还有必要吗？",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698248&idx=1&sn=231ec6d5f27becee1515974608c85cfd",
+    "category": "软件工程实践",
+    "relevance_score": 0.6,
+    "tags": [
+      "代码审查",
+      "AI辅助编程",
+      "软件质量",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-044",
+    "title": "9-10 月产品月报｜Pulsar 上线标准版 S2，覆盖轻量业务场景；RabbitMQ 上线 AI 诊断助手，降低排障门槛",
+    "source": "rss-bf602c1e692b10b8f0192f2379d0f64dee58eba0",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxMTQ2NTA1Mg==&mid=2247507130&idx=1&sn=bebe797975d1a93950475ebea1ff382d",
+    "category": "云服务/消息中间件",
+    "relevance_score": 0.8,
+    "tags": [
+      "消息队列",
+      "Pulsar",
+      "RabbitMQ",
+      "AI运维",
+      "腾讯云",
+      "产品月报"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-045",
+    "title": "京东11.11大促系列｜Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503315&idx=1&sn=23b6f89fca39527dbb3e8cc8dde9bc46",
+    "category": "AI应用",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Agent",
+      "数字人",
+      "电商大促",
+      "智能客服",
+      "京东11.11"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-046",
+    "title": "小米 PROVE 论文获 ACM MM 2026 杰出论文奖，为视觉目标消除建立感知评测标准",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520718&idx=1&sn=e6c167b66121a3e664a102ddc6df76b2",
+    "category": "计算机视觉 / 图像生成与编辑评测",
+    "relevance_score": 0.82,
+    "tags": [
+      "视觉目标消除",
+      "图像编辑",
+      "感知评测",
+      "评测基准",
+      "生成模型",
+      "ACM MM"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-047",
+    "title": "亮相联合国气候大会，小米斩获中国车企首个国际EPD双项认证",
+    "source": "rss-8bbc1ba1d363e70cd42d1ce89fb9070cb075c3b3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzUxMDQxMDMyNg==&mid=2247520709&idx=1&sn=52eacfac881f2a4bbb6e22cb0e33dc11",
+    "category": "新能源汽车/可持续发展合规",
+    "relevance_score": 0.75,
+    "tags": [
+      "小米汽车",
+      "EPD认证",
+      "生命周期评价",
+      "碳足迹",
+      "联合国气候大会",
+      "汽车出海",
+      "欧盟电池法规"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-048",
+    "title": "从工具提效到统一经营智能体：快手电商用 AI 重塑商家经营流程",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501680&idx=1&sn=9152a4231d470590dd686c0a15369014",
+    "category": "AI应用/电商",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI智能体",
+      "电商经营",
+      "快手电商",
+      "任务协同",
+      "商家工具",
+      "流程自动化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-049",
+    "title": "沙龙报名｜与快手、蚂蚁、京东技术专家共探AI交付实践",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501639&idx=1&sn=c35ca8d9fb4592a8487df447a04142bb",
+    "category": "技术活动",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI交付",
+      "技术沙龙",
+      "快手",
+      "蚂蚁",
+      "京东",
+      "工程实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-050",
+    "title": "AI专栏 | 让知识库不只是“写过”：一份面向 AI 的知识工程实践",
+    "source": "rss-b5d5237d609fe96d74ae9d0241ffa8daad2f147b",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697277749&idx=1&sn=b4d7f11e306b511470a7af8db82a2ceb",
+    "category": "AI工程实践",
+    "relevance_score": 0.78,
+    "tags": [
+      "知识工程",
+      "AI文档",
+      "工程契约",
+      "知识库",
+      "文档工程化",
+      "最佳实践"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-051",
+    "title": "百度发布2026年Q3财报",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670746&idx=1&sn=df87fd48505e88229be5583b214a304f",
+    "category": "科技公司财报",
+    "relevance_score": 0.9,
+    "tags": [
+      "百度",
+      "财报",
+      "AI业务",
+      "AI云",
+      "大模型",
+      "文心",
+      "词元所"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-052",
+    "title": "从研发经验到团队知识：Akashic知识工程实践｜得物技术",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547753&idx=1&sn=cb228982ab9aa9a11b41ef7523b1e460",
+    "category": "知识工程与研发效能",
+    "relevance_score": 0.82,
+    "tags": [
+      "知识工程",
+      "团队知识管理",
+      "AI辅助研发",
+      "知识沉淀",
+      "研发效能"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-053",
+    "title": "压测 AI Agent 治理与评测调优实践",
+    "source": "rss-1cde72c9129b1f79cbb150166e7fed9a7568ee10",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547734&idx=1&sn=b209c8551fd912752d56807e042bec74",
+    "category": "AI 工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Agent",
+      "压测",
+      "可观测性",
+      "Trace 回放",
+      "评测体系",
+      "LLM 调优",
+      "质量保障"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-054",
+    "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+    "source": "rss-airbnb-engineering",
+    "source_id": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4",
+    "category": "隐私与数据安全工程",
+    "relevance_score": 0.82,
+    "tags": [
+      "数据隐私",
+      "去标识化",
+      "PII 识别",
+      "AI 训练数据",
+      "隐私工程",
+      "命名实体识别",
+      "数据治理"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-055",
+    "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 云端 Loop 实践",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297460&idx=2&sn=ec5e79ad5f1510040a5071b1a5e5336f",
+    "category": "AI 工程化 / 云端研发平台",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI Coding",
+      "腾讯轻量云",
+      "LoopForge",
+      "云端开发",
+      "自动化交付",
+      "DevOps",
+      "AI Agent"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-056",
+    "title": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297460&idx=3&sn=48a8a3d565512172f9f5c8bef6be45da",
+    "category": "云原生基础设施",
+    "relevance_score": 0.85,
+    "tags": [
+      "Kubernetes",
+      "调度",
+      "异构计算",
+      "性能感知",
+      "有状态工作负载",
+      "CPU 抽象"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-057",
+    "title": "Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=1&sn=87c3aecd0cd20bbd7c0957c8e131d71c",
+    "category": "AI Agent架构与企业应用",
+    "relevance_score": 0.85,
+    "tags": [
+      "多Agent协作",
+      "企业级Agent",
+      "权限管理",
+      "责任边界",
+      "组织协同",
+      "Agent架构"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-19-058",
+    "title": "openJiuwen首发AgentOS「Harnessless」开发范式：不用自建Harness，让Agent原生应用触手可及",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075119&idx=2&sn=3c605eec20f55342d9385a5f813e17ac",
+    "category": "AI Agent 平台/开发框架",
+    "relevance_score": 0.8,
+    "tags": [
+      "AgentOS",
+      "Harnessless",
+      "Agent 原生应用",
+      "开发范式",
+      "统一管理",
+      "AI 平台",
+      "openJiuwen"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-19T06:30:05.125Z"
   }
 ]

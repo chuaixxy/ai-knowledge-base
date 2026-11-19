@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-030",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512538&idx=1&sn=e647beb5607a2116473bddad4cb04719",
+  "title": "淘宝闪购本体平台：让人与 AI Agent 共用一份实时可信的业务知识",
+  "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512538&idx=1&sn=e647beb5607a2116473bddad4cb04719",
+  "summary": "该项目介绍淘宝闪购本体平台，旨在让人与AI Agent共用一份实时可信的业务知识，解决数据团队做周报时口径对齐的痛点。平台通过本体（Ontology）方式统一业务语义与指标定义，使人类分析人员和AI智能体基于同一份实时更新的业务知识进行协作，减少口径歧义与沟通成本，提升数据一致性与分析效率。文章属于2026年第83篇，阅读约25分钟，面向数据工程与AI应用结合场景。",
+  "tags": [
+    "本体平台",
+    "业务知识管理",
+    "AI Agent",
+    "数据口径",
+    "实时数据",
+    "淘宝闪购"
+  ],
+  "relevance_score": 0.82,
+  "category": "数据平台与AI基础设施",
+  "key_insight": "用统一本体为人和AI Agent提供同一份实时可信的业务知识，从根本上消除数据口径歧义。"
+}

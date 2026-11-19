@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-012",
+  "source_id": "https://openai.com/business/customer-stories/sumitomo-life",
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "summary": "住友生命保险公司引入 ChatGPT Enterprise，用于研究保险公司、准备提案以及为投资分析编写代码。该项目的一个关键特点是高层管理者的早期使用，通过领导层的示范效应推动了组织内部的广泛采用。这表明在企业级 AI 工具落地过程中，管理层的亲身参与和使用能够有效降低员工的观望和抵触情绪，加速技术在实际业务场景中的渗透。该案例属于生成式 AI 在金融保险行业的应用实践，重点不在于技术本身的创新，而在于组织推广策略的有效性。",
+  "tags": [
+    "ChatGPT Enterprise",
+    "企业AI采用",
+    "保险科技",
+    "生成式AI",
+    "领导力推动",
+    "金融科技"
+  ],
+  "relevance_score": 0.72,
+  "category": "企业AI应用案例",
+  "key_insight": "高层管理者率先使用 AI 工具，是推动企业级生成式 AI 落地的有效催化剂。"
+}

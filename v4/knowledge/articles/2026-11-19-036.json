@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-036",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515872&idx=1&sn=db684b7c28edbd081a8c951ede026fa0",
+  "title": "Haru-4B开源：边听边说的全双工语音模型，支持160多种语言，MacBook 延迟仅 65 毫秒",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515872&idx=1&sn=db684b7c28edbd081a8c951ede026fa0",
+  "summary": "Higurashi AI 开源了 Haru-4B 全双工语音模型，其核心特点是“边听边说”，即模型能够在接收语音输入的同时持续生成语音输出，而非传统的轮流对话模式。该模型基于 4000 万小时真实语音数据训练，支持 160 多种语言，在 MacBook 上端到端延迟仅 65 毫秒，接近人类对话的自然反应速度。全双工能力使语音交互更接近真人交流，可应用于实时翻译、语音助手、客服系统等场景。开源策略降低了研究者和开发者使用门槛，有望推动低延迟多语言语音交互技术的普及与二次开发。",
+  "tags": [
+    "全双工语音",
+    "语音模型",
+    "多语言",
+    "低延迟",
+    "开源",
+    "实时交互",
+    "Haru-4B"
+  ],
+  "relevance_score": 0.9,
+  "category": "语音AI/大模型",
+  "key_insight": "65毫秒延迟的全双工架构让语音交互从“轮流说话”迈向“边听边说”，接近真人对话体验。"
+}

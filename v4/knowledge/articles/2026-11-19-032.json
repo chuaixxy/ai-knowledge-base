@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-032",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562716&idx=1&sn=c26e9cb992b7f32c9ab6f7d3f82d390a",
+  "title": "Qwen4-Max首发上线千问AI平台，API服务、Token Plan同步开放",
+  "source": "rss-39fc51b0b1316137e608c45da5dbbca4f9eb9538",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562716&idx=1&sn=c26e9cb992b7f32c9ab6f7d3f82d390a",
+  "summary": "该项目宣布Qwen4-Max模型首发上线千问AI平台，同时开放API服务与Token Plan订阅方案。这意味着开发者可直接通过API调用最新旗舰模型，企业用户则可通过Token Plan按量或订阅方式获取推理额度，降低接入门槛。整体看，这是一次模型能力发布与商业化服务打包的同步动作，重点在于将新模型快速转化为可用的平台能力与计费产品，覆盖从个人开发者到企业客户的调用需求。",
+  "tags": [
+    "大模型",
+    "API服务",
+    "千问AI平台",
+    "Qwen4-Max",
+    "Token计费",
+    "模型发布"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI平台与模型服务",
+  "key_insight": "新模型首发即配套API与Token Plan，体现模型能力与商业化服务同步落地的平台化策略。"
+}

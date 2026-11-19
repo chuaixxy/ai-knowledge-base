@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-018",
+  "source_id": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "summary": "该项目探讨在Streamhouse架构中集成时间序列模型的新方向与用例。Streamhouse结合流处理与数据湖仓能力，为时序预测、异常检测和实时监控提供统一平台。项目分析了时序模型在流式环境下的部署挑战，包括低延迟推理、模型更新与数据一致性，并给出典型场景如IoT监控、金融风控和运维告警。其价值在于打通实时数据管道与机器学习生命周期，降低时序分析落地门槛，推动流批一体架构向智能化演进。",
+  "tags": [
+    "时间序列",
+    "Streamhouse",
+    "流处理",
+    "实时分析",
+    "机器学习"
+  ],
+  "relevance_score": 0.78,
+  "category": "技术架构与机器学习",
+  "key_insight": "Streamhouse为时序模型提供流批一体的实时推理底座，是时序智能落地的关键架构方向。"
+}

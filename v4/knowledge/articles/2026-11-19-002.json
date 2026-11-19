@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-002",
+  "source_id": "https://nicolasbouliane.com/blog/death-by-ai",
+  "title": "AI is killing All About Berlin",
+  "source": "rss-hacker-news-best",
+  "url": "https://nicolasbouliane.com/blog/death-by-ai",
+  "summary": "这是博主 Nicolas Bouliane 的一篇反思文章，讲述其运营的柏林生活指南网站 All About Berlin 如何在生成式 AI 冲击下走向衰落。作者指出，随着 ChatGPT 等 AI 工具普及，用户不再访问原网站获取信息，而是直接在对话中获取答案，导致网站自然流量大幅下滑、广告与联盟收入萎缩。文章探讨了内容创作者在 AI 时代的困境：AI 模型无偿抓取并复述原创内容，却切断了创作者与读者之间的联系与变现路径。作者也反思了自身商业模式对搜索引擎流量的过度依赖，并讨论了可能的应对方向，如转向付费订阅、社区运营或深度本地化服务。该文在 Hacker News 上引发 691 条评论、772 点热度，反映出独立内容创作者对 AI 冲击的普遍焦虑。",
+  "tags": [
+    "生成式AI",
+    "内容创作",
+    "独立网站",
+    "流量变现",
+    "搜索引擎",
+    "AI对创作者的影响"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 社会影响 / 内容生态",
+  "key_insight": "生成式 AI 正在切断原创内容与读者之间的直接联系，使依赖搜索流量的独立创作者面临生存危机。"
+}

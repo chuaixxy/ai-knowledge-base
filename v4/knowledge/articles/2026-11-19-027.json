@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-027",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494806&idx=1&sn=9b57db3402f949df03267776d153f1ef",
+  "title": "Seed STEM 计划｜分子逆合成挑战赛启动",
+  "source": "rss-seed",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDY5MzYxNg==&mid=2247494806&idx=1&sn=9b57db3402f949df03267776d153f1ef",
+  "summary": "Seed STEM 计划推出的分子逆合成挑战赛是一项面向化学与人工智能交叉领域的技术竞赛项目，旨在通过众包与算法对抗的方式攻克逆合成路线设计难题。项目以分子逆合成（retrosynthesis）为核心任务，要求参赛者构建模型或策略，从目标分子出发反向推导可行的合成路径，涉及图神经网络、强化学习、搜索算法与化学知识规则等技术。该挑战赛通常提供标准化数据集与评测基准，鼓励开源方案与可复现研究，推动AI辅助化学合成在药物发现与材料设计中的落地。",
+  "tags": [
+    "逆合成",
+    "化学信息学",
+    "AI for Science",
+    "竞赛",
+    "分子设计",
+    "图神经网络"
+  ],
+  "relevance_score": 0.75,
+  "category": "AI for Science / 化学信息学竞赛",
+  "key_insight": "以竞赛形式汇聚算法与化学知识，加速AI驱动的逆合成路线设计从研究走向实用。"
+}

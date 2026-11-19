@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-021",
+  "source_id": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+  "title": "The nation’s largest school districts consider ditching Google Search",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+  "summary": "纽约、洛杉矶和芝加哥等全美最大学区正在考虑放弃Google搜索，转而使用替代方案。原因是Google宣布，从明年起，选择退出其AI功能（Gemini驱动）的学校将无法继续使用Google搜索——即学校不能再单独禁用AI功能而保留搜索服务。这一捆绑策略引发教育机构对数据隐私、AI内容可控性及供应商锁定风险的担忧。Google副总裁Chris Phillips的回应未披露完整内容。此事反映出科技巨头将AI功能强制嵌入基础服务后，公共教育部门开始重新评估其技术依赖，可能推动K-12领域搜索引擎与AI工具的多元化采购。",
+  "tags": [
+    "教育科技",
+    "Google",
+    "AI功能捆绑",
+    "数据隐私",
+    "供应商锁定",
+    "K-12",
+    "搜索引擎"
+  ],
+  "relevance_score": 0.82,
+  "category": "科技政策与教育",
+  "key_insight": "Google将AI功能与搜索强制捆绑，正迫使大型学区在隐私控制与技术依赖之间做出选择，可能加速教育市场对替代搜索方案的采购。"
+}

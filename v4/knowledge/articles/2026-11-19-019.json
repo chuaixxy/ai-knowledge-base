@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-019",
+  "source_id": "https://huggingface.co/blog/moe-expert-streaming",
+  "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/moe-expert-streaming",
+  "summary": "该项目展示了如何用 Transformers 库在仅 32GB 内存的机器上运行 180B 参数的混合专家（MoE）大模型推理。核心思路是利用 MoE 架构的稀疏激活特性，通过专家卸载（expert offloading）将未激活的专家权重存放在磁盘或 CPU 内存中，按需加载到 GPU 或内存，从而大幅降低显存与内存占用。项目结合了量化、分块加载与高效调度策略，在有限硬件资源下实现了超大规模模型的可用推理，为个人开发者和小型团队探索大模型部署提供了实用方案，也揭示了 MoE 推理中内存带宽与计算效率之间的权衡。",
+  "tags": [
+    "MoE",
+    "模型推理",
+    "内存优化",
+    "专家卸载",
+    "Transformers",
+    "大模型部署",
+    "量化"
+  ],
+  "relevance_score": 0.9,
+  "category": "大模型推理优化",
+  "key_insight": "MoE 的稀疏激活特性使超大规模模型在有限内存下的按需加载推理成为可能，代价是内存带宽与调度开销的权衡。"
+}

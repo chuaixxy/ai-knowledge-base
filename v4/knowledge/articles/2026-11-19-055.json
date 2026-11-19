@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-055",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297460&idx=2&sn=ec5e79ad5f1510040a5071b1a5e5336f",
+  "title": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 云端 Loop 实践",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297460&idx=2&sn=ec5e79ad5f1510040a5071b1a5e5336f",
+  "summary": "该项目介绍腾讯轻量云 LoopForge 的云端 Loop 实践，聚焦 AI Coding 从辅助开发工具向完整软件研发流程的演进。核心在于让 AI 不止于“能写代码”，而是通过云端闭环（Loop）机制实现“能交付”——即覆盖需求理解、代码生成、环境构建、测试验证到部署交付的全链路自动化。LoopForge 依托轻量云提供弹性算力与隔离环境，将 AI 编码能力嵌入可迭代、可验证的交付闭环中，强调工程化落地与结果可交付性，体现 AI 从编码助手向研发流程参与者的角色转变。",
+  "tags": [
+    "AI Coding",
+    "腾讯轻量云",
+    "LoopForge",
+    "云端开发",
+    "自动化交付",
+    "DevOps",
+    "AI Agent"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 工程化 / 云端研发平台",
+  "key_insight": "AI Coding 的竞争焦点正从“生成代码质量”转向“闭环交付能力”，云端 Loop 是把 AI 从助手变成研发流程参与者的关键工程范式。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-056",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297460&idx=3&sn=48a8a3d565512172f9f5c8bef6be45da",
+  "title": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297460&idx=3&sn=48a8a3d565512172f9f5c8bef6be45da",
+  "summary": "Uber 针对 Kubernetes 原生以 CPU 核心数作为资源计量单位的局限，提出面向异构服务器的性能感知调度方案。传统调度只看核心数量，忽视不同服务器 CPU 在频率、缓存、NUMA 拓扑和代际上的性能差异，导致有状态工作负载在跨节点迁移或扩缩容时性能波动明显。Uber 重新定义“一核”的语义，将 CPU 抽象从数量计量升级为性能计量，在调度器中引入硬件性能画像，使有状态服务获得更稳定的性能预期。该方案对延迟敏感、状态复杂的工作负载尤为关键，体现了云原生调度从资源配额向性能保障演进的方向。",
+  "tags": [
+    "Kubernetes",
+    "调度",
+    "异构计算",
+    "性能感知",
+    "有状态工作负载",
+    "CPU 抽象"
+  ],
+  "relevance_score": 0.85,
+  "category": "云原生基础设施",
+  "key_insight": "把 CPU 从“数量单位”变为“性能单位”，是异构集群调度走向性能确定性的关键一步。"
+}

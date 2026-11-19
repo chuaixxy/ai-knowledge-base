@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-014",
+  "source_id": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "title": "Put Gemini to work for you",
+  "source": "rss-google-ai-blog",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "summary": "该技术项目是 Google 推出的 Gemini 任务功能（Tasks in Gemini），旨在让 AI 主动替用户完成工作。核心更新包括：在六个国家免费开放任务功能，在美国推出新特性，并深化与 Google Workspace 的集成，使 Gemini 能够跨应用代为执行任务。这标志着 Gemini 从对话式助手向具备执行能力的智能代理演进，用户可将待办事项交给 AI 处理，提升个人与团队生产力。项目聚焦实用性与可及性，通过免费策略扩大用户基础，借助 Workspace 生态形成闭环。",
+  "tags": [
+    "Gemini",
+    "Google Workspace",
+    "AI Agent",
+    "生产力工具",
+    "任务自动化",
+    "智能助手"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 生产力工具",
+  "key_insight": "Gemini 正从被动问答转向主动代办的 AI 代理，免费策略与 Workspace 深度集成是其规模化落地的关键抓手。"
+}

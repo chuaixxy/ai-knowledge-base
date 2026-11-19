@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-025",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524506&idx=1&sn=0d9dab639998e69bde48db3e1dadf652",
+  "title": "把 80+ 项音视频能力装进 Claude Code 后，我合上了 FFmpeg 手册",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524506&idx=1&sn=0d9dab639998e69bde48db3e1dadf652",
+  "summary": "该项目将 80 多项音视频处理能力封装为 Claude Code 可调用的工具集，使用户无需查阅 FFmpeg 手册即可完成音视频操作。它本质上是在 Claude Code 与底层音视频引擎之间构建了一层能力抽象，将复杂的命令行参数转化为自然语言驱动的调用，大幅降低了音视频处理的门槛。项目价值在于提升开发者的操作效率、减少对底层工具的记忆负担，并借助 AI 代理实现自动化编排。适合需要频繁处理音视频但不想深入 FFmpeg 细节的开发者，也体现了 AI 工具链向专业垂直能力封装扩展的趋势。",
+  "tags": [
+    "Claude Code",
+    "音视频处理",
+    "FFmpeg",
+    "AI 工具集成",
+    "开发者效率"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI 开发工具 / 音视频工程",
+  "key_insight": "把专业音视频能力封装成 AI 可调用工具，用自然语言替代命令行手册，是降低垂直领域工具门槛的有效路径。"
+}
