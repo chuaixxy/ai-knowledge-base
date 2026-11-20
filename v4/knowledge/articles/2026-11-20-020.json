@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-20-020",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503353&idx=1&sn=8698c2dc6e86aabcaf83cb66f5c8603f",
+  "title": "为什么你的模型“答得对，却做不好”？——从模型机理到Agent落地",
+  "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503353&idx=1&sn=8698c2dc6e86aabcaf83cb66f5c8603f",
+  "summary": "该文章从大模型机理出发，结合CCF ADL174讲习班的前沿理论，探讨了模型在测试中“答得对”却在实际业务中“做不好”的根本原因。文章通过真实业务场景，拆解了从模型评测到Agent落地过程中被忽略的工程与理论鸿沟，涵盖模型能力边界、评测局限性以及Agent系统设计等关键问题。整体以“理论+工程”双视角展开，是一篇适合收藏慢读的长文，帮助读者理解大模型从答题能力到业务落地之间的关键差距。",
+  "tags": [
+    "大模型",
+    "Agent",
+    "模型评测",
+    "工程落地",
+    "智能体机理"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI技术分析",
+  "key_insight": "模型答对题不等于能落地，评测能力与业务执行之间存在需要工程化弥补的系统性鸿沟。"
+}

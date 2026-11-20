@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-20-007",
+  "source_id": "https://openai.com/business/learn/deploying-daybreak-red",
+  "title": "Deploying Daybreak Red",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "summary": "该项目介绍 Daybreak Red 的参考架构，聚焦于受监督的安全调查流程。内容涵盖安全控制机制、环境搭建步骤以及运行监控方案，旨在帮助团队在可控前提下部署并开展安全调查工作。整体偏向架构参考与运维实践，强调监督与安全护栏的重要性，适合安全工程与运维团队参考落地。",
+  "tags": [
+    "安全调查",
+    "参考架构",
+    "安全控制",
+    "部署",
+    "监控"
+  ],
+  "relevance_score": 0.8,
+  "category": "安全架构与运维",
+  "key_insight": "以安全控制与监控为核心，为受监督的安全调查提供可落地的参考架构。"
+}

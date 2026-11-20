@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-20-021",
+  "source_id": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+  "title": "Give your agents controlled access to analyze your data and move funds",
+  "source": "rss-stripe-engineering",
+  "url": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+  "summary": "Stripe Treasury 推出面向 AI Agent 的资金操作能力，允许智能体在用户预设的限额与规则内执行转账、货币兑换和向供应商付款等财务操作。该方案强调可控授权：通过可定制的权限边界、额度限制与人工审批环节，让 Agent 获得执行业务所需的操作权限，同时避免越权风险。其核心价值在于把传统需要人工完成的资金流转流程自动化，同时用权限治理框架平衡效率与安全，适用于企业财务自动化、跨境支付和供应链付款等场景。",
+  "tags": [
+    "AI Agent",
+    "金融科技",
+    "支付",
+    "权限控制",
+    "自动化",
+    "Stripe",
+    "人机协同"
+  ],
+  "relevance_score": 0.82,
+  "category": "金融科技 / Agent 基础设施",
+  "key_insight": "让 Agent 真正落地的关键不是能力上限，而是可控的权限边界与人工审批机制。"
+}

@@ -32509,5 +32509,459 @@
     ],
     "status": "published",
     "collected_at": "2026-11-19T06:30:05.125Z"
+  },
+  {
+    "id": "2026-11-20-001",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "category": "AI应用/语音技术",
+    "relevance_score": 0.7,
+    "tags": [
+      "语音助手",
+      "本地部署",
+      "语音识别",
+      "TTS",
+      "隐私"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-002",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "source": "rss-lobsters-ai-ml",
+    "source_id": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "category": "大模型训练与持续学习",
+    "relevance_score": 0.82,
+    "tags": [
+      "持续学习",
+      "灾难性遗忘",
+      "大语言模型",
+      "记忆巩固",
+      "睡眠机制",
+      "终身学习"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-003",
+    "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2611.25043",
+    "category": "AI for Science / 实验室自动化",
+    "relevance_score": 0.85,
+    "tags": [
+      "自动驾驶实验室",
+      "AI代理",
+      "授权约束架构",
+      "DMTA循环",
+      "LC-MS",
+      "实验自动化",
+      "人机协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-004",
+    "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2611.25070",
+    "category": "AI Agent / 工业智能运维",
+    "relevance_score": 0.85,
+    "tags": [
+      "LLM Agent",
+      "工业维护",
+      "工单管理",
+      "代码生成",
+      "ReAct",
+      "自然语言交互"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-005",
+    "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+    "source": "rss-arxiv-cs-ai",
+    "source_id": "https://arxiv.org/abs/2611.25087",
+    "category": "AI辅助算法研究",
+    "relevance_score": 0.82,
+    "tags": [
+      "组合优化",
+      "语言模型智能体",
+      "算法发现",
+      "格基约简",
+      "Market Split",
+      "最大独立集",
+      "QOBLIB",
+      "人机协同"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-006",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "category": "AI 工程实践",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI 辅助开发",
+      "性能优化",
+      "Codex",
+      "自动化工作流",
+      "ChatGPT",
+      "工程效率"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-007",
+    "title": "Deploying Daybreak Red",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/business/learn/deploying-daybreak-red",
+    "category": "安全架构与运维",
+    "relevance_score": 0.8,
+    "tags": [
+      "安全调查",
+      "参考架构",
+      "安全控制",
+      "部署",
+      "监控"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-008",
+    "title": "See PR scans in action",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/business/learn/pr-scans-demo",
+    "category": "开发工具/代码质量",
+    "relevance_score": 0.6,
+    "tags": [
+      "Pull Request",
+      "代码扫描",
+      "代码审查",
+      "DevSecOps",
+      "工作流集成",
+      "演示视频"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-009",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "category": "AI 平台与 API",
+    "relevance_score": 0.88,
+    "tags": [
+      "Gemini API",
+      "Tool Retrieval",
+      "AI Agent",
+      "工具调用",
+      "RAG",
+      "Token 优化",
+      "Google"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-010",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "source": "rss-google-ai-blog",
+    "source_id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "category": "AI与人文/创新教育",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI时代",
+      "创造力",
+      "好奇心",
+      "人类判断力",
+      "创新历史",
+      "跨学科思维",
+      "Google对话"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-011",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "category": "人工智能/科技公司动态",
+    "relevance_score": 0.9,
+    "tags": [
+      "AI Agent",
+      "Apple",
+      "智能助手",
+      "招聘",
+      "自主代理",
+      "科技巨头"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-012",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "category": "科技金融/市场动态",
+    "relevance_score": 0.85,
+    "tags": [
+      "英伟达",
+      "股价波动",
+      "财报",
+      "芯片行业",
+      "市场情绪"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-013",
+    "title": "Meta’s Muse Charm might cost $300",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "category": "AI硬件产品",
+    "relevance_score": 0.8,
+    "tags": [
+      "Meta",
+      "AI硬件",
+      "Muse Charm",
+      "AI智能体",
+      "消费电子",
+      "产品定价"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-014",
+    "title": "OpenViking 3D 理解模型 X 汽车行业 Benchmark 数据库",
+    "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524531&idx=1&sn=389bd912508d0b689da757928f16a91e",
+    "category": "AI评测基准与数据集",
+    "relevance_score": 0.8,
+    "tags": [
+      "3D理解",
+      "汽车行业",
+      "Benchmark",
+      "自动驾驶",
+      "数据集",
+      "模型评测"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-015",
+    "title": "阿里巴巴两篇论文获 ATC 2026 最佳论文奖，并在港研讨 AI Native 系统的可靠性与效率",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512863&idx=1&sn=6bb494cb5f4f8cfc53945efeea17c50a",
+    "category": "AI基础设施与系统",
+    "relevance_score": 0.85,
+    "tags": [
+      "AI Native",
+      "系统可靠性",
+      "ATC 2026",
+      "阿里巴巴",
+      "分布式系统",
+      "性能优化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-016",
+    "title": "走进CCF中国数字金融大会，探索金融智能领域的工业级实践",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538739&idx=1&sn=34fb9f0c49fba30da1bd20a9dd5a8fd7",
+    "category": "行业会议/技术实践",
+    "relevance_score": 0.82,
+    "tags": [
+      "金融智能",
+      "工业级实践",
+      "大模型",
+      "金融风控",
+      "CCF会议",
+      "隐私计算",
+      "知识图谱"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-017",
+    "title": "RadixArk 开源 DaisyRose-27B：Qwen3.8-27B 的纯 RL 增强版，提升编程与长程 Agent 能力",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515905&idx=1&sn=6a4e1138f6cc2dd057e2a256614760ef",
+    "category": "开源大语言模型 / 强化学习增强",
+    "relevance_score": 0.85,
+    "tags": [
+      "强化学习",
+      "开源大模型",
+      "多模态",
+      "代码生成",
+      "Agent",
+      "长上下文",
+      "Qwen",
+      "Apache 2.0"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-018",
+    "title": "Hy4 flash 开源",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247499017&idx=1&sn=422e46cb1848e0e129b30a9c71aec355",
+    "category": "存储技术",
+    "relevance_score": 0.6,
+    "tags": [
+      "开源",
+      "闪存",
+      "高性能",
+      "缓存",
+      "存储"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-019",
+    "title": "当智能开始量产，从Anthropic上市看大模型的六个趋势",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999700&idx=1&sn=afb56522665f7c5b1f55de324ec5e346",
+    "category": "行业趋势分析",
+    "relevance_score": 0.82,
+    "tags": [
+      "大模型",
+      "Anthropic",
+      "行业趋势",
+      "商业化",
+      "代码生成",
+      "AI基础设施"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-020",
+    "title": "为什么你的模型“答得对，却做不好”？——从模型机理到Agent落地",
+    "source": "rss-fa0be550682410cc187c0d1eab1a0fc4e073b949",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247503353&idx=1&sn=8698c2dc6e86aabcaf83cb66f5c8603f",
+    "category": "AI技术分析",
+    "relevance_score": 0.85,
+    "tags": [
+      "大模型",
+      "Agent",
+      "模型评测",
+      "工程落地",
+      "智能体机理"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-021",
+    "title": "Give your agents controlled access to analyze your data and move funds",
+    "source": "rss-stripe-engineering",
+    "source_id": "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds",
+    "category": "金融科技 / Agent 基础设施",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI Agent",
+      "金融科技",
+      "支付",
+      "权限控制",
+      "自动化",
+      "Stripe",
+      "人机协同"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-022",
+    "title": "AICon 北京 2026 全日程揭晓｜探索 AI 应用边界，构建持续创造价值的生产体系",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297589&idx=1&sn=4e7d43098da8c421c88c1b40ae6a0229",
+    "category": "行业会议/技术趋势",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI Agent",
+      "技术大会",
+      "应用落地",
+      "生产体系",
+      "智能体",
+      "AI 工程化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-023",
+    "title": "从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297589&idx=2&sn=b16e87724a74bee353007a7872657757",
+    "category": "大数据与流计算",
+    "relevance_score": 0.95,
+    "tags": [
+      "Flink",
+      "资源调度",
+      "自动扩缩容",
+      "跨池调度",
+      "降本增效",
+      "流计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-024",
+    "title": "语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=1&sn=1badc9c3cd5176dcd98e705345707a2d",
+    "category": "AI生物计算",
+    "relevance_score": 0.8,
+    "tags": [
+      "蛋白质结构",
+      "思维链推理",
+      "语言模型",
+      "生物推理",
+      "Tetra-1",
+      "SimpleX"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-20-025",
+    "title": "Anthropic IPO定价83美元/股，投资者疯抢",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=2&sn=8da8a7badbf656bb807e1e4aa135ae98",
+    "category": "AI行业动态/资本市场",
+    "relevance_score": 0.55,
+    "tags": [
+      "Anthropic",
+      "IPO",
+      "生成式AI",
+      "资本市场",
+      "估值",
+      "信息核验"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-20T06:15:38.049Z"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-20-017",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515905&idx=1&sn=6a4e1138f6cc2dd057e2a256614760ef",
+  "title": "RadixArk 开源 DaisyRose-27B：Qwen3.8-27B 的纯 RL 增强版，提升编程与长程 Agent 能力",
+  "source": "rss-modelscope",
+  "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515905&idx=1&sn=6a4e1138f6cc2dd057e2a256614760ef",
+  "summary": "RadixArk 开源了 DaisyRose-27B，这是一个基于 Qwen3.8-27B 的多模态大模型，采用纯强化学习（RL）方式进行增强，而非传统的监督微调或 RLHF 混合路线。训练投入 144 张 H200 GPU、历时 18 天，重点提升了两方面能力：编程（代码生成与理解）和长程 Agent 任务（多步骤规划与工具调用）。模型支持 256K 超长上下文，适合处理大规模代码库和复杂多轮 Agent 工作流。采用 Apache 2.0 协议，允许免费商用，降低了企业落地门槛。其核心价值在于验证了纯 RL 路线在中等规模（27B）模型上对专业能力的显著增益，为开源社区提供了一条区别于蒸馏和 SFT 的增强范式。",
+  "tags": [
+    "强化学习",
+    "开源大模型",
+    "多模态",
+    "代码生成",
+    "Agent",
+    "长上下文",
+    "Qwen",
+    "Apache 2.0"
+  ],
+  "relevance_score": 0.85,
+  "category": "开源大语言模型 / 强化学习增强",
+  "key_insight": "纯 RL 训练在 27B 中等规模模型上即可显著提升编程与长程 Agent 能力，为开源模型能力增强提供了 SFT 之外的高性价比路径。"
+}

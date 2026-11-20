@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-20-024",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=1&sn=1badc9c3cd5176dcd98e705345707a2d",
+  "title": "语言模型推理折叠蛋白质？把3D结构塞进思维链，超越AlphaFold3、IsoDDE与Claude Opus",
+  "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075302&idx=1&sn=1badc9c3cd5176dcd98e705345707a2d",
+  "summary": "该项目介绍SimpleX开放的Tetra-1 Preview试用，探索语言模型在蛋白质推理中的应用：将蛋白质3D结构信息折叠进思维链（CoT），使模型能够以推理方式处理微观生物结构问题。项目宣称在相关任务上超越AlphaFold3、IsoDDE与Claude Opus等基线，标志着语言模型向生物分子结构推理与微观世界理解方向延伸。其核心思路是把结构表示与链式推理结合，让模型在推理过程中显式利用空间结构信息，而非仅依赖序列或外部结构预测工具，为生物推理型AI提供了新范式。",
+  "tags": [
+    "蛋白质结构",
+    "思维链推理",
+    "语言模型",
+    "生物推理",
+    "Tetra-1",
+    "SimpleX"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI生物计算",
+  "key_insight": "把3D蛋白质结构折叠进思维链，让语言模型以推理方式直接处理微观生物结构问题。"
+}

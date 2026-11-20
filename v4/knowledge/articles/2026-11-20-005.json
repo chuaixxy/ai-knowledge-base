@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-20-005",
+  "source_id": "https://arxiv.org/abs/2611.25087",
+  "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2611.25087",
+  "summary": "SailSearch 提出一种人机协同的算法研究工作流，利用两个语言模型智能体辅助算法发现，并在 Market Split 与最大独立集（MIS）问题上验证。Market Split 方面，其随机化算法在多个格基间搜索，将计算分配于枚举与持续基约简之间；每个实例用十个随机种子，在双核 CPU、24 小时截止条件下，首次以纯 CPU 求解了 33 个此前开放 QOBLIB 实例中的 18 个，每个种子解出 156 个基准实例中的 130 至 133 个。MIS 方面，其生成器将植入的 XOR 约束编码为带可验证最优解的图，在 7 个含 1,752 至 3,996 个顶点的实例上，被测求解器八小时运行返回的最好解比最优解低 5 至 15 个顶点。",
+  "tags": [
+    "组合优化",
+    "语言模型智能体",
+    "算法发现",
+    "格基约简",
+    "Market Split",
+    "最大独立集",
+    "QOBLIB",
+    "人机协同"
+  ],
+  "relevance_score": 0.82,
+  "category": "AI辅助算法研究",
+  "key_insight": "语言模型智能体可作为算法研究的协作伙伴，在格基搜索与带认证最优解的图生成任务上推动组合优化取得新的实证进展。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-20-008",
+  "source_id": "https://openai.com/business/learn/pr-scans-demo",
+  "title": "See PR scans in action",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "summary": "该项目名为“See PR scans in action”，本质上是一段演示视频或产品导览，而非可独立部署的技术工具。其内容围绕 PR（Pull Request）扫描功能展开：演示者展示在代码审查工作流中如何触发扫描、如何查看扫描结果，以及如何基于扫描发现的问题在拉取请求中完成评审与处理。核心价值在于呈现一种将自动化代码扫描嵌入 PR 流程的实践范式，帮助团队在合并前发现潜在缺陷、安全风险或质量问题。由于是演示性质，项目本身不提供源码或 API，更多作为功能说明与最佳实践参考，适合用于了解 PR 扫描工具的实际使用体验和集成方式。",
+  "tags": [
+    "Pull Request",
+    "代码扫描",
+    "代码审查",
+    "DevSecOps",
+    "工作流集成",
+    "演示视频"
+  ],
+  "relevance_score": 0.6,
+  "category": "开发工具/代码质量",
+  "key_insight": "将自动化扫描嵌入 PR 评审流程，可在合并前拦截问题，实现“左移”式质量控制。"
+}

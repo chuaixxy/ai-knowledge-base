@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-20-003",
+  "source_id": "https://arxiv.org/abs/2611.25043",
+  "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+  "source": "rss-arxiv-cs-ai",
+  "url": "https://arxiv.org/abs/2611.25043",
+  "summary": "该论文针对自动驾驶实验室（SDL）中AI代理从分析到设计环节的自主性问题，提出一种授权约束型代理架构。传统上AI代理仅具备分析推理能力不足以实现实验室自主，必须能在物理硬件上被信任地无人监督操作，并知道何时交由人类决策。作者将代理集成到DMTA循环的分析-设计接口，实现代理驱动的测量选择与数据解读，同时确保状态变更操作经过授权、验证和可审计。在有机染料合成的氧化剂筛选活动中，基于LC-MS仪器演示了该架构：代理在人类设定的活动范围内提交测量任务，解读质谱和二极管阵列检测数据。",
+  "tags": [
+    "自动驾驶实验室",
+    "AI代理",
+    "授权约束架构",
+    "DMTA循环",
+    "LC-MS",
+    "实验自动化",
+    "人机协作"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI for Science / 实验室自动化",
+  "key_insight": "自主实验室的关键不是更强的分析推理，而是让代理在授权边界内可审计地操作硬件并懂得何时交还人类决策。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-20-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524531&idx=1&sn=389bd912508d0b689da757928f16a91e",
+  "title": "OpenViking 3D 理解模型 X 汽车行业 Benchmark 数据库",
+  "source": "rss-d3a9e4d6f125cc98d1691dbc30cd97fec7ae2d03",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524531&idx=1&sn=389bd912508d0b689da757928f16a91e",
+  "summary": "该项目将 OpenViking 3D 理解模型与汽车行业 Benchmark 数据库结合，旨在为自动驾驶、智能座舱及车辆三维感知等场景提供标准化评测基准。通过构建面向汽车领域的 3D 数据集合与评价体系，项目可验证模型在真实车载环境下的空间理解、目标检测与场景重建能力，推动 3D 视觉模型在汽车行业的落地与横向对比。其价值在于填补汽车垂直领域 3D 理解评测的空白，但描述信息有限，具体数据规模、指标设计与开源程度尚不明确。",
+  "tags": [
+    "3D理解",
+    "汽车行业",
+    "Benchmark",
+    "自动驾驶",
+    "数据集",
+    "模型评测"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI评测基准与数据集",
+  "key_insight": "以汽车行业标准化 3D Benchmark 为锚点，为 OpenViking 模型提供可量化的场景理解验证闭环。"
+}
