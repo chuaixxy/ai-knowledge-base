@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-21-008",
+  "source_id": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+  "title": "The week everything fell apart",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+  "summary": "该项目是一篇科技评论文章，聚焦于一周内集中爆发的多起重大技术故障事件：持续数日的Outlook服务中断、25年来仅第二次的全美航班地面停飞、银行系统突然瘫痪，以及iCloud服务宕机。作者将这些看似孤立的事件串联起来，指出它们共同构成了一个令人不安的信号——技术世界似乎在同一时间集体崩塌。文章进一步提出一个更深层的担忧：这些故障或许并非偶然的巧合，而是某种更大规模系统性危机的开端，暗示现代社会的技术基础设施正变得日益脆弱，其相互依赖性与集中化程度可能正在放大单点故障的连锁影响。整体基调偏向警示与反思，而非单纯的事件播报。",
+  "tags": [
+    "技术故障",
+    "基础设施脆弱性",
+    "系统可靠性",
+    "云服务中断",
+    "科技评论",
+    "系统性风险"
+  ],
+  "relevance_score": 0.72,
+  "category": "科技评论/行业观察",
+  "key_insight": "多起重大技术故障在一周内集中爆发，暴露出现代技术基础设施的脆弱性与高度耦合风险，可能预示更大规模系统性危机的开端。"
+}

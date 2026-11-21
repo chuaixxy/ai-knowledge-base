@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-21-011",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538740&idx=1&sn=af4734ada088cfe137abcc61ecc3747b",
+  "title": "Code World Model 2.0：代码精准操控的实时流式世界渲染器",
+  "source": "rss-anttech",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538740&idx=1&sn=af4734ada088cfe137abcc61ecc3747b",
+  "summary": "Code World Model 2.0 是一个以代码精准操控为核心的实时流式世界渲染器，其核心视觉引擎 Invoker-Render 实现了从代码直接生成可交互三维场景的流式渲染管线。该项目将程序化建模与实时渲染深度结合，支持通过代码指令动态调整场景几何、材质与光照，并以流式方式低延迟输出画面。Invoker-Render 引擎在架构上强调对渲染管线的细粒度控制，允许开发者以编程方式干预每一帧的生成过程，从而在保持实时性的同时获得高度可定制的视觉结果。该技术适用于需要程序化内容生成、交互式可视化及实时仿真等场景，代表了代码驱动世界构建与渲染融合的前沿方向。",
+  "tags": [
+    "实时渲染",
+    "流式渲染",
+    "程序化生成",
+    "代码驱动",
+    "世界模型",
+    "视觉引擎"
+  ],
+  "relevance_score": 0.85,
+  "category": "计算机图形学与实时渲染",
+  "key_insight": "通过代码精准操控渲染管线，实现流式实时世界生成，将程序化建模与实时渲染无缝融合。"
+}

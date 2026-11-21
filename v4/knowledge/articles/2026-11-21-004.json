@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-21-004",
+  "source_id": "https://huggingface.co/blog/inkling2mini",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "summary": "该项目名为 Welcome Inkling 2 Mini，定位为面向本地部署的轻量级高性能模型/工具。从标题看，它强调在本地环境中提供前沿性能，可能属于可在个人设备上运行的小型语言模型或推理框架。由于描述为空，具体功能、参数规模、架构与依赖尚不明确。其核心卖点应是在有限算力下兼顾性能与隐私，适合对数据本地化、低延迟有需求的开发者与研究者。建议补充模型卡、许可证、硬件要求与基准测试信息后再做深入评估。",
+  "tags": [
+    "本地部署",
+    "轻量级模型",
+    "边缘推理",
+    "隐私计算"
+  ],
+  "relevance_score": 0.6,
+  "category": "AI模型/本地推理",
+  "key_insight": "主打本地化前沿性能，但缺乏描述与基准数据，价值需进一步验证。"
+}

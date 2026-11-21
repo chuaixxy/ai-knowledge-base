@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-21-009",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547154&idx=1&sn=0de514e7cac1b4e3fe62a89b2a073c2a",
+  "title": "基于 LLM Wiki、OKF 与 Git 的Agent知识库：淘宝直播互动团队的AI Coding实践",
+  "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547154&idx=1&sn=0de514e7cac1b4e3fe62a89b2a073c2a",
+  "summary": "该项目面向淘宝直播互动团队的 AI Coding 实践，提出将 LLM Wiki、OKF（知识框架/组织知识格式）与 Git 结合，构建 Agent 可用的业务知识库，目标是让 AI 真正读懂业务代码。其核心思路是把分散在代码、文档和团队经验中的业务语义结构化沉淀，用 Git 做版本化管理与协作维护，再由 LLM 以 Wiki 形式检索和消费，从而提升 AI 编码、问答与代码理解的准确性和可维护性。项目强调知识资产与代码同步演进，降低 Agent 对业务上下文的理解门槛，属于面向研发效能的 AI 工程化落地实践。",
+  "tags": [
+    "LLM",
+    "AI Coding",
+    "知识库",
+    "Git",
+    "Agent",
+    "研发效能"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 工程化/研发效能",
+  "key_insight": "用 Git 管理、Wiki 承载结构化业务知识，是让 Agent 真正理解业务代码的关键基础设施。"
+}

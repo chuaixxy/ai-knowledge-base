@@ -32963,5 +32963,430 @@
     ],
     "status": "published",
     "collected_at": "2026-11-20T06:15:38.049Z"
+  },
+  {
+    "id": "2026-11-21-001",
+    "title": "Combatting adversarial distillation",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/combatting-adversarial-distillation",
+    "category": "AI 安全与模型防护",
+    "relevance_score": 0.85,
+    "tags": [
+      "对抗性蒸馏",
+      "模型安全",
+      "能力提取防御",
+      "AI 安全",
+      "模型保护"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-002",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/business/customer-stories/hebbia",
+    "category": "AI模型应用评估",
+    "relevance_score": 0.8,
+    "tags": [
+      "GPT-6 Astra",
+      "金融研究",
+      "Hebbia",
+      "大模型评估",
+      "引用相关性",
+      "信息检索",
+      "专业领域应用"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-003",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "source": "rss-openai-blog",
+    "source_id": "https://openai.com/index/introducing-medchembench",
+    "category": "AI for Science / 药物发现评测基准",
+    "relevance_score": 0.82,
+    "tags": [
+      "药物发现",
+      "AI评测基准",
+      "分子表示",
+      "实验证据推理",
+      "化合物筛选",
+      "化学信息学"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-004",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/inkling2mini",
+    "category": "AI模型/本地推理",
+    "relevance_score": 0.6,
+    "tags": [
+      "本地部署",
+      "轻量级模型",
+      "边缘推理",
+      "隐私计算"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-005",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "source": "rss-hugging-face-blog",
+    "source_id": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "category": "AI 工程与模型适配",
+    "relevance_score": 0.8,
+    "tags": [
+      "模型适配",
+      "Harness",
+      "Agent",
+      "工具调用",
+      "成本优化",
+      "评测框架"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-006",
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "category": "政策与监管",
+    "relevance_score": 0.75,
+    "tags": [
+      "AI基础设施",
+      "数据中心",
+      "政策监管",
+      "特朗普",
+      "算力布局",
+      "跨境投资"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-007",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "category": "AI科研突破",
+    "relevance_score": 0.85,
+    "tags": [
+      "黎曼猜想",
+      "AI数学",
+      "Anthropic",
+      "Claude",
+      "数学证明",
+      "AI科研"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-008",
+    "title": "The week everything fell apart",
+    "source": "rss-the-verge-ai",
+    "source_id": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+    "category": "科技评论/行业观察",
+    "relevance_score": 0.72,
+    "tags": [
+      "技术故障",
+      "基础设施脆弱性",
+      "系统可靠性",
+      "云服务中断",
+      "科技评论",
+      "系统性风险"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-009",
+    "title": "基于 LLM Wiki、OKF 与 Git 的Agent知识库：淘宝直播互动团队的AI Coding实践",
+    "source": "rss-26fef2307bebc8673703f7e726982d8f56c9a219",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547154&idx=1&sn=0de514e7cac1b4e3fe62a89b2a073c2a",
+    "category": "AI 工程化/研发效能",
+    "relevance_score": 0.8,
+    "tags": [
+      "LLM",
+      "AI Coding",
+      "知识库",
+      "Git",
+      "Agent",
+      "研发效能"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-010",
+    "title": "阿里巴巴人工智能研究基金第二批征集启动",
+    "source": "rss-6535a444e9651fecae3383363be7589acdebe2b6",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512870&idx=1&sn=21a64a1c16c9fa3ad107657fc12c3185",
+    "category": "科研资助/产学研合作",
+    "relevance_score": 0.8,
+    "tags": [
+      "人工智能",
+      "科研基金",
+      "产学研合作",
+      "学术研究",
+      "阿里巴巴"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-011",
+    "title": "Code World Model 2.0：代码精准操控的实时流式世界渲染器",
+    "source": "rss-anttech",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538740&idx=1&sn=af4734ada088cfe137abcc61ecc3747b",
+    "category": "计算机图形学与实时渲染",
+    "relevance_score": 0.85,
+    "tags": [
+      "实时渲染",
+      "流式渲染",
+      "程序化生成",
+      "代码驱动",
+      "世界模型",
+      "视觉引擎"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-012",
+    "title": "Hy4正式版开源：多模态MoE，770B 激活 49B，首次新增视觉能力！",
+    "source": "rss-modelscope",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247515963&idx=1&sn=d82e7d4f23e0719fbd137e2072eec688",
+    "category": "多模态大模型 / 开源AI",
+    "relevance_score": 0.92,
+    "tags": [
+      "多模态大模型",
+      "MoE架构",
+      "开源模型",
+      "视觉理解",
+      "电脑操作Agent",
+      "腾讯混元",
+      "FP8量化"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-013",
+    "title": "我并网了，我变强了？",
+    "source": "rss-1e0ac39f8952b2e7f0807313cf2633d25078a171",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808250&idx=1&sn=d12cf910f8328e1078a6cd194e540bcb",
+    "category": "技术概念",
+    "relevance_score": 0.6,
+    "tags": [
+      "并网",
+      "能力重组",
+      "分布式系统",
+      "协同效应"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-014",
+    "title": "Hy4 正式开源，发布 System Card",
+    "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247499031&idx=1&sn=10a95d625d11a9a2a3f7dcf5541e298a",
+    "category": "开源模型发布",
+    "relevance_score": 0.8,
+    "tags": [
+      "开源",
+      "System Card",
+      "模型透明度",
+      "安全评估",
+      "社区协作"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-015",
+    "title": "《中国企业出海能力白皮书》，AI 如何重塑企业出海的能力边界？",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999735&idx=1&sn=964a366a698a80f2b3b6e1a239d9bdb5",
+    "category": "行业研究报告",
+    "relevance_score": 0.8,
+    "tags": [
+      "企业出海",
+      "AI赋能",
+      "全球化经营",
+      "本地化落地",
+      "合规风控",
+      "知识复用",
+      "白皮书"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-016",
+    "title": "AI 时代，企业出海的逻辑变了吗？——信永中和 × 腾讯云联合访谈实录：从产品出海到深度全球化经营",
+    "source": "rss-6152301e0978bffb0a8284cab339262b9764dcfb",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999735&idx=2&sn=324c0c6d963969cbc5120a0d5f25d361",
+    "category": "行业洞察/企业战略",
+    "relevance_score": 0.75,
+    "tags": [
+      "企业出海",
+      "全球化经营",
+      "AI赋能",
+      "腾讯云",
+      "专业服务",
+      "数字化转型"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-017",
+    "title": "10本相见恨晚的AI好书！",
+    "source": "rss-6cec2c211479a5502896375860009782cf10c2ba",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698295&idx=1&sn=678b76640b1a957561bff5d4df6f8d84",
+    "category": "资源推荐",
+    "relevance_score": 0.8,
+    "tags": [
+      "AI书籍",
+      "资源推荐",
+      "学习路径",
+      "人工智能"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-018",
+    "title": "APSIPA ASC 2026｜让品牌广告音频“听懂”画面节奏：快手 Decode-in-the-Loop 实现无需训练的动感音乐生成",
+    "source": "rss-c4cc10d2e32a5fa12927581ae581a336f399fe75",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501702&idx=1&sn=fec668b604a06a155b30c95690664623",
+    "category": "多模态生成与视频配乐",
+    "relevance_score": 0.8,
+    "tags": [
+      "音乐生成",
+      "视频配乐",
+      "节奏对齐",
+      "解码闭环",
+      "无需训练",
+      "品牌广告",
+      "多模态生成"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-019",
+    "title": "李彦宏出席APEC峰会：AI价值最终在应用层，组织能力要跟上",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670782&idx=1&sn=280133d80fa19aee3d865a2d4c33174b",
+    "category": "行业观点/产业趋势",
+    "relevance_score": 0.55,
+    "tags": [
+      "AI应用落地",
+      "组织能力",
+      "产业观点",
+      "APEC",
+      "企业战略"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-020",
+    "title": "王海峰：智能时代，怎么成为一名合格的工程师",
+    "source": "rss-d0767d885e6ba213344fb0c0408c51331e23a994",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670782&idx=2&sn=4b4681a71057fd365c14df5735a0b6ef",
+    "category": "职业发展/技术教育",
+    "relevance_score": 0.6,
+    "tags": [
+      "工程师成长",
+      "智能时代",
+      "职业发展",
+      "技术素养",
+      "能力建设"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-021",
+    "title": "Anthropic 跌破开盘价，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297642&idx=1&sn=8186fee75b937397bdcde78c40e9265e",
+    "category": "科技财经",
+    "relevance_score": 0.8,
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "IPO",
+      "估值泡沫",
+      "AI性能降级",
+      "市场情绪"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-022",
+    "title": "Fluid-Sinapis v0.1发布：让LLM+Agent 参与云原生缓存管理",
+    "source": "rss-infoq",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297642&idx=2&sn=3ca320325ce51b44929eefa0a54694d6",
+    "category": "云原生 / AI 基础设施",
+    "relevance_score": 0.82,
+    "tags": [
+      "云原生",
+      "缓存管理",
+      "LLM",
+      "Agent",
+      "Fluid",
+      "智能调度",
+      "AI 运维"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-023",
+    "title": "登顶全球第一：这支AI音乐团队，凭什么用18个月打败Suno？",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=1&sn=f8ab8aea34e7c653723fdeab5ae401bd",
+    "category": "人工智能/生成式AI",
+    "relevance_score": 0.82,
+    "tags": [
+      "AI音乐",
+      "生成式音频",
+      "音乐大模型",
+      "SOTA",
+      "Suno",
+      "技术竞争"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
+  },
+  {
+    "id": "2026-11-21-024",
+    "title": "AGI还不是终点，DeepMind开始思考ASI的未来",
+    "source": "rss-8d97af31b0de9e48da74558af128a4673d78c9a3",
+    "source_id": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=2&sn=7806a7ce49d42c7e0dcd482bf2f18913",
+    "category": "人工智能前沿研究",
+    "relevance_score": 0.9,
+    "tags": [
+      "超级智能",
+      "DeepMind",
+      "AGI",
+      "技术路径",
+      "AI安全"
+    ],
+    "status": "published",
+    "collected_at": "2026-11-21T06:05:49.908Z"
   }
 ]

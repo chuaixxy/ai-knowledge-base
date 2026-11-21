@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-21-022",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297642&idx=2&sn=3ca320325ce51b44929eefa0a54694d6",
+  "title": "Fluid-Sinapis v0.1发布：让LLM+Agent 参与云原生缓存管理",
+  "source": "rss-infoq",
+  "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297642&idx=2&sn=3ca320325ce51b44929eefa0a54694d6",
+  "summary": "Fluid-Sinapis v0.1 是一个面向云原生缓存管理的智能化项目，核心思路是引入 LLM（大语言模型）与 Agent（智能体）参与缓存调度决策。传统缓存系统依赖静态阈值（如使用率 80% 触发扩容）进行机械式判断，难以应对复杂场景——例如当缓存使用率为 79%、尚未触及扩容阈值时，一个体积超过剩余缓存容量的热点文件需要载入，静态规则无法妥善处理。Sinapis 借助 LLM 的语义理解与 Agent 的自主决策能力，动态感知负载与文件热度，做出更灵活、更贴近业务语义的缓存管理决策，从而提升命中率与资源利用率。该项目由 Fluid 生态衍生，v0.1 为早期发布版本，标志着云原生缓存管理向 AI 驱动方向的一次探索。",
+  "tags": [
+    "云原生",
+    "缓存管理",
+    "LLM",
+    "Agent",
+    "Fluid",
+    "智能调度",
+    "AI 运维"
+  ],
+  "relevance_score": 0.82,
+  "category": "云原生 / AI 基础设施",
+  "key_insight": "用 LLM+Agent 替代静态阈值规则，让缓存管理从机械判断走向语义化、自主化决策。"
+}

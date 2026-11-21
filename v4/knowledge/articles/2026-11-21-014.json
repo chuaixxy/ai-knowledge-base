@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-21-014",
+  "source_id": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247499031&idx=1&sn=10a95d625d11a9a2a3f7dcf5541e298a",
+  "title": "Hy4 正式开源，发布 System Card",
+  "source": "rss-306ce19a1ca590c9c2df781789e828d1acfa1356",
+  "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247499031&idx=1&sn=10a95d625d11a9a2a3f7dcf5541e298a",
+  "summary": "Hy4 正式开源并发布 System Card，标志着该项目从内部研发走向社区协作。System Card 通常披露模型架构、训练数据、能力边界、安全评估与已知风险，为开发者提供透明度与使用指引。开源意味着代码与权重可能可获取，社区可复现、审计与二次开发，但需关注许可证条款、算力门槛与安全对齐措施。整体看，这是一次以透明度换取信任、以开源扩大生态的技术发布，适合关注模型治理与可复现研究的团队跟进。",
+  "tags": [
+    "开源",
+    "System Card",
+    "模型透明度",
+    "安全评估",
+    "社区协作"
+  ],
+  "relevance_score": 0.8,
+  "category": "开源模型发布",
+  "key_insight": "以 System Card 披露能力与风险，用开源换取信任与生态扩展。"
+}

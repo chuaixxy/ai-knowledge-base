@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-21-006",
+  "source_id": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "source": "rss-the-verge-ai",
+  "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "summary": "该报道指出，美国总统特朗普公开威胁将对在海外建设数据中心的企业征收“巨额税收”，并明确表示“不会允许我们的公司在美国境外建设数据中心”。这一表态出台之际，美国多州和城市正对新建数据中心申请施加限制，反映出AI算力基础设施的选址正同时受到联邦政策引导与地方监管收紧的双重影响。此举意在将AI数据中心及配套算力留在美国境内，可能影响科技公司的全球布局策略、数据中心选址成本以及跨境AI基础设施投资决策。",
+  "tags": [
+    "AI基础设施",
+    "数据中心",
+    "政策监管",
+    "特朗普",
+    "算力布局",
+    "跨境投资"
+  ],
+  "relevance_score": 0.75,
+  "category": "政策与监管",
+  "key_insight": "AI数据中心的选址正从纯商业决策转变为受地缘政治与税收政策强约束的战略问题。"
+}

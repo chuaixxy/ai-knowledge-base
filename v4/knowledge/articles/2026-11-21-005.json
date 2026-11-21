@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-21-005",
+  "source_id": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "rss-hugging-face-blog",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "summary": "该项目介绍了一种名为“harness adapters”的技术方案，旨在将任意主流大模型适配到特定的评测或调用框架（harness）中，从而提升模型在目标场景下的表现并降低使用成本。其核心思路是通过轻量级适配层，在不修改模型本身的前提下，弥合模型输出格式、工具调用协议与框架期望之间的差异，使同一模型能在不同 harness 下发挥更优性能。该方案强调可移植性与成本效益，适用于模型评测、Agent 工具调用、多框架部署等场景，帮助开发者以较低改造成本复用现有模型资产，并针对特定 harness 做定向优化。",
+  "tags": [
+    "模型适配",
+    "Harness",
+    "Agent",
+    "工具调用",
+    "成本优化",
+    "评测框架"
+  ],
+  "relevance_score": 0.8,
+  "category": "AI 工程与模型适配",
+  "key_insight": "通过轻量适配层桥接模型与 harness，可在不改模型的前提下同时提升性能并降低成本。"
+}

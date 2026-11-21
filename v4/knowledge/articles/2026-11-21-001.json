@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-21-001",
+  "source_id": "https://openai.com/index/combatting-adversarial-distillation",
+  "title": "Combatting adversarial distillation",
+  "source": "rss-openai-blog",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "summary": "OpenAI 提出的对抗性蒸馏防御体系采用分层方法，将模型训练、安全防护、检测与执法相结合，以抵御能力提取攻击。该方案在模型训练阶段引入对抗性鲁棒性设计，减少模型对外部蒸馏查询的敏感信息泄露；在部署阶段部署安全防护机制，限制异常查询模式；同时构建检测系统识别蒸馏行为特征，并通过执法与政策手段追究违规者责任。整体形成从预防、监测到响应的闭环，为前沿模型的能力保护提供了系统性框架。",
+  "tags": [
+    "对抗性蒸馏",
+    "模型安全",
+    "能力提取防御",
+    "AI 安全",
+    "模型保护"
+  ],
+  "relevance_score": 0.85,
+  "category": "AI 安全与模型防护",
+  "key_insight": "防御模型能力窃取需在训练、部署、检测与执法多层面协同，而非依赖单一技术手段。"
+}
